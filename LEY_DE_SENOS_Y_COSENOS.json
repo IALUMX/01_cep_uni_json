@@ -610,5 +610,413 @@
     "explanation": "La Ley de Senos se deriva del hecho de que la razón $\\frac{a}{\\sin(A)}$ es igual al diámetro ($2R$) del círculo circunscrito al triángulo. La Ley de Cosenos es una generalización del Teorema de Pitágoras, al que se reduce cuando el ángulo es $90^{\\circ}$.",
     "explanative_video": null,
     "collapsible_text": null
+  },
+  {
+    "id": "GYT00BK",
+    "question": "Identifica la ecuación correcta de la Ley de Cosenos para calcular la longitud del lado $a$ (color rojo) en el triángulo acutángulo mostrado, si se conocen los lados $b$, $c$ y el ángulo $A$.",
+    "image": "https://i.imgur.com/sx8qgaa.png",
+    "options": [
+      { "text": "$a^2 = b^2 + c^2 - 2bc \\cos(A)$", "correct": true },
+      { "text": "$a^2 = b^2 + c^2 + 2bc \\cos(A)$", "correct": false },
+      { "text": "$a^2 = b^2 - c^2 - 2bc \\sin(A)$", "correct": false },
+      { "text": "$a = \\sqrt{b^2 + c^2 - 2bc \\sin(A)}$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["BÁSICO"],
+    "hint": "La Ley de Cosenos generaliza el Teorema de Pitágoras restando el doble producto de los lados adyacentes por el coseno del ángulo opuesto.",
+    "explanation": "Para encontrar un lado opuesto a un ángulo conocido (en este caso $a$ opuesto a $A$), la fórmula es $a^2 = b^2 + c^2 - 2bc \\cos(A)$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "GYT00BL",
+    "question": "En el triángulo de referencia, si se desean calcular el lado $b$ (color verde), ¿cuál es la expresión matemática adecuada?",
+    "image": "https://i.imgur.com/sx8qgaa.png",
+    "options": [
+      { "text": "$b^2 = a^2 + c^2 - 2ac \\cos(B)$", "correct": true },
+      { "text": "$b^2 = a^2 + c^2 - 2ac \\cos(C)$", "correct": false },
+      { "text": "$b = a^2 + c^2 - ac \\cos(B)$", "correct": false },
+      { "text": "$b^2 = a^2 - c^2 + 2ac \\cos(B)$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Identifica los lados adyacentes al ángulo $B$ que son $a$ y $c$.",
+    "explanation": "La Ley de Cosenos establece que el cuadrado de un lado es igual a la suma de los cuadrados de los otros dos lados menos el doble de su producto por el coseno del ángulo comprendido: $b^2 = a^2 + c^2 - 2ac \\cos(B)$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "GYT00BM",
+    "question": "Para determinar el valor del ángulo $C$ en el triángulo mostrado, teniendo los valores de los tres lados $a$, $b$ y $c$, ¿qué fórmula despejada es la correcta?",
+    "image": "https://i.imgur.com/sx8qgaa.png",
+    "options": [
+      { "text": "$\\cos(C) = \\frac{a^2 + b^2 - c^2}{2ab}$", "correct": true },
+      { "text": "$\\cos(C) = \\frac{a^2 + b^2 + c^2}{2ab}$", "correct": false },
+      { "text": "$\\cos(C) = \\frac{c^2 - a^2 - b^2}{2ab}$", "correct": false },
+      { "text": "$\\sin(C) = \\frac{a^2 + b^2 - c^2}{2ab}$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Parte de la fórmula $c^2 = a^2 + b^2 - 2ab \\cos(C)$ y despeja el término con el coseno.",
+    "explanation": "Al despejar $\\cos(C)$, restamos $a^2$ y $b^2$ a $c^2$ y dividimos entre $-2ab$, lo que invierte los signos del numerador: $\\cos(C) = \\frac{a^2 + b^2 - c^2}{2ab}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "GYT00BN",
+    "question": "Un estudiante del CEPREDIX observa el triángulo de la imagen. Si quiere calcular el lado $c$ (azul), ¿qué variables necesita conocer obligatoriamente para aplicar directamente la Ley de Cosenos?",
+    "image": "https://i.imgur.com/sx8qgaa.png",
+    "options": [
+      { "text": "Los lados $a$, $b$ y el ángulo $C$.", "correct": true },
+      { "text": "El lado $a$ y los ángulos $A$ y $B$.", "correct": false },
+      { "text": "Los lados $a$, $b$ y el ángulo $A$.", "correct": false },
+      { "text": "Únicamente los tres ángulos.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["BÁSICO"],
+    "hint": "La Ley de Cosenos relaciona dos lados y el ángulo comprendido entre ellos para hallar el tercero.",
+    "explanation": "Para hallar $c$ directamente, se requiere la longitud de los otros dos lados ($a$ y $b$) y el valor del ángulo que forman entre sí ($C$).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "GYT00BO",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la Ley de Cosenos es verdadera respecto al triángulo acutángulo de la imagen?",
+    "image": "https://i.imgur.com/sx8qgaa.png",
+    "options": [
+      { "text": "Si el ángulo $C$ fuera de $90^\\circ$, la fórmula se reduce al Teorema de Pitágoras.", "correct": true },
+      { "text": "Solo se puede utilizar en triángulos rectángulos.", "correct": false },
+      { "text": "Se utiliza exclusivamente cuando conocemos dos ángulos y un lado.", "correct": false },
+      { "text": "La suma de los cuadrados de los lados es igual a cero.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Recuerda que $\\cos(90^\\circ) = 0$.",
+    "explanation": "Si $C=90^\\circ$, el término $-2ab \\cos(C)$ se hace cero, quedando $c^2 = a^2 + b^2$, que es el Teorema de Pitágoras.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "GYT00BP",
+    "question": "Si se conocen los tres lados del triángulo ($a, b, c$), ¿cuál es el primer paso para encontrar el ángulo $A$ usando la Ley de Cosenos?",
+    "image": "https://i.imgur.com/sx8qgaa.png",
+    "options": [
+      { "text": "Plantear la ecuación $a^2 = b^2 + c^2 - 2bc \\cos(A)$.", "correct": true },
+      { "text": "Sumar los tres lados y dividir entre 2.", "correct": false },
+      { "text": "Calcular la altura del triángulo.", "correct": false },
+      { "text": "Usar la razón $\\frac{a}{\\sin(A)}$.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Debes seleccionar la ecuación que involucra al ángulo $A$ como incógnita.",
+    "explanation": "Para hallar el ángulo $A$ teniendo los tres lados (caso LLL), se inicia planteando la fórmula que contiene a $\\cos(A)$, que es la correspondiente al lado opuesto $a$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "GYT00BQ",
+    "question": "Identifica la estructura correcta de la Ley de Cosenos si quisiéramos calcular el lado $c$ pero cometemos un error de signo común.",
+    "image": "https://i.imgur.com/sx8qgaa.png",
+    "options": [
+      { "text": "$c^2 = a^2 + b^2 + 2ab \\cos(C)$ (Incorrecta)", "correct": true },
+      { "text": "$c^2 = a^2 + b^2 - 2ab \\cos(C)$ (Correcta)", "correct": false },
+      { "text": "$c = \\sqrt{a^2 + b^2 - 2ab \\cos(C)}$ (Correcta)", "correct": false },
+      { "text": "$c^2 - a^2 - b^2 = -2ab \\cos(C)$ (Correcta)", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["BÁSICO"],
+    "hint": "La Ley de Cosenos tiene un signo negativo en el término del doble producto.",
+    "explanation": "El error más común es poner un signo positivo en $+2ab \\cos(C)$. La fórmula correcta lleva un signo menos: $-2ab \\cos(C)$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "GYT00BR",
+    "question": "En el contexto de la Ley de Cosenos, ¿qué representa el término $2ab \\cos(C)$ en la fórmula de $c^2$?",
+    "image": "https://i.imgur.com/sx8qgaa.png",
+    "options": [
+      { "text": "El factor de ajuste para triángulos no rectángulos.", "correct": true },
+      { "text": "El área del triángulo multiplicada por 2.", "correct": false },
+      { "text": "La hipotenusa del triángulo rectángulo.", "correct": false },
+      { "text": "El perímetro del triángulo.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Este término se resta a la suma de cuadrados de los lados.",
+    "explanation": "Este término ajusta el Teorema de Pitágoras para que funcione en triángulos oblicuángulos (acutángulos u obtusángulos), compensando la apertura del ángulo.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "GYT00BS",
+    "question": "Si en el triángulo de la figura $a = 3 \\text{ m}$, $b = 4 \\text{ m}$ y $C = 60^\\circ$. Sabiendo que $\\cos(60^\\circ)=0.5$, ¿cuál es el planteamiento numérico correcto para hallar $c^2$?",
+    "image": "https://i.imgur.com/sx8qgaa.png",
+    "options": [
+      { "text": "$c^2 = 3^2 + 4^2 - 2(3)(4)(0.5)$", "correct": true },
+      { "text": "$c^2 = 3^2 + 4^2 + 2(3)(4)(0.5)$", "correct": false },
+      { "text": "$c^2 = 3^2 - 4^2 - 2(3)(4)(0.5)$", "correct": false },
+      { "text": "$c = 3 + 4 - 2(3)(4)(0.5)$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Sustituye directamente en $c^2 = a^2 + b^2 - 2ab \\cos(C)$.",
+    "explanation": "Sustituyendo los valores: $a=3$, $b=4$, $\\cos(C)=0.5$. La expresión queda $c^2 = 9 + 16 - 2(3)(4)(0.5)$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "GYT00BT",
+    "question": "Si el estudiante del CEPREDIX calcula que $\\cos(A) = 0.5$, ¿cuál es el valor del ángulo $A$?",
+    "image": "https://i.imgur.com/sx8qgaa.png",
+    "options": [
+      { "text": "$60^\\circ$", "correct": true },
+      { "text": "$30^\\circ$", "correct": false },
+      { "text": "$45^\\circ$", "correct": false },
+      { "text": "$90^\\circ$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Recuerda los valores de los ángulos notables para el coseno.",
+    "explanation": "El coseno de $60^\\circ$ es igual a $1/2$ o $0.5$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "GYT00BU",
+    "question": "Selecciona el despeje correcto para encontrar el lado $a$ si partimos de la ecuación original.",
+    "image": "https://i.imgur.com/sx8qgaa.png",
+    "options": [
+      { "text": "$a = \\sqrt{b^2 + c^2 - 2bc \\cos(A)}$", "correct": true },
+      { "text": "$a = b + c - \\sqrt{2bc \\cos(A)}$", "correct": false },
+      { "text": "$a = \\sqrt{b^2 + c^2} - 2bc \\cos(A)$", "correct": false },
+      { "text": "$a = (b^2 + c^2 - 2bc \\cos(A))^2$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Para eliminar el cuadrado de $a^2$, debes aplicar raíz cuadrada a todo el miembro derecho.",
+    "explanation": "La operación inversa a la potencia al cuadrado es la raíz cuadrada, la cual debe cubrir toda la expresión del lado derecho de la igualdad.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "GYT00BV",
+    "question": "¿Qué condición deben cumplir los lados $a$, $b$ y $c$ para que el triángulo exista antes de aplicar la ley de cosenos?",
+    "image": "https://i.imgur.com/sx8qgaa.png",
+    "options": [
+      { "text": "La suma de dos lados debe ser mayor al tercero ($a+b>c$).", "correct": true },
+      { "text": "Los tres lados deben ser iguales ($a=b=c$).", "correct": false },
+      { "text": "La suma de los cuadrados debe ser igual ($a^2+b^2=c^2$).", "correct": false },
+      { "text": "El producto de dos lados debe ser mayor al tercero.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Esto se conoce como la Desigualdad Triangular.",
+    "explanation": "Para que cualquier triángulo se pueda formar, la longitud de cualquiera de sus lados debe ser menor a la suma de los otros dos.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "GYT00BW",
+    "question": "Calcula el valor del lado $a$ (rojo) si $b = 5 \\text{ m}$, $c = 8 \\text{ m}$ y el ángulo $A = 60^\\circ$. Considera $\\cos(60^\\circ) = 0.5$ y $\\sin(60^\\circ) = 0.866$.",
+    "image": "https://i.imgur.com/sx8qgaa.png",
+    "options": [
+      { "text": "$7 \\text{ m}$", "correct": true },
+      { "text": "$49 \\text{ m}$", "correct": false },
+      { "text": "$8.5 \\text{ m}$", "correct": false },
+      { "text": "$6.2 \\text{ m}$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["INTERMEDIO", "REAL"],
+    "hint": "Usa la fórmula $a = \\sqrt{b^2 + c^2 - 2bc \\cos(A)}$.",
+    "explanation": "Sustituyendo: $a^2 = 5^2 + 8^2 - 2(5)(8)(0.5) = 25 + 64 - 40 = 49$. Finalmente, $a = \\sqrt{49} = 7 \\text{ m}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "GYT00BX",
+    "question": "Se tiene un triángulo con lados $a = 7 \\text{ cm}$, $b = 8 \\text{ cm}$ y $c = 5 \\text{ cm}$. Calcula el coseno del ángulo $B$ (opuesto al lado $b$).",
+    "image": "https://i.imgur.com/sx8qgaa.png",
+    "options": [
+      { "text": "0.142", "correct": true },
+      { "text": "0.500", "correct": false },
+      { "text": "0.866", "correct": false },
+      { "text": "-0.200", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["INTERMEDIO", "REAL"],
+    "hint": "Despeja $\\cos(B)$ de $b^2 = a^2 + c^2 - 2ac \\cos(B)$ o usa $\\cos(B) = \\frac{a^2 + c^2 - b^2}{2ac}$.",
+    "explanation": "Sustituyendo: $\\cos(B) = \\frac{7^2 + 5^2 - 8^2}{2(7)(5)} = \\frac{49 + 25 - 64}{70} = \\frac{10}{70} \\approx 0.142$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "GYT00BY",
+    "question": "Un estudiante del CEPREDIX necesita determinar la longitud del lado $c$ (azul). Si $a = 10 \\text{ u}$, $b = 10 \\text{ u}$ y el ángulo $C = 120^\\circ$. ($\\cos 120^\\circ = -0.5$).",
+    "image": "https://i.imgur.com/sx8qgaa.png",
+    "options": [
+      { "text": "$17.32 \\text{ u}$", "correct": true },
+      { "text": "$10 \\text{ u}$", "correct": false },
+      { "text": "$14.14 \\text{ u}$", "correct": false },
+      { "text": "$20 \\text{ u}$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["INTERMEDIO", "REAL"],
+    "hint": "Cuidado con el signo negativo del coseno de $120^\\circ$ en la fórmula $c^2 = a^2 + b^2 - 2ab \\cos(C)$.",
+    "explanation": "$c^2 = 100 + 100 - 2(10)(10)(-0.5) = 200 - (-100) = 300$. $c = \\sqrt{300} = 10\\sqrt{3} \\approx 17.32 \\text{ u}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "GYT00BZ",
+    "question": "Arma correctamente la sustitución para calcular el ángulo $A$ si se conocen los lados $a=6$, $b=4$, $c=5$.",
+    "image": "https://i.imgur.com/sx8qgaa.png",
+    "options": [
+      { "text": "$\\cos(A) = \\frac{4^2 + 5^2 - 6^2}{2(4)(5)}$", "correct": true },
+      { "text": "$\\cos(A) = \\frac{6^2 + 5^2 - 4^2}{2(6)(5)}$", "correct": false },
+      { "text": "$\\cos(A) = \\frac{4^2 + 6^2 - 5^2}{2(4)(6)}$", "correct": false },
+      { "text": "$\\cos(A) = \\frac{6^2 - 4^2 - 5^2}{2(4)(5)}$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["INTERMEDIO", "REAL"],
+    "hint": "En el numerador, el lado que se resta es siempre el opuesto al ángulo que buscas (en este caso $a=6$).",
+    "explanation": "La forma despejada es $\\cos(A) = \\frac{b^2 + c^2 - a^2}{2bc}$. Sustituyendo $a=6, b=4, c=5$ obtenemos la opción correcta.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "GYT00CA",
+    "question": "Calcula el cuadrado del lado $b$ si $a=3$, $c=2$ y el ángulo $B=45^\\circ$. Considera $\\cos(45^\\circ) \\approx 0.707$.",
+    "image": "https://i.imgur.com/sx8qgaa.png",
+    "options": [
+      { "text": "$4.516$", "correct": true },
+      { "text": "$8.484$", "correct": false },
+      { "text": "$13.00$", "correct": false },
+      { "text": "$2.12$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["INTERMEDIO", "REAL"],
+    "hint": "Aplica $b^2 = a^2 + c^2 - 2ac \\cos(B)$ y realiza las operaciones con cuidado.",
+    "explanation": "$b^2 = 3^2 + 2^2 - 2(3)(2)(0.707) = 9 + 4 - 12(0.707) = 13 - 8.484 = 4.516$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "GYT00CB",
+    "question": "Si $a^2 = 25$, $b^2 = 16$ y $c^2 = 9$, determina si el triángulo es rectángulo utilizando el recíproco de la Ley de Cosenos (Pitágoras).",
+    "image": "https://i.imgur.com/sx8qgaa.png",
+    "options": [
+      { "text": "Sí, porque $16 + 9 = 25$ ($b^2 + c^2 = a^2$).", "correct": true },
+      { "text": "No, porque $25 + 16 \\neq 9$.", "correct": false },
+      { "text": "Sí, porque es un triángulo equilátero.", "correct": false },
+      { "text": "No se puede determinar sin los ángulos.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["INTERMEDIO", "REAL"],
+    "hint": "Verifica si la suma de los cuadrados de los dos lados menores es igual al cuadrado del mayor.",
+    "explanation": "Como $16 (b^2) + 9 (c^2) = 25 (a^2)$, se cumple el Teorema de Pitágoras, lo que implica que el ángulo $A$ es de $90^\\circ$ ($\\cos 90^\\circ = 0$).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "GYT00CC",
+    "question": "Dos corredores del CEPREDIX parten del punto $A$. Uno corre por el lado $c$ con una velocidad de $12 \\text{ km/h}$ y el otro por el lado $b$ a $16 \\text{ km/h}$. Si el ángulo entre sus caminos ($A$) es de $60^\\circ$. ¿Qué distancia los separa (lado $a$) después de 1 hora?",
+    "image": "https://i.imgur.com/sx8qgaa.png",
+    "options": [
+      { "text": "$14.42 \\text{ km}$", "correct": true },
+      { "text": "$20 \\text{ km}$", "correct": false },
+      { "text": "$12.50 \\text{ km}$", "correct": false },
+      { "text": "$28 \\text{ km}$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["AVANZADO", "REAL"],
+    "hint": "Las distancias recorridas son los lados $b$ y $c$. Usa $a^2 = b^2 + c^2 - 2bc \\cos(60^\\circ)$.",
+    "explanation": "Después de 1h, $c=12$, $b=16$. $a^2 = 12^2 + 16^2 - 2(12)(16)(0.5) = 144 + 256 - 192 = 208$. $a = \\sqrt{208} \\approx 14.42 \\text{ km}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "GYT00CD",
+    "question": "En un triángulo con lados $a=5$, $b=6$, $c=7$, calcula el coseno del ángulo más pequeño. (Nota: El ángulo más pequeño se opone al lado más pequeño).",
+    "image": "https://i.imgur.com/sx8qgaa.png",
+    "options": [
+      { "text": "$0.714$", "correct": true },
+      { "text": "$0.200$", "correct": false },
+      { "text": "$0.555$", "correct": false },
+      { "text": "$0.850$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["AVANZADO", "REAL"],
+    "hint": "El lado más pequeño es $a=5$, por lo tanto busca $\\cos(A)$.",
+    "explanation": "Usando $\\cos(A) = \\frac{b^2 + c^2 - a^2}{2bc}$: $\\cos(A) = \\frac{6^2 + 7^2 - 5^2}{2(6)(7)} = \\frac{36 + 49 - 25}{84} = \\frac{60}{84} \\approx 0.714$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "GYT00CE",
+    "question": "Si $a=4$, $b=5$ y $\\cos(C) = -0.2$, calcula el valor exacto del lado $c$.",
+    "image": "https://i.imgur.com/sx8qgaa.png",
+    "options": [
+      { "text": "$\\sqrt{49}$", "correct": true },
+      { "text": "$\\sqrt{33}$", "correct": false },
+      { "text": "$\\sqrt{41}$", "correct": false },
+      { "text": "$\\sqrt{57}$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["AVANZADO", "REAL"],
+    "hint": "Presta atención al signo negativo del coseno, esto indica un triángulo obtusángulo.",
+    "explanation": "$c^2 = 4^2 + 5^2 - 2(4)(5)(-0.2) = 16 + 25 - 40(-0.2) = 41 + 8 = 49$. Por lo tanto $c = 7$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "GYT00CF",
+    "question": "Determina el valor de $x$ si los lados de un triángulo son $x$, $x+2$ y $x+4$, y el ángulo opuesto al lado mayor es $120^\\circ$. ($\\cos 120^\\circ = -1/2$).",
+    "image": "https://i.imgur.com/sx8qgaa.png",
+    "options": [
+      { "text": "$x = 3$", "correct": true },
+      { "text": "$x = 2$", "correct": false },
+      { "text": "$x = 5$", "correct": false },
+      { "text": "$x = 4$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["AVANZADO", "REAL"],
+    "hint": "El lado mayor es $x+4$. Plantea la ecuación: $(x+4)^2 = x^2 + (x+2)^2 - 2x(x+2)(-0.5)$.",
+    "explanation": "Desarrollando: $x^2+8x+16 = x^2 + x^2+4x+4 + x(x+2)$. simplificando: $x^2+8x+16 = 2x^2+4x+4 + x^2+2x$. $x^2+8x+16 = 3x^2+6x+4$. $2x^2-2x-12=0$. $x^2-x-6=0$. $(x-3)(x+2)=0$. Como $x>0$, $x=3$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "GYT00CG",
+    "question": "Arma la ecuación para encontrar el lado $a$ de un triángulo inscrito en el CEPREDIX donde $b=2\\sqrt{2}$, $c=3$ y el ángulo $A=45^\\circ$.",
+    "image": "https://i.imgur.com/sx8qgaa.png",
+    "options": [
+      { "text": "$a = \\sqrt{(2\\sqrt{2})^2 + 3^2 - 2(2\\sqrt{2})(3)(\\frac{\\sqrt{2}}{2})}$", "correct": true },
+      { "text": "$a = \\sqrt{(2\\sqrt{2})^2 + 3^2 - 2(2\\sqrt{2})(3)(1)}$", "correct": false },
+      { "text": "$a = \\sqrt{8 + 9 + 12(\\frac{\\sqrt{2}}{2})}$", "correct": false },
+      { "text": "$a = 8 + 9 - 12(\\frac{\\sqrt{2}}{2})$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["AVANZADO", "REAL"],
+    "hint": "Sustituye los valores con cuidado, recordando que $\\cos(45^\\circ) = \\frac{\\sqrt{2}}{2}$.",
+    "explanation": "La sustitución correcta es elevar los lados al cuadrado, sumar y restar el doble producto por el coseno. $b^2 = 8$, $c^2=9$. El término del coseno es $\\frac{\\sqrt{2}}{2}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "GYT00CH",
+    "question": "En un paralelogramo, los lados miden $a=5$ y $b=8$, y uno de sus ángulos internos mide $60^\\circ$. Calcula la longitud de la diagonal menor.",
+    "image": "https://i.imgur.com/sx8qgaa.png",
+    "options": [
+      { "text": "$7$", "correct": true },
+      { "text": "$11.35$", "correct": false },
+      { "text": "$8.54$", "correct": false },
+      { "text": "$6.24$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["AVANZADO", "REAL"],
+    "hint": "La diagonal menor divide al paralelogramo en dos triángulos con el ángulo de $60^\\circ$ entre los lados 5 y 8. Usa la Ley de Cosenos.",
+    "explanation": "Sea $d$ la diagonal menor: $d^2 = 5^2 + 8^2 - 2(5)(8)\\cos(60^\\circ)$. $d^2 = 25 + 64 - 80(0.5) = 89 - 40 = 49$. $d=7$.",
+    "explanative_video": null,
+    "collapsible_text": null
   }
 ]
