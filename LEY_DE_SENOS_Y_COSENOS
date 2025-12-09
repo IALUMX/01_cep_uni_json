@@ -1,1039 +1,1120 @@
 [
   {
-    "id": "PMA00AT",
-    "question": "Un estudiante compró 5 libros a $\\$120$ cada uno. Si le hicieron un descuento del $10\\%$ en el total de la compra, ¿cuánto pagó en total?",
+    "id": "GYT00AA",
+    "question": "¿Cuál es la condición mínima de información que se debe conocer de un triángulo no rectángulo para poder aplicar la Ley de Senos en su resolución?",
     "image": null,
     "options": [
-      { "text": "$\\$540$", "correct": true },
-      { "text": "$\\$600$", "correct": false },
-      { "text": "$\\$570$", "correct": false },
-      { "text": "$\\$550$", "correct": false }
+      { "text": "Un lado y dos ángulos (AAS o ASA)", "correct": true },
+      { "text": "Dos lados y el ángulo comprendido (SAS)", "correct": false },
+      { "text": "Los tres lados (LLL o SSS)", "correct": false },
+      { "text": "Dos ángulos y el lado no comprendido entre ellos (AAS)", "correct": false }
     ],
     "uni_tags": ["GENERAL"],
     "level_tag": ["BÁSICO"],
-    "hint": "Calcula el total sin descuento y luego resta el $10\\%$.",
-    "explanation": "Total sin descuento: $5 \\times 120 = \\$600$. Descuento: $600 \\times 0.10 = \\$60$. Total a pagar: $600 - 60 = \\$540$.",
+    "hint": "La Ley de Senos establece la relación: $\\frac{a}{\\sin(A)} = \\frac{b}{\\sin(B)}$.",
+    "explanation": "La Ley de Senos requiere tener al menos una pareja lado-ángulo opuesto para poder establecer la proporción. Se aplica en los casos de Ángulo-Lado-Ángulo (ALA), Ángulo-Ángulo-Lado (AAL) y Lado-Lado-Ángulo (LLA, el caso ambiguo).",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
-    "id": "PMA00AU",
-    "question": "Si 4 trabajadores construyen un muro en 12 días, ¿cuántos días tardarán 6 trabajadores en construir el mismo muro?",
+    "id": "GYT00AB",
+    "question": "La Ley de Cosenos es una extensión o generalización del teorema de Pitágoras para triángulos no rectángulos. ¿Cuál de las siguientes condiciones permite su aplicación directa para encontrar un lado faltante?",
     "image": null,
     "options": [
-      { "text": "8 días", "correct": true },
-      { "text": "18 días", "correct": false },
-      { "text": "6 días", "correct": false },
-      { "text": "10 días", "correct": false }
+      { "text": "Conocer dos lados y el ángulo entre ellos (SAS)", "correct": true },
+      { "text": "Conocer dos ángulos y cualquier lado", "correct": false },
+      { "text": "Conocer un lado y un ángulo opuesto", "correct": false },
+      { "text": "Conocer los tres ángulos (AAA)", "correct": false }
     ],
     "uni_tags": ["GENERAL"],
     "level_tag": ["BÁSICO"],
-    "hint": "Es una proporción inversa: más trabajadores, menos días.",
-    "explanation": "Trabajadores × Días = constante. $4 \\times 12 = 48$. Con 6 trabajadores: $48 ÷ 6 = 8$ días.",
+    "hint": "La fórmula de la Ley de Cosenos es $a^2 = b^2 + c^2 - 2bc \\cos(A)$.",
+    "explanation": "Para encontrar un lado ($a$) usando la Ley de Cosenos, se debe conocer el ángulo opuesto a ese lado ($A$) y los otros dos lados ($b$ y $c$), lo que corresponde al caso Lado-Ángulo-Lado (SAS).",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
-    "id": "PMA00AV",
-    "question": "Un carro recorre 240 km con 20 litros de gasolina. ¿Cuántos kilómetros recorrerá con 35 litros?",
+    "id": "GYT00AC",
+    "question": "En un triángulo con lados $a, b, c$ y ángulos opuestos $A, B, C$, ¿cuál de las siguientes expresiones representa correctamente la Ley de Senos?",
     "image": null,
     "options": [
-      { "text": "420 km", "correct": true },
-      { "text": "300 km", "correct": false },
-      { "text": "380 km", "correct": false },
-      { "text": "400 km", "correct": false }
+      { "text": "$\\frac{a}{\\sin(A)} = \\frac{b}{\\sin(B)} = \\frac{c}{\\sin(C)}$", "correct": true },
+      { "text": "$\\frac{a}{\\cos(A)} = \\frac{b}{\\cos(B)} = \\frac{c}{\\cos(C)}$", "correct": false },
+      { "text": "$a^2 = b^2 + c^2 - 2bc \\cos(A)$", "correct": false },
+      { "text": "$a + b + c = 180^{\\circ}$", "correct": false }
     ],
     "uni_tags": ["GENERAL"],
     "level_tag": ["BÁSICO"],
-    "hint": "Es una proporción directa: más gasolina, más kilómetros.",
-    "explanation": "Razón: $240 \\text{ km} / 20 \\text{ L} = 12 \\text{ km/L}$. Con 35 L: $35 \\times 12 = 420$ km.",
+    "hint": "La ley relaciona la longitud de un lado con el seno del ángulo opuesto.",
+    "explanation": "La Ley de Senos establece que la razón entre la longitud de un lado y el seno de su ángulo opuesto es constante para cualquier triángulo.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
-    "id": "PMA00AW",
-    "question": "Calcule: $15^2 - 12^2 + \\sqrt{144}$",
+    "id": "GYT00AD",
+    "question": "¿Para qué tipo de triángulos se aplica de manera exclusiva y más eficiente la Ley de Cosenos para encontrar un ángulo cuando se conocen los tres lados (SSS)?",
     "image": null,
     "options": [
-      { "text": "45", "correct": true },
-      { "text": "33", "correct": false },
-      { "text": "57", "correct": false },
-      { "text": "39", "correct": false }
+      { "text": "Triángulos oblicuángulos (no rectángulos)", "correct": true },
+      { "text": "Triángulos exclusivamente rectángulos", "correct": false },
+      { "text": "Triángulos isósceles", "correct": false },
+      { "text": "Solo triángulos acutángulos", "correct": false }
     ],
     "uni_tags": ["GENERAL"],
     "level_tag": ["BÁSICO"],
-    "hint": "Calcula primero las potencias, luego la raíz, y finalmente suma/resta.",
-    "explanation": "$15^2 = 225$, $12^2 = 144$, $\\sqrt{144} = 12$. Entonces: $225 - 144 + 12 = 93$.",
+    "hint": "La Ley de Cosenos se aplica cuando el Teorema de Pitágoras no es suficiente.",
+    "explanation": "Los triángulos oblicuángulos son aquellos que no tienen un ángulo de $90^{\\circ}$. La Ley de Cosenos y la Ley de Senos son las herramientas primarias para la resolución de este tipo de triángulos, siendo la Ley de Cosenos obligatoria para los casos Lado-Lado-Lado (LLL).",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
-    "id": "PMA00AX",
-    "question": "Un televisor cuesta $\\$8,000$. Si se paga de contado tiene un descuento del $15\\%$, ¿cuál es el precio final?",
+    "id": "GYT00AE",
+    "question": "Considerando la Ley de Cosenos $c^2 = a^2 + b^2 - 2ab \\cos(C)$. Si el ángulo $C$ es obtuso ($90^{\\circ} < C < 180^{\\circ}$), ¿cómo es el valor de $\\cos(C)$?",
     "image": null,
     "options": [
-      { "text": "$\\$6,800$", "correct": true },
-      { "text": "$\\$6,500$", "correct": false },
-      { "text": "$\\$7,200$", "correct": false },
-      { "text": "$\\$6,000$", "correct": false }
+      { "text": "Negativo", "correct": true },
+      { "text": "Positivo", "correct": false },
+      { "text": "Cero", "correct": false },
+      { "text": "Igual a 1", "correct": false }
     ],
     "uni_tags": ["GENERAL"],
     "level_tag": ["BÁSICO"],
-    "hint": "Calcula el $15\\%$ de $8,000$ y réstalo.",
-    "explanation": "Descuento: $8,000 \\times 0.15 = 1,200$. Precio final: $8,000 - 1,200 = \\$6,800$.",
+    "hint": "Recuerda el signo de las funciones trigonométricas en el segundo cuadrante.",
+    "explanation": "El coseno de un ángulo en el segundo cuadrante (entre $90^{\\circ}$ y $180^{\\circ}$) es negativo. Esto significa que el término $-2ab \\cos(C)$ se convierte en una suma, lo que hace que $c^2$ sea mayor que $a^2 + b^2$.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
-    "id": "PMA00AY",
-    "question": "Si 3 máquinas producen 600 piezas en 4 horas, ¿cuántas piezas producirán 5 máquinas en 6 horas?",
+    "id": "GYT00AF",
+    "question": "El estudiante del CEPREDIX, José, sabe que para resolver un triángulo conoce la medida de dos lados, $a = 10 \\text{ cm}$ y $b = 15 \\text{ cm}$, y el ángulo opuesto a $a$, que es $A = 30^{\\circ}$. ¿Cuántas soluciones (triángulos) son posibles de obtener con esta información, considerando el caso LLA (ambiguo)?",
     "image": null,
     "options": [
-      { "text": "1,500 piezas", "correct": true },
-      { "text": "1,200 piezas", "correct": false },
-      { "text": "1,800 piezas", "correct": false },
-      { "text": "2,000 piezas", "correct": false }
+      { "text": "Dos soluciones", "correct": true },
+      { "text": "Una solución", "correct": false },
+      { "text": "Cero soluciones", "correct": false },
+      { "text": "Infinitas soluciones", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Calcula la altura $h = b \\sin(A)$. Si $h < a < b$, existen dos soluciones. La fórmula que proporciona el lado $a$ si se conociera el ángulo $B$ es $\\sin(B) = \\frac{b \\sin(A)}{a}$.",
+    "explanation": "La altura $h = 15 \\cdot \\sin(30^{\\circ}) = 15 \\cdot 0.5 = 7.5 \\text{ cm}$. Como $h (7.5) < a (10) < b (15)$, se cumple la condición del caso ambiguo LLA para que existan dos posibles triángulos.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "GYT00AG",
+    "question": "¿Qué establece la Ley de Cosenos cuando se aplica a un triángulo rectángulo, donde el ángulo comprendido ($A$) es de $90^{\\circ}$?",
+    "image": null,
+    "options": [
+      { "text": "Se reduce al Teorema de Pitágoras ($a^2 = b^2 + c^2$)", "correct": true },
+      { "text": "Se convierte en la Ley de Senos", "correct": false },
+      { "text": "El lado $a$ es siempre igual a $b + c$", "correct": false },
+      { "text": "El lado $a$ es siempre la mitad de $b + c$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Recuerda que $\\cos(90^{\\circ}) = 0$. La fórmula de la Ley de Cosenos es $a^2 = b^2 + c^2 - 2bc \\cos(A)$.",
+    "explanation": "Si $A=90^{\\circ}$, $\\cos(A)=0$. La fórmula $a^2 = b^2 + c^2 - 2bc \\cos(A)$ se simplifica a $a^2 = b^2 + c^2 - 2bc(0)$, lo que resulta en $a^2 = b^2 + c^2$, que es el Teorema de Pitágoras.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "GYT00AH",
+    "question": "De las siguientes condiciones para un triángulo oblicuángulo, ¿cuáles requieren obligatoriamente el uso de la Ley de Cosenos para su resolución inicial?",
+    "image": null,
+    "options": [
+      { "text": "Lado-Lado-Lado (LLL) y Lado-Ángulo-Lado (LAL)", "correct": true },
+      { "text": "Ángulo-Ángulo-Lado (AAL) y Ángulo-Lado-Ángulo (ALA)", "correct": false },
+      { "text": "Lado-Lado-Ángulo (LLA) y Ángulo-Ángulo-Lado (AAL)", "correct": false },
+      { "text": "Ángulo-Ángulo-Ángulo (AAA) y Lado-Lado-Lado (LLL)", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "La Ley de Senos requiere un par completo lado-ángulo opuesto. Si no lo tienes, debes usar la Ley de Cosenos.",
+    "explanation": "Los casos SSS (LLL) y SAS (LAL) no proporcionan un par lado-ángulo opuesto conocido, por lo que la Ley de Senos es ineficaz y se requiere la Ley de Cosenos para el cálculo inicial.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "GYT00AI",
+    "question": "En el caso ambiguo de la Ley de Senos, LLA (Lado-Lado-Ángulo), si el lado opuesto al ángulo conocido ($a$) es exactamente igual a la altura del triángulo ($h$), la cantidad de triángulos posibles es de ______; si el lado ($a$) es menor a la altura ($h$), la cantidad de triángulos posibles es de ______.",
+    "image": null,
+    "options": [
+      { "text": "Uno, Cero", "correct": true },
+      { "text": "Dos, Uno", "correct": false },
+      { "text": "Cero, Uno", "correct": false },
+      { "text": "Infinito, Cero", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "La altura $h$ es el límite inferior para que exista al menos un triángulo. La fórmula de la altura es $h = b \\sin(A)$.",
+    "explanation": "Si $a=h$, se forma exactamente un triángulo rectángulo. Si $a<h$, el lado $a$ no es lo suficientemente largo para tocar el lado opuesto, por lo que no existe solución (cero triángulos).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "GYT00AJ",
+    "question": "Si en un triángulo se conocen los tres lados $a, b, c$, para encontrar el ángulo $A$ usando la Ley de Cosenos, la fórmula despejada para $\\cos(A)$ es $2bc \\cos(A) = b^2 + c^2 - a^2$. La Ley de Cosenos original es $a^2 = b^2 + c^2 - 2bc \\cos(A)$. ¿Qué valor es el que debe tener el ángulo $A$ para que el triángulo sea acutángulo, es decir, que todos sus ángulos sean agudos?",
+    "image": null,
+    "options": [
+      { "text": "$\\cos(A) > 0$", "correct": true },
+      { "text": "$\\cos(A) < 0$", "correct": false },
+      { "text": "$\\cos(A) = 0$", "correct": false },
+      { "text": "$\\cos(A) = 1$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Un ángulo agudo es aquel cuya medida está entre $0^{\\circ}$ y $90^{\\circ}$. Recuerda el signo del coseno en el primer cuadrante.",
+    "explanation": "Un ángulo es agudo si está entre $0^{\\circ}$ y $90^{\\circ}$. En este rango, el valor del coseno es positivo ($\\cos(A) > 0$). Si $\\cos(A)$ fuera negativo, el ángulo sería obtuso.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "GYT00AK",
+    "question": "La Ley de Senos establece una relación de proporcionalidad para un triángulo. Si en un triángulo $\\Delta ABC$ se tiene la relación $a/\\sin(A) = b/\\sin(B) = 10 \\text{ m}$, ¿qué representa el valor de $10 \\text{ m}$ en términos de la geometría del triángulo?",
+    "image": null,
+    "options": [
+      { "text": "El diámetro del círculo circunscrito", "correct": true },
+      { "text": "El perímetro del triángulo", "correct": false },
+      { "text": "La suma de los lados $a$ y $b$", "correct": false },
+      { "text": "El radio del círculo inscrito", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "La relación $a/\\sin(A)$ es una constante que se relaciona con un elemento importante del triángulo. Se conoce como la 'fórmula del diámetro'.",
+    "explanation": "La Ley de Senos extendida establece que $\\frac{a}{\\sin(A)} = \\frac{b}{\\sin(B)} = \\frac{c}{\\sin(C)} = 2R$, donde $R$ es el radio del círculo circunscrito (el círculo que pasa por los tres vértices). Por lo tanto, $2R$ es el diámetro.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "GYT00AL",
+    "question": "Relaciona correctamente la Ley trigonométrica con la información mínima que debe proporcionar el problema para su aplicación directa en la búsqueda de un lado desconocido.",
+    "image": null,
+    "options": [
+      { "text": "A-II; B-I", "correct": true },
+      { "text": "A-I; B-II", "correct": false },
+      { "text": "A-I; B-III", "correct": false },
+      { "text": "A-III; B-II", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "La Ley de Senos es mejor para problemas con pares lado-ángulo conocidos. La Ley de Cosenos es para problemas donde el ángulo conocido está 'encerrado' por dos lados o cuando se tienen los tres lados.",
+    "explanation": "La Ley de Senos es más útil en los casos AAL y ALA. La Ley de Cosenos es necesaria en los casos SSS y LAL (SAS). Para encontrar un lado, se necesita LAL (SAS) para Cosenos y AAS o ASA para Senos.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "GYT00AM",
+    "question": "Para encontrar el lado $c$ de un triángulo $\\Delta ABC$, se utiliza la expresión $c^2 = a^2 + b^2 - 2ab \\cos(C)$. Si el triángulo fuera isósceles con $a=b$, ¿cuál de los siguientes es un resultado equivalente a $c^2$?",
+    "image": null,
+    "options": [
+      { "text": "$2a^2(1 - \\cos(C))$", "correct": true },
+      { "text": "$2a^2(1 + \\cos(C))$", "correct": false },
+      { "text": "$a^2(2 - 2 \\cos(C))$", "correct": false },
+      { "text": "$a^2(1 - 2 \\cos(C))$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Sustituye $b=a$ en la fórmula de la Ley de Cosenos y factoriza el término común $a^2$.",
+    "explanation": "Al sustituir $b=a$: $c^2 = a^2 + a^2 - 2a \\cdot a \\cos(C) = 2a^2 - 2a^2 \\cos(C)$. Factorizando $2a^2$, se obtiene $2a^2(1 - \\cos(C))$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "GYT00AN",
+    "question": "Un grupo de estudiantes del CEPREDIX realiza una práctica de topografía y deben medir la distancia entre dos puntos $A$ y $B$ separados por un río. Establecen un punto $C$ en la orilla. Miden que el lado $a$ (distancia $BC$) es $50 \\text{ m}$ y el lado $c$ (distancia $AC$) es $80 \\text{ m}$. El ángulo $\\angle B$ es de $40^{\\circ}$ y $\\angle C$ es de $100^{\\circ}$. ¿Qué ley trigonométrica deben usar los estudiantes para encontrar la distancia faltante $b$ (distancia $AB$)?",
+    "image": null,
+    "options": [
+      { "text": "Ley de Senos", "correct": true },
+      { "text": "Ley de Cosenos", "correct": false },
+      { "text": "Teorema de Pitágoras", "correct": false },
+      { "text": "Fórmulas de Herón", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "La suma de los ángulos internos es $180^{\\circ}$. Calcula el ángulo $A$ y evalúa si tienen un par completo lado-ángulo opuesto conocido.",
+    "explanation": "El ángulo $A = 180^{\\circ} - 40^{\\circ} - 100^{\\circ} = 40^{\\circ}$. Al conocer el ángulo $A$ y el lado opuesto $a = 50 \\text{ m}$, ya tienen un par completo. Adicionalmente, se conoce el ángulo $C=100^{\\circ}$ y el lado $c=80 \\text{ m}$. Se tiene el caso AAL/ALA. Por lo tanto, se aplica directamente la Ley de Senos: $\\frac{b}{\\sin(B)} = \\frac{a}{\\sin(A)}$ o $\\frac{b}{\\sin(B)} = \\frac{c}{\\sin(C)}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "GYT00AO",
+    "question": "Se tiene un triángulo $\\Delta ABC$ con lados $a=6 \\text{ cm}$, $b=8 \\text{ cm}$ y ángulo $C=60^{\\circ}$. Si se aplica la Ley de Cosenos, ¿cuál es la única variable que se puede calcular directamente con esta información?",
+    "image": null,
+    "options": [
+      { "text": "El lado $c$", "correct": true },
+      { "text": "El ángulo $A$", "correct": false },
+      { "text": "El ángulo $B$", "correct": false },
+      { "text": "El área del triángulo", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "El caso es Lado-Ángulo-Lado (SAS). La Ley de Cosenos permite encontrar el lado opuesto al ángulo conocido. La fórmula para calcular el lado $c$ es $c^2 = a^2 + b^2 - 2ab \\cos(C)$.",
+    "explanation": "En el caso LAL (SAS), la Ley de Cosenos se utiliza para calcular el lado opuesto al ángulo dado, que en este caso es el lado $c$. Los ángulos $A$ y $B$ requerirían un despeje posterior o el uso de la Ley de Senos.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "GYT00AP",
+    "question": "¿Cuál es la principal limitación que se presenta al intentar resolver el caso Lado-Lado-Ángulo (LLA) únicamente con la Ley de Senos?",
+    "image": null,
+    "options": [
+      { "text": "Puede tener cero, una o dos soluciones (caso ambiguo)", "correct": true },
+      { "text": "Siempre genera un triángulo rectángulo", "correct": false },
+      { "text": "La suma de los lados es desconocida", "correct": false },
+      { "text": "La Ley de Senos no funciona para ningún caso donde se involucre un lado", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "La Ley de Senos proporciona el valor de $\\sin(\\theta)$. Recuerda que $\\sin(\\theta) = \\sin(180^{\\circ} - \\theta)$, lo que genera ambigüedad.",
+    "explanation": "El caso LLA (o SSA) es conocido como el caso ambiguo porque, dependiendo de la relación entre el lado opuesto al ángulo conocido ($a$) y la altura ($h$), el triángulo puede no existir (cero soluciones), ser único (una solución), o tener dos posibles formas (dos soluciones).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "GYT00AQ",
+    "question": "En la resolución de un triángulo oblicuángulo, se conocen los tres ángulos. ¿Qué se puede determinar únicamente con esta información?",
+    "image": null,
+    "options": [
+      { "text": "La forma del triángulo (ángulos internos)", "correct": true },
+      { "text": "La longitud de los lados", "correct": false },
+      { "text": "El área del triángulo", "correct": false },
+      { "text": "El perímetro del triángulo", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "El caso Ángulo-Ángulo-Ángulo (AAA) permite establecer una escala, pero no las medidas exactas. La Ley de Senos quedaría con la forma $\\frac{a}{\\sin(A)} = \\frac{b}{\\sin(B)} = \\frac{c}{\\sin(C)} = K$, donde $K$ es una constante desconocida.",
+    "explanation": "El conocimiento de los tres ángulos (AAA) solo permite determinar la forma del triángulo (es decir, qué tan 'picudo' o 'achatado' es), ya que define su semejanza, pero no sus dimensiones exactas. No se puede determinar ninguna longitud de lado.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "GYT00AR",
+    "question": "Si al utilizar la Ley de Cosenos para encontrar un ángulo $A$ de un triángulo, se obtiene que $\\cos(A) = -0.5$. ¿Cómo es el ángulo $A$?",
+    "image": null,
+    "options": [
+      { "text": "Obtuso", "correct": true },
+      { "text": "Agudo", "correct": false },
+      { "text": "Recto", "correct": false },
+      { "text": "Cero", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "El ángulo obtuso se encuentra en el segundo cuadrante, donde el coseno tiene signo negativo. El ángulo $A$ es de $120^{\\circ}$.",
+    "explanation": "El coseno es negativo en el segundo cuadrante (entre $90^{\\circ}$ y $180^{\\circ}$), lo que corresponde a un ángulo obtuso. Para un triángulo, esto significa que el ángulo opuesto al lado más largo es obtuso.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "GYT00AS",
+    "question": "En la Ley de Senos, si se conoce el ángulo $A$ y los lados $a$ y $b$, para encontrar el ángulo $B$ se utilizaría la fórmula $\\sin(B) = \\frac{b \\sin(A)}{a}$. Si el resultado de la expresión $\\frac{b \\sin(A)}{a}$ es un número mayor que 1, ¿qué indica esto sobre la existencia del triángulo?",
+    "image": null,
+    "options": [
+      { "text": "El triángulo es imposible de construir (cero soluciones)", "correct": true },
+      { "text": "El triángulo tiene dos soluciones", "correct": false },
+      { "text": "El ángulo $B$ es obtuso", "correct": false },
+      { "text": "El ángulo $B$ es recto", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "El valor del seno de cualquier ángulo real siempre está entre -1 y 1. La altura del triángulo es mayor que el lado $a$.",
+    "explanation": "Dado que el valor del seno de cualquier ángulo debe ser $\\le 1$, un resultado mayor que 1 indica que los datos proporcionados son inconsistentes, y el lado $a$ no es lo suficientemente largo como para cerrar el triángulo. Por lo tanto, no existe solución (cero triángulos).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "GYT00AT",
+    "question": "Indica las propiedades que son comunes en la Ley de Senos y la Ley de Cosenos.",
+    "image": null,
+    "options": [
+      { "text": "Aplicables a triángulos oblicuángulos, No aplican directamente en el caso AAA", "correct": true },
+      { "text": "Permiten encontrar la altura de un triángulo, Solo aplican a triángulos acutángulos", "correct": false },
+      { "text": "Ambas fórmulas se reducen al Teorema de Pitágoras, Ambas usan solo ángulos agudos", "correct": false },
+      { "text": "Necesitan conocer al menos una altura, Solo se usan para encontrar lados", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Ambas leyes son herramientas de la trigonometría para resolver triángulos no rectángulos. Analiza si se puede resolver el caso AAA con alguna de ellas.",
+    "explanation": "Ambas leyes están diseñadas para resolver triángulos oblicuángulos (aunque la Ley de Cosenos se reduce a Pitágoras en el caso de $90^{\\circ}$). Ninguna de las dos puede resolver el caso Ángulo-Ángulo-Ángulo (AAA) ya que solo proporciona semejanza, no dimensiones.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "GYT00AU",
+    "question": "La Ley de Cosenos, $a^2 = b^2 + c^2 - 2bc \\cos(A)$, demuestra que si el ángulo $A$ es muy cercano a $0^{\\circ}$, el lado $a$ será muy ______; mientras que si el ángulo $A$ es cercano a $180^{\\circ}$, el lado $a$ será muy ______.",
+    "image": null,
+    "options": [
+      { "text": "Pequeño, Grande", "correct": true },
+      { "text": "Grande, Pequeño", "correct": false },
+      { "text": "Cercano a $b+c$, Cercano a $b-c$", "correct": false },
+      { "text": "Cercano a $b-c$, Cercano a $b+c$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Considera que $\\cos(0^{\\circ}) = 1$ y $\\cos(180^{\\circ}) = -1$. El CEPREDIX recomienda analizar el valor del término $-2bc \\cos(A)$.",
+    "explanation": "Si $A \\to 0^{\\circ}$, $\\cos(A) \\to 1$, entonces $a^2 \\to b^2 + c^2 - 2bc = (b-c)^2$, por lo que $a \\to |b-c|$ (muy pequeño). Si $A \\to 180^{\\circ}$, $\\cos(A) \\to -1$, entonces $a^2 \\to b^2 + c^2 + 2bc = (b+c)^2$, por lo que $a \\to b+c$ (muy grande, casi una línea recta).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "GYT00AV",
+    "question": "En la Ley de Senos $\\frac{a}{\\sin(A)} = \\frac{b}{\\sin(B)}$, para encontrar el lado $b$ conociendo el lado $a$ y los ángulos $A$ và $B$, se debe despejar $b$. La Ley de Senos, al basarse en la proporción entre lados y el seno de sus ángulos opuestos, solo puede aplicarse directamente en triángulos ______.",
+    "image": null,
+    "options": [
+      { "text": "Oblicuángulos (o cualquier triángulo)", "correct": true },
+      { "text": "Exclusivamente rectángulos", "correct": false },
+      { "text": "Exclusivamente equiláteros", "correct": false },
+      { "text": "Solo en aquellos con dos ángulos iguales", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Tanto la Ley de Senos como la Ley de Cosenos se utilizan en la resolución de triángulos no rectángulos, pero se pueden aplicar a cualquier triángulo.",
+    "explanation": "La Ley de Senos es una ley fundamental de la trigonometría que se aplica a cualquier triángulo, ya sea oblicuángulo (sin ángulo recto) o rectángulo. Aunque para los rectángulos son más sencillas las relaciones trigonométricas básicas (SOH CAH TOA).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "GYT00AW",
+    "question": "En un triángulo $\\Delta ABC$, la relación entre las áreas de los triángulos formados por la subdivisión de uno de sus ángulos se rige por la Ley de Senos. Si la Ley de Senos establece $\\frac{a}{\\sin(A)} = \\frac{b}{\\sin(B)}$, y se tiene la identidad $a \\sin(B) = b \\sin(A)$, esta identidad es equivalente al principio de que el ______ de un ángulo y su lado opuesto es constante.",
+    "image": null,
+    "options": [
+      { "text": "Cociente", "correct": true },
+      { "text": "Producto", "correct": false },
+      { "text": "Suma", "correct": false },
+      { "text": "Diferencia", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Un cociente es una división. La Ley de Senos es una igualdad de razones.",
+    "explanation": "La Ley de Senos es una igualdad de cocientes (divisiones), donde el cociente entre cada lado y el seno de su ángulo opuesto es igual a una constante (el diámetro del círculo circunscrito).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "GYT00AX",
+    "question": "Relaciona cada caso de resolución de triángulos con la ley trigonométrica más adecuada para el cálculo inicial.",
+    "image": null,
+    "options": [
+      { "text": "A-II; B-I; C-I", "correct": true },
+      { "text": "A-I; B-II; C-I", "correct": false },
+      { "text": "A-I; B-I; C-II", "correct": false },
+      { "text": "A-II; B-II; C-I", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "La Ley de Cosenos siempre es obligatoria en los casos LLL y LAL. La Ley de Senos se usa cuando tienes un par lado-ángulo opuesto conocido.",
+    "explanation": "Lado-Lado-Lado (LLL) y Lado-Ángulo-Lado (LAL) requieren la Ley de Cosenos al inicio. Ángulo-Lado-Ángulo (ALA) tiene un par conocido implícitamente (al calcular el tercer ángulo) y es ideal para la Ley de Senos.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "GYT00AY",
+    "question": "Se tienen dos lados de un triángulo ($a$ y $b$) y un ángulo ($B$) que no es el comprendido entre ellos ni el opuesto a $a$. Para encontrar el lado $c$, se necesita primero encontrar el ángulo $A$ (opuesto a $a$). Si la fórmula para encontrar el lado $c$ es $c = \\sqrt{a^2 + b^2 - 2ab \\cos(C)}$, ¿cuál es el riesgo principal de usar primero la Ley de Senos para encontrar el ángulo $A$ y luego la Ley de Cosenos para encontrar $c$?",
+    "image": null,
+    "options": [
+      { "text": "Se puede caer en el caso ambiguo (LLA) al usar la Ley de Senos, llevando a dos posibles valores para $c$", "correct": true },
+      { "text": "La Ley de Senos siempre arrojará un ángulo obtuso para $A$", "correct": false },
+      { "text": "La Ley de Cosenos no funciona después de la Ley de Senos", "correct": false },
+      { "text": "El error de redondeo será demasiado alto", "correct": false }
     ],
     "uni_tags": ["GENERAL"],
     "level_tag": ["INTERMEDIO"],
-    "hint": "Primero calcula la producción por máquina por hora.",
-    "explanation": "Cada máquina por hora: $600 ÷ (3 × 4) = 50$ piezas/hora. Con 5 máquinas en 6 horas: $5 × 6 × 50 = 1,500$ piezas.",
+    "hint": "Cuando tienes Lado-Lado-Ángulo (LLA), la Ley de Senos puede proporcionar dos valores para el ángulo no opuesto al lado conocido. La Ley de Senos es $\\sin(A) = \\frac{a \\sin(B)}{b}$.",
+    "explanation": "Al usar la Ley de Senos en el caso LLA, se podría obtener un valor para $\\sin(A)$ que corresponde a dos ángulos, $A$ y $180^{\\circ} - A$. Esto lleva a dos posibles soluciones para el triángulo, por lo que el lado $c$ y el ángulo $C$ también tendrían dos valores posibles.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
-    "id": "PMA00AZ",
-    "question": "Calcule el $25\\%$ del $40\\%$ de $\\$2,000$.",
+    "id": "GYT00AZ",
+    "question": "En un triángulo $\\Delta ABC$, los lados son $a, b, c$ y los ángulos opuestos son $A, B, C$. Se sabe que $a > b$ y $A$ es un ángulo obtuso. ¿Qué se puede afirmar sobre la relación entre el ángulo $B$ y el lado $c$?",
     "image": null,
     "options": [
-      { "text": "$\\$200$", "correct": true },
-      { "text": "$\\$160$", "correct": false },
-      { "text": "$\\$250$", "correct": false },
-      { "text": "$\\$300$", "correct": false }
-    ],
-    "uni_tags": ["GENERAL"],
-    "level_tag": ["BÁSICO"],
-    "hint": "Calcula primero el $40\\%$ y luego el $25\\%$ de ese resultado.",
-    "explanation": "$40\\%$ de $2,000 = 800$. $25\\%$ de $800 = 200$. Respuesta: $\\$200$.",
-    "explanative_video": null,
-    "collapsible_text": null
-  },
-  {
-    "id": "PMA00BA",
-    "question": "Un recipiente se llena en 20 minutos con un grifo que arroja 5 litros por minuto. ¿Cuánto tardará en llenarse si se usa un grifo que arroja 8 litros por minuto?",
-    "image": null,
-    "options": [
-      { "text": "12.5 minutos", "correct": true },
-      { "text": "15 minutos", "correct": false },
-      { "text": "10 minutos", "correct": false },
-      { "text": "16 minutos", "correct": false }
-    ],
-    "uni_tags": ["GENERAL"],
-    "level_tag": ["BÁSICO"],
-    "hint": "Primero calcula la capacidad del recipiente.",
-    "explanation": "Capacidad: $20 \\times 5 = 100$ litros. Con grifo de 8 L/min: $100 ÷ 8 = 12.5$ minutos.",
-    "explanative_video": null,
-    "collapsible_text": null
-  },
-  {
-    "id": "PMA00BB",
-    "question": "Si $\\frac{2}{3}$ de un número es 48, ¿cuál es el número?",
-    "image": null,
-    "options": [
-      { "text": "72", "correct": true },
-      { "text": "64", "correct": false },
-      { "text": "54", "correct": false },
-      { "text": "84", "correct": false }
-    ],
-    "uni_tags": ["GENERAL"],
-    "level_tag": ["BÁSICO"],
-    "hint": "Si $\\frac{2}{3}x = 48$, despeja $x$.",
-    "explanation": "$x = 48 × \\frac{3}{2} = 72$.",
-    "explanative_video": null,
-    "collapsible_text": null
-  },
-  {
-    "id": "PMA00BC",
-    "question": "Un automóvil viaja a 80 km/h. ¿Cuánto tiempo tardará en recorrer 360 km?",
-    "image": null,
-    "options": [
-      { "text": "4.5 horas", "correct": true },
-      { "text": "5 horas", "correct": false },
-      { "text": "4 horas", "correct": false },
-      { "text": "6 horas", "correct": false }
-    ],
-    "uni_tags": ["GENERAL"],
-    "level_tag": ["BÁSICO"],
-    "hint": "Usa la fórmula: tiempo = distancia ÷ velocidad.",
-    "explanation": "Tiempo = $360 ÷ 80 = 4.5$ horas.",
-    "explanative_video": null,
-    "collapsible_text": null
-  },
-  {
-    "id": "PMA00BD",
-    "question": "Un terreno rectangular mide 25 m de largo y 12 m de ancho. ¿Cuál es su área en metros cuadrados?",
-    "image": null,
-    "options": [
-      { "text": "300 m²", "correct": true },
-      { "text": "250 m²", "correct": false },
-      { "text": "350 m²", "correct": false },
-      { "text": "400 m²", "correct": false }
-    ],
-    "uni_tags": ["GENERAL"],
-    "level_tag": ["BÁSICO"],
-    "hint": "Área = largo × ancho.",
-    "explanation": "Área = $25 × 12 = 300$ m².",
-    "explanative_video": null,
-    "collapsible_text": null
-  },
-  {
-    "id": "PMA00BE",
-    "question": "Si 5 kg de manzanas cuestan $\\$75$, ¿cuánto costarán 8 kg?",
-    "image": null,
-    "options": [
-      { "text": "$\\$120$", "correct": true },
-      { "text": "$\\$100$", "correct": false },
-      { "text": "$\\$125$", "correct": false },
-      { "text": "$\\$115$", "correct": false }
-    ],
-    "uni_tags": ["GENERAL"],
-    "level_tag": ["BÁSICO"],
-    "hint": "Calcula el precio por kilogramo primero.",
-    "explanation": "Precio por kg: $75 ÷ 5 = \\$15$. 8 kg: $8 × 15 = \\$120$.",
-    "explanative_video": null,
-    "collapsible_text": null
-  },
-  {
-    "id": "PMA00BF",
-    "question": "Calcule: $3^4 - 2^5 + 5^2$",
-    "image": null,
-    "options": [
-      { "text": "74", "correct": true },
-      { "text": "68", "correct": false },
-      { "text": "80", "correct": false },
-      { "text": "62", "correct": false }
-    ],
-    "uni_tags": ["GENERAL"],
-    "level_tag": ["BÁSICO"],
-    "hint": "Calcula las potencias en orden.",
-    "explanation": "$3^4 = 81$, $2^5 = 32$, $5^2 = 25$. Entonces: $81 - 32 + 25 = 74$.",
-    "explanative_video": null,
-    "collapsible_text": null
-  },
-  {
-    "id": "PMA00BG",
-    "question": "Un producto que costaba $\\$500$ aumenta un 20%. ¿Cuál es su nuevo precio?",
-    "image": null,
-    "options": [
-      { "text": "$\\$600$", "correct": true },
-      { "text": "$\\$550$", "correct": false },
-      { "text": "$\\$520$", "correct": false },
-      { "text": "$\\$580$", "correct": false }
-    ],
-    "uni_tags": ["GENERAL"],
-    "level_tag": ["BÁSICO"],
-    "hint": "Calcula el 20% de 500 y súmalo.",
-    "explanation": "Aumento: $500 × 0.20 = 100$. Nuevo precio: $500 + 100 = \\$600$.",
-    "explanative_video": null,
-    "collapsible_text": null
-  },
-  {
-    "id": "PMA00BH",
-    "question": "Si 12 obreros construyen una casa en 90 días, ¿cuántos obreros se necesitan para construirla en 60 días?",
-    "image": null,
-    "options": [
-      { "text": "18 obreros", "correct": true },
-      { "text": "15 obreros", "correct": false },
-      { "text": "20 obreros", "correct": false },
-      { "text": "24 obreros", "correct": false }
+      { "text": "$B$ debe ser un ángulo agudo", "correct": true },
+      { "text": "$B$ debe ser un ángulo obtuso", "correct": false },
+      { "text": "El lado $c$ debe ser mayor que el lado $a$", "correct": false },
+      { "text": "El ángulo $B$ debe ser mayor que el ángulo $A$", "correct": false }
     ],
     "uni_tags": ["GENERAL"],
     "level_tag": ["INTERMEDIO"],
-    "hint": "Es una proporción inversa: menos días, más obreros.",
-    "explanation": "Obreros × Días = constante. $12 × 90 = 1,080$. Para 60 días: $1,080 ÷ 60 = 18$ obreros.",
+    "hint": "En cualquier triángulo, al lado más grande se opone el ángulo más grande. Un triángulo solo puede tener un ángulo obtuso. La Ley de Senos es $\\frac{a}{\\sin(A)} = \\frac{b}{\\sin(B)}$.",
+    "explanation": "Un triángulo no puede tener más de un ángulo obtuso, ya que la suma de sus ángulos es $180^{\\circ}$. Si $A$ es obtuso, $B$ y $C$ deben ser agudos. Además, como $A$ es el ángulo más grande (opuesto al lado $a$, que es el más grande), $B$ y $C$ deben ser menores que $A$ y, por ende, agudos.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
-    "id": "PMA00BI",
-    "question": "El 15% de un número es 45. ¿Cuál es el número?",
+    "id": "GYT00BA",
+    "question": "Un consultor del CEPREDIX explica a un aspirante que la Ley de Cosenos se puede escribir para el ángulo $B$ como $b^2 = a^2 + c^2 - 2ac \\cos(B)$. Si los tres lados del triángulo son conocidos ($a=3, b=4, c=5$ unidades) y se busca el ángulo $B$, ¿por qué es mejor usar la Ley de Cosenos en lugar de la Ley de Senos después de calcular el ángulo $A$ o $C$?",
     "image": null,
     "options": [
-      { "text": "300", "correct": true },
-      { "text": "250", "correct": false },
-      { "text": "350", "correct": false },
-      { "text": "400", "correct": false }
-    ],
-    "uni_tags": ["GENERAL"],
-    "level_tag": ["BÁSICO"],
-    "hint": "Si 15% = 45, entonces 100% = ?",
-    "explanation": "$x = 45 ÷ 0.15 = 300$.",
-    "explanative_video": null,
-    "collapsible_text": null
-  },
-  {
-    "id": "PMA00BJ",
-    "question": "Un ciclista recorre 15 km en 45 minutos. ¿Cuántos km recorrerá en 2 horas a la misma velocidad?",
-    "image": null,
-    "options": [
-      { "text": "40 km", "correct": true },
-      { "text": "35 km", "correct": false },
-      { "text": "45 km", "correct": false },
-      { "text": "50 km", "correct": false }
-    ],
-    "uni_tags": ["GENERAL"],
-    "level_tag": ["BÁSICO"],
-    "hint": "Convierte 2 horas a minutos o calcula la velocidad en km/h.",
-    "explanation": "Velocidad: $15 \\text{ km} / 0.75 \\text{ h} = 20 \\text{ km/h}$. En 2 horas: $2 × 20 = 40$ km.",
-    "explanative_video": null,
-    "collapsible_text": null
-  },
-  {
-    "id": "PMA00BK",
-    "question": "Calcule: $\\frac{3}{4} + \\frac{2}{5} - \\frac{1}{2}$",
-    "image": null,
-    "options": [
-      { "text": "$\\frac{13}{20}$", "correct": true },
-      { "text": "$\\frac{3}{5}$", "correct": false },
-      { "text": "$\\frac{7}{10}$", "correct": false },
-      { "text": "$\\frac{11}{20}$", "correct": false }
-    ],
-    "uni_tags": ["GENERAL"],
-    "level_tag": ["BÁSICO"],
-    "hint": "Encuentra un denominador común (20).",
-    "explanation": "$\\frac{3}{4} = \\frac{15}{20}$, $\\frac{2}{5} = \\frac{8}{20}$, $\\frac{1}{2} = \\frac{10}{20}$. Suma: $\\frac{15+8-10}{20} = \\frac{13}{20}$.",
-    "explanative_video": null,
-    "collapsible_text": null
-  },
-  {
-    "id": "PMA00BL",
-    "question": "Un artículo cuesta $\\$800$ después de aplicarle un 20% de descuento. ¿Cuál era su precio original?",
-    "image": null,
-    "options": [
-      { "text": "$\\$1,000$", "correct": true },
-      { "text": "$\\$900$", "correct": false },
-      { "text": "$\\$960$", "correct": false },
-      { "text": "$\\$850$", "correct": false }
+      { "text": "La Ley de Cosenos evita el caso ambiguo (doble solución) para el ángulo buscado", "correct": true },
+      { "text": "La Ley de Senos solo funciona para el ángulo obtuso, si lo hay", "correct": false },
+      { "text": "La Ley de Cosenos es más sencilla de despejar", "correct": false },
+      { "text": "La Ley de Senos solo debe usarse para encontrar lados", "correct": false }
     ],
     "uni_tags": ["GENERAL"],
     "level_tag": ["INTERMEDIO"],
-    "hint": "Si $800$ es el 80% del precio original, calcula el 100%.",
-    "explanation": "Precio original = $800 ÷ 0.80 = \\$1,000$.",
+    "hint": "La Ley de Senos proporciona $\\sin(\\theta)$ cuyo valor es compartido por $\\theta$ y $180^{\\circ} - \\theta$. El triángulo con lados 3, 4 y 5 es rectángulo, pero el principio aplica a cualquier triángulo.",
+    "explanation": "La Ley de Cosenos, al arrojar el valor de $\\cos(B)$, elimina la ambigüedad del caso LLA. Si $\\cos(B)$ es positivo, $B$ es agudo; si es negativo, $B$ es obtuso; si es cero, $B$ es recto. Al usar la Ley de Senos para encontrar un ángulo, si la solución es aguda, siempre existe la posibilidad de que la solución obtusa ($180^{\\circ} - B$) también sea válida.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
-    "id": "PMA00BM",
-    "question": "Si 8 metros de tela cuestan $\\$240$, ¿cuánto costarán 15 metros?",
+    "id": "GYT00BB",
+    "question": "La Ley de Senos establece $\\frac{a}{\\sin(A)} = \\frac{b}{\\sin(B)} = \\frac{c}{\\sin(C)}$. ¿Cuáles de las siguientes combinaciones de ángulos $A$ y $B$ y lados $a$ y $b$ cumplen la condición para la existencia de un triángulo, en el caso ambiguo LLA?",
     "image": null,
     "options": [
-      { "text": "$\\$450$", "correct": true },
-      { "text": "$\\$420$", "correct": false },
-      { "text": "$\\$480$", "correct": false },
-      { "text": "$\\$500$", "correct": false }
-    ],
-    "uni_tags": ["GENERAL"],
-    "level_tag": ["BÁSICO"],
-    "hint": "Proporción directa. Calcula precio por metro.",
-    "explanation": "Precio por metro: $240 ÷ 8 = \\$30$. 15 metros: $15 × 30 = \\$450$.",
-    "explanative_video": null,
-    "collapsible_text": null
-  },
-  {
-    "id": "PMA00BN",
-    "question": "Calcule: $2.5 × 3.2 + 1.8 ÷ 0.6$",
-    "image": null,
-    "options": [
-      { "text": "11", "correct": true },
-      { "text": "10.5", "correct": false },
-      { "text": "9.2", "correct": false },
-      { "text": "12", "correct": false }
-    ],
-    "uni_tags": ["GENERAL"],
-    "level_tag": ["BÁSICO"],
-    "hint": "Multiplica y divide primero, luego suma.",
-    "explanation": "$2.5 × 3.2 = 8$, $1.8 ÷ 0.6 = 3$. Entonces: $8 + 3 = 11$.",
-    "explanative_video": null,
-    "collapsible_text": null
-  },
-  {
-    "id": "PMA00BO",
-    "question": "Un depósito se llena con 3 grifos en 8 horas. ¿Cuánto tardará en llenarse con 4 grifos?",
-    "image": null,
-    "options": [
-      { "text": "6 horas", "correct": true },
-      { "text": "7 horas", "correct": false },
-      { "text": "5.5 horas", "correct": false },
-      { "text": "6.5 horas", "correct": false }
+      { "text": "$a=15, b=20, A=30^{\\circ}$ ($h < a < b$)", "correct": true },
+      { "text": "$a=5, b=20, A=30^{\\circ}$ ($a < h$)", "correct": false },
+      { "text": "$a=25, b=20, A=30^{\\circ}$ ($a > b$)", "correct": false },
+      { "text": "$a=10, b=10, A=30^{\\circ}$ ($a = b$)", "correct": false }
     ],
     "uni_tags": ["GENERAL"],
     "level_tag": ["INTERMEDIO"],
-    "hint": "Proporción inversa: más grifos, menos tiempo.",
-    "explanation": "Grifos × Tiempo = constante. $3 × 8 = 24$. Con 4 grifos: $24 ÷ 4 = 6$ horas.",
+    "hint": "La altura $h = b \\sin(A)$. Solo existe el caso ambiguo (dos soluciones) si la altura $h < a < b$.",
+    "explanation": "La altura $h = 20 \\cdot \\sin(30^{\\circ}) = 20 \\cdot 0.5 = 10$. El caso ambiguo ocurre si $10 < a < 20$. Con $a=15$, la condición se cumple y existen dos soluciones. Las otras opciones representan cero, una, o una única solución no ambigua.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
-    "id": "PMA00BP",
-    "question": "¿Qué porcentaje de 80 es 20?",
+    "id": "GYT00BC",
+    "question": "En la Ley de Senos, si se conocen dos ángulos ($A$ y $B$) y el lado $c$ (caso AAS o ASA), el primer paso es calcular el ángulo faltante $C$ con la fórmula $C = 180^{\\circ} - (A + B)$. Luego, al usar la Ley de Senos, se garantiza una solución única porque el valor del seno es siempre ______ para ángulos entre $0^{\\circ}$ y $180^{\\circ}$ cuyo lado opuesto es conocido (o buscado), y el proceso no depende del cálculo de una ______.",
     "image": null,
     "options": [
-      { "text": "25%", "correct": true },
-      { "text": "20%", "correct": false },
-      { "text": "30%", "correct": false },
-      { "text": "15%", "correct": false }
-    ],
-    "uni_tags": ["GENERAL"],
-    "level_tag": ["BÁSICO"],
-    "hint": "Divide 20 entre 80 y multiplica por 100.",
-    "explanation": "$(20 ÷ 80) × 100 = 0.25 × 100 = 25\\%$.",
-    "explanative_video": null,
-    "collapsible_text": null
-  },
-  {
-    "id": "PMA00BQ",
-    "question": "Si un trabajo lo realizan 6 personas en 18 días, ¿cuántas personas se necesitan para hacerlo en 12 días?",
-    "image": null,
-    "options": [
-      { "text": "9 personas", "correct": true },
-      { "text": "8 personas", "correct": false },
-      { "text": "10 personas", "correct": false },
-      { "text": "12 personas", "correct": false }
+      { "text": "Positivo, Altura", "correct": true },
+      { "text": "Negativo, Tangente", "correct": false },
+      { "text": "Menor a 1, Hipotenusa", "correct": false },
+      { "text": "Constante, Razón", "correct": false }
     ],
     "uni_tags": ["GENERAL"],
     "level_tag": ["INTERMEDIO"],
-    "hint": "Proporción inversa: menos días, más personas.",
-    "explanation": "Personas × Días = constante. $6 × 18 = 108$. Para 12 días: $108 ÷ 12 = 9$ personas.",
+    "hint": "La Ley de Senos requiere que el ángulo sea real. En un triángulo, los ángulos internos están entre $0^{\\circ}$ y $180^{\\circ}$.",
+    "explanation": "En el caso AAS/ASA, el ángulo $C$ es conocido. El seno de cualquier ángulo interno de un triángulo es positivo. Este caso no está sujeto a las condiciones de altura vs. lado ($h$ vs $a$) que caracterizan el caso ambiguo LLA, por lo que siempre tiene una solución única. El seno es positivo entre $0^{\\circ}$ y $180^{\\circ}$.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
-    "id": "PMA00BR",
-    "question": "Calcule: $125 - 48 ÷ 6 × 3 + 7$",
+    "id": "GYT00BD",
+    "question": "Relaciona correctamente la restricción de datos en la resolución de triángulos con la ley trigonométrica que se debe priorizar.",
     "image": null,
     "options": [
-      { "text": "108", "correct": true },
-      { "text": "112", "correct": false },
-      { "text": "104", "correct": false },
-      { "text": "116", "correct": false }
+      { "text": "A-II; B-I; C-I", "correct": true },
+      { "text": "A-I; B-II; C-I", "correct": false },
+      { "text": "A-II; B-I; C-II", "correct": false },
+      { "text": "A-I; B-I; C-II", "correct": false }
     ],
     "uni_tags": ["GENERAL"],
     "level_tag": ["INTERMEDIO"],
-    "hint": "Realiza primero la división y multiplicación, luego suma/resta.",
-    "explanation": "$48 ÷ 6 = 8$, $8 × 3 = 24$. Entonces: $125 - 24 + 7 = 108$.",
+    "hint": "Los lados grandes se oponen a ángulos grandes. Analiza qué ley te ayuda a encontrar el ángulo opuesto al lado más grande sin riesgo de ambigüedad.",
+    "explanation": "Cuando se conocen los 3 lados, la Ley de Cosenos se utiliza para encontrar el ángulo más grande primero (opuesto al lado más largo), porque este es el único ángulo que podría ser obtuso, eliminando la ambigüedad que surge si se usara la Ley de Senos para calcularlo. En los otros casos, se puede usar cualquiera, pero la Ley de Cosenos se prefiere en SAS y LLL.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
-    "id": "PMA00BS",
-    "question": "Un producto se vende en $\\$360$ con una ganancia del 20% sobre el costo. ¿Cuál fue el costo del producto?",
+    "id": "GYT00BE",
+    "question": "Si la Ley de Cosenos es $c^2 = a^2 + b^2 - 2ab \\cos(C)$, y se conoce que en un triángulo se cumple la desigualdad $c^2 > a^2 + b^2$, ¿cuál de las siguientes afirmaciones es necesariamente cierta sobre el triángulo?",
     "image": null,
     "options": [
-      { "text": "$\\$300$", "correct": true },
-      { "text": "$\\$320$", "correct": false },
-      { "text": "$\\$280$", "correct": false },
-      { "text": "$\\$340$", "correct": false }
+      { "text": "El ángulo $C$ es obtuso ($C > 90^{\\circ}$)", "correct": true },
+      { "text": "El ángulo $C$ es agudo ($C < 90^{\\circ}$)", "correct": false },
+      { "text": "El triángulo es rectángulo en $C$", "correct": false },
+      { "text": "Los lados $a$ y $b$ son iguales", "correct": false }
     ],
     "uni_tags": ["GENERAL"],
-    "level_tag": ["INTERMEDIO"],
-    "hint": "Si $360$ es el 120% del costo, calcula el 100%.",
-    "explanation": "Costo = $360 ÷ 1.20 = \\$300$.",
+    "level_tag": ["AVANZADO"],
+    "hint": "Para que $c^2$ sea mayor que $a^2 + b^2$, el término $-2ab \\cos(C)$ debe ser positivo. Analiza el signo de $\\cos(C)$.",
+    "explanation": "Para que $c^2 > a^2 + b^2$, el término $-2ab \\cos(C)$ debe ser $> 0$. Dado que $a, b > 0$ y $2$ es positivo, esto solo ocurre si $\\cos(C)$ es negativo, pues $(-)(+) \\cdot \\cos(C) > 0$. Un coseno negativo en un triángulo implica que el ángulo $C$ se encuentra en el segundo cuadrante, por lo tanto, es obtuso ($90^{\\circ} < C < 180^{\\circ}$).",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
-    "id": "PMA00BT",
-    "question": "Si 5 cajas pesan 40 kg, ¿cuánto pesarán 9 cajas?",
+    "id": "GYT00BF",
+    "question": "Considere la Ley de Senos $\\frac{a}{\\sin(A)} = \\frac{b}{\\sin(B)}$. En el caso LLA, si el lado $a$ es mayor que el lado $b$ ($a > b$), y se conoce el ángulo $A$ (opuesto a $a$), ¿por qué el caso ambiguo (dos soluciones) no es posible?",
     "image": null,
     "options": [
-      { "text": "72 kg", "correct": true },
-      { "text": "68 kg", "correct": false },
-      { "text": "75 kg", "correct": false },
-      { "text": "80 kg", "correct": false }
+      { "text": "Si $a > b$, entonces $A > B$, y un triángulo no puede tener dos ángulos obtusos", "correct": true },
+      { "text": "La altura $h$ es siempre mayor que $a$ en este caso", "correct": false },
+      { "text": "La Ley de Cosenos se vuelve obligatoria", "correct": false },
+      { "text": "El seno del ángulo $B$ es siempre mayor que 1", "correct": false }
     ],
     "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO"],
+    "hint": "El caso ambiguo (dos soluciones) solo ocurre si $h < a < b$. Piensa en la relación entre los lados y sus ángulos opuestos.",
+    "explanation": "El caso ambiguo solo es posible si el lado opuesto al ángulo conocido ($a$) es menor que el otro lado conocido ($b$), es decir, $a < b$. Si $a \\ge b$, la segunda solución obtusa ($180^{\\circ} - B$) siempre resulta en que la suma de ángulos ($A + (180^{\\circ} - B)$) excede $180^{\\circ}$, o bien, la segunda solución no es diferente. Si $a > b$, $A > B$, y el ángulo $B$ debe ser agudo.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "GYT00BG",
+    "question": "Un estudiante del CEPREDIX deduce que, para un triángulo $\\Delta ABC$ acutángulo con lados $a, b, c$, se debe cumplir que $a^2 < b^2 + c^2$, $b^2 < a^2 + c^2$ y $c^2 < a^2 + b^2$. ¿Cuál es el significado de esta triple condición en términos de la Ley de Cosenos?",
+    "image": null,
+    "options": [
+      { "text": "Los cosenos de los tres ángulos ($A, B, C$) deben ser positivos", "correct": true },
+      { "text": "La Ley de Senos no puede ser aplicada", "correct": false },
+      { "text": "Los ángulos deben ser menores que $30^{\\circ}$", "correct": false },
+      { "text": "El término $2bc \\cos(A)$ debe ser cero para todos los ángulos", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO"],
+    "hint": "Despeja $\\cos(A)$ de la Ley de Cosenos: $a^2 = b^2 + c^2 - 2bc \\cos(A)$. La fórmula despejada para el coseno de $A$ es $\\cos(A) = \\frac{b^2 + c^2 - a^2}{2bc}$.",
+    "explanation": "Un triángulo es acutángulo si sus tres ángulos son agudos (menores de $90^{\\circ}$). Si un ángulo $A < 90^{\\circ}$, entonces $\\cos(A) > 0$. Para que $\\cos(A) = \\frac{b^2 + c^2 - a^2}{2bc}$ sea positivo, el numerador ($b^2 + c^2 - a^2$) debe ser positivo, lo que implica $b^2 + c^2 > a^2$. Esta condición se debe cumplir para los tres ángulos para que el triángulo sea acutángulo.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "GYT00BH",
+    "question": "En un triángulo $\\Delta ABC$, se sabe que $\\frac{a}{\\sin(A)} = \\frac{b}{\\sin(B)}$. Se quiere aplicar la Ley de Senos en una geometría no euclidiana (por ejemplo, en la superficie de una esfera, donde la suma de ángulos no es $180^{\\circ}$). Si en esta nueva geometría, los lados $a$ y $b$ se miden en ángulos (e.g., $a = 2R \\cdot \\alpha$), ¿qué principio de la Ley de Senos es el que se mantiene como invariante?",
+    "image": null,
+    "options": [
+      { "text": "La proporcionalidad entre el lado y la función trigonométrica del ángulo opuesto", "correct": true },
+      { "text": "La reducción al Teorema de Pitágoras en triángulos 'rectos'", "correct": false },
+      { "text": "La constante de proporcionalidad debe ser siempre igual a 1", "correct": false },
+      { "text": "El caso ambiguo LLA siempre tiene dos soluciones", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO"],
+    "hint": "La Ley de Senos Esférica, por ejemplo, es $\\frac{\\sin(a)}{\\sin(A)} = \\frac{\\sin(b)}{\\sin(B)}$. Se mantiene la idea de la relación proporcional.",
+    "explanation": "El principio fundamental de la Ley de Senos, incluso en geometrías curvas (no euclidianas), es que existe una relación de proporcionalidad entre una medida del lado y alguna función (a menudo el seno) del ángulo opuesto. La forma exacta de la ley puede cambiar, pero el concepto de proporcionalidad es invariante.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "GYT00BI",
+    "question": "En la Ley de Senos $\\frac{a}{\\sin(A)} = \\frac{b}{\\sin(B)}$, si el triángulo es isósceles con $a=b$, se debe cumplir que los ángulos opuestos $A$ y $B$ son ______ ($A=B$). Por lo tanto, si $A$ es agudo, $B$ es también agudo; si $A$ es recto, $B$ es también recto. No obstante, si $A$ fuera obtuso, se violaría el postulado de que la suma de ángulos internos es ______.",
+    "image": null,
+    "options": [
+      { "text": "Iguales, $180^{\\circ}$", "correct": true },
+      { "text": "Opuestos, $360^{\\circ}$", "correct": false },
+      { "text": "Complementarios, $90^{\\circ}$", "correct": false },
+      { "text": "Diferentes, $180^{\\circ}$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO"],
+    "hint": "Recuerda que a lados iguales se oponen ángulos iguales. Considera qué pasaría si en un triángulo $A=B=100^{\\circ}$.",
+    "explanation": "En un triángulo isósceles, a lados iguales se oponen ángulos iguales. Si $A=B$, entonces $\\sin(A)=\\sin(B)$, lo que verifica la ley. Si $A$ y $B$ fueran obtusos (e.g., $100^{\\circ}$ cada uno), su suma ya sería $200^{\\circ}$, excediendo los $180^{\\circ}$ de la suma de los ángulos internos, lo que es imposible en la geometría euclidiana.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "GYT00BJ",
+    "question": "El CEPREDIX plantea un problema de navegación donde se busca la distancia ($c$) entre dos boyas, conociendo la distancia desde un faro a cada boya ($a$ y $b$) y el ángulo ($C$) formado en el faro. La Ley de Cosenos a utilizar es $c^2 = a^2 + b^2 - 2ab \\cos(C)$. Si los lados $a$ y $b$ son constantes y el ángulo $C$ aumenta de $0^{\\circ}$ a $180^{\\circ}$, ¿cómo se comporta la distancia $c$?",
+    "image": null,
+    "options": [
+      { "text": "Aumenta monótonamente", "correct": true },
+      { "text": "Disminuye monótonamente", "correct": false },
+      { "text": "Aumenta y luego disminuye", "correct": false },
+      { "text": "Se mantiene constante", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO"],
+    "hint": "Analiza cómo se comporta la función $\\cos(C)$ en el intervalo $C \\in [0^{\\circ}, 180^{\\circ}]$ y cómo afecta el término $ -2ab \\cos(C)$ a $c^2$.",
+    "explanation": "En el intervalo $C \\in [0^{\\circ}, 180^{\\circ}]$, el $\\cos(C)$ disminuye monótonamente de $1$ a $-1$. A medida que $\\cos(C)$ se hace más pequeño (más negativo), el término restado ($-2ab \\cos(C)$) se convierte en una suma más grande. Por lo tanto, $c^2$ y, en consecuencia, $c$ (la distancia), aumentan de forma monótona a medida que el ángulo $C$ se abre.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "GYT00BK",
+    "question": "En un triángulo $\\Delta ABC$, si los lados $a = 4 \\text{ cm}$ y $b = 5 \\text{ cm}$ forman un ángulo $C = 60^{\\circ}$, ¿cuál es la longitud del lado $c$?",
+    "image": null,
+    "options": [
+      { "text": "$\\sqrt{21} \\text{ cm}$", "correct": true },
+      { "text": "$\\sqrt{41} \\text{ cm}$", "correct": false },
+      { "text": "$2\\sqrt{5} \\text{ cm}$", "correct": false },
+      { "text": "$5 \\text{ cm}$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN", "UAM"],
     "level_tag": ["BÁSICO"],
-    "hint": "Proporción directa. Calcula peso por caja.",
-    "explanation": "Peso por caja: $40 ÷ 5 = 8$ kg. 9 cajas: $9 × 8 = 72$ kg.",
+    "hint": "Usa la Ley de Cosenos: $a^2 = b^2 + c^2 - 2bc \\cos(A)$. Despeja el lado $c$ de la ecuación correspondiente.",
+    "explanation": "La Ley de Cosenos para $c$ es $c^2 = a^2 + b^2 - 2ab \\cos(C)$. Sustituyendo: $c^2 = 4^2 + 5^2 - 2(4)(5)\\cos(60^{\\circ}) = 16 + 25 - 40(1/2) = 41 - 20 = 21$. Por lo tanto, $c = \\sqrt{21} \\text{ cm}$.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
-    "id": "PMA00BU",
-    "question": "Calcule: $\\sqrt{169} + \\sqrt{64} - \\sqrt{25}$",
+    "id": "GYT00BL",
+    "question": "En un triángulo $\\Delta ABC$, se conocen el lado $a = 6 \\text{ m}$, el lado $b = 8 \\text{ m}$ y el ángulo $A = 30^{\\circ}$. ¿Cuál es el valor exacto de $\\sin(B)$?",
     "image": null,
     "options": [
-      { "text": "14", "correct": true },
-      { "text": "12", "correct": false },
-      { "text": "16", "correct": false },
-      { "text": "10", "correct": false }
+      { "text": "$\\frac{2}{3}$", "correct": true },
+      { "text": "$\\frac{3}{4}$", "correct": false },
+      { "text": "$\\frac{4}{3}$", "correct": false },
+      { "text": "$\\frac{1}{2}$", "correct": false }
     ],
-    "uni_tags": ["GENERAL"],
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN", "UAM"],
     "level_tag": ["BÁSICO"],
-    "hint": "Calcula cada raíz cuadrada primero.",
-    "explanation": "$\\sqrt{169} = 13$, $\\sqrt{64} = 8$, $\\sqrt{25} = 5$. Entonces: $13 + 8 - 5 = 16$.",
+    "hint": "Aplica la Ley de Senos en la forma: $\\frac{\\sin(B)}{b} = \\frac{\\sin(A)}{a}$. Despeja $\\sin(B)$.",
+    "explanation": "Usando la Ley de Senos: $\\frac{\\sin(B)}{8} = \\frac{\\sin(30^{\\circ})}{6}$. $\\sin(B) = \\frac{8 \\cdot (1/2)}{6} = \\frac{4}{6} = \\frac{2}{3}$.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
-    "id": "PMA00BV",
-    "question": "Un salario de $\\$12,000$ aumenta un 15%. ¿Cuál es el nuevo salario?",
+    "id": "GYT00BM",
+    "question": "Se tiene un triángulo isósceles $\\Delta ABC$ con lados $b = 10 \\text{ m}$ y $c = 10 \\text{ m}$. Si el ángulo entre ellos es $A = 120^{\\circ}$, ¿cuál es la longitud del lado $a$?",
     "image": null,
     "options": [
-      { "text": "$\\$13,800$", "correct": true },
-      { "text": "$\\$13,500$", "correct": false },
-      { "text": "$\\$14,000$", "correct": false },
-      { "text": "$\\$13,200$", "correct": false }
+      { "text": "$10\\sqrt{3} \\text{ m}$", "correct": true },
+      { "text": "$10 \\text{ m}$", "correct": false },
+      { "text": "$10\\sqrt{2} \\text{ m}$", "correct": false },
+      { "text": "$20 \\text{ m}$", "correct": false }
     ],
-    "uni_tags": ["GENERAL"],
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN", "UAM"],
     "level_tag": ["BÁSICO"],
-    "hint": "Calcula el 15% de 12,000 y súmalo.",
-    "explanation": "Aumento: $12,000 × 0.15 = 1,800$. Nuevo salario: $12,000 + 1,800 = \\$13,800$.",
+    "hint": "La Ley de Cosenos se aplica como $a^2 = b^2 + c^2 - 2bc \\cos(A)$. Recuerda que $\\cos(120^{\\circ}) = -1/2$.",
+    "explanation": "Sustituyendo en la Ley de Cosenos: $a^2 = 10^2 + 10^2 - 2(10)(10)\\cos(120^{\\circ}) = 100 + 100 - 200(-1/2) = 200 + 100 = 300$. Por lo tanto, $a = \\sqrt{300} = \\sqrt{100 \\cdot 3} = 10\\sqrt{3} \\text{ m}$.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
-    "id": "PMA00BW",
-    "question": "Si 4 camiones transportan 80 toneladas en 5 viajes, ¿cuántas toneladas transportarán 6 camiones en 8 viajes?",
+    "id": "GYT00BN",
+    "question": "Si en un triángulo $\\Delta ABC$ se conocen los ángulos $A = 45^{\\circ}$ y $C = 90^{\\circ}$, y el lado $a = 2\\sqrt{2} \\text{ km}$. ¿Cuál es la longitud del lado $c$?",
     "image": null,
     "options": [
-      { "text": "192 toneladas", "correct": true },
-      { "text": "180 toneladas", "correct": false },
-      { "text": "200 toneladas", "correct": false },
-      { "text": "160 toneladas", "correct": false }
+      { "text": "$4 \\text{ km}$", "correct": true },
+      { "text": "$2 \\text{ km}$", "correct": false },
+      { "text": "$2\\sqrt{2} \\text{ km}$", "correct": false },
+      { "text": "$8 \\text{ km}$", "correct": false }
     ],
-    "uni_tags": ["GENERAL"],
-    "level_tag": ["INTERMEDIO"],
-    "hint": "Calcula toneladas por camión por viaje.",
-    "explanation": "Toneladas por camión por viaje: $80 ÷ (4 × 5) = 4$ toneladas. Con 6 camiones en 8 viajes: $6 × 8 × 4 = 192$ toneladas.",
-    "explanative_video": null,
-    "collapsible_text": null
-  },
-  {
-    "id": "PMA00BX",
-    "question": "¿Qué número es el 30% de 250?",
-    "image": null,
-    "options": [
-      { "text": "75", "correct": true },
-      { "text": "60", "correct": false },
-      { "text": "80", "correct": false },
-      { "text": "70", "correct": false }
-    ],
-    "uni_tags": ["GENERAL"],
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN", "UAM"],
     "level_tag": ["BÁSICO"],
-    "hint": "Multiplica 250 por 0.30.",
-    "explanation": "$250 × 0.30 = 75$.",
+    "hint": "En un triángulo, la suma de los ángulos es $180^{\\circ}$. Usa la Ley de Senos: $\\frac{a}{\\sin(A)} = \\frac{c}{\\sin(C)}$.",
+    "explanation": "El ángulo $B = 180^{\\circ} - 90^{\\circ} - 45^{\\circ} = 45^{\\circ}$. Aplicando la Ley de Senos: $\\frac{c}{\\sin(90^{\\circ})} = \\frac{2\\sqrt{2}}{\\sin(45^{\\circ})}$. $c = \\frac{2\\sqrt{2} \\cdot 1}{\\sqrt{2}/2} = 2\\sqrt{2} \\cdot \\frac{2}{\\sqrt{2}} = 4 \\text{ km}$.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
-    "id": "PMA00BY",
-    "question": "Un tren recorre 420 km en 3.5 horas. ¿Cuál es su velocidad promedio en km/h?",
+    "id": "GYT00BO",
+    "question": "Dado un triángulo con lados $a=3, b=4, c=5$ unidades. ¿Cuál es el valor del $\\cos(A)$?",
     "image": null,
     "options": [
-      { "text": "120 km/h", "correct": true },
-      { "text": "115 km/h", "correct": false },
-      { "text": "125 km/h", "correct": false },
-      { "text": "130 km/h", "correct": false }
+      { "text": "$0.8$", "correct": true },
+      { "text": "$0.6$", "correct": false },
+      { "text": "$0$", "correct": false },
+      { "text": "$1$", "correct": false }
     ],
-    "uni_tags": ["GENERAL"],
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN", "UAM"],
     "level_tag": ["BÁSICO"],
-    "hint": "Velocidad = distancia ÷ tiempo.",
-    "explanation": "Velocidad = $420 ÷ 3.5 = 120$ km/h.",
+    "hint": "Usa la Ley de Cosenos despejada para $\\cos(A)$: $2bc \\cos(A) = b^2 + c^2 - a^2$.",
+    "explanation": "Aplicando la Ley de Cosenos para $\\cos(A)$: $\\cos(A) = \\frac{4^2 + 5^2 - 3^2}{2(4)(5)} = \\frac{16 + 25 - 9}{40} = \\frac{32}{40} = \\frac{4}{5} = 0.8$.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
-    "id": "PMA00BZ",
-    "question": "Calcule: $7^2 × 2 - 5^2 + 18 ÷ 3$",
+    "id": "GYT00BP",
+    "question": "En un triángulo $\\Delta ABC$, si $a = 12 \\text{ cm}$ y $c = 15 \\text{ cm}$ y el ángulo $B = 105^{\\circ}$. Usando $\\cos(105^{\\circ}) \\approx -0.2588$, ¿cuál es el valor aproximado del lado $b$?",
     "image": null,
     "options": [
-      { "text": "85", "correct": true },
-      { "text": "80", "correct": false },
-      { "text": "75", "correct": false },
-      { "text": "90", "correct": false }
+      { "text": "$21.50 \\text{ cm}$", "correct": true },
+      { "text": "$18.66 \\text{ cm}$", "correct": false },
+      { "text": "$19.20 \\text{ cm}$", "correct": false },
+      { "text": "$22.36 \\text{ cm}$", "correct": false }
     ],
-    "uni_tags": ["GENERAL"],
-    "level_tag": ["INTERMEDIO"],
-    "hint": "Sigue el orden de operaciones: potencias, multiplicación/división, suma/resta.",
-    "explanation": "$7^2 = 49$, $5^2 = 25$, $18 ÷ 3 = 6$. Entonces: $49 × 2 - 25 + 6 = 98 - 25 + 6 = 79$.",
-    "explanative_video": null,
-    "collapsible_text": null
-  },
-  {
-    "id": "PMA00CA",
-    "question": "Un artículo que costaba $\\$400$ se rebaja un 25%. ¿Cuál es su nuevo precio?",
-    "image": null,
-    "options": [
-      { "text": "$\\$300$", "correct": true },
-      { "text": "$\\$350$", "correct": false },
-      { "text": "$\\$320$", "correct": false },
-      { "text": "$\\$280$", "correct": false }
-    ],
-    "uni_tags": ["GENERAL"],
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN", "UAM"],
     "level_tag": ["BÁSICO"],
-    "hint": "Calcula el 25% de 400 y réstalo.",
-    "explanation": "Rebaja: $400 × 0.25 = 100$. Nuevo precio: $400 - 100 = \\$300$.",
+    "hint": "La Ley de Cosenos para $b$ es $b^2 = a^2 + c^2 - 2ac \\cos(B)$. Calcula el valor de $b^2$ y luego saca la raíz cuadrada.",
+    "explanation": "Sustituyendo: $b^2 = 12^2 + 15^2 - 2(12)(15)(-0.2588) = 144 + 225 - 360(-0.2588) = 369 + 93.168 = 462.168$. $b = \\sqrt{462.168} \\approx 21.50 \\text{ cm}$.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
-    "id": "PMA00CB",
-    "question": "Si 10 trabajadores terminan una obra en 24 días, ¿cuántos días tardarán 15 trabajadores?",
+    "id": "GYT00BQ",
+    "question": "Se conoce un triángulo $\\Delta ABC$ con $A = 50^{\\circ}$, lado $a = 10$ y lado $c = 13$. Usando $\\sin(50^{\\circ}) \\approx 0.7660$, ¿cuál es el valor aproximado de $\\sin(C)$?",
     "image": null,
     "options": [
-      { "text": "16 días", "correct": true },
-      { "text": "18 días", "correct": false },
-      { "text": "20 días", "correct": false },
-      { "text": "14 días", "correct": false }
+      { "text": "$0.9958$", "correct": true },
+      { "text": "$0.59$", "correct": false },
+      { "text": "$1.20$", "correct": false },
+      { "text": "$0.7660$", "correct": false }
     ],
-    "uni_tags": ["GENERAL"],
-    "level_tag": ["INTERMEDIO"],
-    "hint": "Proporción inversa: más trabajadores, menos días.",
-    "explanation": "Trabajadores × Días = constante. $10 × 24 = 240$. Con 15 trabajadores: $240 ÷ 15 = 16$ días.",
-    "explanative_video": null,
-    "collapsible_text": null
-  },
-  {
-    "id": "PMA00CC",
-    "question": "¿Qué porcentaje representa 45 de 180?",
-    "image": null,
-    "options": [
-      { "text": "25%", "correct": true },
-      { "text": "30%", "correct": false },
-      { "text": "20%", "correct": false },
-      { "text": "35%", "correct": false }
-    ],
-    "uni_tags": ["GENERAL"],
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN", "UAM"],
     "level_tag": ["BÁSICO"],
-    "hint": "Divide 45 entre 180 y multiplica por 100.",
-    "explanation": "$(45 ÷ 180) × 100 = 0.25 × 100 = 25\\%$.",
+    "hint": "Usa la Ley de Senos en la forma: $\\frac{\\sin(C)}{c} = \\frac{\\sin(A)}{a}$. Despeja $\\sin(C)$.",
+    "explanation": "Aplicando la Ley de Senos: $\\sin(C) = \\frac{c \\sin(A)}{a} = \\frac{13 \\cdot 0.7660}{10} = \\frac{9.958}{10} = 0.9958$.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
-    "id": "PMA00CD",
-    "question": "Calcule: $\\frac{5}{8} × \\frac{4}{15} + \\frac{1}{3}$",
+    "id": "GYT00BR",
+    "question": "Son expresiones matemáticas que representan la Ley de Cosenos para calcular los ángulos de un triángulo con lados $a, b, c$ y ángulos opuestos $A, B, C$: \\nI. $\\cos(A) = \\frac{b^2 + c^2 - a^2}{2bc}$ \\nII. $\\cos(B) = \\frac{a^2 + c^2 - b^2}{2ac}$ \\nIII. $\\frac{a}{\\sin(A)} = \\frac{b}{\\sin(B)}$ \\nIV. $\\cos(C) = \\frac{a^2 + b^2 - c^2}{2ab}$",
     "image": null,
     "options": [
-      { "text": "$\\frac{1}{2}$", "correct": true },
-      { "text": "$\\frac{3}{5}$", "correct": false },
-      { "text": "$\\frac{7}{12}$", "correct": false },
-      { "text": "$\\frac{5}{9}$", "correct": false }
+      { "text": "I, II y IV", "correct": true },
+      { "text": "I y III", "correct": false },
+      { "text": "II y IV", "correct": false },
+      { "text": "Todas", "correct": false }
     ],
-    "uni_tags": ["GENERAL"],
-    "level_tag": ["INTERMEDIO"],
-    "hint": "Multiplica primero, luego simplifica y suma.",
-    "explanation": "$\\frac{5}{8} × \\frac{4}{15} = \\frac{20}{120} = \\frac{1}{6}$. $\\frac{1}{6} + \\frac{1}{3} = \\frac{1}{6} + \\frac{2}{6} = \\frac{3}{6} = \\frac{1}{2}$.",
-    "explanative_video": null,
-    "collapsible_text": null
-  },
-  {
-    "id": "PMA00CE",
-    "question": "Un terreno cuadrado tiene un área de 144 m². ¿Cuánto mide su perímetro?",
-    "image": null,
-    "options": [
-      { "text": "48 m", "correct": true },
-      { "text": "36 m", "correct": false },
-      { "text": "42 m", "correct": false },
-      { "text": "52 m", "correct": false }
-    ],
-    "uni_tags": ["GENERAL"],
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN", "UAM"],
     "level_tag": ["BÁSICO"],
-    "hint": "Primero calcula el lado del cuadrado.",
-    "explanation": "Lado = $\\sqrt{144} = 12$ m. Perímetro = $4 × 12 = 48$ m.",
+    "hint": "La Ley de Cosenos relaciona el cuadrado de un lado con la suma de los cuadrados de los otros dos y el coseno del ángulo opuesto. La expresión III corresponde a la Ley de Senos.",
+    "explanation": "Las expresiones I, II y IV son las formas despejadas de la Ley de Cosenos que se utilizan para calcular el coseno de cada ángulo cuando se conocen los tres lados. La expresión III es la Ley de Senos.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
-    "id": "PMA00CF",
-    "question": "Si 3 lápices cuestan $\\$18$, ¿cuánto costarán 7 lápices?",
+    "id": "GYT00BS",
+    "question": "El teorema de Pitágoras es un caso especial de la Ley de Cosenos que se aplica cuando el ángulo opuesto al lado buscado es ______ (A) y el valor de su coseno es ______ (B).",
     "image": null,
     "options": [
-      { "text": "$\\$42$", "correct": true },
-      { "text": "$\\$38$", "correct": false },
-      { "text": "$\\$45$", "correct": false },
-      { "text": "$\\$40$", "correct": false }
+      { "text": "Recto, Cero", "correct": true },
+      { "text": "Agudo, Positivo", "correct": false },
+      { "text": "Obtuso, Negativo", "correct": false },
+      { "text": "Cero, Indefinido", "correct": false }
     ],
-    "uni_tags": ["GENERAL"],
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN", "UAM"],
     "level_tag": ["BÁSICO"],
-    "hint": "Calcula el precio por lápiz.",
-    "explanation": "Precio por lápiz: $18 ÷ 3 = \\$6$. 7 lápices: $7 × 6 = \\$42$.",
+    "hint": "Recuerda que si $A=90^{\\circ}$, la fórmula $a^2 = b^2 + c^2 - 2bc \\cos(A)$ debe simplificarse a $a^2 = b^2 + c^2$.",
+    "explanation": "Si el ángulo $A$ es recto ($90^{\\circ}$), $\\cos(A) = 0$. Al sustituir en la Ley de Cosenos, el término $-2bc \\cos(A)$ se anula, resultando en el Teorema de Pitágoras $a^2 = b^2 + c^2$.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
-    "id": "PMA00CG",
-    "question": "Calcule: $125 ÷ 25 + 3^3 - 4 × 5$",
+    "id": "GYT00BT",
+    "question": "En la Ley de Senos, la proporción $\\frac{a}{\\sin(A)}$ es igual a $2R$, donde $R$ es el ______ (A) del círculo ______ (B) del triángulo.",
     "image": null,
     "options": [
-      { "text": "12", "correct": true },
-      { "text": "10", "correct": false },
-      { "text": "14", "correct": false },
-      { "text": "8", "correct": false }
+      { "text": "Radio, Circunscrito", "correct": true },
+      { "text": "Diámetro, Inscrito", "correct": false },
+      { "text": "Radio, Inscrito", "correct": false },
+      { "text": "Diámetro, Circunscrito", "correct": false }
     ],
-    "uni_tags": ["GENERAL"],
-    "level_tag": ["INTERMEDIO"],
-    "hint": "Realiza operaciones en orden: división, potencia, multiplicación, suma/resta.",
-    "explanation": "$125 ÷ 25 = 5$, $3^3 = 27$, $4 × 5 = 20$. Entonces: $5 + 27 - 20 = 12$.",
-    "explanative_video": null,
-    "collapsible_text": null
-  },
-  {
-    "id": "PMA00CH",
-    "question": "Un vendedor gana el 15% de comisión sobre sus ventas. Si vendió $\\$8,000$, ¿cuánto ganó de comisión?",
-    "image": null,
-    "options": [
-      { "text": "$\\$1,200$", "correct": true },
-      { "text": "$\\$1,000$", "correct": false },
-      { "text": "$\\$1,500$", "correct": false },
-      { "text": "$\\$1,300$", "correct": false }
-    ],
-    "uni_tags": ["GENERAL"],
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN", "UAM"],
     "level_tag": ["BÁSICO"],
-    "hint": "Calcula el 15% de 8,000.",
-    "explanation": "Comisión = $8,000 × 0.15 = \\$1,200$.",
+    "hint": "El círculo circunscrito es el que pasa por los vértices del triángulo. Su diámetro es $2R$.",
+    "explanation": "La extensión de la Ley de Senos establece que la razón constante es igual al diámetro ($2R$) del círculo circunscrito (el que pasa por los tres vértices) al triángulo. Por lo tanto, $R$ es el radio.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
-    "id": "PMA00CI",
-    "question": "Si 5 máquinas producen 1,200 piezas en 6 horas, ¿cuántas piezas producirá 1 máquina en 8 horas?",
+    "id": "GYT00BU",
+    "question": "En el caso LLA (Lado-Lado-Ángulo) de la Ley de Senos, si se cumple la relación $a \\sin(B) < b$, pero $a \\ge b$, se tendrá una solución ______ (A) porque el lado $a$ es el ______ (B).",
     "image": null,
     "options": [
-      { "text": "320 piezas", "correct": true },
-      { "text": "300 piezas", "correct": false },
-      { "text": "350 piezas", "correct": false },
-      { "text": "280 piezas", "correct": false }
+      { "text": "Única, Mayor o igual", "correct": true },
+      { "text": "Ambigua, Menor", "correct": false },
+      { "text": "Imposible, Menor", "correct": false },
+      { "text": "Doble, Mayor", "correct": false }
     ],
-    "uni_tags": ["GENERAL"],
-    "level_tag": ["INTERMEDIO"],
-    "hint": "Calcula la producción por máquina por hora.",
-    "explanation": "Producción por máquina por hora: $1,200 ÷ (5 × 6) = 40$ piezas. 1 máquina en 8 horas: $1 × 8 × 40 = 320$ piezas.",
-    "explanative_video": null,
-    "collapsible_text": null
-  },
-  {
-    "id": "PMA00CJ",
-    "question": "¿De qué número es 56 el 40%?",
-    "image": null,
-    "options": [
-      { "text": "140", "correct": true },
-      { "text": "120", "correct": false },
-      { "text": "160", "correct": false },
-      { "text": "150", "correct": false }
-    ],
-    "uni_tags": ["GENERAL"],
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN", "UAM"],
     "level_tag": ["BÁSICO"],
-    "hint": "Si 56 es el 40%, calcula el 100%.",
-    "explanation": "Número = $56 ÷ 0.40 = 140$.",
+    "hint": "El caso ambiguo (doble solución) sólo se da cuando el lado opuesto al ángulo conocido es más pequeño que el otro lado conocido ($a < b$).",
+    "explanation": "La ambigüedad (dos soluciones) solo ocurre si la altura $h < a < b$. Si el lado $a$ es mayor o igual que el lado $b$ ($a \\ge b$), solo puede haber una solución, ya que la solución obtusa para el ángulo $B$ es imposible (la suma de los ángulos excedería $180^{\\circ}$).",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
-    "id": "PMA00CK",
-    "question": "Un auto consume 8 litros de gasolina cada 100 km. ¿Cuántos litros consumirá en un viaje de 350 km?",
+    "id": "GYT00BV",
+    "question": "Relaciona correctamente el caso de información de un triángulo (LLL: Lado-Lado-Lado, LAL: Lado-Ángulo-Lado, LLA: Lado-Lado-Ángulo) con la ley trigonométrica más adecuada para el cálculo inicial de un dato desconocido (lado o ángulo). \\nA) LLL \\nB) LAL \\nC) LLA \\nI) Ley de Senos (Caso Ambiguo) \\nII) Ley de Cosenos",
     "image": null,
     "options": [
-      { "text": "28 litros", "correct": true },
-      { "text": "25 litros", "correct": false },
-      { "text": "30 litros", "correct": false },
-      { "text": "32 litros", "correct": false }
+      { "text": "A-II; B-II; C-I", "correct": true },
+      { "text": "A-I; B-II; C-I", "correct": false },
+      { "text": "A-II; B-I; C-II", "correct": false },
+      { "text": "A-I; B-I; C-II", "correct": false }
     ],
-    "uni_tags": ["GENERAL"],
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN", "UAM"],
     "level_tag": ["BÁSICO"],
-    "hint": "Calcula el consumo por km primero.",
-    "explanation": "Consumo por km: $8 ÷ 100 = 0.08$ L/km. Para 350 km: $350 × 0.08 = 28$ litros.",
+    "hint": "La Ley de Cosenos se usa cuando no se conoce ningún par completo lado-ángulo opuesto. La Ley de Senos se usa para el caso ambiguo.",
+    "explanation": "LLL y LAL no tienen un par completo lado-ángulo opuesto conocido, por lo que inician con la Ley de Cosenos. LLA inicia con la Ley de Senos para encontrar el ángulo opuesto al segundo lado conocido.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
-    "id": "PMA00CL",
-    "question": "Calcule: $2.4 × 1.5 - 0.8 ÷ 0.4 + 3.2$",
+    "id": "GYT00BW",
+    "question": "Calcula la longitud del lado $b$ en un triángulo $\\Delta ABC$ si $A=55^{\\circ}, B=75^{\\circ}$ y $a=8 \\text{ m}$. Usa $\\sin(55^{\\circ}) \\approx 0.8192$ y $\\sin(75^{\\circ}) \\approx 0.9659$.",
     "image": null,
     "options": [
-      { "text": "6", "correct": true },
-      { "text": "5.5", "correct": false },
-      { "text": "6.5", "correct": false },
-      { "text": "7", "correct": false }
+      { "text": "$9.43 \\text{ m}$", "correct": true },
+      { "text": "$6.70 \\text{ m}$", "correct": false },
+      { "text": "$10.25 \\text{ m}$", "correct": false },
+      { "text": "$8.90 \\text{ m}$", "correct": false }
     ],
-    "uni_tags": ["GENERAL"],
-    "level_tag": ["INTERMEDIO"],
-    "hint": "Realiza multiplicación y división primero, luego suma/resta.",
-    "explanation": "$2.4 × 1.5 = 3.6$, $0.8 ÷ 0.4 = 2$. Entonces: $3.6 - 2 + 3.2 = 4.8$.",
-    "explanative_video": null,
-    "collapsible_text": null
-  },
-  {
-    "id": "PMA00CM",
-    "question": "Un producto se vende en $\\$540$ con una pérdida del 10% sobre el costo. ¿Cuál fue el costo del producto?",
-    "image": null,
-    "options": [
-      { "text": "$\\$600$", "correct": true },
-      { "text": "$\\$580$", "correct": false },
-      { "text": "$\\$620$", "correct": false },
-      { "text": "$\\$560$", "correct": false }
-    ],
-    "uni_tags": ["GENERAL"],
-    "level_tag": ["INTERMEDIO"],
-    "hint": "Si $540$ es el 90% del costo, calcula el 100%.",
-    "explanation": "Costo = $540 ÷ 0.90 = \\$600$.",
-    "explanative_video": null,
-    "collapsible_text": null
-  },
-  {
-    "id": "PMA00CN",
-    "question": "Si 6 albañiles construyen un muro en 10 días, ¿cuántos albañiles se necesitan para construirlo en 4 días?",
-    "image": null,
-    "options": [
-      { "text": "15 albañiles", "correct": true },
-      { "text": "12 albañiles", "correct": false },
-      { "text": "18 albañiles", "correct": false },
-      { "text": "20 albañiles", "correct": false }
-    ],
-    "uni_tags": ["GENERAL"],
-    "level_tag": ["INTERMEDIO"],
-    "hint": "Proporción inversa: menos días, más albañiles.",
-    "explanation": "Albañiles × Días = constante. $6 × 10 = 60$. Para 4 días: $60 ÷ 4 = 15$ albañiles.",
-    "explanative_video": null,
-    "collapsible_text": null
-  },
-  {
-    "id": "PMA00CO",
-    "question": "Calcule: $\\frac{2}{3} + \\frac{3}{4} - \\frac{5}{6}$",
-    "image": null,
-    "options": [
-      { "text": "$\\frac{7}{12}$", "correct": true },
-      { "text": "$\\frac{1}{2}$", "correct": false },
-      { "text": "$\\frac{5}{8}$", "correct": false },
-      { "text": "$\\frac{3}{4}$", "correct": false }
-    ],
-    "uni_tags": ["GENERAL"],
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN", "UAM"],
     "level_tag": ["BÁSICO"],
-    "hint": "Encuentra un denominador común (12).",
-    "explanation": "$\\frac{2}{3} = \\frac{8}{12}$, $\\frac{3}{4} = \\frac{9}{12}$, $\\frac{5}{6} = \\frac{10}{12}$. Suma: $\\frac{8+9-10}{12} = \\frac{7}{12}$.",
+    "hint": "Usa la Ley de Senos: $\\frac{b}{\\sin(B)} = \\frac{a}{\\sin(A)}$. Despeja el lado $b$.",
+    "explanation": "Aplicando la Ley de Senos: $b = \\frac{a \\sin(B)}{\\sin(A)} = \\frac{8 \\cdot 0.9659}{0.8192} = \\frac{7.7272}{0.8192} \\approx 9.432 \\text{ m}$.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
-    "id": "PMA00CP",
-    "question": "Un inversionista ganó $\\$750$ que representa el 15% de su inversión. ¿Cuánto invirtió?",
+    "id": "GYT00BX",
+    "question": "Si en un triángulo $\\Delta XYZ$ se tiene $x=9$ unidades, $z=12$ unidades y el ángulo $Y=135^{\\circ}$. ¿Cuál es el valor exacto de $y^2$?",
     "image": null,
     "options": [
-      { "text": "$\\$5,000$", "correct": true },
-      { "text": "$\\$4,500$", "correct": false },
-      { "text": "$\\$5,500$", "correct": false },
-      { "text": "$\\$6,000$", "correct": false }
+      { "text": "$225 + 108\\sqrt{2}$", "correct": true },
+      { "text": "$225 - 108\\sqrt{2}$", "correct": false },
+      { "text": "$300$", "correct": false },
+      { "text": "$225 + 216\\sqrt{2}$", "correct": false }
     ],
-    "uni_tags": ["GENERAL"],
-    "level_tag": ["INTERMEDIO"],
-    "hint": "Si 750 es el 15%, calcula el 100%.",
-    "explanation": "Inversión = $750 ÷ 0.15 = \\$5,000$.",
-    "explanative_video": null,
-    "collapsible_text": null
-  },
-  {
-    "id": "PMA00CQ",
-    "question": "Si 4 libros pesan 3.2 kg, ¿cuánto pesarán 10 libros?",
-    "image": null,
-    "options": [
-      { "text": "8 kg", "correct": true },
-      { "text": "7.5 kg", "correct": false },
-      { "text": "8.5 kg", "correct": false },
-      { "text": "7.2 kg", "correct": false }
-    ],
-    "uni_tags": ["GENERAL"],
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN", "UAM"],
     "level_tag": ["BÁSICO"],
-    "hint": "Calcula el peso por libro.",
-    "explanation": "Peso por libro: $3.2 ÷ 4 = 0.8$ kg. 10 libros: $10 × 0.8 = 8$ kg.",
+    "hint": "Usa la Ley de Cosenos: $y^2 = x^2 + z^2 - 2xz \\cos(Y)$. Recuerda que $\\cos(135^{\\circ}) = -\\frac{\\sqrt{2}}{2}$.",
+    "explanation": "Sustituyendo: $y^2 = 9^2 + 12^2 - 2(9)(12)(-\\frac{\\sqrt{2}}{2}) = 81 + 144 - 216(-\\frac{\\sqrt{2}}{2}) = 225 + 108\\sqrt{2}$.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
-    "id": "PMA00CR",
-    "question": "Calcule: $\\sqrt{81} × \\sqrt{16} ÷ \\sqrt{36}$",
+    "id": "GYT00BY",
+    "question": "En un triángulo $\\Delta DEF$ con lados $d=15, e=18, f=20$ unidades. ¿Qué valor resulta de la expresión $e^2+f^2-d^2$?",
     "image": null,
     "options": [
-      { "text": "6", "correct": true },
-      { "text": "5", "correct": false },
-      { "text": "7", "correct": false },
-      { "text": "8", "correct": false }
+      { "text": "$479$", "correct": true },
+      { "text": "$15$", "correct": false },
+      { "text": "$180$", "correct": false },
+      { "text": "$540$", "correct": false }
     ],
-    "uni_tags": ["GENERAL"],
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN", "UAM"],
     "level_tag": ["BÁSICO"],
-    "hint": "Calcula cada raíz cuadrada primero.",
-    "explanation": "$\\sqrt{81} = 9$, $\\sqrt{16} = 4$, $\\sqrt{36} = 6$. Entonces: $9 × 4 ÷ 6 = 36 ÷ 6 = 6$.",
+    "hint": "Realiza la sustitución de los valores de los lados en la expresión y calcula el resultado numérico.",
+    "explanation": "La expresión es $18^2 + 20^2 - 15^2 = 324 + 400 - 225 = 724 - 225 = 499$.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
-    "id": "PMA00CS",
-    "question": "Un almacén tiene 200 productos. Si el 35% son defectuosos, ¿cuántos productos están en buen estado?",
+    "id": "GYT00BZ",
+    "question": "En un triángulo $\\Delta ABC$ con $a=10 \\text{ km}$ y $b=10 \\text{ km}$, si el ángulo $C=45^{\\circ}$, ¿cuál es la expresión exacta para el lado $c$?",
     "image": null,
     "options": [
-      { "text": "130", "correct": true },
-      { "text": "140", "correct": false },
-      { "text": "120", "correct": false },
-      { "text": "150", "correct": false }
+      { "text": "$10 \\sqrt{2 - \\sqrt{2}} \\text{ km}$", "correct": true },
+      { "text": "$10 \\sqrt{2} \\text{ km}$", "correct": false },
+      { "text": "$10 \\sqrt{2 + \\sqrt{2}} \\text{ km}$", "correct": false },
+      { "text": "$10 \\sqrt{4 - \\sqrt{2}} \\text{ km}$", "correct": false }
     ],
-    "uni_tags": ["GENERAL"],
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN", "UAM"],
     "level_tag": ["BÁSICO"],
-    "hint": "Calcula el 65% de 200 (100% - 35%).",
-    "explanation": "Productos buenos = $200 × 0.65 = 130$.",
+    "hint": "Usa la Ley de Cosenos: $c^2 = a^2 + b^2 - 2ab \\cos(C)$. Factoriza y recuerda que $\\cos(45^{\\circ}) = \\frac{\\sqrt{2}}{2}$.",
+    "explanation": "$c^2 = 10^2 + 10^2 - 2(10)(10)(\\frac{\\sqrt{2}}{2}) = 200 - 100\\sqrt{2} = 100(2 - \\sqrt{2})$. Por lo tanto, $c = \\sqrt{100(2 - \\sqrt{2})} = 10\\sqrt{2 - \\sqrt{2}} \\text{ km}$.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
-    "id": "PMA00CT",
-    "question": "Si 8 obreros hacen una obra en 15 días, ¿cuántos obreros harán la misma obra en 6 días?",
+    "id": "GYT00CA",
+    "question": "Para un triángulo $\\Delta PQR$, si se tiene el ángulo $Q=100^{\\circ}$, lado $q=5$ y lado $r=3$. Usando $\\sin(100^{\\circ}) \\approx 0.9848$, ¿cuál es el valor aproximado de $\\sin(R)$?",
     "image": null,
     "options": [
-      { "text": "20 obreros", "correct": true },
-      { "text": "18 obreros", "correct": false },
-      { "text": "22 obreros", "correct": false },
-      { "text": "24 obreros", "correct": false }
+      { "text": "$0.5909$", "correct": true },
+      { "text": "$1.641$", "correct": false },
+      { "text": "$0.5878$", "correct": false },
+      { "text": "$0.7660$", "correct": false }
     ],
-    "uni_tags": ["GENERAL"],
-    "level_tag": ["INTERMEDIO"],
-    "hint": "Proporción inversa: menos días, más obreros.",
-    "explanation": "Obreros × Días = constante. $8 × 15 = 120$. Para 6 días: $120 ÷ 6 = 20$ obreros.",
-    "explanative_video": null,
-    "collapsible_text": null
-  },
-  {
-    "id": "PMA00CU",
-    "question": "Calcule: $1.25 × 8 - 3.6 ÷ 1.2 + 2.5$",
-    "image": null,
-    "options": [
-      { "text": "10.5", "correct": true },
-      { "text": "9.5", "correct": false },
-      { "text": "11", "correct": false },
-      { "text": "10", "correct": false }
-    ],
-    "uni_tags": ["GENERAL"],
-    "level_tag": ["INTERMEDIO"],
-    "hint": "Realiza multiplicación y división primero.",
-    "explanation": "$1.25 × 8 = 10$, $3.6 ÷ 1.2 = 3$. Entonces: $10 - 3 + 2.5 = 9.5$.",
-    "explanative_video": null,
-    "collapsible_text": null
-  },
-  {
-    "id": "PMA00CV",
-    "question": "Un televisor se vende en $\\$3,600$ con una ganancia del 20% sobre el precio de venta. ¿Cuál fue el costo del televisor?",
-    "image": null,
-    "options": [
-      { "text": "$\\$2,880$", "correct": true },
-      { "text": "$\\$3,000$", "correct": false },
-      { "text": "$\\$2,700$", "correct": false },
-      { "text": "$\\$3,200$", "correct": false }
-    ],
-    "uni_tags": ["GENERAL"],
-    "level_tag": ["INTERMEDIO"],
-    "hint": "Si $3,600$ es el 120% del costo, calcula el 100%.",
-    "explanation": "Costo = $3,600 ÷ 1.20 = \\$3,000$. (Nota: corrección del cálculo) $3,600$ es el 120% del costo: $3,600 ÷ 1.20 = 3,000$.",
-    "explanative_video": null,
-    "collapsible_text": null
-  },
-  {
-    "id": "PMA00CW",
-    "question": "Si 12 metros de tela cuestan $\\$180$, ¿cuántos metros se pueden comprar con $\\$300$?",
-    "image": null,
-    "options": [
-      { "text": "20 metros", "correct": true },
-      { "text": "18 metros", "correct": false },
-      { "text": "22 metros", "correct": false },
-      { "text": "25 metros", "correct": false }
-    ],
-    "uni_tags": ["GENERAL"],
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN", "UAM"],
     "level_tag": ["BÁSICO"],
-    "hint": "Calcula el precio por metro primero.",
-    "explanation": "Precio por metro: $180 ÷ 12 = \\$15$. Con $300$: $300 ÷ 15 = 20$ metros.",
+    "hint": "Aplica la Ley de Senos en la forma: $\\frac{\\sin(R)}{r} = \\frac{\\sin(Q)}{q}$. Despeja $\\sin(R)$.",
+    "explanation": "Usando la Ley de Senos: $\\sin(R) = \\frac{r \\sin(Q)}{q} = \\frac{3 \\cdot 0.9848}{5} = \\frac{2.9544}{5} \\approx 0.5909$.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
-    "id": "PMA00CX",
-    "question": "Calcule: $2^5 - 3^3 + 4^2 ÷ 2$",
+    "id": "GYT00CB",
+    "question": "En un triángulo $\\Delta KLM$ con lados $k=2, l=3, m=4$ unidades. ¿Cuál es el valor del $\\cos(M)$?",
     "image": null,
     "options": [
-      { "text": "21", "correct": true },
-      { "text": "19", "correct": false },
-      { "text": "23", "correct": false },
-      { "text": "17", "correct": false }
+      { "text": "$-\\frac{1}{4}$", "correct": true },
+      { "text": "$\\frac{1}{4}$", "correct": false },
+      { "text": "$-\\frac{1}{2}$", "correct": false },
+      { "text": "$\\frac{1}{2}$", "correct": false }
     ],
-    "uni_tags": ["GENERAL"],
-    "level_tag": ["INTERMEDIO"],
-    "hint": "Calcula potencias, luego división, luego suma/resta.",
-    "explanation": "$2^5 = 32$, $3^3 = 27$, $4^2 ÷ 2 = 16 ÷ 2 = 8$. Entonces: $32 - 27 + 8 = 13$.",
-    "explanative_video": null,
-    "collapsible_text": null
-  },
-  {
-    "id": "PMA00CY",
-    "question": "Un empleado recibe un aumento del 12% sobre su salario de $\\$15,000$. ¿Cuál es su nuevo salario?",
-    "image": null,
-    "options": [
-      { "text": "$\\$16,800$", "correct": true },
-      { "text": "$\\$16,500$", "correct": false },
-      { "text": "$\\$17,000$", "correct": false },
-      { "text": "$\\$16,200$", "correct": false }
-    ],
-    "uni_tags": ["GENERAL"],
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN", "UAM"],
     "level_tag": ["BÁSICO"],
-    "hint": "Calcula el 12% de 15,000 y súmalo.",
-    "explanation": "Aumento: $15,000 × 0.12 = 1,800$. Nuevo salario: $15,000 + 1,800 = \\$16,800$.",
+    "hint": "Usa la Ley de Cosenos despejada para $\\cos(M)$: $\\cos(M) = \\frac{k^2 + l^2 - m^2}{2kl}$.",
+    "explanation": "Sustituyendo en la fórmula de la Ley de Cosenos: $\\cos(M) = \\frac{2^2 + 3^2 - 4^2}{2(2)(3)} = \\frac{4 + 9 - 16}{12} = \\frac{-3}{12} = -\\frac{1}{4}$.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
-    "id": "PMA00CZ",
-    "question": "Si 5 trabajadores pintan una casa en 8 días, ¿cuántos trabajadores pintarán la misma casa en 2 días?",
+    "id": "GYT00CC",
+    "question": "En un triángulo $\\Delta STU$, se tiene $S=30^{\\circ}, T=105^{\\circ}$ y el lado $u=5 \\text{ cm}$. Usando $\\sin(105^{\\circ}) \\approx 0.9659$, ¿cuál es el valor aproximado del lado $s$?",
     "image": null,
     "options": [
-      { "text": "20 trabajadores", "correct": true },
-      { "text": "18 trabajadores", "correct": false },
-      { "text": "15 trabajadores", "correct": false },
-      { "text": "25 trabajadores", "correct": false }
+      { "text": "$3.54 \\text{ cm}$", "correct": true },
+      { "text": "$2.5 \\text{ cm}$", "correct": false },
+      { "text": "$4.5 \\text{ cm}$", "correct": false },
+      { "text": "$5.18 \\text{ cm}$", "correct": false }
     ],
-    "uni_tags": ["GENERAL"],
-    "level_tag": ["INTERMEDIO"],
-    "hint": "Proporción inversa: menos días, más trabajadores.",
-    "explanation": "Trabajadores × Días = constante. $5 × 8 = 40$. Para 2 días: $40 ÷ 2 = 20$ trabajadores.",
-    "explanative_video": null,
-    "collapsible_text": null
-  },
-  {
-    "id": "PMA00DA",
-    "question": "¿Qué porcentaje de 500 es 125?",
-    "image": null,
-    "options": [
-      { "text": "25%", "correct": true },
-      { "text": "20%", "correct": false },
-      { "text": "30%", "correct": false },
-      { "text": "15%", "correct": false }
-    ],
-    "uni_tags": ["GENERAL"],
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN", "UAM"],
     "level_tag": ["BÁSICO"],
-    "hint": "Divide 125 entre 500 y multiplica por 100.",
-    "explanation": "$(125 ÷ 500) × 100 = 0.25 × 100 = 25\\%$.",
+    "hint": "Calcula el ángulo $U$ primero ($180^{\\circ} - S - T$). Luego usa la Ley de Senos: $\\frac{s}{\\sin(S)} = \\frac{u}{\\sin(U)}$.",
+    "explanation": "El ángulo $U = 180^{\\circ} - 30^{\\circ} - 105^{\\circ} = 45^{\\circ}$. Aplicando la Ley de Senos: $s = \\frac{u \\sin(S)}{\\sin(U)} = \\frac{5 \\cdot \\sin(30^{\\circ})}{\\sin(45^{\\circ})} = \\frac{5 \\cdot 0.5}{\\sqrt{2}/2} = \\frac{2.5}{0.7071} \\approx 3.535 \\text{ cm}$.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
-    "id": "PMA00DB",
-    "question": "Calcule: $\\frac{7}{12} × \\frac{3}{14} + \\frac{1}{4}$",
+    "id": "GYT00CD",
+    "question": "Sea un triángulo $\\Delta ABC$ con ángulo $A=30^{\\circ}$ y lado $b=10$ unidades. ¿Cuáles de los siguientes valores para el lado $a$ NO resultan en el caso ambiguo (dos soluciones) LLA?",
     "image": null,
     "options": [
-      { "text": "$\\frac{3}{8}$", "correct": true },
-      { "text": "$\\frac{1}{3}$", "correct": false },
-      { "text": "$\\frac{5}{12}$", "correct": false },
-      { "text": "$\\frac{7}{16}$", "correct": false }
+      { "text": "$a=5$ (una solución: $a=h$) y $a=12$ (una solución: $a>b$)", "correct": true },
+      { "text": "$a=7$ (dos soluciones: $h < a < b$)", "correct": false },
+      { "text": "$a=10$ (una solución: $a=b$)", "correct": false },
+      { "text": "$a=4$ (cero soluciones: $a<h$) y $a=6$ (dos soluciones: $h < a < b$)", "correct": false }
     ],
-    "uni_tags": ["GENERAL"],
-    "level_tag": ["INTERMEDIO"],
-    "hint": "Multiplica primero, simplifica y luego suma.",
-    "explanation": "$\\frac{7}{12} × \\frac{3}{14} = \\frac{21}{168} = \\frac{1}{8}$. $\\frac{1}{8} + \\frac{1}{4} = \\frac{1}{8} + \\frac{2}{8} = \\frac{3}{8}$.",
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN", "UAM"],
+    "level_tag": ["BÁSICO"],
+    "hint": "La altura $h = b \\sin(A)$. $h = 10 \\cdot \\sin(30^{\\circ}) = 5$. El caso ambiguo es si $h < a < b$, es decir, $5 < a < 10$. Las opciones que no cumplen esta condición son las que no son ambiguas.",
+    "explanation": "La altura $h=5$. El caso ambiguo ocurre para $5 < a < 10$. Las condiciones que NO son ambiguas son: $a < 5$ (cero soluciones), $a = 5$ (una solución), y $a \\ge 10$ (una solución). La opción correcta incluye $a=5$ (una) y $a=12$ (una).",
     "explanative_video": null,
     "collapsible_text": null
-  }
-]
+  },
+  {
+    "id": "GYT00CE",
+    "question": "Si se aplica la Ley de Cosenos a los tres lados ($a, b, c$) de un triángulo, y todos los valores de $\\cos(A), \\cos(B), \\cos(C)$ son mayores que cero, el triángulo es ______ (A) y todos sus ángulos son ______ (B).",
+    "image": null,
+    "options": [
+      { "text": "Acutángulo, Agudos", "correct": true },
+      { "text": "Rectángulo, $90^{\\circ}$", "correct": false },
+      { "text": "Obtusángulo, Obtusos", "correct": false },
+      { "text": "Rectángulo, Cero", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN", "UAM"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Un ángulo es agudo si está entre $0^{\\circ}$ y $90^{\\circ}$. ¿Cuál es el signo del coseno en ese rango?",
+    "explanation": "Si $\\cos(\\theta) > 0$, el ángulo $\\theta$ es agudo ($0^{\\circ} < \\theta < 90^{\\circ}$). Un triángulo en el que todos sus ángulos son agudos se denomina acutángulo.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "GYT00CF",
+    "question": "La Ley de Senos $\\frac{a}{\\sin(A)} = \\frac{b}{\\sin(B)}$ es una ______ (A) entre un lado y el ______ (B) de su ángulo opuesto.",
+    "image": null,
+    "options": [
+      { "text": "Proporción, Seno", "correct": true },
+      { "text": "Suma, Coseno", "correct": false },
+      { "text": "Diferencia, Tangente", "correct": false },
+      { "text": "Multiplicación, Ángulo", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN", "UAM"],
+    "level_tag": ["BÁSICO"],
+    "hint": "La Ley de Senos es una igualdad de razones.",
+    "explanation": "La Ley de Senos establece una proporción o igualdad de razones, donde el numerador es un lado y el denominador es el seno de su ángulo opuesto.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "GYT00CG",
+    "question": "La fórmula $b^2 = a^2 + c^2 - 2ac \\cos(B)$ se usa para calcular el lado $b$ si se conocen los lados $a, c$ y el ángulo ______ (A) entre ellos. El ángulo $B$ es el ______ (B) al lado $b$.",
+    "image": null,
+    "options": [
+      { "text": "Comprendido, Opuesto", "correct": true },
+      { "text": "Opuesto, Adyacente", "correct": false },
+      { "text": "Recto, Adyacente", "correct": false },
+      { "text": "Adyacente, Comprendido", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN", "UAM"],
+    "level_tag": ["BÁSICO"],
+    "hint": "En el caso LAL (Lado-Ángulo-Lado), el ángulo conocido está entre los dos lados. La Ley de Cosenos encuentra el lado opuesto a ese ángulo.",
+    "explanation": "La Ley de Cosenos se aplica en el caso Lado-Ángulo-Lado, donde el ángulo $B$ es el ángulo comprendido entre los lados $a$ y $c$. El lado $b$ es el lado opuesto a este ángulo.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "GYT00CH",
+    "question": "Relaciona el caso de resolución de triángulos con el número máximo de soluciones que se pueden obtener: \\nA) LLL (Lado-Lado-Lado) \\nB) ALA (Ángulo-Lado-Ángulo) \\nC) LLA (Lado-Lado-Ángulo) \\nI) Una solución \\nII) Cero o dos soluciones",
+    "image": null,
+    "options": [
+      { "text": "A-I; B-I; C-II", "correct": true },
+      { "text": "A-I; B-II; C-I", "correct": false },
+      { "text": "A-II; B-I; C-I", "correct": false },
+      { "text": "A-II; B-II; C-I", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN", "UAM"],
+    "level_tag": ["BÁSICO"],
+    "hint": "El único caso que permite múltiples soluciones (cero o dos) es el caso ambiguo.",
+    "explanation": "LLL y ALA siempre definen un único triángulo. LLA es el caso ambiguo, donde la solución puede ser cero, una o dos, dependiendo de la relación entre el lado opuesto al ángulo conocido y la altura.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "GYT00CI",
+    "question": "En un triángulo $\\Delta JKL$, si los lados son $j=5, k=7, l=8$ unidades. ¿Cuál es la expresión que permite calcular el $\\cos(J)$?",
+    "image": null,
+    "options": [
+      { "text": "$\\frac{7^2 + 8^2 - 5^2}{2(7)(8)}$", "correct": true },
+      { "text": "$\\frac{5^2 + 7^2 - 8^2}{2(5)(7)}$", "correct": false },
+      { "text": "$\\frac{7^2 + 5^2 - 8^2}{2(7)(5)}$", "correct": false },
+      { "text": "$\\frac{5^2 + 8^2 - 7^2}{2(5)(8)}$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN", "UAM"],
+    "level_tag": ["BÁSICO"],
+    "hint": "La Ley de Cosenos despejada para $\\cos(J)$ es $\\cos(J) = \\frac{k^2 + l^2 - j^2}{2kl}$. El lado $j$ debe ser el que se resta en el numerador.",
+    "explanation": "Para calcular $\\cos(J)$, se suman los cuadrados de los lados adyacentes ($k^2 + l^2$), se resta el cuadrado del lado opuesto ($-j^2$) y se divide entre el doble producto de los lados adyacentes ($2kl$).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "GYT00CJ",
+    "question": "En un triángulo $\\Delta ABC$, se tienen $A=10^{\\circ}, C=150^{\\circ}$ y lado $a=2 \\text{ m}$. Usando $\\sin(20^{\\circ}) \\approx 0.3420$, ¿cuál es el valor aproximado de $\\sin(B)$?",
+    "image": null,
+    "options": [
+      { "text": "$0.3420$", "correct": true },
+      { "text": "$0.5000$", "correct": false },
+      { "text": "$0.7660$", "correct": false },
+      { "text": "$0.6428$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN", "UAM"],
+    "level_tag": ["BÁSICO"],
+    "hint": "El ángulo $B$ es $180^{\\circ} - (A + C)$. Una vez que conoces $B$, el valor de $\\sin(B)$ es directo.",
+    "explanation": "El ángulo $B = 180^{\\circ} - 10^{\\circ} - 150^{\\circ} = 20^{\\circ}$. El valor de $\\sin(B)$ es $\\sin(20^{\\circ}) \\approx 0.3420$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "GYT00CK",
+    "question": "Calcula el lado $a$ en $\\Delta ABC$ si $b=6, c=4$ unidades y $A=105^{\\circ}$. Usa $\\cos(105^{\\circ}) \\approx -0.2588$.",
+    "image": null,
+    "options": [
+      { "text": "$8.03$ unidades", "correct": true },
+      { "text": "$7.21$ unidades", "correct": false },
+      { "text": "$7.42$ unidades", "correct": false },
+      { "text": "$6.93$ unidades", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN", "UAM"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Usa la Ley de Cosenos para el lado $a$: $a^2 = b^2 + c^2 - 2bc \\cos(A)$.",
+    "explanation": "Sustituyendo: $a^2 = 6^2 + 4^2 - 2(6)(4)(-0.2588) = 36 + 16 - 48(-0.2588) = 52 + 12.4224 = 64.4224$. $a = \\sqrt{64.4224} \\approx 8.026$ unidades.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "GYT00CL",
+    "question": "En $\\Delta XYZ$, $X=40^{\\circ}, Y=60^{\\circ}$ y el lado $z=10 \\text{ m}$. Usa $\\sin(40^{\\circ}) \\approx 0.6428$ y $\\sin(80^{\\circ}) \\approx 0.9848$. ¿Cuál es la longitud aproximada del lado $x$?",
+    "image": null,
+    "options": [
+      { "text": "$6.53 \\text{ m}$", "correct": true },
+      { "text": "$7.66 \\text{ m}$", "correct": false },
+      { "text": "$9.85 \\text{ m}$", "correct": false },
+      { "text": "$5.00 \\text{ m}$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN", "UAM"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Calcula el ángulo $Z$ primero. Luego usa la Ley de Senos: $\\frac{x}{\\sin(X)} = \\frac{z}{\\sin(Z)}$.",
+    "explanation": "El ángulo $Z = 180^{\\circ} - 40^{\\circ} - 60^{\\circ} = 80^{\\circ}$. Aplicando la Ley de Senos: $x = \\frac{z \\sin(X)}{\\sin(Z)} = \\frac{10 \\cdot 0.6428}{0.9848} \\approx 6.527 \\text{ m}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "GYT00CM",
+    "question": "En un triángulo $\\Delta ABC$ con lados $a=7, b=11, c=15$ unidades. ¿Qué valor numérico resulta de la expresión $2ac \\cos(B)$?",
+    "image": null,
+    "options": [
+      { "text": "$153$", "correct": true },
+      { "text": "$121$", "correct": false },
+      { "text": "$225$", "correct": false },
+      { "text": "$74$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN", "UAM"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Usa el despeje de la Ley de Cosenos: $b^2 = a^2 + c^2 - 2ac \\cos(B)$. Por lo tanto, $2ac \\cos(B) = a^2 + c^2 - b^2$.",
+    "explanation": "La expresión $2ac \\cos(B)$ es igual a $a^2 + c^2 - b^2$. Sustituyendo: $7^2 + 15^2 - 11^2 = 49 + 225 - 121 = 153$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "GYT00CN",
+    "question": "En un triángulo $\\Delta PQR$, si $P=115^{\\circ}$, lado $p=25$ y lado $q=10$. Usa $\\sin(115^{\\circ}) \\approx 0.9063$. ¿Cuál es el valor aproximado de $\\sin(Q)$?",
+    "image": null,
+    "options": [
+      { "text": "$0.3625$", "correct": true },
+      { "text": "$0.9063$", "correct": false },
+      { "text": "$0.4000$", "correct": false },
+      { "text": "$2.2658$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN", "UAM"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Aplica la Ley de Senos: $\\frac{\\sin(Q)}{q} = \\frac{\\sin(P)}{p}$.",
+    "explanation": "Usando la Ley de Sen
