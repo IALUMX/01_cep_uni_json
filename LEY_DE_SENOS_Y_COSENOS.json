@@ -78,7 +78,7 @@
       { "text": "$a^2 = \\sqrt{b^2 + c^2} \\sin(A)$", "correct": false }
     ],
     "uni_tags": ["GENERAL"],
-    "level_tag": ["BÁSICO", "REAL"],
+    "level_tag": ["BÁSICO"],
     "hint": "La Ley de Cosenos es una generalización del Teorema de Pitágoras con un término corrector. Recuerda el despeje para $\\cos(A)$ si conocieras los 3 lados: $\\cos(A) = \\frac{b^2 + c^2 - a^2}{2bc}$.",
     "explanation": "Esta es la forma estándar de la Ley de Cosenos para encontrar la longitud de un lado ('a') cuando se conocen los otros dos lados ('b' y 'c') y el ángulo ('A') que forman.",
     "explanative_video": null,
@@ -265,7 +265,7 @@
       { "text": "$\\cos(A) = \\frac{a}{\\sin(A)}$", "correct": false }
     ],
     "uni_tags": ["GENERAL"],
-    "level_tag": ["BÁSICO", "REAL"],
+    "level_tag": ["BÁSICO"],
     "hint": "Despeja el término $-2bc \\cos(A)$ en la fórmula original $a^2 = b^2 + c^2 - 2bc \\cos(A)$.",
     "explanation": "Al despejar $\\cos(A)$ de la Ley de Cosenos se obtiene: $2bc \\cos(A) = b^2 + c^2 - a^2$. Finalmente, $\\cos(A) = \\frac{b^2 + c^2 - a^2}{2bc}$.",
     "explanative_video": null,
@@ -299,7 +299,7 @@
       { "text": "El lado más corto.", "correct": false }
     ],
     "uni_tags": ["GENERAL"],
-    "level_tag": ["BÁSICO", "REAL"],
+    "level_tag": ["BÁSICO"],
     "hint": "Esta propiedad se mantiene en cualquier triángulo, sin importar su tipo.",
     "explanation": "Existe una correspondencia directa entre la longitud de los lados y la medida de sus ángulos opuestos. El lado más grande se opone al ángulo más grande, y el lado más corto se opone al ángulo más corto. La Ley de Senos cuantifica esta relación.",
     "explanative_video": null,
