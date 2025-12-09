@@ -1,0 +1,818 @@
+[
+  {
+    "id": "CEP98AA",
+    "question": "En el laboratorio del CEPREDIX se observa que una mitocondria produce $36 \\text{ ATP}$ por cada molécula de glucosa oxidada. Si en una hora se oxidan $150$ moléculas de glucosa, ¿cuántos ATP se generaron en total?",
+    "image": null,
+    "options": [
+      { "text": "$5400 \\text{ ATP}$", "correct": true },
+      { "text": "$4500 \\text{ ATP}$", "correct": false },
+      { "text": "$540 \\text{ ATP}$", "correct": false },
+      { "text": "$3600 \\text{ ATP}$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Realiza una multiplicación simple: $Total = (ATP/molécula) \\times moléculas$.",
+    "explanation": "Cada molécula aporta 36 ATP. Al procesar 150 moléculas: $150 \\times 36 = 5400 \\text{ ATP}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP98AB",
+    "question": "Un ribosoma tarda $0.05 \\text{ segundos}$ en añadir un aminoácido a una cadena polipeptídica. ¿Cuánto tiempo tardará en sintetizar una proteína de $300$ aminoácidos?",
+    "image": null,
+    "options": [
+      { "text": "$15 \\text{ segundos}$", "correct": true },
+      { "text": "$60 \\text{ segundos}$", "correct": false },
+      { "text": "$1.5 \\text{ segundos}$", "correct": false },
+      { "text": "$30 \\text{ segundos}$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Usa la fórmula $t = n \\times t_{unitario}$. Despeje implícito: $t_{unitario} = t/n$.",
+    "explanation": "Multiplicando el número de aminoácidos por el tiempo por unidad: $300 \\times 0.05 \\text{ s} = 15 \\text{ s}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP98AC",
+    "question": "El núcleo celular contiene $46$ cromosomas en una célula humana somática. Si durante la fase S del ciclo celular el ADN se duplica, ¿cuántas cromátidas hermanas habrá en total al final de esta fase?",
+    "image": null,
+    "options": [
+      { "text": "$92 \\text{ cromátidas}$", "correct": true },
+      { "text": "$46 \\text{ cromátidas}$", "correct": false },
+      { "text": "$23 \\text{ cromátidas}$", "correct": false },
+      { "text": "$184 \\text{ cromátidas}$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Cada cromosoma duplicado consta de 2 cromátidas.",
+    "explanation": "Al duplicarse el material genético, cada uno de los 46 cromosomas tiene 2 cromátidas: $46 \\times 2 = 92 \\text{ cromátidas}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP98AD",
+    "question": "Un lisosoma primario esférico tiene un volumen de $4 \\times 10^{-3} \\mu m^3$. Si se fusiona con otro lisosoma de idéntico volumen, ¿cuál será el volumen total del lisosoma secundario resultante?",
+    "image": null,
+    "options": [
+      { "text": "$8 \\times 10^{-3} \\mu m^3$", "correct": true },
+      { "text": "$16 \\times 10^{-3} \\mu m^3$", "correct": false },
+      { "text": "$4 \\times 10^{-6} \\mu m^3$", "correct": false },
+      { "text": "$2 \\times 10^{-3} \\mu m^3$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Suma aritmética simple de volúmenes.",
+    "explanation": "La suma de los volúmenes es $(4 \\times 10^{-3}) + (4 \\times 10^{-3}) = 8 \\times 10^{-3} \\mu m^3$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP98AE",
+    "question": "El aparato de Golgi procesa $240$ vesículas en $4$ horas. ¿Cuál es la tasa de procesamiento en vesículas por minuto?",
+    "image": null,
+    "options": [
+      { "text": "$1 \\text{ vesícula/min}$", "correct": true },
+      { "text": "$60 \\text{ vesículas/min}$", "correct": false },
+      { "text": "$4 \\text{ vesículas/min}$", "correct": false },
+      { "text": "$10 \\text{ vesículas/min}$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Convierte las horas a minutos antes de dividir ($1 \\text{ h} = 60 \\text{ min}$).",
+    "explanation": "$4 \\text{ horas} = 240 \\text{ minutos}$. Entonces $240 \\text{ vesículas} / 240 \\text{ minutos} = 1 \\text{ vesícula/min}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP98AF",
+    "question": "En el retículo endoplásmico liso se almacenan iones de calcio ($Ca^{2+}$). Si la concentración inicial es de $2 \\text{ mM}$ y aumenta al triple tras un estímulo, ¿cuál es la concentración final?",
+    "image": null,
+    "options": [
+      { "text": "$6 \\text{ mM}$", "correct": true },
+      { "text": "$5 \\text{ mM}$", "correct": false },
+      { "text": "$8 \\text{ mM}$", "correct": false },
+      { "text": "$4 \\text{ mM}$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Multiplica la concentración inicial por 3.",
+    "explanation": "$2 \\text{ mM} \\times 3 = 6 \\text{ mM}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP98AG",
+    "question": "Un peroxisoma degrada $500$ moléculas de peróxido de hidrógeno ($H_2O_2$) por segundo. Un estudiante del CEPREDIX pregunta: ¿Cuántas moléculas degradará en medio minuto?",
+    "image": null,
+    "options": [
+      { "text": "$15,000 \\text{ moléculas}$", "correct": true },
+      { "text": "$30,000 \\text{ moléculas}$", "correct": false },
+      { "text": "$1,500 \\text{ moléculas}$", "correct": false },
+      { "text": "$250 \\text{ moléculas}$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Recuerda que medio minuto son 30 segundos.",
+    "explanation": "$500 \\text{ moléculas/s} \\times 30 \\text{ s} = 15,000 \\text{ moléculas}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP98AH",
+    "question": "La membrana plasmática tiene un espesor aproximado de $8 \\text{ nm}$. Si apilamos $1000$ membranas una sobre otra, ¿cuál sería el espesor total en micrómetros ($\\,\\mu m$)?",
+    "image": null,
+    "options": [
+      { "text": "$8 \\, \\mu m$", "correct": true },
+      { "text": "$0.8 \\, \\mu m$", "correct": false },
+      { "text": "$80 \\, \\mu m$", "correct": false },
+      { "text": "$8000 \\, \\mu m$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Recuerda que $1000 \\text{ nm} = 1 \\, \\mu m$.",
+    "explanation": "$8 \\text{ nm} \\times 1000 = 8000 \\text{ nm}$. Al convertir: $8000 / 1000 = 8 \\, \\mu m$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP98AI",
+    "question": "El citoesqueleto utiliza microtúbulos para el transporte. Si una proteína motora kinesina avanza $2 \\, \\mu m$ por segundo, ¿qué distancia recorrerá en $10$ segundos?",
+    "image": null,
+    "options": [
+      { "text": "$20 \\, \\mu m$", "correct": true },
+      { "text": "$12 \\, \\mu m$", "correct": false },
+      { "text": "$5 \\, \\mu m$", "correct": false },
+      { "text": "$0.2 \\, \\mu m$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Usa la fórmula de distancia $d = v \\times t$. La pista inversa sería $t = d/v$.",
+    "explanation": "$d = 2 \\, \\mu m/s \\times 10 \\text{ s} = 20 \\, \\mu m$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP98AJ",
+    "question": "Si una célula animal tiene $200$ mitocondrias y una célula muscular del mismo organismo tiene $5$ veces más mitocondrias debido a su demanda energética, ¿cuántas mitocondrias tiene la célula muscular?",
+    "image": null,
+    "options": [
+      { "text": "$1000 \\text{ mitocondrias}$", "correct": true },
+      { "text": "$100 \\text{ mitocondrias}$", "correct": false },
+      { "text": "$500 \\text{ mitocondrias}$", "correct": false },
+      { "text": "$2500 \\text{ mitocondrias}$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Multiplica la cantidad base por el factor de aumento.",
+    "explanation": "$200 \\times 5 = 1000$ mitocondrias.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP98AK",
+    "question": "El nucleolo sintetiza subunidades ribosomales. Si produce $4$ subunidades por minuto, ¿cuántas producirá en una hora y media?",
+    "image": null,
+    "options": [
+      { "text": "$360 \\text{ subunidades}$", "correct": true },
+      { "text": "$240 \\text{ subunidades}$", "correct": false },
+      { "text": "$90 \\text{ subunidades}$", "correct": false },
+      { "text": "$540 \\text{ subunidades}$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Una hora y media son $90$ minutos.",
+    "explanation": "$4 \\text{ subunidades/min} \\times 90 \\text{ min} = 360 \\text{ subunidades}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP98AL",
+    "question": "La vacuola de una célula vegetal ocupa el $80\\%$ del volumen celular. Si el volumen total de la célula es $150 \\, \\mu m^3$, ¿cuál es el volumen de la vacuola?",
+    "image": null,
+    "options": [
+      { "text": "$120 \\, \\mu m^3$", "correct": true },
+      { "text": "$100 \\, \\mu m^3$", "correct": false },
+      { "text": "$30 \\, \\mu m^3$", "correct": false },
+      { "text": "$80 \\, \\mu m^3$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Calcula el $80\\%$ de $150$. Puedes multiplicar $150 \\times 0.8$.",
+    "explanation": "$150 \\times 0.80 = 120 \\, \\mu m^3$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP98AM",
+    "question": "Un estudiante del CEPREDIX observa que el Retículo Endoplásmico Rugoso (RER) tiene adheridos $50$ ribosomas por cada $\\mu m^2$ de membrana. Si observa un área de $4 \\, \\mu m^2$, ¿cuántos ribosomas contará?",
+    "image": null,
+    "options": [
+      { "text": "$200 \\text{ ribosomas}$", "correct": true },
+      { "text": "$54 \\text{ ribosomas}$", "correct": false },
+      { "text": "$25 \\text{ ribosomas}$", "correct": false },
+      { "text": "$100 \\text{ ribosomas}$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Multiplica la densidad de ribosomas por el área total.",
+    "explanation": "$50 \\text{ ribosomas}/\\mu m^2 \\times 4 \\, \\mu m^2 = 200 \\text{ ribosomas}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP98AN",
+    "question": "La catalasa en los peroxisomas convierte $2$ moléculas de $H_2O_2$ en $2$ moléculas de $H_2O$ y $1$ molécula de $O_2$. Si se producen $50$ moléculas de $O_2$, ¿cuántas moléculas de $H_2O_2$ se degradaron?",
+    "image": null,
+    "options": [
+      { "text": "$100 \\text{ moléculas}$", "correct": true },
+      { "text": "$50 \\text{ moléculas}$", "correct": false },
+      { "text": "$25 \\text{ moléculas}$", "correct": false },
+      { "text": "$200 \\text{ moléculas}$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "La relación estequiométrica es $2 H_2O_2 \\to 1 O_2$.",
+    "explanation": "Por cada $O_2$ se requieren $2$ de peróxido. $50 \\times 2 = 100 \\text{ moléculas de } H_2O_2$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP98AO",
+    "question": "Si la membrana mitocondrial interna tiene una superficie de $10 \\, \\mu m^2$ y las crestas aumentan esta superficie al triple, ¿cuál es la superficie total disponible para la fosforilación oxidativa?",
+    "image": null,
+    "options": [
+      { "text": "$30 \\, \\mu m^2$", "correct": true },
+      { "text": "$13 \\, \\mu m^2$", "correct": false },
+      { "text": "$3.33 \\, \\mu m^2$", "correct": false },
+      { "text": "$20 \\, \\mu m^2$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Multiplica el valor base por 3.",
+    "explanation": "$10 \\, \\mu m^2 \\times 3 = 30 \\, \\mu m^2$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP98AP",
+    "question": "Un centríolo está formado por $9$ tripletes de microtúbulos. ¿Cuántos microtúbulos individuales conforman un par de centríolos (un centrosoma)?",
+    "image": null,
+    "options": [
+      { "text": "$54 \\text{ microtúbulos}$", "correct": true },
+      { "text": "$27 \\text{ microtúbulos}$", "correct": false },
+      { "text": "$18 \\text{ microtúbulos}$", "correct": false },
+      { "text": "$36 \\text{ microtúbulos}$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Calcula primero para un centríolo ($9 \\times 3$) y luego multiplica por 2 centríolos.",
+    "explanation": "Un centríolo tiene $9 \\times 3 = 27$ microtúbulos. Un par tiene $27 \\times 2 = 54$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP98AQ",
+    "question": "La bomba Sodio-Potasio en la membrana gasta $1 \\text{ ATP}$ por cada ciclo para transportar iones. Si ocurren $100$ ciclos por segundo, ¿cuántos ATP se consumen en un minuto?",
+    "image": null,
+    "options": [
+      { "text": "$6000 \\text{ ATP}$", "correct": true },
+      { "text": "$100 \\text{ ATP}$", "correct": false },
+      { "text": "$600 \\text{ ATP}$", "correct": false },
+      { "text": "$1000 \\text{ ATP}$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Calcula ATP por segundo y multiplica por 60 segundos.",
+    "explanation": "$100 \\text{ ATP/s} \\times 60 \\text{ s} = 6000 \\text{ ATP}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP98AR",
+    "question": "Durante la apoptosis, las mitocondrias liberan Citocromo C. Si una célula tiene $500$ mitocondrias y el $10\\%$ fallan en liberar la proteína, ¿cuántas mitocondrias sí liberaron Citocromo C?",
+    "image": null,
+    "options": [
+      { "text": "$450 \\text{ mitocondrias}$", "correct": true },
+      { "text": "$50 \\text{ mitocondrias}$", "correct": false },
+      { "text": "$400 \\text{ mitocondrias}$", "correct": false },
+      { "text": "$490 \\text{ mitocondrias}$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Calcula el $10\\%$ de $500$ y réstalo del total, o calcula el $90\\%$ de $500$.",
+    "explanation": "$10\\%$ de $500$ es $50$. $500 - 50 = 450$. O bien, $500 \\times 0.9 = 450$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP98AS",
+    "question": "En el CEPREDIX se analiza la síntesis de lípidos en el REL. Si se sintetizan $0.5 \\text{ pg}$ (picogramos) de lípidos por hora, ¿cuántos picogramos se sintetizan en $24$ horas?",
+    "image": null,
+    "options": [
+      { "text": "$12 \\text{ pg}$", "correct": true },
+      { "text": "$24 \\text{ pg}$", "correct": false },
+      { "text": "$0.5 \\text{ pg}$", "correct": false },
+      { "text": "$12.5 \\text{ pg}$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Multiplicación simple de tasa por tiempo.",
+    "explanation": "$0.5 \\text{ pg/h} \\times 24 \\text{ h} = 12 \\text{ pg}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP98AT",
+    "question": "Un cloroplasto (en células vegetales) produce $2$ moléculas de glucosa por segundo en fase luminosa óptima. ¿Cuántas moléculas produce en $1$ minuto?",
+    "image": null,
+    "options": [
+      { "text": "$120 \\text{ moléculas}$", "correct": true },
+      { "text": "$60 \\text{ moléculas}$", "correct": false },
+      { "text": "$2 \\text{ moléculas}$", "correct": false },
+      { "text": "$200 \\text{ moléculas}$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Hay $60$ segundos en un minuto.",
+    "explanation": "$2 \\text{ moléculas/s} \\times 60 \\text{ s} = 120 \\text{ moléculas}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP98AU",
+    "question": "Si la membrana nuclear tiene $3000$ poros nucleares y se cierran $1/3$ de ellos durante una fase de estrés celular, ¿cuántos poros permanecen abiertos?",
+    "image": null,
+    "options": [
+      { "text": "$2000 \\text{ poros}$", "correct": true },
+      { "text": "$1000 \\text{ poros}$", "correct": false },
+      { "text": "$1500 \\text{ poros}$", "correct": false },
+      { "text": "$900 \\text{ poros}$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Calcula el tercio de $3000$ y réstalo, o calcula los dos tercios restantes.",
+    "explanation": "$1/3$ de $3000$ es $1000$ (cerrados). $3000 - 1000 = 2000$ (abiertos).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP98AV",
+    "question": "Los ribosomas 70S (procariotas) se componen de subunidades 50S y 30S. Si tienes una mezcla con $10$ subunidades 50S y $15$ subunidades 30S, ¿cuántos ribosomas funcionales completos puedes formar como máximo?",
+    "image": null,
+    "options": [
+      { "text": "$10 \\text{ ribosomas}$", "correct": true },
+      { "text": "$15 \\text{ ribosomas}$", "correct": false },
+      { "text": "$25 \\text{ ribosomas}$", "correct": false },
+      { "text": "$5 \\text{ ribosomas}$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Identifica el reactivo limitante; necesitas una de cada una para formar un ribosoma.",
+    "explanation": "La subunidad 50S es el limitante. Solo tienes 10, así que solo puedes formar 10 ribosomas completos, sobrando 5 subunidades 30S.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP98AW",
+    "question": "El proteosoma degrada proteínas marcadas con ubiquitina. Si una proteína pesa $50 \\text{ kDa}$ y el proteosoma la corta en fragmentos de $5 \\text{ kDa}$, ¿cuántos fragmentos se obtienen teóricamente?",
+    "image": null,
+    "options": [
+      { "text": "$10 \\text{ fragmentos}$", "correct": true },
+      { "text": "$5 \\text{ fragmentos}$", "correct": false },
+      { "text": "$25 \\text{ fragmentos}$", "correct": false },
+      { "text": "$50 \\text{ fragmentos}$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "División simple: Peso total / Peso del fragmento.",
+    "explanation": "$50 \\text{ kDa} / 5 \\text{ kDa} = 10 \\text{ fragmentos}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP98AX",
+    "question": "En una vesícula sináptica hay $10,000$ moléculas de neurotransmisor. Si al fusionarse con la membrana libera el $50\\%$, ¿cuántas moléculas quedan dentro de la célula (no liberadas)?",
+    "image": null,
+    "options": [
+      { "text": "$5,000 \\text{ moléculas}$", "correct": true },
+      { "text": "$10,000 \\text{ moléculas}$", "correct": false },
+      { "text": "$2,500 \\text{ moléculas}$", "correct": false },
+      { "text": "$0 \\text{ moléculas}$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "El $50\\%$ es la mitad.",
+    "explanation": "Si libera la mitad ($5000$), quedan la otra mitad ($5000$).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP98AY",
+    "question": "Un lisosoma tiene un pH de $5.0$. Si el citosol tiene un pH de $7.0$, y sabiendo que la diferencia de 1 unidad de pH equivale a una diferencia de $10$ veces en la concentración de $[H^+]$, ¿cuántas veces es más ácido el lisosoma?",
+    "image": null,
+    "options": [
+      { "text": "$100 \\text{ veces}$", "correct": true },
+      { "text": "$20 \\text{ veces}$", "correct": false },
+      { "text": "$10 \\text{ veces}$", "correct": false },
+      { "text": "$2 \\text{ veces}$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "La diferencia de pH es $7 - 5 = 2$. La escala es logarítmica de base 10 ($10^{\\Delta pH}$).",
+    "explanation": "Diferencia de 2 unidades de pH. $10^2 = 100$. El lisosoma es 100 veces más ácido.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP98AZ",
+    "question": "La mitocondria genera agua metabólica. La ecuación global simplificada es $C_6H_{12}O_6 + 6O_2 \\to 6CO_2 + 6H_2O$. Si se consumen $3 \\text{ moles}$ de glucosa, ¿cuántos gramos de agua se producen? (Masa molar del agua = $18 \\text{ g/mol}$).",
+    "image": null,
+    "options": [
+      { "text": "$324 \\text{ g}$", "correct": true },
+      { "text": "$108 \\text{ g}$", "correct": false },
+      { "text": "$54 \\text{ g}$", "correct": false },
+      { "text": "$180 \\text{ g}$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Calcula los moles de agua producidos ($3 \\times 6$) y multiplica por la masa molar. Fórmula inversa: $moles = masa/PM$.",
+    "explanation": "$1 \\text{ mol glucosa} \\to 6 \\text{ mol agua}$. $3 \\text{ mol glucosa} \\to 18 \\text{ mol agua}$. Masa = $18 \\text{ mol} \\times 18 \\text{ g/mol} = 324 \\text{ g}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP98BA",
+    "question": "El ADN humano en una célula diploide mide aproximadamente $2 \\text{ metros}$ de longitud. Si el núcleo tiene un diámetro de $6 \\, \\mu m$ ($6 \\times 10^{-6} \\text{ m}$), ¿cuál es la razón (ratio) de compactación lineal aproximada (Longitud ADN / Diámetro Núcleo)?",
+    "image": null,
+    "options": [
+      { "text": "$3.33 \\times 10^5$", "correct": true },
+      { "text": "$3.33 \\times 10^3$", "correct": false },
+      { "text": "$1.2 \\times 10^{-5}$", "correct": false },
+      { "text": "$333$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Divide 2 metros entre $6 \\times 10^{-6}$ metros. Recuerda leyes de exponentes $1/10^{-n} = 10^n$.",
+    "explanation": "$2 / (6 \\times 10^{-6}) = (2/6) \\times 10^6 = 0.333 \\times 10^6 = 3.33 \\times 10^5$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP98BB",
+    "question": "En un experimento del CEPREDIX, se mide la velocidad de transporte axonal de mitocondrias como $v = 0.5 \\, \\mu m/s$. Si el axón mide $1 \\text{ metro}$ ($10^6 \\, \\mu m$), ¿cuántos segundos tarda una mitocondria en viajar del soma a la terminal?",
+    "image": null,
+    "options": [
+      { "text": "$2 \\times 10^6 \\text{ s}$", "correct": true },
+      { "text": "$5 \\times 10^5 \\text{ s}$", "correct": false },
+      { "text": "$2 \\times 10^5 \\text{ s}$", "correct": false },
+      { "text": "$0.5 \\times 10^6 \\text{ s}$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Usa $t = d/v$. Asegúrate de usar las mismas unidades (micrómetros).",
+    "explanation": "$t = 10^6 \\, \\mu m / 0.5 \\, \\mu m/s = 2 \\times 10^6 \\text{ s}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP98BC",
+    "question": "El volumen de una mitocondria se puede aproximar al de un cilindro $V = \\pi r^2 h$. Si $r = 0.5 \\, \\mu m$ y $h = 2 \\, \\mu m$, ¿cuál es su volumen aproximado? (Usa $\\pi \\approx 3.1416$).",
+    "image": null,
+    "options": [
+      { "text": "$1.57 \\, \\mu m^3$", "correct": true },
+      { "text": "$0.78 \\, \\mu m^3$", "correct": false },
+      { "text": "$3.14 \\, \\mu m^3$", "correct": false },
+      { "text": "$6.28 \\, \\mu m^3$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Calcula primero $r^2$ y luego multiplica por $\\pi$ y $h$.",
+    "explanation": "$r^2 = 0.25$. $V = 3.1416 \\times 0.25 \\times 2 = 3.1416 \\times 0.5 = 1.5708 \\, \\mu m^3$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP98BD",
+    "question": "Un ribosoma eucariota (80S) tiene una masa molecular aproximada de $4.2 \\times 10^6 \\text{ Dalton}$. Si una célula tiene $10^7$ ribosomas, ¿cuál es la masa total de ribosomas en Daltons expresada en notación científica?",
+    "image": null,
+    "options": [
+      { "text": "$4.2 \\times 10^{13} \\text{ Da}$", "correct": true },
+      { "text": "$4.2 \\times 10^{42} \\text{ Da}$", "correct": false },
+      { "text": "$8.4 \\times 10^{13} \\text{ Da}$", "correct": false },
+      { "text": "$4.2 \\times 10^1 \\text{ Da}$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Suma los exponentes cuando multiplicas potencias de la misma base: $(a \\times 10^n) \\times 10^m = a \\times 10^{n+m}$.",
+    "explanation": "$(4.2 \\times 10^6) \\times 10^7 = 4.2 \\times 10^{6+7} = 4.2 \\times 10^{13} \\text{ Da}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP98BE",
+    "question": "La difusión simple de oxígeno a través de la membrana mitocondrial sigue la Ley de Fick: $J = -D \\frac{\\Delta C}{\\Delta x}$. Si el gradiente de concentración $\\Delta C$ se duplica y el espesor de la membrana $\\Delta x$ se mantiene constante, ¿cómo cambia el flujo $J$?",
+    "image": null,
+    "options": [
+      { "text": "Se duplica ($2J$)", "correct": true },
+      { "text": "Se reduce a la mitad ($J/2$)", "correct": false },
+      { "text": "Se cuadruplica ($4J$)", "correct": false },
+      { "text": "Permanece igual", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Analiza la relación lineal directa entre $J$ y $\\Delta C$ en la fórmula.",
+    "explanation": "El flujo $J$ es directamente proporcional a $\\Delta C$. Si $\\Delta C$ aumenta por un factor de 2, $J$ también aumenta por 2.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP98BF",
+    "question": "Si el retículo endoplásmico rugoso ocupa el $15\\%$ del volumen celular y el liso el $10\\%$, y el volumen celular total es $V_c$, ¿qué expresión representa el volumen restante del citoplasma y otros organelos?",
+    "image": null,
+    "options": [
+      { "text": "$0.75 V_c$", "correct": true },
+      { "text": "$0.25 V_c$", "correct": false },
+      { "text": "$0.85 V_c$", "correct": false },
+      { "text": "$0.025 V_c$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Suma los porcentajes ocupados y réstalos del $100\\%$ ($1.0$).",
+    "explanation": "Ocupado: $15\\% + 10\\% = 25\\%$. Restante: $100\\% - 25\\% = 75\\%$. En decimal es $0.75$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP98BG",
+    "question": "La bomba de protones en el lisosoma consume ATP para mantener el gradiente. Si la hidrólisis de $1 \\text{ ATP}$ libera $-30.5 \\text{ kJ/mol}$, ¿cuánta energía libre se libera al hidrolizar $0.5 \\text{ moles}$ de ATP?",
+    "image": null,
+    "options": [
+      { "text": "$-15.25 \\text{ kJ}$", "correct": true },
+      { "text": "$-61.0 \\text{ kJ}$", "correct": false },
+      { "text": "$-30.5 \\text{ kJ}$", "correct": false },
+      { "text": "$-152.5 \\text{ kJ}$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Multiplica la energía molar por el número de moles.",
+    "explanation": "$0.5 \\text{ moles} \\times (-30.5 \\text{ kJ/mol}) = -15.25 \\text{ kJ}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP98BH",
+    "question": "En la traducción, un ARNm de $900$ nucleótidos codifica para una proteína. Si cada aminoácido requiere un triplete (codón) de $3$ nucleótidos, ¿cuántos aminoácidos tendrá la proteína (despreciando codones de stop)?",
+    "image": null,
+    "options": [
+      { "text": "$300 \\text{ aminoácidos}$", "correct": true },
+      { "text": "$2700 \\text{ aminoácidos}$", "correct": false },
+      { "text": "$100 \\text{ aminoácidos}$", "correct": false },
+      { "text": "$450 \\text{ aminoácidos}$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Realiza la división: Nucleótidos / 3.",
+    "explanation": "$900 / 3 = 300 \\text{ codones}$, que corresponden a $300$ aminoácidos.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP98BI",
+    "question": "Un microtúbulo es un cilindro hueco con diámetro externo de $25 \\text{ nm}$. Si su longitud es $L$ y se modela como superficie lateral de un cilindro ($A = \\pi d L$), despeja $L$.",
+    "image": null,
+    "options": [
+      { "text": "$L = \\frac{A}{\\pi d}$", "correct": true },
+      { "text": "$L = A \\pi d$", "correct": false },
+      { "text": "$L = \\frac{\\pi d}{A}$", "correct": false },
+      { "text": "$L = \\frac{A}{d}$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Debes dejar la $L$ sola en un lado de la igualdad dividiendo por los otros factores.",
+    "explanation": "Si $A = \\pi d L$, dividimos ambos lados por $\\pi d$, resultando $L = A / (\\pi d)$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP98BJ",
+    "question": "La producción de ATP mitocondrial por glucólisis anaerobia (2 ATP) es mucho menor que la aerobia (36 ATP). ¿Cuál es la razón fraccionaria de eficiencia anaerobia/aerobia simplificada?",
+    "image": null,
+    "options": [
+      { "text": "$1/18$", "correct": true },
+      { "text": "$1/36$", "correct": false },
+      { "text": "$2/38$", "correct": false },
+      { "text": "$18/1$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Establece la fracción $2/36$ y simplifícala dividiendo numerador y denominador por el máximo común divisor.",
+    "explanation": "$2/36$. Dividiendo ambos entre 2 obtenemos $1/18$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP98BK",
+    "question": "En un cultivo del CEPREDIX, la cantidad de peroxisomas $P(t)$ se duplica cada hora. La función es $P(t) = P_0 \\cdot 2^t$. Si $P_0 = 10$, ¿cuántos peroxisomas habrá en $t=5$ horas?",
+    "image": null,
+    "options": [
+      { "text": "$320 \\text{ peroxisomas}$", "correct": true },
+      { "text": "$100 \\text{ peroxisomas}$", "correct": false },
+      { "text": "$640 \\text{ peroxisomas}$", "correct": false },
+      { "text": "$50 \\text{ peroxisomas}$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Calcula $2^5$ y multiplícalo por 10.",
+    "explanation": "$2^5 = 32$. $P(5) = 10 \\times 32 = 320$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP98BL",
+    "question": "El retículo sarcoplásmico libera $Ca^{2+}$ siguiendo una cinética donde la concentración $C(t) = -2t^2 + 8t$. ¿En qué tiempo $t$ (en ms) la concentración es máxima? (Usa el vértice de la parábola $t = -b/2a$).",
+    "image": null,
+    "options": [
+      { "text": "$2 \\text{ ms}$", "correct": true },
+      { "text": "$4 \\text{ ms}$", "correct": false },
+      { "text": "$1 \\text{ ms}$", "correct": false },
+      { "text": "$8 \\text{ ms}$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Aquí $a = -2$ y $b = 8$. Sustituye en la fórmula del vértice.",
+    "explanation": "$t = -8 / (2 \\times -2) = -8 / -4 = 2 \\text{ ms}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP98BM",
+    "question": "Si una célula gasta el $40\\%$ de su ATP total en la bomba Na/K y su ATP total es de $5 \\times 10^9 \\text{ moléculas}$, ¿cuántas moléculas de ATP consume la bomba?",
+    "image": null,
+    "options": [
+      { "text": "$2 \\times 10^9 \\text{ moléculas}$", "correct": true },
+      { "text": "$20 \\times 10^9 \\text{ moléculas}$", "correct": false },
+      { "text": "$1.25 \\times 10^9 \\text{ moléculas}$", "correct": false },
+      { "text": "$4 \\times 10^9 \\text{ moléculas}$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Multiplica el total por $0.4$.",
+    "explanation": "$5 \\times 0.4 = 2$. Mantiene la base $10^9$. Resultado $2 \\times 10^9$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP98BN",
+    "question": "El complejo de poro nuclear permite el paso de moléculas menores a $40 \\text{ kDa}$. Si tienes proteínas de $X = 25,000 \\text{ Da}$ y $Y = 55,000 \\text{ Da}$, ¿cuál desigualdad describe correctamente quién pasa?",
+    "image": null,
+    "options": [
+      { "text": "$X < 40 \\text{ kDa}$ (Pasa)", "correct": true },
+      { "text": "$Y < 40 \\text{ kDa}$ (Pasa)", "correct": false },
+      { "text": "$X > 40 \\text{ kDa}$ (Pasa)", "correct": false },
+      { "text": "$Y = 40 \\text{ kDa}$ (Pasa)", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Convierte kDa a Da ($1 \\text{ kDa} = 1000 \\text{ Da}$) o viceversa y compara.",
+    "explanation": "$40 \\text{ kDa} = 40,000 \\text{ Da}$. $25,000 < 40,000$, por lo tanto X pasa. Y es mayor, no pasa.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP98BO",
+    "question": "En la oxidación de ácidos grasos en la mitocondria, cada ciclo de beta-oxidación corta $2$ carbonos. Si tienes un ácido graso de $16$ carbonos (Palmitato), ¿cuántos ciclos se necesitan para degradarlo completamente?",
+    "image": null,
+    "options": [
+      { "text": "$7 \\text{ ciclos}$", "correct": true },
+      { "text": "$8 \\text{ ciclos}$", "correct": false },
+      { "text": "$6 \\text{ ciclos}$", "correct": false },
+      { "text": "$16 \\text{ ciclos}$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "El último corte separa los últimos dos fragmentos de 2 carbonos a la vez. Fórmula: $(n/2) - 1$.",
+    "explanation": "Para 16 carbonos, se obtienen 8 Acetil-CoA, pero solo se necesitan 7 cortes (ciclos) para separar las 8 piezas.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP98BP",
+    "question": "Un estudiante del CEPREDIX calcula el coeficiente de sedimentación. Si la subunidad grande es $50S$ y la pequeña $30S$, pero el ribosoma completo es $70S$, ¿cuál es la 'pérdida' aparente en unidades Svedberg por el cambio de forma al unirse?",
+    "image": null,
+    "options": [
+      { "text": "$10S$", "correct": true },
+      { "text": "$20S$", "correct": false },
+      { "text": "$0S$", "correct": false },
+      { "text": "$80S$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Suma aritmética simple $50+30$ y resta el valor real experimental $70$.",
+    "explanation": "Suma aritmética: $50+30=80$. Valor real: $70$. Diferencia: $80-70=10S$. (Nota: S no es aditivo linealmente, depende de la forma).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP98BQ",
+    "question": "El colesterol en la membrana afecta la fluidez. Si la relación molar Colesterol/Fosfolípido aumenta de $0.2$ a $0.8$, ¿en qué porcentaje aumentó la proporción de colesterol?",
+    "image": null,
+    "options": [
+      { "text": "$300\\%$", "correct": true },
+      { "text": "$400\\%$", "correct": false },
+      { "text": "$60\\%$", "correct": false },
+      { "text": "$40\\%$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Fórmula de cambio porcentual: $\\frac{Final - Inicial}{Inicial} \\times 100$.",
+    "explanation": "$\\frac{0.8 - 0.2}{0.2} = \\frac{0.6}{0.2} = 3$. En porcentaje es $300\\%$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP98BR",
+    "question": "Si una mitocondria consume $X$ litros de $O_2$ por minuto y hay $N$ mitocondrias en el tejido, el consumo total $C_T$ es $C_T = N \\cdot X$. Despeja $X$ (consumo por mitocondria).",
+    "image": null,
+    "options": [
+      { "text": "$X = \\frac{C_T}{N}$", "correct": true },
+      { "text": "$X = C_T \\cdot N$", "correct": false },
+      { "text": "$X = C_T - N$", "correct": false },
+      { "text": "$X = \\frac{N}{C_T}$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Para despejar $X$, divide ambos lados por $N$.",
+    "explanation": "Al dividir ambos lados de la ecuación por $N$, obtenemos $X = C_T / N$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP98BS",
+    "question": "La síntesis de una proteína en el RER requiere la hidrólisis de $4 \\text{ ATP}$ por enlace peptídico. Si la proteína tiene $n$ aminoácidos, tiene $n-1$ enlaces. ¿Cuál es la expresión para el costo energético total $E$?",
+    "image": null,
+    "options": [
+      { "text": "$E = 4(n-1) \\text{ ATP}$", "correct": true },
+      { "text": "$E = 4n \\text{ ATP}$", "correct": false },
+      { "text": "$E = 4n - 1 \\text{ ATP}$", "correct": false },
+      { "text": "$E = \\frac{n-1}{4} \\text{ ATP}$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Multiplica el costo por enlace ($4$) por el número de enlaces ($n-1$).",
+    "explanation": "Número de enlaces es $n-1$. Costo por enlace es $4$. Total $E = 4(n-1)$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP98BT",
+    "question": "El volumen de una vesícula esférica es $V = \\frac{4}{3}\\pi r^3$. Si el radio se duplica ($2r$), ¿cuántas veces aumenta el volumen?",
+    "image": null,
+    "options": [
+      { "text": "$8 \\text{ veces}$", "correct": true },
+      { "text": "$2 \\text{ veces}$", "correct": false },
+      { "text": "$4 \\text{ veces}$", "correct": false },
+      { "text": "$6 \\text{ veces}$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Eleva el factor 2 al cubo ($2^3$).",
+    "explanation": "El volumen depende de $r^3$. Si $r$ cambia a $2r$, el volumen cambia proporcionalmente a $(2)^3 = 8$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP98BU",
+    "question": "En el CEPREDIX se estudia la tasa de mutación mitocondrial ($M_{mt}$) vs nuclear ($M_{nuc}$). Si $M_{mt} = 10 \\times M_{nuc}$ y $M_{nuc} = 2.5 \\times 10^{-8}$ mutaciones/base/generación, calcula $M_{mt}$.",
+    "image": null,
+    "options": [
+      { "text": "$2.5 \\times 10^{-7}$", "correct": true },
+      { "text": "$2.5 \\times 10^{-9}$", "correct": false },
+      { "text": "$25 \\times 10^{-8}$", "correct": false },
+      { "text": "$1.0 \\times 10^{-7}$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Multiplicar por 10 es sumar 1 al exponente en base 10 ($-8 + 1$).",
+    "explanation": "$10^1 \\times 10^{-8} = 10^{-7}$. El resultado es $2.5 \\times 10^{-7}$. (Nota: $25 \\times 10^{-8}$ es correcto numéricamente pero no está en notación científica estándar).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP98BV",
+    "question": "Si la vida media de una mitocondria es de $10 \\text{ días}$ y sigue una cinética de decaimiento de primer orden $N(t) = N_0 e^{-kt}$, ¿qué porcentaje aproximado queda al día 10?",
+    "image": null,
+    "options": [
+      { "text": "$50\\%$", "correct": true },
+      { "text": "$10\\%$", "correct": false },
+      { "text": "$100\\%$", "correct": false },
+      { "text": "$37\\%$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Por definición, en la vida media la cantidad se reduce a la mitad.",
+    "explanation": "Al transcurrir una vida media ($t = t_{1/2}$), la cantidad restante es siempre el $50\\%$ de la inicial.",
+    "explanative_video": null,
+    "collapsible_text": null
+  }
+]
