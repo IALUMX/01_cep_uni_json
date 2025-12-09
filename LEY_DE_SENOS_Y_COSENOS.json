@@ -619,7 +619,7 @@
       { "text": "$a^2 = b^2 + c^2 - 2bc \\cos(A)$", "correct": true },
       { "text": "$a^2 = b^2 + c^2 + 2bc \\cos(A)$", "correct": false },
       { "text": "$a^2 = b^2 - c^2 - 2bc \\sin(A)$", "correct": false },
-      { "text": "$a = \\sqrt{b^2 + c^2 - 2bc \\sin(A)}$", "correct": false }
+      { "text": "$a = \\sqrt{b^2 + c^2 - 2bc \\sin(A)$", "correct": false }
     ],
     "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
     "level_tag": ["BÁSICO"],
@@ -817,7 +817,7 @@
   },
   {
     "id": "GYT00BW",
-    "question": "Calcula el valor del lado $a$ (rojo) si $b = 5 \\text{ m}$, $c = 8 \\text{ m}$ y el ángulo $A = 60^\\circ$. Considera $\\cos(60^\\circ) = 0.5$ y $\\sin(60^\\circ) = 0.866$.",
+    "question": "Calcula el valor del lado $a$ (rojo) si $b = 5 \\text{ m}$, $c = 8 \\text{ m}$ y el ángulo $A = 60^\\circ$. Considera $\\cos(60^\\circ) = 0.5$.",
     "image": "https://i.imgur.com/sx8qgaa.png",
     "options": [
       { "text": "$7 \\text{ m}$", "correct": true },
@@ -851,18 +851,18 @@
   },
   {
     "id": "GYT00BY",
-    "question": "Un estudiante del CEPREDIX necesita determinar la longitud del lado $c$ (azul). Si $a = 10 \\text{ u}$, $b = 10 \\text{ u}$ y el ángulo $C = 120^\\circ$. ($\\cos 120^\\circ = -0.5$).",
+    "question": "Un estudiante del CEPREDIX necesita determinar la longitud del lado $c$ (azul). Si $a = 5 \\text{ u}$, $b = 8 \\text{ u}$ y el ángulo $C = 60^\\circ$. ($\\cos 60^\\circ = 0.5$).",
     "image": "https://i.imgur.com/sx8qgaa.png",
     "options": [
-      { "text": "$17.32 \\text{ u}$", "correct": true },
-      { "text": "$10 \\text{ u}$", "correct": false },
-      { "text": "$14.14 \\text{ u}$", "correct": false },
-      { "text": "$20 \\text{ u}$", "correct": false }
+      { "text": "$7 \\text{ u}$", "correct": true },
+      { "text": "$49 \\text{ u}$", "correct": false },
+      { "text": "$9.43 \\text{ u}$", "correct": false },
+      { "text": "$6.24 \\text{ u}$", "correct": false }
     ],
     "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
     "level_tag": ["INTERMEDIO", "REAL"],
-    "hint": "Cuidado con el signo negativo del coseno de $120^\\circ$ en la fórmula $c^2 = a^2 + b^2 - 2ab \\cos(C)$.",
-    "explanation": "$c^2 = 100 + 100 - 2(10)(10)(-0.5) = 200 - (-100) = 300$. $c = \\sqrt{300} = 10\\sqrt{3} \\approx 17.32 \\text{ u}$.",
+    "hint": "Sustituye en la fórmula $c^2 = a^2 + b^2 - 2ab \\cos(C)$ y calcula la raíz cuadrada.",
+    "explanation": "$c^2 = 5^2 + 8^2 - 2(5)(8)(0.5) = 25 + 64 - 40 = 49$. Por lo tanto, $c = \\sqrt{49} = 7 \\text{ u}$.",
     "explanative_video": null,
     "collapsible_text": null
   },
@@ -885,35 +885,35 @@
   },
   {
     "id": "GYT00CA",
-    "question": "Calcula el cuadrado del lado $b$ si $a=3$, $c=2$ y el ángulo $B=45^\\circ$. Considera $\\cos(45^\\circ) \\approx 0.707$.",
+    "question": "Calcula el cuadrado del lado $b$ si $a=3$, $c=4$ y el ángulo $B=45^\\circ$. Considera $\\cos(45^\\circ) \\approx 0.707$.",
     "image": "https://i.imgur.com/sx8qgaa.png",
     "options": [
-      { "text": "$4.516$", "correct": true },
-      { "text": "$8.484$", "correct": false },
-      { "text": "$13.00$", "correct": false },
-      { "text": "$2.12$", "correct": false }
+      { "text": "$8.032$", "correct": true },
+      { "text": "$25.00$", "correct": false },
+      { "text": "$16.48$", "correct": false },
+      { "text": "$2.83$", "correct": false }
     ],
     "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
     "level_tag": ["INTERMEDIO", "REAL"],
-    "hint": "Aplica $b^2 = a^2 + c^2 - 2ac \\cos(B)$ y realiza las operaciones con cuidado.",
-    "explanation": "$b^2 = 3^2 + 2^2 - 2(3)(2)(0.707) = 9 + 4 - 12(0.707) = 13 - 8.484 = 4.516$.",
+    "hint": "Aplica $b^2 = a^2 + c^2 - 2ac \\cos(B)$ con los valores actualizados para garantizar un triángulo acutángulo.",
+    "explanation": "$b^2 = 3^2 + 4^2 - 2(3)(4)(0.707) = 9 + 16 - 24(0.707) = 25 - 16.968 = 8.032$.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
     "id": "GYT00CB",
-    "question": "Si $a^2 = 25$, $b^2 = 16$ y $c^2 = 9$, determina si el triángulo es rectángulo utilizando el recíproco de la Ley de Cosenos (Pitágoras).",
+    "question": "Determina si el triángulo con lados $a=4$, $b=5$ y $c=6$ es acutángulo. Usa la fórmula $\\cos(C) = \\frac{a^2 + b^2 - c^2}{2ab}$ para el ángulo mayor (opuesto a 6).",
     "image": "https://i.imgur.com/sx8qgaa.png",
     "options": [
-      { "text": "Sí, porque $16 + 9 = 25$ ($b^2 + c^2 = a^2$).", "correct": true },
-      { "text": "No, porque $25 + 16 \\neq 9$.", "correct": false },
-      { "text": "Sí, porque es un triángulo equilátero.", "correct": false },
-      { "text": "No se puede determinar sin los ángulos.", "correct": false }
+      { "text": "Sí, porque $\\cos(C) > 0$.", "correct": true },
+      { "text": "No, porque $\\cos(C) < 0$.", "correct": false },
+      { "text": "No, porque $a^2 + b^2 = c^2$.", "correct": false },
+      { "text": "Sí, porque es equilátero.", "correct": false }
     ],
     "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
     "level_tag": ["INTERMEDIO", "REAL"],
-    "hint": "Verifica si la suma de los cuadrados de los dos lados menores es igual al cuadrado del mayor.",
-    "explanation": "Como $16 (b^2) + 9 (c^2) = 25 (a^2)$, se cumple el Teorema de Pitágoras, lo que implica que el ángulo $A$ es de $90^\\circ$ ($\\cos 90^\\circ = 0$).",
+    "hint": "Calcula el signo de $4^2 + 5^2 - 6^2$. Si es positivo, el coseno es positivo y el ángulo es agudo.",
+    "explanation": "$16 + 25 - 36 = 41 - 36 = 5$. Como el numerador es positivo, $\\cos(C) = 5/40 > 0$, por lo que $C < 90^\\circ$. Al ser el ángulo mayor agudo, todos son agudos.",
     "explanative_video": null,
     "collapsible_text": null
   },
@@ -953,35 +953,35 @@
   },
   {
     "id": "GYT00CE",
-    "question": "Si $a=4$, $b=5$ y $\\cos(C) = -0.2$, calcula el valor exacto del lado $c$.",
+    "question": "Si $a=5$, $b=6$ y $\\cos(C) = 1/5$ (0.2), calcula el valor exacto del lado $c$ y confirma que el triángulo es acutángulo.",
     "image": "https://i.imgur.com/sx8qgaa.png",
     "options": [
-      { "text": "$\\sqrt{49}$", "correct": true },
+      { "text": "$7$", "correct": true },
       { "text": "$\\sqrt{33}$", "correct": false },
-      { "text": "$\\sqrt{41}$", "correct": false },
-      { "text": "$\\sqrt{57}$", "correct": false }
+      { "text": "$8$", "correct": false },
+      { "text": "$5.5$", "correct": false }
     ],
     "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
     "level_tag": ["AVANZADO", "REAL"],
-    "hint": "Presta atención al signo negativo del coseno, esto indica un triángulo obtusángulo.",
-    "explanation": "$c^2 = 4^2 + 5^2 - 2(4)(5)(-0.2) = 16 + 25 - 40(-0.2) = 41 + 8 = 49$. Por lo tanto $c = 7$.",
+    "hint": "El coseno es positivo, indicando un ángulo agudo. Aplica la Ley de Cosenos directamente.",
+    "explanation": "$c^2 = 5^2 + 6^2 - 2(5)(6)(0.2) = 25 + 36 - 60(0.2) = 61 - 12 = 49$. Por lo tanto $c = 7$.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
     "id": "GYT00CF",
-    "question": "Determina el valor de $x$ si los lados de un triángulo son $x$, $x+2$ y $x+4$, y el ángulo opuesto al lado mayor es $120^\\circ$. ($\\cos 120^\\circ = -1/2$).",
+    "question": "En un triángulo acutángulo del CEPREDIX, los lados miden $x$, $8$ y $7$. Si el ángulo opuesto al lado de 7 es $60^\\circ$, determina el valor de $x$.",
     "image": "https://i.imgur.com/sx8qgaa.png",
     "options": [
-      { "text": "$x = 3$", "correct": true },
-      { "text": "$x = 2$", "correct": false },
-      { "text": "$x = 5$", "correct": false },
-      { "text": "$x = 4$", "correct": false }
+      { "text": "$x = 5$", "correct": true },
+      { "text": "$x = 3$", "correct": false },
+      { "text": "$x = 8$", "correct": false },
+      { "text": "$x = 7$", "correct": false }
     ],
     "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
     "level_tag": ["AVANZADO", "REAL"],
-    "hint": "El lado mayor es $x+4$. Plantea la ecuación: $(x+4)^2 = x^2 + (x+2)^2 - 2x(x+2)(-0.5)$.",
-    "explanation": "Desarrollando: $x^2+8x+16 = x^2 + x^2+4x+4 + x(x+2)$. simplificando: $x^2+8x+16 = 2x^2+4x+4 + x^2+2x$. $x^2+8x+16 = 3x^2+6x+4$. $2x^2-2x-12=0$. $x^2-x-6=0$. $(x-3)(x+2)=0$. Como $x>0$, $x=3$.",
+    "hint": "Plantea $7^2 = x^2 + 8^2 - 2(x)(8)(0.5)$. La ecuación cuadrática tendrá dos soluciones, pero una genera un triángulo obtusángulo que debes descartar.",
+    "explanation": "$49 = x^2 + 64 - 8x \\to x^2 - 8x + 15 = 0$. Soluciones: $x=3$ y $x=5$. Si $x=3$, lados (3,7,8) el ángulo opuesto a 8 sería obtuso ($3^2+7^2 = 58 < 8^2$). Si $x=5$, lados (5,7,8) es acutángulo ($5^2+7^2 = 74 > 8^2$). Correcta: 5.",
     "explanative_video": null,
     "collapsible_text": null
   },
