@@ -3194,5 +3194,583 @@
     "explanation": "A) $\\frac{d}{dx}[5 \\ln x] = 5/x$ (III). B) $\\frac{d}{dx}[\\log_2(x)] = \\frac{1}{x \\ln 2}$ (I). C) $\\frac{d}{dx}[e^{x-3}] = 1 \\cdot e^{x-3}$ (II).",
     "explanative_video": null,
     "collapsible_text": null
+  },
+  {
+    "id": "CAL09HH",
+    "question": "Calcula la derivada de la función $f(x) = (3x^2 + 1)^4$.",
+    "image": null,
+    "options": [
+      { "text": "$24x(3x^2 + 1)^3$", "correct": true },
+      { "text": "$4(3x^2 + 1)^3$", "correct": false },
+      { "text": "$4x^2(3x^2 + 1)^3$", "correct": false },
+      { "text": "$12x(3x^2 + 1)^4$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Recuerda que $\\frac{d}{du}(u^n) = n \\cdot u^{n-1} \\cdot \\frac{du}{dx}$. El resultado final es la derivada.",
+    "explanation": "La función externa es $u^4$ y la interna $u = 3x^2 + 1$. Aplicando la regla de la cadena: $4(3x^2 + 1)^{4-1} \\cdot \\frac{d}{dx}(3x^2 + 1) = 4(3x^2 + 1)^3 \\cdot (6x) = 24x(3x^2 + 1)^3$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CAL09HI",
+    "question": "Determina la derivada de $y = \\sin(5x - 2)$.",
+    "image": null,
+    "options": [
+      { "text": "$5 \\cos(5x - 2)$", "correct": true },
+      { "text": "$-5 \\cos(5x - 2)$", "correct": false },
+      { "text": "$\\cos(5x - 2)$", "correct": false },
+      { "text": "$\\cos(5)$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "La derivada de la función $y=\\cos(u)$ es $\\frac{dy}{dx} = -\\sin(u) \\cdot \\frac{du}{dx}$. Despeja $\\frac{dy}{dx}$ si $y = \\sin(u)$.",
+    "explanation": "La función externa es $\\sin(u)$ y la interna $u = 5x - 2$. La derivada es $\\cos(5x - 2) \\cdot \\frac{d}{dx}(5x - 2) = \\cos(5x - 2) \\cdot (5) = 5 \\cos(5x - 2)$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CAL09HJ",
+    "question": "Calcula la derivada de $f(x) = \\sqrt{x^4 + 3x}$.",
+    "image": null,
+    "options": [
+      { "text": "$\\frac{4x^3 + 3}{2\\sqrt{x^4 + 3x}}$", "correct": true },
+      { "text": "$\\frac{1}{\\sqrt{x^4 + 3x}}$", "correct": false },
+      { "text": "$2(4x^3 + 3)\\sqrt{x^4 + 3x}$", "correct": false },
+      { "text": "$\\frac{1}{2\\sqrt{x^4 + 3x}}$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Recuerda que $u' = 2 \\sqrt{u} \\cdot \\frac{d}{dx} (\\sqrt{u})$.",
+    "explanation": "Reescribiendo como $f(x) = (x^4 + 3x)^{1/2}$. La derivada es $\\frac{1}{2}(x^4 + 3x)^{-1/2} \\cdot \\frac{d}{dx}(x^4 + 3x) = \\frac{1}{2}(x^4 + 3x)^{-1/2} \\cdot (4x^3 + 3) = \\frac{4x^3 + 3}{2\\sqrt{x^4 + 3x}}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CAL09HK",
+    "question": "¿Cuál es la derivada de $y = \\cos(x^3)$?",
+    "image": null,
+    "options": [
+      { "text": "$-3x^2 \\sin(x^3)$", "correct": true },
+      { "text": "$3x^2 \\sin(x^3)$", "correct": false },
+      { "text": "$-\\sin(x^3)$", "correct": false },
+      { "text": "$-\\sin(3x^2)$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Recuerda que $\\frac{d}{du}(\\sin(u)) = \\cos(u) \\cdot u'$.",
+    "explanation": "La función externa es $\\cos(u)$ y la interna $u = x^3$. La derivada es $-\\sin(x^3) \\cdot \\frac{d}{dx}(x^3) = -\\sin(x^3) \\cdot (3x^2) = -3x^2 \\sin(x^3)$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CAL09HL",
+    "question": "Determina la derivada de $f(x) = \\frac{1}{(2x - 5)^2}$.",
+    "image": null,
+    "options": [
+      { "text": "$\\frac{-4}{(2x - 5)^3}$", "correct": true },
+      { "text": "$\\frac{-2}{(2x - 5)^3}$", "correct": false },
+      { "text": "$2(2x - 5)^{-3}$", "correct": false },
+      { "text": "$\\frac{1}{2(2x - 5)}$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Expresa la función como $f(x) = (2x - 5)^{-2}$. La fórmula del cociente es $\\frac{d}{dx} \\left( \\frac{f}{g} \\right) = \\frac{f'g - fg'}{g^2}$.",
+    "explanation": "Reescribiendo $f(x) = (2x - 5)^{-2}$. La derivada es $-2(2x - 5)^{-3} \\cdot \\frac{d}{dx}(2x - 5) = -2(2x - 5)^{-3} \\cdot (2) = -4(2x - 5)^{-3} = \\frac{-4}{(2x - 5)^3}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CAL09HM",
+    "question": "Encuentra la derivada de $y = \\tan(4x)$.",
+    "image": null,
+    "options": [
+      { "text": "$4 \\sec^2(4x)$", "correct": true },
+      { "text": "$4 \\cot(4x)$", "correct": false },
+      { "text": "$\\sec^2(4x)$", "correct": false },
+      { "text": "$-4 \\tan(4x) \\sec(4x)$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "La derivada de $\\sec(u)$ es $\\sec(u) \\tan(u) \\cdot u'$.",
+    "explanation": "La función externa es $\\tan(u)$ y la interna $u = 4x$. La derivada es $\\sec^2(4x) \\cdot \\frac{d}{dx}(4x) = \\sec^2(4x) \\cdot (4) = 4 \\sec^2(4x)$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CAL09HN",
+    "question": "Si $y = u^2 - 1$ y $u = x^2 + 3$, halla $\\frac{dy}{dx}$ usando la regla de la cadena.",
+    "image": null,
+    "options": [
+      { "text": "$4x(x^2 + 3)$", "correct": true },
+      { "text": "$2x + 2u$", "correct": false },
+      { "text": "$4x^2 + 6x$", "correct": false },
+      { "text": "$2x^3 - 3x$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "La regla de la cadena se expresa como $\\frac{dy}{du} = \\frac{dy}{dx} / \\frac{du}{dx}$.",
+    "explanation": "La derivada es $\\frac{dy}{dx} = \\frac{dy}{du} \\cdot \\frac{du}{dx}$. Calculamos $\\frac{dy}{du} = 2u$ y $\\frac{du}{dx} = 2x$. Sustituyendo, $\\frac{dy}{dx} = (2u)(2x) = 4ux$. Sustituyendo $u = x^2 + 3$: $4x(x^2 + 3)$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CAL09HO",
+    "question": "Identifica los elementos *internos* y *externos* de la derivada que se utilizan en la regla de la cadena para $y = (3x^2 + 5)^3$.",
+    "image": null,
+    "options": [
+      { "text": "Derivada externa: $3(u)^2$; Derivada interna: $6x$", "correct": true },
+      { "text": "Derivada externa: $3(3x^2 + 5)^2$; Derivada interna: $3x^2$", "correct": false },
+      { "text": "Derivada externa: $6x$; Derivada interna: $3(u)^2$", "correct": false },
+      { "text": "Derivada externa: $3x^2$; Derivada interna: $u^3$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "La derivada total es el producto de la derivada externa (donde $u = 3x^2 + 5$) por la derivada interna ($u'$).",
+    "explanation": "La función externa es $u^3$, cuya derivada es $3u^2$. La función interna es $u = 3x^2 + 5$, cuya derivada es $6x$. Por lo tanto, los componentes clave del producto son $3(u)^2$ y $6x$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CAL09HP",
+    "question": "Para derivar la función $f(x) = (x^3 - 2)^5$ se utiliza la regla de la cadena, donde la derivada externa es _______ y la derivada interna es _______. El resultado es _______. (Expresa la derivada externa con $u$ como argumento)",
+    "image": null,
+    "options": [
+      { "text": "$5(u)^4$; $3x^2$; $15x^2(x^3 - 2)^4$", "correct": true },
+      { "text": "$5x^4$; $3x^2$; $15x^6(x^3 - 2)^4$", "correct": false },
+      { "text": "$3x^2$; $5(x^3 - 2)^4$; $15x^2(x^3 - 2)^4$", "correct": false },
+      { "text": "$5(u)^4$; $3x^3$; $15x^3(x^3 - 2)^4$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "El resultado es el producto de la derivada externa evaluada en la función interna, por la derivada de la función interna. La derivada de $g(x)^n$ es $n \\cdot g(x)^{n-1} \\cdot g'(x)$.",
+    "explanation": "Derivada externa: $5u^4$. Derivada interna: $\\frac{d}{dx}(x^3 - 2) = 3x^2$. Resultado: $5(x^3 - 2)^4 \\cdot 3x^2 = 15x^2(x^3 - 2)^4$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CAL09HQ",
+    "question": "La derivada de $y = \\cos(7x)$ es el producto de la derivada de _______, que es $y' = - \\sin(u)$, por la derivada de _______, que es $7$. El resultado final es _______. (Expresa $y'$ en términos de $u$)",
+    "image": null,
+    "options": [
+      { "text": "el coseno; el argumento $7x$; $-7 \\sin(7x)$", "correct": true },
+      { "text": "el seno; $7x$; $7 \\cos(7x)$", "correct": false },
+      { "text": "la función $7x$; el coseno; $-7 \\sin(7x)$", "correct": false },
+      { "text": "el coseno; $7$; $\\sin(7x)$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "La derivada de $\\sin(u)$ es $\\cos(u) \\cdot u'$.",
+    "explanation": "La derivada de la función externa $\\cos(u)$ es $-\\sin(u)$. La derivada del argumento (función interna) $7x$ es $7$. El resultado es $-\\sin(7x) \\cdot 7 = -7 \\sin(7x)$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CAL09HR",
+    "question": "La regla de la cadena se aplica al derivar una _______ compuesta. Si $y = f(u)$ y $u = g(x)$, la derivada $\\frac{dy}{dx}$ es igual a la derivada de $y$ con respecto a $u$ multiplicada por la derivada de $u$ con respecto a _______. Esto se expresa como _______. (Expresa el resultado con notación de Leibniz)",
+    "image": null,
+    "options": [
+      { "text": "función; $x$; $\\frac{dy}{dx} = \\frac{dy}{du} \\cdot \\frac{du}{dx}$", "correct": true },
+      { "text": "variable; $u$; $\\frac{dy}{dx} = \\frac{df}{du} + \\frac{dg}{dx}$", "correct": false },
+      { "text": "función; $u$; $\\frac{dy}{dx} = \\frac{dy}{du} / \\frac{du}{dx}$", "correct": false },
+      { "text": "variable; $x$; $y' = f'(u) + u'$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "La derivada del cociente es $\\frac{dy}{dx} = \\frac{dy}{du} / \\frac{dx}{du}$.",
+    "explanation": "La regla de la cadena se usa para funciones compuestas y establece que $\\frac{dy}{dx} = \\frac{dy}{du} \\cdot \\frac{du}{dx}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CAL09HS",
+    "question": "Relaciona correctamente la función $y$ con su derivada $\\frac{dy}{dx}$: A) $y = (x^2 - 3)^5$, B) $y = \\sin(x^4)$, C) $y = \\tan(5x)$.",
+    "image": null,
+    "options": [
+      { "text": "A-II; B-III; C-I", "correct": true },
+      { "text": "A-III; B-I; C-II", "correct": false },
+      { "text": "A-I; B-II; C-III", "correct": false },
+      { "text": "A-II; B-I; C-III", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Derivada de $g(x)^n$: $n \\cdot g(x)^{n-1} \\cdot g'(x)$. Derivada de $\\sin(g(x))$: $\\cos(g(x)) \\cdot g'(x)$. Derivada de $\\tan(g(x))$: $\\sec^2(g(x)) \\cdot g'(x)$.",
+    "explanation": "A) $y = (x^2 - 3)^5 \\implies \\frac{dy}{dx} = 5(x^2 - 3)^4 \\cdot (2x) = 10x(x^2 - 3)^4$ (II). B) $y = \\sin(x^4) \\implies \\frac{dy}{dx} = \\cos(x^4) \\cdot (4x^3) = 4x^3 \\cos(x^4)$ (III). C) $y = \\tan(5x) \\implies \\frac{dy}{dx} = \\sec^2(5x) \\cdot (5) = 5 \\sec^2(5x)$ (I).",
+    "explanative_video": null,
+    "collapsible_text": "I: $5 \\sec^2(5x)$; II: $10x(x^2 - 3)^4$; III: $4x^3 \\cos(x^4)$"
+  },
+  {
+    "id": "CAL09HT",
+    "question": "Encuentra la derivada de la función $g(x) = (2x^4 - 3x^2)^3$.",
+    "image": null,
+    "options": [
+      { "text": "$3(8x^3 - 6x)(2x^4 - 3x^2)^2$", "correct": true },
+      { "text": "$3(2x^4 - 3x^2)^2$", "correct": false },
+      { "text": "$24x^3(2x^4 - 3x^2)^2$", "correct": false },
+      { "text": "$(8x^3 - 6x)(2x^4 - 3x^2)^3$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "La fórmula de la derivada externa es $\\frac{d}{du}(u^n) = n \\cdot u^{n-1} \\cdot \\frac{du}{dx}$. El resultado es la derivada.",
+    "explanation": "Derivada externa: $3(2x^4 - 3x^2)^2$. Derivada interna: $\\frac{d}{dx}(2x^4 - 3x^2) = 8x^3 - 6x$. Producto: $3(8x^3 - 6x)(2x^4 - 3x^2)^2$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CAL09HU",
+    "question": "Calcula la derivada de $y = \\sin(x^2 + 5x)$.",
+    "image": null,
+    "options": [
+      { "text": "$(2x + 5) \\cos(x^2 + 5x)$", "correct": true },
+      { "text": "$\\cos(x^2 + 5x)$", "correct": false },
+      { "text": "$-\\cos(x^2 + 5x) \\cdot (2x + 5)$", "correct": false },
+      { "text": "$(2x + 5) \\sin(x^2 + 5x)$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "La derivada de la función $y=\\cos(u)$ es $\\frac{dy}{dx} = -\\sin(u) \\cdot \\frac{du}{dx}$. Despeja $\\frac{dy}{dx}$ si $y = \\sin(u)$.",
+    "explanation": "Derivada externa: $\\cos(x^2 + 5x)$. Derivada interna: $\\frac{d}{dx}(x^2 + 5x) = 2x + 5$. Producto: $(2x + 5) \\cos(x^2 + 5x)$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CAL09HV",
+    "question": "Determina la derivada de $f(x) = \\frac{1}{\\sqrt{x^2 - 4}}$.",
+    "image": null,
+    "options": [
+      { "text": "$\\frac{-x}{(x^2 - 4)^{3/2}}$", "correct": true },
+      { "text": "$\\frac{1}{2(x^2 - 4)^{3/2}}$", "correct": false },
+      { "text": "$\\frac{-2x}{(x^2 - 4)^{3/2}}$", "correct": false },
+      { "text": "$\\frac{2x}{(x^2 - 4)^{1/2}}$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Expresa la función como $f(x) = (x^2 - 4)^{-1/2}$. La fórmula del cociente es $\\frac{d}{dx} \\left( \\frac{f}{g} \\right) = \\frac{f'g - fg'}{g^2}$.",
+    "explanation": "Reescribiendo $f(x) = (x^2 - 4)^{-1/2}$. La derivada es $-\\frac{1}{2}(x^2 - 4)^{-3/2} \\cdot \\frac{d}{dx}(x^2 - 4) = -\\frac{1}{2}(x^2 - 4)^{-3/2} \\cdot (2x) = -x(x^2 - 4)^{-3/2} = \\frac{-x}{(x^2 - 4)^{3/2}}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CAL09HW",
+    "question": "¿Cuál es la derivada de $y = \\cos(1 - 4x)$?",
+    "image": null,
+    "options": [
+      { "text": "$4 \\sin(1 - 4x)$", "correct": true },
+      { "text": "$-4 \\sin(1 - 4x)$", "correct": false },
+      { "text": "$\\sin(1 - 4x)$", "correct": false },
+      { "text": "$4 \\cos(1 - 4x)$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Recuerda que $\\frac{d}{du}(\\sin(u)) = \\cos(u) \\cdot u'$.",
+    "explanation": "Derivada externa: $-\\sin(1 - 4x)$. Derivada interna: $\\frac{d}{dx}(1 - 4x) = -4$. Producto: $(-\\sin(1 - 4x)) \\cdot (-4) = 4 \\sin(1 - 4x)$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CAL09HX",
+    "question": "Calcula la derivada de $f(x) = \\sqrt[3]{5x^2 + x}$.",
+    "image": null,
+    "options": [
+      { "text": "$\\frac{10x + 1}{3(5x^2 + x)^{2/3}}$", "correct": true },
+      { "text": "$\\frac{1}{3(5x^2 + x)^{2/3}}$", "correct": false },
+      { "text": "$\\frac{10x + 1}{(5x^2 + x)^{2/3}}$", "correct": false },
+      { "text": "$\\frac{1}{3}\\sqrt[3]{(5x^2 + x)^2}$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Expresa la función como $f(x) = (5x^2 + x)^{1/3}$. Recuerda que $u' = 3 u^{2/3} \\cdot \\frac{d}{dx} (\\sqrt[3]{u})$.",
+    "explanation": "Reescribiendo $f(x) = (5x^2 + x)^{1/3}$. La derivada es $\\frac{1}{3}(5x^2 + x)^{-2/3} \\cdot \\frac{d}{dx}(5x^2 + x) = \\frac{1}{3}(5x^2 + x)^{-2/3} \\cdot (10x + 1) = \\frac{10x + 1}{3(5x^2 + x)^{2/3}}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CAL09HY",
+    "question": "Encuentra la derivada de $y = \\tan(x^3 - 2x)$.",
+    "image": null,
+    "options": [
+      { "text": "$(3x^2 - 2) \\sec^2(x^3 - 2x)$", "correct": true },
+      { "text": "$\\sec^2(x^3 - 2x)$", "correct": false },
+      { "text": "$(3x^2 - 2) \\cot(x^3 - 2x)$", "correct": false },
+      { "text": "$-\\sec^2(x^3 - 2x) \\cdot (3x^2 - 2)$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "La derivada de $\\sec(u)$ es $\\sec(u) \\tan(u) \\cdot u'$.",
+    "explanation": "Derivada externa: $\\sec^2(x^3 - 2x)$. Derivada interna: $\\frac{d}{dx}(x^3 - 2x) = 3x^2 - 2$. Producto: $(3x^2 - 2) \\sec^2(x^3 - 2x)$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CAL09HZ",
+    "question": "Si $y = u^4$ y $u = x^3 - 5$, halla $\\frac{dy}{dx}$ usando la regla de la cadena.",
+    "image": null,
+    "options": [
+      { "text": "$12x^2(x^3 - 5)^3$", "correct": true },
+      { "text": "$4u^3$", "correct": false },
+      { "text": "$3x^2 u^4$", "correct": false },
+      { "text": "$12x(x^3 - 5)^3$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "La regla de la cadena se expresa como $\\frac{dy}{du} = \\frac{dy}{dx} / \\frac{du}{dx}$.",
+    "explanation": "La derivada es $\\frac{dy}{dx} = \\frac{dy}{du} \\cdot \\frac{du}{dx}$. Calculamos $\\frac{dy}{du} = 4u^3$ y $\\frac{du}{dx} = 3x^2$. Sustituyendo, $\\frac{dy}{dx} = (4u^3)(3x^2) = 12x^2 u^3$. Sustituyendo $u = x^3 - 5$: $12x^2(x^3 - 5)^3$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CAL09IA",
+    "question": "En la derivada de $y = \\cos(x^2 + 1)$, los elementos clave de la derivada externa y la derivada interna son:",
+    "image": null,
+    "options": [
+      { "text": "Derivada externa: $-\\sin(x^2 + 1)$; Derivada interna: $2x$", "correct": true },
+      { "text": "Derivada externa: $\\cos(u)$; Derivada interna: $2x$", "correct": false },
+      { "text": "Derivada externa: $2x$; Derivada interna: $\\cos(x^2 + 1)$", "correct": false },
+      { "text": "Derivada externa: $-\\sin(u)$; Derivada interna: $x^2 + 1$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "El resultado es el producto de la derivada de la función externa (coseno) evaluada en el argumento, por la derivada de la función interna (argumento).",
+    "explanation": "La función externa es $\\cos(u)$, cuya derivada evaluada es $-\\sin(x^2 + 1)$. La función interna es $u = x^2 + 1$, cuya derivada es $2x$. El resultado es $(- \\sin(x^2 + 1)) \\cdot (2x) = -2x \\sin(x^2 + 1)$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CAL09IB",
+    "question": "Para derivar la función $f(x) = (4x + 1)^3$, la derivada externa es _______, y la derivada interna es _______. El resultado de la derivada es _______. (Expresa la derivada externa con $u$ como argumento)",
+    "image": null,
+    "options": [
+      { "text": "$3(u)^2$; $4$; $12(4x + 1)^2$", "correct": true },
+      { "text": "$3(u)^2$; $4x$; $12x(4x + 1)^2$", "correct": false },
+      { "text": "$4$; $3(4x + 1)^2$; $12(4x + 1)^2$", "correct": false },
+      { "text": "$3(4x + 1)^2$; $1$; $3(4x + 1)^2$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "El resultado es el producto de la derivada externa evaluada en la función interna, por la derivada de la función interna. La derivada de $g(x)^n$ es $n \\cdot g(x)^{n-1} \\cdot g'(x)$.",
+    "explanation": "Derivada externa: $3u^2$. Derivada interna: $\\frac{d}{dx}(4x + 1) = 4$. Resultado: $3(4x + 1)^2 \\cdot 4 = 12(4x + 1)^2$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CAL09IC",
+    "question": "La derivada de $y = \\sin(x/2)$ es el producto de la derivada del _______, que es $y' = \\cos(u)$, por la derivada del _______, que es $1/2$. El resultado final es _______. (Expresa $y'$ en términos de $u$)",
+    "image": null,
+    "options": [
+      { "text": "seno; argumento $x/2$; $\\frac{1}{2} \\cos(x/2)$", "correct": true },
+      { "text": "coseno; $x/2$; $-\\frac{1}{2} \\sin(x/2)$", "correct": false },
+      { "text": "seno; $1/2$; $2 \\cos(x/2)$", "correct": false },
+      { "text": "función $x/2$; el seno; $\\frac{1}{2} \\cos(x/2)$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "La derivada de $\\cos(u)$ es $-\\sin(u) \\cdot u'$.",
+    "explanation": "La derivada de la función externa $\\sin(u)$ es $\\cos(u)$. La derivada del argumento (función interna) $x/2$ es $\\frac{1}{2}$. El resultado es $\\cos(x/2) \\cdot \\frac{1}{2} = \\frac{1}{2} \\cos(x/2)$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CAL09ID",
+    "question": "Si $f(x) = (2 - x^4)^3$, la función interna es $g(x) = _______$, cuya derivada es $g'(x) = _______$. Al aplicar la regla de la cadena, la derivada $f'(x)$ resulta en _______. (Expresa el resultado simplificado)",
+    "image": null,
+    "options": [
+      { "text": "$2 - x^4$; $-4x^3$; $-12x^3(2 - x^4)^2$", "correct": true },
+      { "text": "$2 - x^4$; $4x^3$; $12x^3(2 - x^4)^2$", "correct": false },
+      { "text": "$3u^2$; $-4x^3$; $-12x^3(2 - x^4)^2$", "correct": false },
+      { "text": "$2 - x^4$; $-4x^3$; $3(2 - x^4)^2$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "El resultado es el producto de la derivada externa evaluada en la función interna, por la derivada de la función interna. La fórmula para la derivada de una potencia es $u' = n u^{n-1} \\cdot \\frac{du}{dx}$.",
+    "explanation": "Función interna: $g(x) = 2 - x^4$. Derivada interna: $g'(x) = -4x^3$. Derivada: $3(2 - x^4)^2 \\cdot (-4x^3) = -12x^3(2 - x^4)^2$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CAL09IE",
+    "question": "Relaciona correctamente la función $y$ con su derivada $\\frac{dy}{dx}$: A) $y = \\cos(3x^2)$, B) $y = (4x + 7)^2$, C) $y = \\sqrt{x^2 - 1}$.",
+    "image": null,
+    "options": [
+      { "text": "A-II; B-III; C-I", "correct": true },
+      { "text": "A-III; B-II; C-I", "correct": false },
+      { "text": "A-I; B-III; C-II", "correct": false },
+      { "text": "A-II; B-I; C-III", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Derivada de $g(x)^n$: $n \\cdot g(x)^{n-1} \\cdot g'(x)$. Derivada de $\\cos(g(x))$: $-\\sin(g(x)) \\cdot g'(x)$. Derivada de $\\sqrt{g(x)}$: $\\frac{g'(x)}{2\\sqrt{g(x)}}$.",
+    "explanation": "A) $y = \\cos(3x^2) \\implies \\frac{dy}{dx} = -\\sin(3x^2) \\cdot (6x) = -6x \\sin(3x^2)$ (II). B) $y = (4x + 7)^2 \\implies \\frac{dy}{dx} = 2(4x + 7)^1 \\cdot (4) = 8(4x + 7)$ (III). C) $y = \\sqrt{x^2 - 1} \\implies \\frac{dy}{dx} = \\frac{1}{2}(x^2 - 1)^{-1/2} \\cdot (2x) = \\frac{x}{\\sqrt{x^2 - 1}}$ (I).",
+    "explanative_video": null,
+    "collapsible_text": "I: $\\frac{x}{\\sqrt{x^2 - 1}}$; II: $-6x \\sin(3x^2)$; III: $8(4x + 7)$"
+  },
+  {
+    "id": "CAL09IF",
+    "question": "Calcula la derivada de $f(x) = (x^2 + x + 1)^{10}$.",
+    "image": null,
+    "options": [
+      { "text": "$10(2x + 1)(x^2 + x + 1)^9$", "correct": true },
+      { "text": "$10(x^2 + x + 1)^9$", "correct": false },
+      { "text": "$(2x + 1)(x^2 + x + 1)^9$", "correct": false },
+      { "text": "$10(x^2 + x + 1)^9 + 2x + 1$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Recuerda que $\\frac{d}{du}(u^n) = n \\cdot u^{n-1} \\cdot \\frac{du}{dx}$. El resultado final es la derivada.",
+    "explanation": "Derivada externa: $10(x^2 + x + 1)^9$. Derivada interna: $\\frac{d}{dx}(x^2 + x + 1) = 2x + 1$. Producto: $10(2x + 1)(x^2 + x + 1)^9$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CAL09IG",
+    "question": "Determina la derivada de $y = \\cos(x/4)$.",
+    "image": null,
+    "options": [
+      { "text": "$-\\frac{1}{4} \\sin(x/4)$", "correct": true },
+      { "text": "$\\frac{1}{4} \\sin(x/4)$", "correct": false },
+      { "text": "$4 \\sin(x/4)$", "correct": false },
+      { "text": "$-\\sin(x/4)$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "La derivada de la función $y=\\sin(u)$ es $\\frac{dy}{dx} = \\cos(u) \\cdot \\frac{du}{dx}$. Despeja $\\frac{dy}{dx}$ si $y = \\cos(u)$.",
+    "explanation": "Derivada externa: $-\\sin(x/4)$. Derivada interna: $\\frac{d}{dx}(x/4) = 1/4$. Producto: $-\\sin(x/4) \\cdot \\frac{1}{4} = -\\frac{1}{4} \\sin(x/4)$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CAL09IH",
+    "question": "¿Cuál es la derivada de $f(x) = (1 - 5x^2)^{-3}$?",
+    "image": null,
+    "options": [
+      { "text": "$30x(1 - 5x^2)^{-4}$", "correct": true },
+      { "text": "$-3(1 - 5x^2)^{-4}$", "correct": false },
+      { "text": "$15x(1 - 5x^2)^{-4}$", "correct": false },
+      { "text": "$30x(1 - 5x^2)^4$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Recuerda que $\\frac{d}{du}(u^n) = n \\cdot u^{n-1} \\cdot \\frac{du}{dx}$. El resultado final es la derivada.",
+    "explanation": "Derivada externa: $-3(1 - 5x^2)^{-4}$. Derivada interna: $\\frac{d}{dx}(1 - 5x^2) = -10x$. Producto: $-3(1 - 5x^2)^{-4} \\cdot (-10x) = 30x(1 - 5x^2)^{-4}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CAL09II",
+    "question": "Calcula la derivada de $y = \\tan(10x)$.",
+    "image": null,
+    "options": [
+      { "text": "$10 \\sec^2(10x)$", "correct": true },
+      { "text": "$\\sec^2(10x)$", "correct": false },
+      { "text": "$10 \\cot(10x)$", "correct": false },
+      { "text": "$10 \\tan(10x)$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "La derivada de $\\sec(u)$ es $\\sec(u) \\tan(u) \\cdot u'$.",
+    "explanation": "Derivada externa: $\\sec^2(10x)$. Derivada interna: $\\frac{d}{dx}(10x) = 10$. Producto: $10 \\sec^2(10x)$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CAL09IJ",
+    "question": "Si $y = \\sqrt{u^2 + 1}$ y $u = x^2$, halla $\\frac{dy}{dx}$ usando la regla de la cadena.",
+    "image": null,
+    "options": [
+      { "text": "$\\frac{2x^3}{\\sqrt{x^4 + 1}}$", "correct": true },
+      { "text": "$\\frac{x}{\\sqrt{x^2 + 1}}$", "correct": false },
+      { "text": "$\\frac{2x}{\\sqrt{x^4 + 1}}$", "correct": false },
+      { "text": "$2x\\sqrt{x^4 + 1}$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "La regla de la cadena se expresa como $\\frac{dy}{du} = \\frac{dy}{dx} / \\frac{du}{dx}$.",
+    "explanation": "La derivada es $\\frac{dy}{dx} = \\frac{dy}{du} \\cdot \\frac{du}{dx}$. $\\frac{dy}{du} = \\frac{1}{2}(u^2 + 1)^{-1/2} \\cdot 2u = \\frac{u}{\\sqrt{u^2 + 1}}$. $\\frac{du}{dx} = 2x$. $\\frac{dy}{dx} = \\frac{u}{\\sqrt{u^2 + 1}} \\cdot 2x$. Sustituyendo $u=x^2$: $\\frac{x^2}{\\sqrt{(x^2)^2 + 1}} \\cdot 2x = \\frac{2x^3}{\\sqrt{x^4 + 1}}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CAL09IK",
+    "question": "Determina la derivada de $f(x) = \\sin(\\sqrt{x})$.",
+    "image": null,
+    "options": [
+      { "text": "$\\frac{\\cos(\\sqrt{x})}{2\\sqrt{x}}$", "correct": true },
+      { "text": "$\\cos(\\sqrt{x})$", "correct": false },
+      { "text": "$\\frac{\\sin(\\sqrt{x})}{2\\sqrt{x}}$", "correct": false },
+      { "text": "$-\\frac{\\cos(\\sqrt{x})}{2\\sqrt{x}}$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "La derivada de la función $y=\\cos(u)$ es $\\frac{dy}{dx} = -\\sin(u) \\cdot \\frac{du}{dx}$. Despeja $\\frac{dy}{dx}$ si $y = \\sin(u)$.",
+    "explanation": "Derivada externa: $\\cos(\\sqrt{x})$. Derivada interna: $\\frac{d}{dx}(\\sqrt{x}) = \\frac{1}{2\\sqrt{x}}$. Producto: $\\cos(\\sqrt{x}) \\cdot \\frac{1}{2\\sqrt{x}} = \\frac{\\cos(\\sqrt{x})}{2\\sqrt{x}}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CAL09IL",
+    "question": "Si $f(x) = (x^2 + 5x)^{1/2}$, el elemento que corresponde a la derivada de la función externa $f'(u)$ es _______, y el elemento que corresponde a la derivada interna $g'(x)$ es _______. El resultado de la derivada es _______. (Expresa $f'(u)$ en términos de $u$)",
+    "image": null,
+    "options": [
+      { "text": "$\\frac{1}{2} u^{-1/2}$; $2x + 5$; $\\frac{2x + 5}{2\\sqrt{x^2 + 5x}}$", "correct": true },
+      { "text": "$x^2 + 5x$; $2x + 5$; $\\frac{2x + 5}{2\\sqrt{x^2 + 5x}}$", "correct": false },
+      { "text": "$\\frac{1}{2} u^{-1/2}$; $\\frac{1}{2} (x^2 + 5x)^{-1/2}$; $\\frac{2x + 5}{2\\sqrt{x^2 + 5x}}$", "correct": false },
+      { "text": "$1/2$; $2x + 5$; $\\frac{2x + 5}{2\\sqrt{x^2 + 5x}}$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "El resultado es el producto de la derivada externa evaluada en la función interna, por la derivada de la función interna. La fórmula para la derivada de una potencia es $u' = n u^{n-1} \\cdot \\frac{du}{dx}$.",
+    "explanation": "Función externa: $u^{1/2} \\implies f'(u) = \\frac{1}{2} u^{-1/2}$. Función interna: $g(x) = x^2 + 5x \\implies g'(x) = 2x + 5$. Producto: $(\\frac{1}{2} (x^2 + 5x)^{-1/2}) \\cdot (2x + 5) = \\frac{2x + 5}{2\\sqrt{x^2 + 5x}}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CAL09IM",
+    "question": "La derivada de la función $y = \\tan(x/3)$ es el producto de la derivada de _______, que es $y' = \\sec^2(u)$, por la derivada de _______, que es $1/3$. El resultado final es _______. (Expresa $y'$ en términos de $u$)",
+    "image": null,
+    "options": [
+      { "text": "la tangente; el argumento $x/3$; $\\frac{1}{3} \\sec^2(x/3)$", "correct": true },
+      { "text": "la cotangente; el argumento $x/3$; $-\\frac{1}{3} \\csc^2(x/3)$", "correct": false },
+      { "text": "la secante; $x/3$; $3 \\sec^2(x/3)$", "correct": false },
+      { "text": "la tangente; $3$; $\\sec^2(x/3)$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "La derivada de $\\sec(u)$ es $\\sec(u) \\tan(u) \\cdot u'$.",
+    "explanation": "La derivada de la función externa $\\tan(u)$ es $\\sec^2(u)$. La derivada del argumento (función interna) $x/3$ es $\\frac{1}{3}$. El resultado es $\\sec^2(x/3) \\cdot \\frac{1}{3} = \\frac{1}{3} \\sec^2(x/3)$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CAL09IN",
+    "question": "La regla de la cadena se utiliza cuando una función está _______ de otra. Si $f(x) = g(h(x))$, la derivada $f'(x)$ es el producto de la derivada de la función _______, evaluada en $h(x)$, por la derivada de la función _______. Esto se expresa como $f'(x) = _______$. (Expresa la fórmula con notación prima)",
+    "image": null,
+    "options": [
+      { "text": "compuesta; externa $g(x)$; interna $h(x)$; $g'(h(x)) \\cdot h'(x)$", "correct": true },
+      { "text": "multiplicada; externa $g(x)$; interna $h(x)$; $g'(x) \\cdot h'(x)$", "correct": false },
+      { "text": "sumada; externa $g(x)$; interna $h(x)$; $g'(h(x)) + h'(x)$", "correct": false },
+      { "text": "compuesta; interna $h(x)$; externa $g(x)$; $h'(g(x)) \\cdot g'(x)$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "La fórmula de la derivada del cociente es $\\frac{d}{dx} \\left( \\frac{f}{g} \\right) = \\frac{f'g - fg'}{g^2}$.",
+    "explanation": "La regla de la cadena se aplica a funciones compuestas $f(x) = g(h(x))$. La derivada es el producto de la derivada de la función externa $g'(h(x))$ por la derivada de la función interna $h'(x)$, es decir, $f'(x) = g'(h(x)) \\cdot h'(x)$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CAL09IO",
+    "question": "Relaciona correctamente la función $y$ con su derivada $\\frac{dy}{dx}$: A) $y = \\sin(x/5)$, B) $y = (x^3 + 2)^4$, C) $y = \\tan(2x)$.",
+    "image": null,
+    "options": [
+      { "text": "A-II; B-III; C-I", "correct": true },
+      { "text": "A-III; B-I; C-II", "correct": false },
+      { "text": "A-I; B-II; C-III", "correct": false },
+      { "text": "A-II; B-I; C-III", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Derivada de $g(x)^n$: $n \\cdot g(x)^{n-1} \\cdot g'(x)$. Derivada de $\\sin(g(x))$: $\\cos(g(x)) \\cdot g'(x)$. Derivada de $\\tan(g(x))$: $\\sec^2(g(x)) \\cdot g'(x)$.",
+    "explanation": "A) $y = \\sin(x/5) \\implies \\frac{dy}{dx} = \\cos(x/5) \\cdot (1/5) = \\frac{1}{5} \\cos(x/5)$ (II). B) $y = (x^3 + 2)^4 \\implies \\frac{dy}{dx} = 4(x^3 + 2)^3 \\cdot (3x^2) = 12x^2(x^3 + 2)^3$ (III). C) $y = \\tan(2x) \\implies \\frac{dy}{dx} = \\sec^2(2x) \\cdot (2) = 2 \\sec^2(2x)$ (I).",
+    "explanative_video": null,
+    "collapsible_text": "I: $2 \\sec^2(2x)$; II: $\\frac{1}{5} \\cos(x/5)$; III: $12x^2(x^3 + 2)^3$"
   }
 ]
