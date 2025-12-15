@@ -4498,7 +4498,7 @@
       { "text": "$x = 0$", "correct": false }
     ],
     "uni_tags": ["GENERAL"],
-    "level_tag": ["BÁSICO", "REAL"],
+    "level_tag": ["BÁSICO"],
     "hint": "Busca el punto donde la segunda derivada sea negativa ($f''(c) < 0$).",
     "explanation": "Derivada: $V'(x) = -3x^2 + 6x$. Puntos críticos: $0$ y $2$. Segunda derivada: $V''(x) = -6x + 6$. En $x=2$, $V''(2) = -6$ (negativo), indicando un máximo.",
     "explanative_video": null,
@@ -4617,7 +4617,7 @@
       { "text": "$x = 3$", "correct": false }
     ],
     "uni_tags": ["GENERAL"],
-    "level_tag": ["BÁSICO", "REAL"],
+    "level_tag": ["BÁSICO"],
     "hint": "Encuentra la raíz positiva de la derivada $3x^2 - 300 = 0$.",
     "explanation": "Derivada: $C'(x) = 3x^2 - 300$. Igualando a cero: $x^2 = 100$, por lo que $x = 10$ (considerando producción positiva).",
     "explanative_video": null,
@@ -4821,7 +4821,7 @@
       { "text": "$x = 6$", "correct": false }
     ],
     "uni_tags": ["GENERAL"],
-    "level_tag": ["BÁSICO", "REAL"],
+    "level_tag": ["BÁSICO"],
     "hint": "Deriva y factoriza: $-3x(x - 8) = 0$.",
     "explanation": "$V'(x) = -3x^2 + 24x$. Factorizando $-3x(x - 8) = 0$. Las raíces son $0$ y $8$. Como $V''(8) = -24 < 0$, $x=8$ es un máximo.",
     "explanative_video": null,
@@ -4889,7 +4889,7 @@
       { "text": "1 cm", "correct": false }
     ],
     "uni_tags": ["GENERAL"],
-    "level_tag": ["BÁSICO", "REAL"],
+    "level_tag": ["BÁSICO"],
     "hint": "Define el volumen como $V(x) = x(12-2x)^2$. Deriva, factoriza y encuentra la raíz válida.",
     "explanation": "$V(x) = x(144 - 48x + 4x^2) = 4x^3 - 48x^2 + 144x$. $V'(x) = 12x^2 - 96x + 144$. Dividiendo entre 12: $x^2 - 8x + 12 = 0$. $(x-6)(x-2)=0$. $x=2$ es el máximo (6 anula el lado).",
     "explanative_video": null,
@@ -4991,7 +4991,7 @@
       { "text": "4.5 y 4.5", "correct": false }
     ],
     "uni_tags": ["GENERAL"],
-    "level_tag": ["BÁSICO", "REAL"],
+    "level_tag": ["BÁSICO"],
     "hint": "Despeja $x = 9 - y$, sustituye en $P = (9-y)y^2$, deriva e iguala a cero.",
     "explanation": "$P(y) = 9y^2 - y^3$. $P'(y) = 18y - 3y^2 = 3y(6 - y)$. Raíces $y=0, y=6$. Máximo en $y=6$. Entonces $x=3$.",
     "explanative_video": null,
@@ -5076,7 +5076,7 @@
       { "text": "0", "correct": false }
     ],
     "uni_tags": ["GENERAL"],
-    "level_tag": ["BÁSICO", "REAL"],
+    "level_tag": ["BÁSICO"],
     "hint": "Calcula la derivada $C'(x)$ e iguálala a cero.",
     "explanation": "$C'(x) = 2x - 10$. Igualando a cero: $2x = 10 \\rightarrow x = 5$.",
     "explanative_video": null,
@@ -5178,7 +5178,7 @@
       { "text": "2 cm", "correct": false }
     ],
     "uni_tags": ["GENERAL"],
-    "level_tag": ["BÁSICO", "REAL"],
+    "level_tag": ["BÁSICO"],
     "hint": "Plantea $V(x) = x(18-2x)^2$. Encuentra la raíz de la derivada que tenga sentido físico.",
     "explanation": "La derivada factorizada es $(18-2x)(18-6x)$. Las raíces son 9 y 3. 9 anula el lado, por lo que $x=3$.",
     "explanative_video": null,
