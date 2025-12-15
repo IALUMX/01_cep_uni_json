@@ -4435,5 +4435,413 @@
     "explanation": "$f(x) = \\frac{1}{2}\\sin 2x$. $f'(x) = \\cos 2x$. $f''(x) = -2\\sin 2x = -4\\sin x \\cos x$.",
     "explanative_video": null,
     "collapsible_text": null
+  },
+  {
+    "id": "CAL09KD",
+    "question": "Calcula los puntos críticos de la función $f(x) = x^3 - 12x$.",
+    "image": null,
+    "options": [
+      { "text": "$x = 2, x = -2$", "correct": true },
+      { "text": "$x = 3, x = -3$", "correct": false },
+      { "text": "$x = 0, x = 4$", "correct": false },
+      { "text": "$x = 1, x = -1$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"], "MÁXIMOS Y MÍNIMOS"],
+    "hint": "Deriva la función e iguala a cero: $3x^2 - k = 0$.",
+    "explanation": "La derivada es $f'(x) = 3x^2 - 12$. Al igualar a cero: $3(x^2 - 4) = 0$, lo que implica $x = \\pm 2$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CAL09KE",
+    "question": "Determina la coordenada $x$ del punto de inflexión de la función $f(x) = x^3 - 9x^2 + 2$.",
+    "image": null,
+    "options": [
+      { "text": "$x = 3$", "correct": true },
+      { "text": "$x = 9$", "correct": false },
+      { "text": "$x = 0$", "correct": false },
+      { "text": "$x = 6$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"], "MÁXIMOS Y MÍNIMOS"],
+    "hint": "Encuentra la raíz de la segunda derivada $f''(x)$.",
+    "explanation": "La primera derivada es $f'(x) = 3x^2 - 18x$. La segunda es $f''(x) = 6x - 18$. Igualando a cero: $6x = 18 \\rightarrow x = 3$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CAL09KF",
+    "question": "Para hallar los puntos críticos (máximos o mínimos locales) se calcula la ______ derivada y se iguala a ______.",
+    "image": null,
+    "options": [
+      { "text": "primera, cero", "correct": true },
+      { "text": "segunda, cero", "correct": false },
+      { "text": "primera, uno", "correct": false },
+      { "text": "segunda, uno", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"], "MÁXIMOS Y MÍNIMOS"],
+    "hint": "El criterio de la pendiente horizontal busca puntos estacionarios.",
+    "explanation": "Los extremos locales ocurren donde la pendiente de la tangente es nula, es decir, $f'(x) = 0$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CAL09KG",
+    "question": "Un analista del CEPREDIX estudia el rendimiento definido por $V(x) = -x^3 + 3x^2$. ¿En qué valor positivo de $x$ se alcanza el rendimiento máximo?",
+    "image": null,
+    "options": [
+      { "text": "$x = 2$", "correct": true },
+      { "text": "$x = 1$", "correct": false },
+      { "text": "$x = 3$", "correct": false },
+      { "text": "$x = 0$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO", "REAL"],
+    "hint": "Busca el punto donde la segunda derivada sea negativa ($f''(c) < 0$).",
+    "explanation": "Derivada: $V'(x) = -3x^2 + 6x$. Puntos críticos: $0$ y $2$. Segunda derivada: $V''(x) = -6x + 6$. En $x=2$, $V''(2) = -6$ (negativo), indicando un máximo.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CAL09KH",
+    "question": "¿En qué valor de $x$ se encuentra el mínimo local de la función $f(x) = \\frac{1}{3}x^3 - 4x$?",
+    "image": null,
+    "options": [
+      { "text": "$x = 2$", "correct": true },
+      { "text": "$x = -2$", "correct": false },
+      { "text": "$x = 4$", "correct": false },
+      { "text": "$x = 0$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"], "MÁXIMOS Y MÍNIMOS"],
+    "hint": "Resuelve $x^2 - 4 = 0$ y usa la segunda derivada $2x$ para verificar el mínimo.",
+    "explanation": "$f'(x) = x^2 - 4 \\rightarrow x = \\pm 2$. $f''(x) = 2x$. Como $f''(2) = 4 > 0$, el mínimo está en $x=2$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CAL09KI",
+    "question": "Identifica los valores críticos de la función $f(x) = x^3 - 27x$.",
+    "image": null,
+    "options": [
+      { "text": "$3, -3$", "correct": true },
+      { "text": "$9, -9$", "correct": false },
+      { "text": "$1, -1$", "correct": false },
+      { "text": "$0, 3$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"], "MÁXIMOS Y MÍNIMOS"],
+    "hint": "Factoriza la derivada $3x^2 - 27 = 0$.",
+    "explanation": "$f'(x) = 3x^2 - 27$. Dividiendo por 3: $x^2 - 9 = 0$. Soluciones: $x = 3$ y $x = -3$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CAL09KJ",
+    "question": "¿Cuál es el valor de $x$ donde la función $f(x) = -x^3 + 12x$ tiene un máximo local?",
+    "image": null,
+    "options": [
+      { "text": "$x = 2$", "correct": true },
+      { "text": "$x = -2$", "correct": false },
+      { "text": "$x = 0$", "correct": false },
+      { "text": "$x = 4$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"], "MÁXIMOS Y MÍNIMOS"],
+    "hint": "Para un máximo, busca donde la derivada sea cero y la segunda derivada sea negativa.",
+    "explanation": "$f'(x) = -3x^2 + 12$. Raíces: $\\pm 2$. $f''(x) = -6x$. En $x=2$, $f''(2) = -12$ (Cóncava abajo, Máximo).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CAL09KK",
+    "question": "Si al evaluar un punto crítico $c$ obtenemos que $f''(c) < 0$, entonces la gráfica es cóncava hacia ______ y existe un ______ local en ese punto.",
+    "image": null,
+    "options": [
+      { "text": "abajo, máximo", "correct": true },
+      { "text": "arriba, mínimo", "correct": false },
+      { "text": "abajo, mínimo", "correct": false },
+      { "text": "arriba, máximo", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"], "MÁXIMOS Y MÍNIMOS"],
+    "hint": "Recuerda la forma de una 'U' invertida para la concavidad negativa.",
+    "explanation": "La segunda derivada negativa indica concavidad hacia abajo, lo cual corresponde a la cima de una montaña, es decir, un máximo.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CAL09KL",
+    "question": "Halla el punto de inflexión de la función $f(x) = 2x^3 + 12x^2$.",
+    "image": null,
+    "options": [
+      { "text": "$x = -2$", "correct": true },
+      { "text": "$x = 2$", "correct": false },
+      { "text": "$x = -4$", "correct": false },
+      { "text": "$x = 0$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"], "MÁXIMOS Y MÍNIMOS"],
+    "hint": "Calcula $f''(x)$ e iguálala a cero.",
+    "explanation": "$f'(x) = 6x^2 + 24x$. $f''(x) = 12x + 24$. Al resolver $12x + 24 = 0$, obtenemos $x = -2$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CAL09KM",
+    "question": "Relaciona el signo de la segunda derivada con la concavidad:\nA) $f''(x) > 0$\nB) $f''(x) < 0$\nI) Cóncava hacia arriba (Carita feliz)\nII) Cóncava hacia abajo (Carita triste)",
+    "image": null,
+    "options": [
+      { "text": "A-I; B-II", "correct": true },
+      { "text": "A-II; B-I", "correct": false },
+      { "text": "A-I; B-I", "correct": false },
+      { "text": "A-II; B-II", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"], "MÁXIMOS Y MÍNIMOS"],
+    "hint": "Positivo es optimista (arriba), negativo es pesimista (abajo).",
+    "explanation": "Una segunda derivada positiva implica que la pendiente aumenta, generando una curva hacia arriba. Una negativa implica lo contrario.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CAL09KN",
+    "question": "Un problema del CEPREDIX pide minimizar el costo de producción $C(x) = x^3 - 300x$. ¿Cuál es el valor positivo de $x$ que minimiza el costo?",
+    "image": null,
+    "options": [
+      { "text": "$x = 10$", "correct": true },
+      { "text": "$x = 30$", "correct": false },
+      { "text": "$x = 100$", "correct": false },
+      { "text": "$x = 3$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO", "REAL"],
+    "hint": "Encuentra la raíz positiva de la derivada $3x^2 - 300 = 0$.",
+    "explanation": "Derivada: $C'(x) = 3x^2 - 300$. Igualando a cero: $x^2 = 100$, por lo que $x = 10$ (considerando producción positiva).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CAL09KO",
+    "question": "El punto de ______ es el lugar geométrico donde la función cambia su ______.",
+    "image": null,
+    "options": [
+      { "text": "inflexión, concavidad", "correct": true },
+      { "text": "máximo, pendiente", "correct": false },
+      { "text": "corte, dominio", "correct": false },
+      { "text": "mínimo, signo", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"], "MÁXIMOS Y MÍNIMOS"],
+    "hint": "Se busca el punto donde la curva pasa de abrir hacia arriba a abrir hacia abajo (o viceversa).",
+    "explanation": "Un punto de inflexión se define estrictamente como el punto donde la concavidad de la función cambia de signo.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CAL09KP",
+    "question": "Encuentra los puntos críticos de la función $f(x) = 2x^3 - 6x$.",
+    "image": null,
+    "options": [
+      { "text": "$x = 1, x = -1$", "correct": true },
+      { "text": "$x = 2, x = -2$", "correct": false },
+      { "text": "$x = 3, x = -3$", "correct": false },
+      { "text": "$x = 0, x = 1$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"], "MÁXIMOS Y MÍNIMOS"],
+    "hint": "Resuelve la ecuación cuadrática pura $6x^2 - 6 = 0$.",
+    "explanation": "$f'(x) = 6x^2 - 6$. Factorizando $6(x^2 - 1) = 0$, obtenemos las raíces $x = 1$ y $x = -1$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CAL09KQ",
+    "question": "¿En qué valor de $x$ se encuentra el MÁXIMO local de $f(x) = x^3 - 3x^2$?",
+    "image": null,
+    "options": [
+      { "text": "$x = 0$", "correct": true },
+      { "text": "$x = 2$", "correct": false },
+      { "text": "$x = -1$", "correct": false },
+      { "text": "$x = 3$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"], "MÁXIMOS Y MÍNIMOS"],
+    "hint": "Evalúa los puntos críticos en la segunda derivada. Para máximo, busca el resultado negativo.",
+    "explanation": "$f'(x) = 3x^2 - 6x$ tiene raíces en $0$ y $2$. $f''(x) = 6x - 6$. Evaluando: $f''(0) = -6$ (Máximo) y $f''(2) = 6$ (Mínimo).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CAL09KR",
+    "question": "El procedimiento estándar para optimizar una función es: derivar la función, igualar la derivada a ______ y resolver para ______.",
+    "image": null,
+    "options": [
+      { "text": "cero, x", "correct": true },
+      { "text": "uno, y", "correct": false },
+      { "text": "x, y", "correct": false },
+      { "text": "infinito, x", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"], "MÁXIMOS Y MÍNIMOS"],
+    "hint": "Buscamos dónde la pendiente es horizontal.",
+    "explanation": "Para hallar máximos o mínimos, buscamos puntos estacionarios donde la razón de cambio (derivada) sea nula (cero).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CAL09KS",
+    "question": "Un estudiante del CEPREDIX analiza la trayectoria de una partícula dada por $f(x) = x^3 - 6x^2 + x$. ¿En qué posición $x$ ocurre el punto de inflexión?",
+    "image": null,
+    "options": [
+      { "text": "$x = 2$", "correct": true },
+      { "text": "$x = 3$", "correct": false },
+      { "text": "$x = 0$", "correct": false },
+      { "text": "$x = 1$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"], "MÁXIMOS Y MÍNIMOS"],
+    "hint": "Deriva dos veces la función de posición e iguala a cero.",
+    "explanation": "$f'(x) = 3x^2 - 12x + 1$. $f''(x) = 6x - 12$. El punto de inflexión es donde $6x - 12 = 0$, es decir, $x = 2$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CAL09KT",
+    "question": "Selecciona los pasos correctos para hallar analíticamente un punto de inflexión:",
+    "image": null,
+    "options": [
+      { "text": "Hallar $f''(x)$, igualar a 0, despejar x", "correct": true },
+      { "text": "Hallar $f'(x)$, igualar a 0, despejar x", "correct": false },
+      { "text": "Integrar $f(x)$, evaluar límites", "correct": false },
+      { "text": "Graficar y estimar visualmente", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"], "MÁXIMOS Y MÍNIMOS"],
+    "hint": "El punto de inflexión se relaciona exclusivamente con la segunda derivada.",
+    "explanation": "La condición necesaria para un punto de inflexión (en funciones derivables) es que la segunda derivada sea cero.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CAL09KU",
+    "question": "¿En qué valor positivo de $x$ tiene un mínimo local la función $f(x) = x^3 - 48x$?",
+    "image": null,
+    "options": [
+      { "text": "$x = 4$", "correct": true },
+      { "text": "$x = 16$", "correct": false },
+      { "text": "$x = 8$", "correct": false },
+      { "text": "$x = 2$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"], "MÁXIMOS Y MÍNIMOS"],
+    "hint": "Resuelve $3x^2 - 48 = 0$ y selecciona la raíz positiva.",
+    "explanation": "$f'(x) = 3x^2 - 48 = 3(x^2 - 16)$. Raíces: $\\pm 4$. Como $f''(x) = 6x$, entonces $f''(4) = 24 > 0$ (Mínimo).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CAL09KV",
+    "question": "Calcula el valor crítico positivo de la función $f(x) = x^3 - 75x$.",
+    "image": null,
+    "options": [
+      { "text": "$x = 5$", "correct": true },
+      { "text": "$x = 25$", "correct": false },
+      { "text": "$x = 15$", "correct": false },
+      { "text": "$x = 3$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"], "MÁXIMOS Y MÍNIMOS"],
+    "hint": "Usa la diferencia de cuadrados en la derivada: $3(x^2 - 25)$.",
+    "explanation": "$f'(x) = 3x^2 - 75$. Igualando a cero: $x^2 = 25$, por lo que $x = 5$ es la solución positiva.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CAL09KW",
+    "question": "Según el criterio de la segunda derivada, un punto crítico es un máximo si la segunda derivada es ______ y un mínimo si es ______.",
+    "image": null,
+    "options": [
+      { "text": "negativa, positiva", "correct": true },
+      { "text": "positiva, negativa", "correct": false },
+      { "text": "cero, infinita", "correct": false },
+      { "text": "positiva, cero", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"], "MÁXIMOS Y MÍNIMOS"],
+    "hint": "Asocia 'negativa' con una curva triste (cima) y 'positiva' con una curva feliz (valle).",
+    "explanation": "Segunda derivada negativa $\\implies$ concavidad hacia abajo $\\implies$ máximo. Segunda derivada positiva $\\implies$ concavidad hacia arriba $\\implies$ mínimo.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CAL09KX",
+    "question": "Determina el punto de inflexión de la curva $f(x) = -x^3 + 3x^2 - 4$.",
+    "image": null,
+    "options": [
+      { "text": "$x = 1$", "correct": true },
+      { "text": "$x = -1$", "correct": false },
+      { "text": "$x = 3$", "correct": false },
+      { "text": "$x = 0$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"], "MÁXIMOS Y MÍNIMOS"],
+    "hint": "Deriva dos veces. Ten cuidado con los signos negativos.",
+    "explanation": "$f'(x) = -3x^2 + 6x$. $f''(x) = -6x + 6$. Igualando a cero: $-6x = -6 \\rightarrow x = 1$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CAL09KY",
+    "question": "Relaciona la función con su derivada correcta:\nA) $f(x) = x^3$\nB) $f(x) = 3x^2$\nI) $f'(x) = 3x^2$\nII) $f'(x) = 6x$",
+    "image": null,
+    "options": [
+      { "text": "A-I; B-II", "correct": true },
+      { "text": "A-II; B-I", "correct": false },
+      { "text": "A-I; B-I", "correct": false },
+      { "text": "A-II; B-II", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"], "MÁXIMOS Y MÍNIMOS"],
+    "hint": "Usa la regla de la potencia: la derivada de $x^n$ es $nx^{n-1}$.",
+    "explanation": "La derivada de $x^3$ es $3x^2$. La derivada de $3x^2$ es $3(2x) = 6x$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CAL09KZ",
+    "question": "En un problema del CEPREDIX, se busca maximizar el volumen aproximado de una caja dado por $V(x) = -x^3 + 12x^2$. ¿Qué valor de $x$ (distinto de 0) maximiza el volumen?",
+    "image": null,
+    "options": [
+      { "text": "$x = 8$", "correct": true },
+      { "text": "$x = 4$", "correct": false },
+      { "text": "$x = 12$", "correct": false },
+      { "text": "$x = 6$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO", "REAL"],
+    "hint": "Deriva y factoriza: $-3x(x - 8) = 0$.",
+    "explanation": "$V'(x) = -3x^2 + 24x$. Factorizando $-3x(x - 8) = 0$. Las raíces son $0$ y $8$. Como $V''(8) = -24 < 0$, $x=8$ es un máximo.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CAL09LA",
+    "question": "Encuentra el valor crítico negativo de la función $f(x) = x^3 - 3x$.",
+    "image": null,
+    "options": [
+      { "text": "$x = -1$", "correct": true },
+      { "text": "$x = -3$", "correct": false },
+      { "text": "$x = -2$", "correct": false },
+      { "text": "$x = 0$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"], "MÁXIMOS Y MÍNIMOS"],
+    "hint": "Resuelve $3x^2 - 3 = 0$.",
+    "explanation": "$f'(x) = 3x^2 - 3 = 3(x^2 - 1)$. Las raíces son $1$ y $-1$. El valor negativo es $-1$.",
+    "explanative_video": null,
+    "collapsible_text": null
   }
 ]
