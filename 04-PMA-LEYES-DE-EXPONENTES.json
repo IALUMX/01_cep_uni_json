@@ -2038,5 +2038,1229 @@
     "explanation": "$2^4 = 16$.",
     "explanative_video": null,
     "collapsible_text": null
+  },
+  {
+    "id": "PMA00DG",
+    "question": "Simplifica la expresión numérica: $\\frac{2^{20} + 2^{18}}{2^{18}}$.",
+    "image": null,
+    "options": [
+      { "text": "5", "correct": true },
+      { "text": "4", "correct": false },
+      { "text": "3", "correct": false },
+      { "text": "2", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO"],
+    "hint": "Factoriza $2^{18}$ en el numerador.",
+    "explanation": "Numerador: $2^{18}(2^2 + 1) = 2^{18}(4+1) = 5 \\cdot 2^{18}$. Al dividir entre $2^{18}$, queda 5.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00DH",
+    "question": "Calcula el valor de $\\left(\\frac{1}{16}\\right)^{-3/4}$.",
+    "image": null,
+    "options": [
+      { "text": "8", "correct": true },
+      { "text": "4", "correct": false },
+      { "text": "12", "correct": false },
+      { "text": "64", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO"],
+    "hint": "Primero invierte la fracción por el signo negativo, luego aplica la raíz cuarta y finalmente el cubo.",
+    "explanation": "$(\\frac{16}{1})^{3/4} = (\\sqrt[4]{16})^3 = 2^3 = 8$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00DI",
+    "question": "Determina el valor de $E = 81^{1/4} - (-125)^{1/3}$.",
+    "image": null,
+    "options": [
+      { "text": "8", "correct": true },
+      { "text": "2", "correct": false },
+      { "text": "-2", "correct": false },
+      { "text": "4", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO"],
+    "hint": "Calcula la raíz cuarta de 81 y la raíz cúbica de -125.",
+    "explanation": "$3 - (-5) = 3 + 5 = 8$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00DJ",
+    "question": "Simplifica: $\\sqrt{12} + \\sqrt{27} - \\sqrt{75}$.",
+    "image": null,
+    "options": [
+      { "text": "0", "correct": true },
+      { "text": "$\\sqrt{3}$", "correct": false },
+      { "text": "$2\\sqrt{3}$", "correct": false },
+      { "text": "$3\\sqrt{3}$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO"],
+    "hint": "Descompón cada radical en factores con cuadrados perfectos ($4 \\cdot 3$, $9 \\cdot 3$, $25 \\cdot 3$).",
+    "explanation": "$2\\sqrt{3} + 3\\sqrt{3} - 5\\sqrt{3} = (2+3-5)\\sqrt{3} = 0$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00DK",
+    "question": "Calcula el valor de $(2^{-1} + 3^{-1})^{-1}$.",
+    "image": null,
+    "options": [
+      { "text": "$\\frac{6}{5}$", "correct": true },
+      { "text": "$\\frac{5}{6}$", "correct": false },
+      { "text": "5", "correct": false },
+      { "text": "6", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO"],
+    "hint": "Suma las fracciones dentro del paréntesis antes de invertir.",
+    "explanation": "$(1/2 + 1/3)^{-1} = (3/6 + 2/6)^{-1} = (5/6)^{-1} = 6/5$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00DL",
+    "question": "Simplifica la expresión $\\frac{(2^3)^4}{2^{3^2}}$.",
+    "image": null,
+    "options": [
+      { "text": "$2^3$", "correct": true },
+      { "text": "$1$", "correct": false },
+      { "text": "$2^{-2}$", "correct": false },
+      { "text": "$2^7$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO"],
+    "hint": "Distingue entre potencia de potencia (multiplicar) y exponente elevado (potencia).",
+    "explanation": "Numerador: $2^{3 \\times 4} = 2^{12}$. Denominador: $2^{3^2} = 2^9$. División: $2^{12-9} = 2^3$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00DM",
+    "question": "Evalúa: $32^{3/5} \\cdot 64^{-1/2}$.",
+    "image": null,
+    "options": [
+      { "text": "1", "correct": true },
+      { "text": "2", "correct": false },
+      { "text": "4", "correct": false },
+      { "text": "8", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO"],
+    "hint": "Convierte a potencias de 2. $32=2^5$, $64=2^6$.",
+    "explanation": "$(2^5)^{3/5} \\cdot (2^6)^{-1/2} = 2^3 \\cdot 2^{-3} = 2^0 = 1$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00DN",
+    "question": "Simplifica la raíz anidada numérica: $\\sqrt{\\sqrt{16}}$.",
+    "image": null,
+    "options": [
+      { "text": "2", "correct": true },
+      { "text": "4", "correct": false },
+      { "text": "1", "correct": false },
+      { "text": "8", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO"],
+    "hint": "Equivale a la raíz cuarta de 16.",
+    "explanation": "$\\sqrt{4} = 2$. O bien $16^{1/4} = 2$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00DO",
+    "question": "Calcula: $\\frac{3^{15} + 3^{12}}{3^{12}}$.",
+    "image": null,
+    "options": [
+      { "text": "28", "correct": true },
+      { "text": "27", "correct": false },
+      { "text": "30", "correct": false },
+      { "text": "3", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO"],
+    "hint": "Factoriza $3^{12}$ en el numerador.",
+    "explanation": "$3^{12}(3^3 + 1) / 3^{12} = 27 + 1 = 28$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00DP",
+    "question": "Simplifica: $\\left(\\frac{8}{27}\\right)^{-2/3}$.",
+    "image": null,
+    "options": [
+      { "text": "$\\frac{9}{4}$", "correct": true },
+      { "text": "$\\frac{4}{9}$", "correct": false },
+      { "text": "$\\frac{2}{3}$", "correct": false },
+      { "text": "$\\frac{3}{2}$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO"],
+    "hint": "Invierte la fracción y aplica la raíz cúbica al cuadrado.",
+    "explanation": "$(\\frac{27}{8})^{2/3} = ((\\frac{27}{8})^{1/3})^2 = (\\frac{3}{2})^2 = \\frac{9}{4}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00DQ",
+    "question": "Encuentra el valor de $\\frac{4^5 \\cdot 2^3}{8^4}$.",
+    "image": null,
+    "options": [
+      { "text": "2", "correct": true },
+      { "text": "4", "correct": false },
+      { "text": "1", "correct": false },
+      { "text": "8", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO"],
+    "hint": "Expresa todos los términos como potencias de 2.",
+    "explanation": "$\\frac{(2^2)^5 \\cdot 2^3}{(2^3)^4} = \\frac{2^{10} \\cdot 2^3}{2^{12}} = \\frac{2^{13}}{2^{12}} = 2^1 = 2$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00DR",
+    "question": "Simplifica: $\\sqrt[3]{54} - \\sqrt[3]{16}$.",
+    "image": null,
+    "options": [
+      { "text": "$\\sqrt[3]{2}$", "correct": true },
+      { "text": "$2\\sqrt[3]{2}$", "correct": false },
+      { "text": "$\\sqrt[3]{4}$", "correct": false },
+      { "text": "0", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO"],
+    "hint": "Extrae factores cúbicos perfectos (27 y 8).",
+    "explanation": "$\\sqrt[3]{27 \\cdot 2} - \\sqrt[3]{8 \\cdot 2} = 3\\sqrt[3]{2} - 2\\sqrt[3]{2} = \\sqrt[3]{2}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00DS",
+    "question": "Calcula $E = \\left( 9^{1/2} + 4^{1/2} \\right)^2$.",
+    "image": null,
+    "options": [
+      { "text": "25", "correct": true },
+      { "text": "13", "correct": false },
+      { "text": "5", "correct": false },
+      { "text": "7", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO"],
+    "hint": "Calcula primero lo que está dentro del paréntesis.",
+    "explanation": "$(3 + 2)^2 = 5^2 = 25$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00DT",
+    "question": "Simplifica: $\\frac{10^4}{2^3 \\cdot 5^4}$.",
+    "image": null,
+    "options": [
+      { "text": "2", "correct": true },
+      { "text": "5", "correct": false },
+      { "text": "10", "correct": false },
+      { "text": "1", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO"],
+    "hint": "Expresa 10 como $2 \\cdot 5$.",
+    "explanation": "$\\frac{(2 \\cdot 5)^4}{2^3 \\cdot 5^4} = \\frac{2^4 \\cdot 5^4}{2^3 \\cdot 5^4} = 2^{4-3} \\cdot 1 = 2$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00DU",
+    "question": "Determina el valor de $(0.04)^{-1/2}$.",
+    "image": null,
+    "options": [
+      { "text": "5", "correct": true },
+      { "text": "25", "correct": false },
+      { "text": "0.2", "correct": false },
+      { "text": "2", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO"],
+    "hint": "Convierte el decimal a fracción: $0.04 = 4/100 = 1/25$.",
+    "explanation": "$(1/25)^{-1/2} = (25)^{1/2} = 5$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00DV",
+    "question": "Simplifica: $\\frac{\\sqrt{50}}{\\sqrt{2}}$.",
+    "image": null,
+    "options": [
+      { "text": "5", "correct": true },
+      { "text": "10", "correct": false },
+      { "text": "25", "correct": false },
+      { "text": "2", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO"],
+    "hint": "Usa la propiedad $\\frac{\\sqrt{a}}{\\sqrt{b}} = \\sqrt{\\frac{a}{b}}$.",
+    "explanation": "$\\sqrt{\\frac{50}{2}} = \\sqrt{25} = 5$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00DW",
+    "question": "Calcula el resultado de $\\left( 27^{-1/3} + 16^{-1/4} \\right)^{-1}$.",
+    "image": null,
+    "options": [
+      { "text": "$\\frac{6}{5}$", "correct": true },
+      { "text": "$\\frac{5}{6}$", "correct": false },
+      { "text": "1", "correct": false },
+      { "text": "6", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO"],
+    "hint": "Calcula cada término dentro del paréntesis primero.",
+    "explanation": "$27^{-1/3} = 1/3$ y $16^{-1/4} = 1/2$. Suma: $1/3 + 1/2 = 5/6$. Inverso: $6/5$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00DX",
+    "question": "Simplifica: $\\sqrt[3]{-64} + \\sqrt[5]{-32}$.",
+    "image": null,
+    "options": [
+      { "text": "-6", "correct": true },
+      { "text": "6", "correct": false },
+      { "text": "-2", "correct": false },
+      { "text": "0", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO"],
+    "hint": "Las raíces impares de números negativos son negativas.",
+    "explanation": "$-4 + (-2) = -6$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00DY",
+    "question": "Simplifica la expresión: $\\frac{6^{10}}{2^{10} \\cdot 3^{10}}$.",
+    "image": null,
+    "options": [
+      { "text": "1", "correct": true },
+      { "text": "6", "correct": false },
+      { "text": "2", "correct": false },
+      { "text": "3", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO"],
+    "hint": "Agrupa el denominador como $(2 \\cdot 3)^{10}$.",
+    "explanation": "$\\frac{6^{10}}{6^{10}} = 1$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00DZ",
+    "question": "Calcula: $4^{1/2} + 9^{-1/2}$.",
+    "image": null,
+    "options": [
+      { "text": "$\\frac{7}{3}$", "correct": true },
+      { "text": "$\\frac{5}{3}$", "correct": false },
+      { "text": "2", "correct": false },
+      { "text": "3", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO"],
+    "hint": "$4^{1/2} = 2$ y $9^{-1/2} = 1/3$.",
+    "explanation": "$2 + 1/3 = 6/3 + 1/3 = 7/3$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00EA",
+    "question": "Simplifica: $\\sqrt{200} - 2\\sqrt{50}$.",
+    "image": null,
+    "options": [
+      { "text": "0", "correct": true },
+      { "text": "$\\sqrt{2}$", "correct": false },
+      { "text": "$10\\sqrt{2}$", "correct": false },
+      { "text": "5", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO"],
+    "hint": "Simplifica cada radical.",
+    "explanation": "$10\\sqrt{2} - 2(5\\sqrt{2}) = 10\\sqrt{2} - 10\\sqrt{2} = 0$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00EB",
+    "question": "Calcula el valor de $125^{2/3}$.",
+    "image": null,
+    "options": [
+      { "text": "25", "correct": true },
+      { "text": "5", "correct": false },
+      { "text": "15", "correct": false },
+      { "text": "125", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO"],
+    "hint": "Raíz cúbica de 125, luego al cuadrado.",
+    "explanation": "$5^2 = 25$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00EC",
+    "question": "Simplifica: $\\frac{7^9 + 7^8}{7^8}$.",
+    "image": null,
+    "options": [
+      { "text": "8", "correct": true },
+      { "text": "7", "correct": false },
+      { "text": "49", "correct": false },
+      { "text": "14", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO"],
+    "hint": "Factoriza el numerador.",
+    "explanation": "$7^8(7+1)/7^8 = 8$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00ED",
+    "question": "Evalúa: $\\left( \\frac{1}{4} \\right)^{-2} - \\left( \\frac{1}{5} \\right)^{-2}$.",
+    "image": null,
+    "options": [
+      { "text": "-9", "correct": true },
+      { "text": "9", "correct": false },
+      { "text": "-1", "correct": false },
+      { "text": "1", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO"],
+    "hint": "$4^2 - 5^2$.",
+    "explanation": "$16 - 25 = -9$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00EE",
+    "question": "Simplifica: $\\sqrt[3]{2} \\cdot \\sqrt[3]{4}$.",
+    "image": null,
+    "options": [
+      { "text": "2", "correct": true },
+      { "text": "4", "correct": false },
+      { "text": "$\\sqrt[3]{6}$", "correct": false },
+      { "text": "8", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO"],
+    "hint": "Multiplica los radicandos.",
+    "explanation": "$\\sqrt[3]{8} = 2$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00EF",
+    "question": "Calcula: $\\frac{2^{-3}}{2^{-5}}$.",
+    "image": null,
+    "options": [
+      { "text": "4", "correct": true },
+      { "text": "0.25", "correct": false },
+      { "text": "-4", "correct": false },
+      { "text": "1", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO"],
+    "hint": "Resta exponentes: $-3 - (-5)$.",
+    "explanation": "$2^2 = 4$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00EG",
+    "question": "Simplifica: $\\sqrt{72} / \\sqrt{2}$.",
+    "image": null,
+    "options": [
+      { "text": "6", "correct": true },
+      { "text": "36", "correct": false },
+      { "text": "12", "correct": false },
+      { "text": "2", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO"],
+    "hint": "Divide dentro del radical.",
+    "explanation": "$\\sqrt{36} = 6$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00EH",
+    "question": "Evalúa: $(2^3 + 2^3)^2$.",
+    "image": null,
+    "options": [
+      { "text": "256", "correct": true },
+      { "text": "64", "correct": false },
+      { "text": "128", "correct": false },
+      { "text": "512", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO"],
+    "hint": "Suma primero: $8+8=16$.",
+    "explanation": "$16^2 = 256$. O $(2 \\cdot 2^3)^2 = (2^4)^2 = 2^8 = 256$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00EI",
+    "question": "Calcula el valor de: $\\left( \\frac{100}{9} \\right)^{-1/2}$.",
+    "image": null,
+    "options": [
+      { "text": "$\\frac{3}{10}$", "correct": true },
+      { "text": "$\\frac{10}{3}$", "correct": false },
+      { "text": "$\\frac{9}{100}$", "correct": false },
+      { "text": "$\\frac{-10}{3}$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO"],
+    "hint": "Invierte la fracción y saca raíz cuadrada.",
+    "explanation": "$\\sqrt{9/100} = 3/10$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00EJ",
+    "question": "Simplifica: $5^3 \\cdot 5^{-1} \\cdot 5^0$.",
+    "image": null,
+    "options": [
+      { "text": "25", "correct": true },
+      { "text": "5", "correct": false },
+      { "text": "125", "correct": false },
+      { "text": "1", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO"],
+    "hint": "Suma exponentes.",
+    "explanation": "$3-1+0 = 2$. $5^2 = 25$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00EK",
+    "question": "Evalúa: $27^{4/3}$.",
+    "image": null,
+    "options": [
+      { "text": "81", "correct": true },
+      { "text": "27", "correct": false },
+      { "text": "9", "correct": false },
+      { "text": "243", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO"],
+    "hint": "Raíz cúbica de 27 es 3.",
+    "explanation": "$3^4 = 81$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00EL",
+    "question": "Simplifica: $\\frac{\\sqrt[3]{16}}{\\sqrt[3]{2}}$.",
+    "image": null,
+    "options": [
+      { "text": "2", "correct": true },
+      { "text": "4", "correct": false },
+      { "text": "8", "correct": false },
+      { "text": "$\\sqrt[3]{4}$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO"],
+    "hint": "Divide los radicandos.",
+    "explanation": "$\\sqrt[3]{8} = 2$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00EM",
+    "question": "Calcula: $\\left(\\frac{1}{2}\\right)^3 \\cdot 4^2$.",
+    "image": null,
+    "options": [
+      { "text": "2", "correct": true },
+      { "text": "1", "correct": false },
+      { "text": "4", "correct": false },
+      { "text": "8", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO"],
+    "hint": "Convierte a base 2.",
+    "explanation": "$2^{-3} \\cdot 2^4 = 2^1 = 2$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00EN",
+    "question": "Simplifica: $\\sqrt{3^2 + 4^2}$.",
+    "image": null,
+    "options": [
+      { "text": "5", "correct": true },
+      { "text": "7", "correct": false },
+      { "text": "12", "correct": false },
+      { "text": "25", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO"],
+    "hint": "Calcula la suma dentro de la raíz.",
+    "explanation": "$\\sqrt{9+16} = \\sqrt{25} = 5$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00EO",
+    "question": "Evalúa: $0.001^{-1/3}$.",
+    "image": null,
+    "options": [
+      { "text": "10", "correct": true },
+      { "text": "0.1", "correct": false },
+      { "text": "100", "correct": false },
+      { "text": "0.01", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO"],
+    "hint": "$0.001 = 10^{-3}$.",
+    "explanation": "$(10^{-3})^{-1/3} = 10^1 = 10$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00EP",
+    "question": "Simplifica: $\\left( 2^{-2} \\right)^{-2}$.",
+    "image": null,
+    "options": [
+      { "text": "16", "correct": true },
+      { "text": "8", "correct": false },
+      { "text": "4", "correct": false },
+      { "text": "1", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO"],
+    "hint": "Multiplica exponentes.",
+    "explanation": "$2^4 = 16$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00EQ",
+    "question": "Convierte el número 5000 a notación científica.",
+    "image": null,
+    "options": [
+      { "text": "$5 \\times 10^3$", "correct": true },
+      { "text": "$5 \\times 10^4$", "correct": false },
+      { "text": "$50 \\times 10^2$", "correct": false },
+      { "text": "$0.5 \\times 10^4$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Mueve el punto decimal 3 lugares a la izquierda.",
+    "explanation": "5000 se escribe como $5.0 \\times 10^3$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00ER",
+    "question": "Expresa 0.002 en notación científica.",
+    "image": null,
+    "options": [
+      { "text": "$2 \\times 10^{-3}$", "correct": true },
+      { "text": "$2 \\times 10^{-2}$", "correct": false },
+      { "text": "$20 \\times 10^{-4}$", "correct": false },
+      { "text": "$0.2 \\times 10^{-2}$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Mueve el punto decimal 3 lugares a la derecha.",
+    "explanation": "0.002 es $2 \\times 10^{-3}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00ES",
+    "question": "Realiza la multiplicación: $(2 \\times 10^3) \\times (3 \\times 10^2)$.",
+    "image": null,
+    "options": [
+      { "text": "$6 \\times 10^5$", "correct": true },
+      { "text": "$5 \\times 10^5$", "correct": false },
+      { "text": "$6 \\times 10^6$", "correct": false },
+      { "text": "$5 \\times 10^6$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Multiplica los coeficientes y suma los exponentes.",
+    "explanation": "$2 \\times 3 = 6$ y $10^3 \\times 10^2 = 10^5$. Resultado: $6 \\times 10^5$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00ET",
+    "question": "Divide: $\\frac{8 \\times 10^5}{2 \\times 10^2}$.",
+    "image": null,
+    "options": [
+      { "text": "$4 \\times 10^3$", "correct": true },
+      { "text": "$4 \\times 10^7$", "correct": false },
+      { "text": "$16 \\times 10^3$", "correct": false },
+      { "text": "$6 \\times 10^3$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Divide los coeficientes y resta los exponentes.",
+    "explanation": "$8/2 = 4$ y $10^5/10^2 = 10^3$. Resultado: $4 \\times 10^3$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00EU",
+    "question": "Suma: $1.5 \\times 10^4 + 3.5 \\times 10^4$.",
+    "image": null,
+    "options": [
+      { "text": "$5.0 \\times 10^4$", "correct": true },
+      { "text": "$5.0 \\times 10^8$", "correct": false },
+      { "text": "$4.0 \\times 10^4$", "correct": false },
+      { "text": "$5.0 \\times 10^5$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Como los exponentes son iguales, suma los coeficientes directos.",
+    "explanation": "$(1.5 + 3.5) \\times 10^4 = 5.0 \\times 10^4$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00EV",
+    "question": "Resta: $9 \\times 10^{-3} - 4 \\times 10^{-3}$.",
+    "image": null,
+    "options": [
+      { "text": "$5 \\times 10^{-3}$", "correct": true },
+      { "text": "$5 \\times 10^{-6}$", "correct": false },
+      { "text": "$13 \\times 10^{-3}$", "correct": false },
+      { "text": "$5 \\times 10^0$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Resta los coeficientes manteniendo la potencia de 10.",
+    "explanation": "$9 - 4 = 5$. Resultado: $5 \\times 10^{-3}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00EW",
+    "question": "Escribe en forma decimal: $4.2 \\times 10^3$.",
+    "image": null,
+    "options": [
+      { "text": "4200", "correct": true },
+      { "text": "420", "correct": false },
+      { "text": "42000", "correct": false },
+      { "text": "0.0042", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Mueve el punto decimal 3 lugares a la derecha.",
+    "explanation": "$4.2 \\times 1000 = 4200$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00EX",
+    "question": "Escribe en forma decimal: $1.5 \\times 10^{-2}$.",
+    "image": null,
+    "options": [
+      { "text": "0.015", "correct": true },
+      { "text": "0.15", "correct": false },
+      { "text": "0.0015", "correct": false },
+      { "text": "150", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Mueve el punto decimal 2 lugares a la izquierda.",
+    "explanation": "$1.5$ con el punto movido dos veces a la izquierda es $0.015$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00EY",
+    "question": "Multiplica: $(3 \\times 10^2)(2 \\times 10^{-5})$.",
+    "image": null,
+    "options": [
+      { "text": "$6 \\times 10^{-3}$", "correct": true },
+      { "text": "$6 \\times 10^{-7}$", "correct": false },
+      { "text": "$5 \\times 10^{-3}$", "correct": false },
+      { "text": "$6 \\times 10^3$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Suma los exponentes: $2 + (-5) = -3$.",
+    "explanation": "$3 \\times 2 = 6$. Exponente: $2-5=-3$. Resultado: $6 \\times 10^{-3}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00EZ",
+    "question": "Divide: $\\frac{6 \\times 10^4}{3 \\times 10^{-2}}$.",
+    "image": null,
+    "options": [
+      { "text": "$2 \\times 10^6$", "correct": true },
+      { "text": "$2 \\times 10^2$", "correct": false },
+      { "text": "$2 \\times 10^{-2}$", "correct": false },
+      { "text": "$3 \\times 10^6$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Resta los exponentes: $4 - (-2)$.",
+    "explanation": "$6/3=2$. Exponente: $4 - (-2) = 4+2=6$. Resultado: $2 \\times 10^6$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00FA",
+    "question": "Suma y expresa en notación científica correcta: $2 \\times 10^3 + 3 \\times 10^2$.",
+    "image": null,
+    "options": [
+      { "text": "$2.3 \\times 10^3$", "correct": true },
+      { "text": "$5 \\times 10^3$", "correct": false },
+      { "text": "$2.3 \\times 10^2$", "correct": false },
+      { "text": "$5 \\times 10^5$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Iguala los exponentes convirtiendo $3 \\times 10^2$ a $0.3 \\times 10^3$.",
+    "explanation": "$2 \\times 10^3 + 0.3 \\times 10^3 = 2.3 \\times 10^3$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00FB",
+    "question": "Resta: $5 \\times 10^{-4} - 2 \\times 10^{-5}$.",
+    "image": null,
+    "options": [
+      { "text": "$4.8 \\times 10^{-4}$", "correct": true },
+      { "text": "$3 \\times 10^{-4}$", "correct": false },
+      { "text": "$4.8 \\times 10^{-5}$", "correct": false },
+      { "text": "$3 \\times 10^{-5}$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Convierte $2 \\times 10^{-5}$ a $0.2 \\times 10^{-4}$.",
+    "explanation": "$5 \\times 10^{-4} - 0.2 \\times 10^{-4} = 4.8 \\times 10^{-4}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00FC",
+    "question": "Multiplica y ajusta a notación científica: $(4 \\times 10^5)(5 \\times 10^6)$.",
+    "image": null,
+    "options": [
+      { "text": "$2.0 \\times 10^{12}$", "correct": true },
+      { "text": "$20 \\times 10^{11}$", "correct": false },
+      { "text": "$2.0 \\times 10^{11}$", "correct": false },
+      { "text": "$9 \\times 10^{11}$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "$4 \\times 5 = 20$. Ajusta el decimal para que el coeficiente esté entre 1 y 10.",
+    "explanation": "$20 \\times 10^{11} = 2.0 \\times 10^1 \\times 10^{11} = 2.0 \\times 10^{12}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00FD",
+    "question": "Divide y ajusta: $\\frac{1.2 \\times 10^4}{6 \\times 10^5}$.",
+    "image": null,
+    "options": [
+      { "text": "$2.0 \\times 10^{-2}$", "correct": true },
+      { "text": "$0.2 \\times 10^{-1}$", "correct": false },
+      { "text": "$2.0 \\times 10^{-1}$", "correct": false },
+      { "text": "$5 \\times 10^{-1}$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "$1.2 / 6 = 0.2$. Ajusta $0.2 \\times 10^{-1}$ a la forma estándar.",
+    "explanation": "$0.2 \\times 10^{4-5} = 0.2 \\times 10^{-1} = 2.0 \\times 10^{-2}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00FE",
+    "question": "Calcula el cuadrado: $(3 \\times 10^4)^2$.",
+    "image": null,
+    "options": [
+      { "text": "$9 \\times 10^8$", "correct": true },
+      { "text": "$9 \\times 10^6$", "correct": false },
+      { "text": "$6 \\times 10^8$", "correct": false },
+      { "text": "$3 \\times 10^8$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Eleva al cuadrado el coeficiente y multiplica el exponente por 2.",
+    "explanation": "$3^2 = 9$. $10^{4 \\times 2} = 10^8$. Resultado: $9 \\times 10^8$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00FF",
+    "question": "Calcula la raíz cuadrada: $\\sqrt{9 \\times 10^8}$.",
+    "image": null,
+    "options": [
+      { "text": "$3 \\times 10^4$", "correct": true },
+      { "text": "$3 \\times 10^8$", "correct": false },
+      { "text": "$81 \\times 10^4$", "correct": false },
+      { "text": "$4.5 \\times 10^4$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Saca la raíz del coeficiente y divide el exponente entre 2.",
+    "explanation": "$\\sqrt{9}=3$. $10^{8/2}=10^4$. Resultado: $3 \\times 10^4$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00FG",
+    "question": "Suma: $6.4 \\times 10^5 + 3.6 \\times 10^4$.",
+    "image": null,
+    "options": [
+      { "text": "$6.76 \\times 10^5$", "correct": true },
+      { "text": "$1.0 \\times 10^6$", "correct": false },
+      { "text": "$6.76 \\times 10^4$", "correct": false },
+      { "text": "$6.436 \\times 10^5$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Convierte $3.6 \\times 10^4$ a $0.36 \\times 10^5$.",
+    "explanation": "$6.4 \\times 10^5 + 0.36 \\times 10^5 = 6.76 \\times 10^5$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00FH",
+    "question": "Resta: $1.2 \\times 10^{-2} - 5 \\times 10^{-3}$.",
+    "image": null,
+    "options": [
+      { "text": "$7 \\times 10^{-3}$", "correct": true },
+      { "text": "$7 \\times 10^{-2}$", "correct": false },
+      { "text": "$-3.8 \\times 10^{-2}$", "correct": false },
+      { "text": "$0.7 \\times 10^{-3}$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Convierte $1.2 \\times 10^{-2}$ a $12 \\times 10^{-3}$.",
+    "explanation": "$12 \\times 10^{-3} - 5 \\times 10^{-3} = 7 \\times 10^{-3}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00FI",
+    "question": "Multiplica: $(8 \\times 10^{-3})(5 \\times 10^{-4})$.",
+    "image": null,
+    "options": [
+      { "text": "$4 \\times 10^{-6}$", "correct": true },
+      { "text": "$40 \\times 10^{-7}$", "correct": false },
+      { "text": "$4 \\times 10^{-7}$", "correct": false },
+      { "text": "$13 \\times 10^{-7}$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "$8 \\times 5 = 40$. $10^{-3} \\times 10^{-4} = 10^{-7}$. Ajusta el decimal.",
+    "explanation": "$40 \\times 10^{-7} = 4.0 \\times 10^1 \\times 10^{-7} = 4.0 \\times 10^{-6}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00FJ",
+    "question": "Divide: $\\frac{4.5 \\times 10^8}{9 \\times 10^3}$.",
+    "image": null,
+    "options": [
+      { "text": "$5 \\times 10^4$", "correct": true },
+      { "text": "$0.5 \\times 10^5$", "correct": false },
+      { "text": "$5 \\times 10^5$", "correct": false },
+      { "text": "$2 \\times 10^4$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "$4.5/9 = 0.5$. Ajusta $0.5 \\times 10^5$ a la forma estándar.",
+    "explanation": "$0.5 \\times 10^5 = 5.0 \\times 10^{-1} \\times 10^5 = 5.0 \\times 10^4$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00FK",
+    "question": "¿Cuál es el recíproco de $2 \\times 10^{-3}$ en notación científica?",
+    "image": null,
+    "options": [
+      { "text": "$5 \\times 10^2$", "correct": true },
+      { "text": "$0.5 \\times 10^3$", "correct": false },
+      { "text": "$2 \\times 10^3$", "correct": false },
+      { "text": "$5 \\times 10^{-3}$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Calcula $1 / (2 \\times 10^{-3})$.",
+    "explanation": "$1/2 = 0.5$. $1/10^{-3} = 10^3$. $0.5 \\times 10^3 = 5 \\times 10^2$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00FL",
+    "question": "Calcula $(2 \\times 10^2)^3$.",
+    "image": null,
+    "options": [
+      { "text": "$8 \\times 10^6$", "correct": true },
+      { "text": "$6 \\times 10^6$", "correct": false },
+      { "text": "$8 \\times 10^5$", "correct": false },
+      { "text": "$2 \\times 10^6$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Eleva el 2 al cubo y multiplica el exponente por 3.",
+    "explanation": "$2^3=8$. $10^{2 \\times 3} = 10^6$. Resultado: $8 \\times 10^6$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00FM",
+    "question": "Calcula $\\sqrt{1.6 \\times 10^5}$. (Pista: ajusta el exponente para que sea par).",
+    "image": null,
+    "options": [
+      { "text": "$4 \\times 10^2$", "correct": true },
+      { "text": "$4 \\times 10^{2.5}$", "correct": false },
+      { "text": "$1.3 \\times 10^2$", "correct": false },
+      { "text": "$16 \\times 10^4$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Escribe como $\\sqrt{16 \\times 10^4}$.",
+    "explanation": "$\\sqrt{16 \\times 10^4} = 4 \\times 10^2$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00FN",
+    "question": "Suma: $9.8 \\times 10^3 + 2.5 \\times 10^2$.",
+    "image": null,
+    "options": [
+      { "text": "$1.005 \\times 10^4$", "correct": true },
+      { "text": "$1.23 \\times 10^4$", "correct": false },
+      { "text": "$1.005 \\times 10^3$", "correct": false },
+      { "text": "$12.3 \\times 10^3$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "$2.5 \\times 10^2 = 0.25 \\times 10^3$.",
+    "explanation": "$9.8 + 0.25 = 10.05$. $10.05 \\times 10^3 = 1.005 \\times 10^4$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00FO",
+    "question": "Resta: $3.0 \\times 10^5 - 5.0 \\times 10^4$.",
+    "image": null,
+    "options": [
+      { "text": "$2.5 \\times 10^5$", "correct": true },
+      { "text": "$2.5 \\times 10^4$", "correct": false },
+      { "text": "$-2.0 \\times 10^5$", "correct": false },
+      { "text": "$3.5 \\times 10^5$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "$5.0 \\times 10^4 = 0.5 \\times 10^5$.",
+    "explanation": "$3.0 - 0.5 = 2.5$. Resultado: $2.5 \\times 10^5$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00FP",
+    "question": "Multiplica: $(6 \\times 10^{-2})(7 \\times 10^{-3})$.",
+    "image": null,
+    "options": [
+      { "text": "$4.2 \\times 10^{-4}$", "correct": true },
+      { "text": "$42 \\times 10^{-5}$", "correct": false },
+      { "text": "$4.2 \\times 10^{-5}$", "correct": false },
+      { "text": "$1.3 \\times 10^{-4}$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "$6 \\times 7 = 42$. $10^{-2} \\times 10^{-3} = 10^{-5}$. Ajusta.",
+    "explanation": "$42 \\times 10^{-5} = 4.2 \\times 10^1 \\times 10^{-5} = 4.2 \\times 10^{-4}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00FQ",
+    "question": "Divide: $\\frac{2.4 \\times 10^{-5}}{8 \\times 10^{-2}}$.",
+    "image": null,
+    "options": [
+      { "text": "$3 \\times 10^{-4}$", "correct": true },
+      { "text": "$0.3 \\times 10^{-3}$", "correct": false },
+      { "text": "$3 \\times 10^{-3}$", "correct": false },
+      { "text": "$3 \\times 10^{-7}$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "$2.4 / 8 = 0.3$. Exponente: $-5 - (-2) = -3$.",
+    "explanation": "$0.3 \\times 10^{-3} = 3.0 \\times 10^{-1} \\times 10^{-3} = 3.0 \\times 10^{-4}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00FR",
+    "question": "Simplifica: $\\frac{(3 \\times 10^2)(4 \\times 10^5)}{6 \\times 10^3}$.",
+    "image": null,
+    "options": [
+      { "text": "$2 \\times 10^4$", "correct": true },
+      { "text": "$2 \\times 10^3$", "correct": false },
+      { "text": "$5 \\times 10^4$", "correct": false },
+      { "text": "$12 \\times 10^4$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Multiplica el numerador primero, luego divide.",
+    "explanation": "Numerador: $12 \\times 10^7$. División: $(12/6) \\times 10^{7-3} = 2 \\times 10^4$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00FS",
+    "question": "Calcula: $\\frac{1}{4 \\times 10^5}$ expresado en notación científica.",
+    "image": null,
+    "options": [
+      { "text": "$2.5 \\times 10^{-6}$", "correct": true },
+      { "text": "$0.25 \\times 10^{-5}$", "correct": false },
+      { "text": "$2.5 \\times 10^{-5}$", "correct": false },
+      { "text": "$4 \\times 10^{-5}$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "$1/4 = 0.25$. $1/10^5 = 10^{-5}$.",
+    "explanation": "$0.25 \\times 10^{-5} = 2.5 \\times 10^{-1} \\times 10^{-5} = 2.5 \\times 10^{-6}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00FT",
+    "question": "Si $x = 2 \\times 10^3$, ¿cuánto es $x^2 + x$?",
+    "image": null,
+    "options": [
+      { "text": "$4.002 \\times 10^6$", "correct": true },
+      { "text": "$4.02 \\times 10^6$", "correct": false },
+      { "text": "$4 \\times 10^6$", "correct": false },
+      { "text": "$2.004 \\times 10^6$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "$x^2 = 4 \\times 10^6$. Suma $2 \\times 10^3$.",
+    "explanation": "$4 \\times 10^6 + 0.002 \\times 10^6 = 4.002 \\times 10^6$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00FU",
+    "question": "Calcula: $(2 \\times 10^{-2}) + (3 \\times 10^{-3}) - (4 \\times 10^{-4})$.",
+    "image": null,
+    "options": [
+      { "text": "$2.26 \\times 10^{-2}$", "correct": true },
+      { "text": "$2.34 \\times 10^{-2}$", "correct": false },
+      { "text": "$1.96 \\times 10^{-2}$", "correct": false },
+      { "text": "$2.26 \\times 10^{-3}$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Convierte todo a $10^{-2}$ o a decimales.",
+    "explanation": "$0.02 + 0.003 - 0.0004 = 0.0226$. En notación: $2.26 \\times 10^{-2}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00FV",
+    "question": "Simplifica: $\\frac{5 \\times 10^3 + 2 \\times 10^3}{3.5 \\times 10^2}$.",
+    "image": null,
+    "options": [
+      { "text": "$2 \\times 10^1$", "correct": true },
+      { "text": "$2 \\times 10^2$", "correct": false },
+      { "text": "$200$", "correct": false },
+      { "text": "$0.5 \\times 10^1$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Suma el numerador primero.",
+    "explanation": "Numerador: $7 \\times 10^3$. División: $7/3.5 = 2$. Exponente: $3-2=1$. Resultado: $2 \\times 10^1$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00FW",
+    "question": "Evalúa: $\\sqrt[3]{8 \\times 10^{-9}}$.",
+    "image": null,
+    "options": [
+      { "text": "$2 \\times 10^{-3}$", "correct": true },
+      { "text": "$2 \\times 10^{-6}$", "correct": false },
+      { "text": "$4 \\times 10^{-3}$", "correct": false },
+      { "text": "$2 \\times 10^3$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Saca raíz cúbica del coeficiente y divide el exponente entre 3.",
+    "explanation": "$\\sqrt[3]{8} = 2$. $-9 / 3 = -3$. Resultado: $2 \\times 10^{-3}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00FX",
+    "question": "Simplifica: $(1.5 \\times 10^4)(4 \\times 10^2)(2 \\times 10^{-1})$.",
+    "image": null,
+    "options": [
+      { "text": "$1.2 \\times 10^6$", "correct": true },
+      { "text": "$1.2 \\times 10^5$", "correct": false },
+      { "text": "$12 \\times 10^6$", "correct": false },
+      { "text": "$6 \\times 10^5$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Multiplica todos los coeficientes y suma todos los exponentes.",
+    "explanation": "$1.5 \\times 4 \\times 2 = 12$. Exponentes: $4+2-1=5$. $12 \\times 10^5 = 1.2 \\times 10^6$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00FY",
+    "question": "Calcula: $\\frac{3.2 \\times 10^{-4}}{1.6 \\times 10^{-7}}$.",
+    "image": null,
+    "options": [
+      { "text": "$2 \\times 10^3$", "correct": true },
+      { "text": "$2 \\times 10^{-11}$", "correct": false },
+      { "text": "$2 \\times 10^{-3}$", "correct": false },
+      { "text": "$5 \\times 10^3$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "$3.2/1.6 = 2$. Resta exponentes: $-4 - (-7)$.",
+    "explanation": "$-4 + 7 = 3$. Resultado: $2 \\times 10^3$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00FZ",
+    "question": "¿Cuál es la mitad de $8.4 \\times 10^6$?",
+    "image": null,
+    "options": [
+      { "text": "$4.2 \\times 10^6$", "correct": true },
+      { "text": "$4.2 \\times 10^3$", "correct": false },
+      { "text": "$8.4 \\times 10^3$", "correct": false },
+      { "text": "$4.2 \\times 10^5$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Divide el coeficiente entre 2.",
+    "explanation": "$8.4 / 2 = 4.2$. El exponente no cambia.",
+    "explanative_video": null,
+    "collapsible_text": null
   }
 ]
