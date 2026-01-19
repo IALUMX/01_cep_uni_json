@@ -1,0 +1,3890 @@
+[
+  {
+    "id": "CEP00AA",
+    "question": "¿Cuál es el objetivo principal de la función referencial del lenguaje?",
+    "image": "https://raw.githubusercontent.com/IALUMX/imgs_preguntas/refs/heads/main/Funciones%20de%20la%20lengua.PNG",
+    "options": [
+      { "text": "Transmitir información objetiva sobre la realidad, hechos o personas.", "correct": true },
+      { "text": "Expresar los sentimientos y emociones del emisor.", "correct": false },
+      { "text": "Convencer al receptor de realizar una acción.", "correct": false },
+      { "text": "Verificar que el canal de comunicación funciona correctamente.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Es la función que predomina en noticieros y textos científicos.",
+    "explanation": "La función referencial o informativa se centra en el contexto y el referente para transmitir datos de manera objetiva sin buscar reacciones emocionales.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00AB",
+    "question": "De acuerdo con Roman Jakobson, ¿en qué elemento del circuito comunicativo se centra la función emotiva?",
+    "image": "https://raw.githubusercontent.com/IALUMX/imgs_preguntas/refs/heads/main/Funciones%20de%20la%20lengua.PNG",
+    "options": [
+      { "text": "Emisor", "correct": true },
+      { "text": "Receptor", "correct": false },
+      { "text": "Mensaje", "correct": false },
+      { "text": "Código", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Esta función permite exteriorizar el estado interior de quien habla.",
+    "explanation": "La función emotiva se centra en el emisor, ya que su propósito es comunicar estados de ánimo, sentimientos o subjetividades.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00AC",
+    "question": "¿Qué función del lenguaje se utiliza predominantemente para dar órdenes, pedir favores o persuadir?",
+    "image": "https://raw.githubusercontent.com/IALUMX/imgs_preguntas/refs/heads/main/Funciones%20de%20la%20lengua.PNG",
+    "options": [
+      { "text": "Apelativa", "correct": true },
+      { "text": "Referencial", "correct": false },
+      { "text": "Metalingüística", "correct": false },
+      { "text": "Poética", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Busca generar un cambio de conducta o una respuesta en quien escucha.",
+    "explanation": "La función apelativa o conativa busca influir en la conducta del receptor, ya sea mediante órdenes, súplicas o argumentos persuasivos.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00AD",
+    "question": "¿Cuál es la característica principal de la función metalingüística?",
+    "image": "https://raw.githubusercontent.com/IALUMX/imgs_preguntas/refs/heads/main/Funciones%20de%20la%20lengua.PNG",
+    "options": [
+      { "text": "Utiliza el lenguaje para explicarse a sí mismo o hablar del código.", "correct": true },
+      { "text": "Se enfoca en embellecer el mensaje mediante figuras retóricas.", "correct": false },
+      { "text": "Sirve para iniciar o cerrar la conversación.", "correct": false },
+      { "text": "Transmite datos verificables sobre el entorno.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Es la función que usas cuando buscas el significado de una palabra en el diccionario.",
+    "explanation": "La función metalingüística se centra en el código y sucede cuando la lengua se usa para hablar de la propia lengua (definiciones, reglas gramaticales, etc.).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00AE",
+    "question": "¿En qué elemento de la comunicación se centra la función fática?",
+    "image": "https://raw.githubusercontent.com/IALUMX/imgs_preguntas/refs/heads/main/Funciones%20de%20la%20lengua.PNG",
+    "options": [
+      { "text": "Canal", "correct": true },
+      { "text": "Mensaje", "correct": false },
+      { "text": "Referente", "correct": false },
+      { "text": "Receptor", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Su objetivo es verificar que la comunicación fluye correctamente, como al decir '¿Me escuchas?'.",
+    "explanation": "La función fática o relacional se enfoca en el canal de comunicación para establecer, prolongar o interrumpir el contacto.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00AF",
+    "question": "¿Qué función del lenguaje prioriza la forma del mensaje y la estética por encima del contenido informativo?",
+    "image": "https://raw.githubusercontent.com/IALUMX/imgs_preguntas/refs/heads/main/Funciones%20de%20la%20lengua.PNG",
+    "options": [
+      { "text": "Poética", "correct": true },
+      { "text": "Referencial", "correct": false },
+      { "text": "Fática", "correct": false },
+      { "text": "Metalingüística", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Es común en la literatura, canciones y refranes.",
+    "explanation": "La función poética o estética se centra en el mensaje mismo y en cómo se dice, utilizando recursos para causar agrado o belleza.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00AG",
+    "question": "En el contexto de las funciones de la lengua, ¿a qué se refiere el término 'código'?",
+    "image": "https://raw.githubusercontent.com/IALUMX/imgs_preguntas/refs/heads/main/Funciones%20de%20la%20lengua.PNG",
+    "options": [
+      { "text": "Al conjunto de reglas y signos que ordenan la comunicación (como el idioma).", "correct": true },
+      { "text": "Al medio físico por donde viaja el sonido.", "correct": false },
+      { "text": "A la situación o entorno donde ocurre la charla.", "correct": false },
+      { "text": "A la intención subjetiva del emisor.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Es aquello que estudia la función metalingüística.",
+    "explanation": "El código es el sistema de signos y reglas (como la lengua española) que comparten los interlocutores para poder comunicarse.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00AH",
+    "question": "¿Qué recurso lingüístico es característico de la función apelativa?",
+    "image": "https://raw.githubusercontent.com/IALUMX/imgs_preguntas/refs/heads/main/Funciones%20de%20la%20lengua.PNG",
+    "options": [
+      { "text": "Uso del modo imperativo y oraciones interrogativas.", "correct": true },
+      { "text": "Uso exclusivo de datos estadísticos.", "correct": false },
+      { "text": "Uso de rimas y métrica.", "correct": false },
+      { "text": "Uso de definiciones gramaticales.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Se utiliza para dar instrucciones como 'Cierre la puerta'.",
+    "explanation": "El modo imperativo (órdenes) y las interrogaciones (preguntas) son recursos clave para buscar una reacción en el receptor.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00AI",
+    "question": "¿Cuál de las siguientes opciones describe mejor el propósito de la función emotiva?",
+    "image": "https://raw.githubusercontent.com/IALUMX/imgs_preguntas/refs/heads/main/Funciones%20de%20la%20lengua.PNG",
+    "options": [
+      { "text": "Exteriorizar deseos, opiniones y sentimientos.", "correct": true },
+      { "text": "Describir hechos científicos comprobables.", "correct": false },
+      { "text": "Explicar el significado de una palabra.", "correct": false },
+      { "text": "Iniciar una conversación telefónica.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Es subjetiva y personal.",
+    "explanation": "La función emotiva permite al emisor mostrar su subjetividad, expresando lo que siente o piensa personalmente.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00AJ",
+    "question": "Cuando un mensaje se centra en el receptor, ¿qué función predomina?",
+    "image": "https://raw.githubusercontent.com/IALUMX/imgs_preguntas/refs/heads/main/Funciones%20de%20la%20lengua.PNG",
+    "options": [
+      { "text": "Conativa o Apelativa", "correct": true },
+      { "text": "Referencial o Informativa", "correct": false },
+      { "text": "Estética o Poética", "correct": false },
+      { "text": "Relacional o Fática", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "El nombre alternativo es 'conativa'.",
+    "explanation": "La función apelativa (o conativa) está orientada hacia la segunda persona (tú/usted) porque el objetivo es el receptor.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00AK",
+    "question": "¿Qué tipo de textos utilizan principalmente la función referencial?",
+    "image": "https://raw.githubusercontent.com/IALUMX/imgs_preguntas/refs/heads/main/Funciones%20de%20la%20lengua.PNG",
+    "options": [
+      { "text": "Textos periodísticos, científicos e informativos.", "correct": true },
+      { "text": "Poemas, canciones y novelas.", "correct": false },
+      { "text": "Publicidad y propaganda política.", "correct": false },
+      { "text": "Diccionarios y libros de gramática.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Buscan la objetividad y la denotación.",
+    "explanation": "Al centrarse en la realidad objetiva, la función referencial es la base de la comunicación informativa y científica.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00AL",
+    "question": "¿Cuál es la función del lenguaje que prácticamente carece de contenido informativo y solo sirve para facilitar el contacto?",
+    "image": "https://raw.githubusercontent.com/IALUMX/imgs_preguntas/refs/heads/main/Funciones%20de%20la%20lengua.PNG",
+    "options": [
+      { "text": "Fática", "correct": true },
+      { "text": "Poética", "correct": false },
+      { "text": "Referencial", "correct": false },
+      { "text": "Apelativa", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Se usa en saludos como 'Hola' o 'Buenos días'.",
+    "explanation": "La función fática no busca informar nada nuevo, sino asegurar que el canal de comunicación está abierto y disponible.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00AM",
+    "question": "¿Con qué otro nombre se le conoce a la función apelativa?",
+    "image": "https://raw.githubusercontent.com/IALUMX/imgs_preguntas/refs/heads/main/Funciones%20de%20la%20lengua.PNG",
+    "options": [
+      { "text": "Conativa", "correct": true },
+      { "text": "Relacional", "correct": false },
+      { "text": "Estética", "correct": false },
+      { "text": "Expresiva", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Ambos términos refieren al intento de dirigir la conducta de otro.",
+    "explanation": "La función apelativa también se denomina conativa, del latín 'conatus' que implica inicio de acción o influencia.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00AN",
+    "question": "¿Con qué otro nombre se conoce a la función emotiva?",
+    "image": "https://raw.githubusercontent.com/IALUMX/imgs_preguntas/refs/heads/main/Funciones%20de%20la%20lengua.PNG",
+    "options": [
+      { "text": "Expresiva", "correct": true },
+      { "text": "Informativa", "correct": false },
+      { "text": "Relacional", "correct": false },
+      { "text": "Estética", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Refiere a la capacidad de 'expresar' lo interno.",
+    "explanation": "La función emotiva también se llama expresiva porque permite al hablante manifestar su subjetividad.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00AO",
+    "question": "¿Qué elemento del circuito comunicativo es el protagonista en la función referencial?",
+    "image": "https://raw.githubusercontent.com/IALUMX/imgs_preguntas/refs/heads/main/Funciones%20de%20la%20lengua.PNG",
+    "options": [
+      { "text": "Referente o Contexto", "correct": true },
+      { "text": "Canal", "correct": false },
+      { "text": "Código", "correct": false },
+      { "text": "Emisor", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Es aquello de lo que se habla, la realidad externa.",
+    "explanation": "La función referencial se centra en el referente y el contexto, es decir, en la información objetiva del entorno.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00AP",
+    "question": "¿Qué nombre recibe quien codifica y envía el mensaje?",
+    "image": "https://raw.githubusercontent.com/IALUMX/imgs_preguntas/refs/heads/main/Funciones%20de%20la%20lengua.PNG",
+    "options": [
+      { "text": "Emisor", "correct": true },
+      { "text": "Receptor", "correct": false },
+      { "text": "Canal", "correct": false },
+      { "text": "Referente", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Es la persona que inicia la comunicación.",
+    "explanation": "El emisor es el sujeto que crea y codifica el mensaje para transmitirlo.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00AQ",
+    "question": "¿Qué nombre recibe quien decodifica y recibe el mensaje?",
+    "image": "https://raw.githubusercontent.com/IALUMX/imgs_preguntas/refs/heads/main/Funciones%20de%20la%20lengua.PNG",
+    "options": [
+      { "text": "Receptor", "correct": true },
+      { "text": "Emisor", "correct": false },
+      { "text": "Canal", "correct": false },
+      { "text": "Código", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Es el destinatario de la información.",
+    "explanation": "El receptor es quien recibe el mensaje y debe interpretar el código para comprenderlo.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00AR",
+    "question": "¿Qué es el 'canal' en el circuito de la comunicación?",
+    "image": "https://raw.githubusercontent.com/IALUMX/imgs_preguntas/refs/heads/main/Funciones%20de%20la%20lengua.PNG",
+    "options": [
+      { "text": "El medio físico por el cual viaja el mensaje.", "correct": true },
+      { "text": "El idioma en el que se habla.", "correct": false },
+      { "text": "El lugar donde ocurre la conversación.", "correct": false },
+      { "text": "La intención del hablante.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Puede ser el aire, un cable telefónico o el papel.",
+    "explanation": "El canal es el soporte físico o medio de transmisión que permite que la señal viaje del emisor al receptor.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00AS",
+    "question": "¿Qué función del lenguaje se centra en el 'código'?",
+    "image": "https://raw.githubusercontent.com/IALUMX/imgs_preguntas/refs/heads/main/Funciones%20de%20la%20lengua.PNG",
+    "options": [
+      { "text": "Metalingüística", "correct": true },
+      { "text": "Referencial", "correct": false },
+      { "text": "Poética", "correct": false },
+      { "text": "Apelativa", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Se usa para hablar sobre las reglas del propio idioma.",
+    "explanation": "La función metalingüística tiene como objeto de estudio al código mismo (el lenguaje hablando del lenguaje).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00AT",
+    "question": "¿Qué función del lenguaje se centra en el 'mensaje'?",
+    "image": "https://raw.githubusercontent.com/IALUMX/imgs_preguntas/refs/heads/main/Funciones%20de%20la%20lengua.PNG",
+    "options": [
+      { "text": "Poética", "correct": true },
+      { "text": "Metalingüística", "correct": false },
+      { "text": "Referencial", "correct": false },
+      { "text": "Fática", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Importa más 'cómo' se dice que 'qué' se dice.",
+    "explanation": "La función poética se enfoca en la construcción y forma del mensaje para fines estéticos.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00AU",
+    "question": "¿Cuál es otro nombre para la función poética?",
+    "image": "https://raw.githubusercontent.com/IALUMX/imgs_preguntas/refs/heads/main/Funciones%20de%20la%20lengua.PNG",
+    "options": [
+      { "text": "Estética", "correct": true },
+      { "text": "Retórica", "correct": false },
+      { "text": "Dramática", "correct": false },
+      { "text": "Lírica", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Se relaciona con la belleza del lenguaje.",
+    "explanation": "La función poética también es conocida como estética, pues busca producir una sensación de agrado o belleza.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00AV",
+    "question": "¿Qué recurso es común en la función poética?",
+    "image": "https://raw.githubusercontent.com/IALUMX/imgs_preguntas/refs/heads/main/Funciones%20de%20la%20lengua.PNG",
+    "options": [
+      { "text": "Figuras retóricas (metáforas, rimas).", "correct": true },
+      { "text": "Datos estadísticos.", "correct": false },
+      { "text": "Definiciones de diccionario.", "correct": false },
+      { "text": "Órdenes directas.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Embellecen el texto y le dan nuevos significados.",
+    "explanation": "La función poética utiliza recursos literarios y figuras retóricas para enriquecer la forma del mensaje.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00AW",
+    "question": "¿Qué función del lenguaje predomina en una señal de 'Prohibido fumar'?",
+    "image": "https://raw.githubusercontent.com/IALUMX/imgs_preguntas/refs/heads/main/Funciones%20de%20la%20lengua.PNG",
+    "options": [
+      { "text": "Apelativa", "correct": true },
+      { "text": "Referencial", "correct": false },
+      { "text": "Poética", "correct": false },
+      { "text": "Fática", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Es una instrucción que espera ser obedecida.",
+    "explanation": "Al ser una orden o prohibición que busca regular la conducta del receptor, predomina la función apelativa.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00AX",
+    "question": "¿Qué función predomina cuando dices '¡Ay, qué dolor!'?",
+    "image": "https://raw.githubusercontent.com/IALUMX/imgs_preguntas/refs/heads/main/Funciones%20de%20la%20lengua.PNG",
+    "options": [
+      { "text": "Emotiva", "correct": true },
+      { "text": "Referencial", "correct": false },
+      { "text": "Metalingüística", "correct": false },
+      { "text": "Apelativa", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Expresas una sensación física personal e inmediata.",
+    "explanation": "Es una expresión espontánea de un estado interno (dolor), por lo que es función emotiva.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00AY",
+    "question": "¿Cuál es la función principal de los diccionarios?",
+    "image": "https://raw.githubusercontent.com/IALUMX/imgs_preguntas/refs/heads/main/Funciones%20de%20la%20lengua.PNG",
+    "options": [
+      { "text": "Metalingüística", "correct": true },
+      { "text": "Poética", "correct": false },
+      { "text": "Apelativa", "correct": false },
+      { "text": "Fática", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Definen las palabras del idioma usando el mismo idioma.",
+    "explanation": "Los diccionarios usan la lengua para explicar el significado de la propia lengua, función metalingüística pura.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00AZ",
+    "question": "¿Qué función predomina en la frase 'Probando, probando, 1, 2, 3'?",
+    "image": "https://raw.githubusercontent.com/IALUMX/imgs_preguntas/refs/heads/main/Funciones%20de%20la%20lengua.PNG",
+    "options": [
+      { "text": "Fática", "correct": true },
+      { "text": "Referencial", "correct": false },
+      { "text": "Apelativa", "correct": false },
+      { "text": "Emotiva", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Se dice para verificar el micrófono.",
+    "explanation": "El objetivo es comprobar que el canal de audio funciona, no transmitir el contenido numérico.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00BA",
+    "question": "¿Qué función predomina en un libro de Historia que narra hechos pasados?",
+    "image": "https://raw.githubusercontent.com/IALUMX/imgs_preguntas/refs/heads/main/Funciones%20de%20la%20lengua.PNG",
+    "options": [
+      { "text": "Referencial", "correct": true },
+      { "text": "Apelativa", "correct": false },
+      { "text": "Emotiva", "correct": false },
+      { "text": "Fática", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Busca informar objetivamente sobre eventos.",
+    "explanation": "La narración de hechos históricos busca objetividad y se centra en la realidad (referente), por ende es referencial.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00BB",
+    "question": "¿Qué modo verbal es característico de la función apelativa?",
+    "image": "https://raw.githubusercontent.com/IALUMX/imgs_preguntas/refs/heads/main/Funciones%20de%20la%20lengua.PNG",
+    "options": [
+      { "text": "Imperativo", "correct": true },
+      { "text": "Indicativo", "correct": false },
+      { "text": "Subjuntivo", "correct": false },
+      { "text": "Condicional", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Es el modo usado para dar órdenes.",
+    "explanation": "El modo imperativo se usa específicamente para expresar mandatos, ruegos o pedidos.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00BC",
+    "question": "¿Qué tipo de oraciones son frecuentes en la función referencial?",
+    "image": "https://raw.githubusercontent.com/IALUMX/imgs_preguntas/refs/heads/main/Funciones%20de%20la%20lengua.PNG",
+    "options": [
+      { "text": "Enunciativas o declarativas", "correct": true },
+      { "text": "Exclamativas", "correct": false },
+      { "text": "Imperativas", "correct": false },
+      { "text": "Interrogativas", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Son las que afirman o niegan hechos.",
+    "explanation": "La función referencial usa oraciones declarativas para exponer información de manera neutra.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00BD",
+    "question": "¿Qué función del lenguaje se utiliza para interrumpir una conversación sin terminarla?",
+    "image": "https://raw.githubusercontent.com/IALUMX/imgs_preguntas/refs/heads/main/Funciones%20de%20la%20lengua.PNG",
+    "options": [
+      { "text": "Fática", "correct": true },
+      { "text": "Referencial", "correct": false },
+      { "text": "Poética", "correct": false },
+      { "text": "Metalingüística", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Gestiona el flujo del canal comunicativo.",
+    "explanation": "La función fática gestiona el canal, permitiendo pausas ('espérame un momento') sin cerrar la comunicación.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00BE",
+    "question": "¿Qué función predomina en la frase 'La palabra -gato- es un sustantivo'?",
+    "image": "https://raw.githubusercontent.com/IALUMX/imgs_preguntas/refs/heads/main/Funciones%20de%20la%20lengua.PNG",
+    "options": [
+      { "text": "Metalingüística", "correct": true },
+      { "text": "Referencial", "correct": false },
+      { "text": "Emotiva", "correct": false },
+      { "text": "Apelativa", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Analiza gramaticalmente una palabra.",
+    "explanation": "Se está hablando sobre la categoría gramatical de una palabra, es decir, sobre el código.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00BF",
+    "question": "¿Qué función predomina en '¡Ojalá ganemos el partido!'?",
+    "image": "https://raw.githubusercontent.com/IALUMX/imgs_preguntas/refs/heads/main/Funciones%20de%20la%20lengua.PNG",
+    "options": [
+      { "text": "Emotiva", "correct": true },
+      { "text": "Referencial", "correct": false },
+      { "text": "Fática", "correct": false },
+      { "text": "Metalingüística", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Expresa un deseo personal.",
+    "explanation": "El emisor expresa un deseo subjetivo, lo cual es característica central de la función emotiva.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00BG",
+    "question": "¿Qué función predomina en 'Las vocales son a, e, i, o, u'?",
+    "image": "https://raw.githubusercontent.com/IALUMX/imgs_preguntas/refs/heads/main/Funciones%20de%20la%20lengua.PNG",
+    "options": [
+      { "text": "Metalingüística", "correct": true },
+      { "text": "Poética", "correct": false },
+      { "text": "Emotiva", "correct": false },
+      { "text": "Apelativa", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Enlista elementos del alfabeto (código).",
+    "explanation": "Explica los componentes del sistema de escritura/habla, centrándose en el código.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00BH",
+    "question": "¿Qué función predomina en 'El agua hierve a 100 grados Celsius'?",
+    "image": "https://raw.githubusercontent.com/IALUMX/imgs_preguntas/refs/heads/main/Funciones%20de%20la%20lengua.PNG",
+    "options": [
+      { "text": "Referencial", "correct": true },
+      { "text": "Emotiva", "correct": false },
+      { "text": "Apelativa", "correct": false },
+      { "text": "Poética", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Es un dato científico verificable.",
+    "explanation": "Transmite un hecho físico objetivo sobre la realidad, función referencial.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00BI",
+    "question": "¿Qué función predomina en 'Camarón que se duerme se lo lleva la corriente'?",
+    "image": "https://raw.githubusercontent.com/IALUMX/imgs_preguntas/refs/heads/main/Funciones%20de%20la%20lengua.PNG",
+    "options": [
+      { "text": "Poética", "correct": true },
+      { "text": "Referencial", "correct": false },
+      { "text": "Fática", "correct": false },
+      { "text": "Metalingüística", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Es un refrán que usa lenguaje figurado.",
+    "explanation": "Los refranes utilizan la función poética mediante el uso de metáforas y ritmo para dar un mensaje.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00BJ",
+    "question": "¿Qué función predomina en 'Vota por mí'?",
+    "image": "https://raw.githubusercontent.com/IALUMX/imgs_preguntas/refs/heads/main/Funciones%20de%20la%20lengua.PNG",
+    "options": [
+      { "text": "Apelativa", "correct": true },
+      { "text": "Referencial", "correct": false },
+      { "text": "Poética", "correct": false },
+      { "text": "Fática", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Es una petición directa propia de la propaganda política.",
+    "explanation": "Busca influir directamente en la acción (voto) del receptor.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00BK",
+    "question": "¿Qué función predomina en 'Hola, ¿cómo estás?' al iniciar una llamada?",
+    "image": "https://raw.githubusercontent.com/IALUMX/imgs_preguntas/refs/heads/main/Funciones%20de%20la%20lengua.PNG",
+    "options": [
+      { "text": "Fática", "correct": true },
+      { "text": "Poética", "correct": false },
+      { "text": "Metalingüística", "correct": false },
+      { "text": "Referencial", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Sirve para abrir el canal de comunicación.",
+    "explanation": "Las fórmulas de saludo tienen como fin principal establecer el contacto (función fática).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00BL",
+    "question": "¿Qué función predomina en 'Tus ojos son dos luceros'?",
+    "image": "https://raw.githubusercontent.com/IALUMX/imgs_preguntas/refs/heads/main/Funciones%20de%20la%20lengua.PNG",
+    "options": [
+      { "text": "Poética", "correct": true },
+      { "text": "Referencial", "correct": false },
+      { "text": "Fática", "correct": false },
+      { "text": "Metalingüística", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Usa una metáfora para embellecer la descripción.",
+    "explanation": "El uso de metáforas para describir algo con fines estéticos es propio de la función poética.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00BM",
+    "question": "¿Qué función predomina en 'El sujeto realiza la acción del verbo'?",
+    "image": "https://raw.githubusercontent.com/IALUMX/imgs_preguntas/refs/heads/main/Funciones%20de%20la%20lengua.PNG",
+    "options": [
+      { "text": "Metalingüística", "correct": true },
+      { "text": "Apelativa", "correct": false },
+      { "text": "Poética", "correct": false },
+      { "text": "Fática", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Es una regla gramatical.",
+    "explanation": "Explica el funcionamiento de la gramática, es decir, del código.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00BN",
+    "question": "¿Cuál de los siguientes es un ejemplo de función referencial?",
+    "image": "https://raw.githubusercontent.com/IALUMX/imgs_preguntas/refs/heads/main/Funciones%20de%20la%20lengua.PNG",
+    "options": [
+      { "text": "La Luna es el satélite natural de la Tierra.", "correct": true },
+      { "text": "¡Qué hermosa Luna llena!", "correct": false },
+      { "text": "Mira la Luna.", "correct": false },
+      { "text": "Luna, espejo de mis sueños.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Busca la opción que solo dé un dato objetivo.",
+    "explanation": "La opción correcta transmite un hecho astronómico sin adornos ni emociones.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00BO",
+    "question": "¿Cuál de los siguientes es un ejemplo de función apelativa?",
+    "image": "https://raw.githubusercontent.com/IALUMX/imgs_preguntas/refs/heads/main/Funciones%20de%20la%20lengua.PNG",
+    "options": [
+      { "text": "Cállate, por favor.", "correct": true },
+      { "text": "El silencio es absoluto.", "correct": false },
+      { "text": "Me gusta el silencio.", "correct": false },
+      { "text": "Silencio rima con cansancio.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Busca la opción que da una orden.",
+    "explanation": "Es una solicitud directa al receptor para que guarde silencio.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00BP",
+    "question": "¿Cuál de los siguientes es un ejemplo de función emotiva?",
+    "image": "https://raw.githubusercontent.com/IALUMX/imgs_preguntas/refs/heads/main/Funciones%20de%20la%20lengua.PNG",
+    "options": [
+      { "text": "Estoy muy triste hoy.", "correct": true },
+      { "text": "Hoy es lunes.", "correct": false },
+      { "text": "Ven aquí.", "correct": false },
+      { "text": "La palabra 'triste' es un adjetivo.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Busca la opción que expresa un sentimiento.",
+    "explanation": "El emisor manifiesta su estado de ánimo personal.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00BQ",
+    "question": "¿Cuál de los siguientes es un ejemplo de función metalingüística?",
+    "image": "https://raw.githubusercontent.com/IALUMX/imgs_preguntas/refs/heads/main/Funciones%20de%20la%20lengua.PNG",
+    "options": [
+      { "text": "Sinónimo significa significado igual o parecido.", "correct": true },
+      { "text": "Busca un sinónimo.", "correct": false },
+      { "text": "Me encantan los sinónimos.", "correct": false },
+      { "text": "Los sinónimos bailan en mi mente.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Busca la opción que define un término lingüístico.",
+    "explanation": "Define un concepto del propio lenguaje (sinonimia).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00BR",
+    "question": "¿Cuál de los siguientes es un ejemplo de función fática?",
+    "image": "https://raw.githubusercontent.com/IALUMX/imgs_preguntas/refs/heads/main/Funciones%20de%20la%20lengua.PNG",
+    "options": [
+      { "text": "¿Me oyen bien al fondo?", "correct": true },
+      { "text": "Escuchen con atención.", "correct": false },
+      { "text": "El sonido viaja por el aire.", "correct": false },
+      { "text": "El susurro del viento.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Busca la opción que verifica el canal.",
+    "explanation": "Pregunta técnica para comprobar que el mensaje está llegando físicamente.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00BS",
+    "question": "¿Qué elemento del circuito comunicativo refiere a la situación o entorno en que se habla?",
+    "image": "https://raw.githubusercontent.com/IALUMX/imgs_preguntas/refs/heads/main/Funciones%20de%20la%20lengua.PNG",
+    "options": [
+      { "text": "Contexto", "correct": true },
+      { "text": "Código", "correct": false },
+      { "text": "Canal", "correct": false },
+      { "text": "Mensaje", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Es el lugar, tiempo y circunstancias que rodean el acto comunicativo.",
+    "explanation": "El contexto engloba las circunstancias espaciales, temporales y culturales que permiten interpretar el mensaje.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00BT",
+    "question": "En la frase '¡Qué susto me diste!', ¿cuál es la intención comunicativa?",
+    "image": "https://raw.githubusercontent.com/IALUMX/imgs_preguntas/refs/heads/main/Funciones%20de%20la%20lengua.PNG",
+    "options": [
+      { "text": "Expresar una emoción.", "correct": true },
+      { "text": "Dar una orden.", "correct": false },
+      { "text": "Informar un hecho.", "correct": false },
+      { "text": "Definir una palabra.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "El emisor reacciona ante algo que sintió.",
+    "explanation": "Es una reacción emocional espontánea (función emotiva).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00BU",
+    "question": "En la frase 'Cierra la puerta al salir', ¿cuál es la intención comunicativa?",
+    "image": "https://raw.githubusercontent.com/IALUMX/imgs_preguntas/refs/heads/main/Funciones%20de%20la%20lengua.PNG",
+    "options": [
+      { "text": "Ordenar una acción.", "correct": true },
+      { "text": "Expresar un deseo.", "correct": false },
+      { "text": "Describir la puerta.", "correct": false },
+      { "text": "Saludar.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Se espera que el receptor haga algo físico.",
+    "explanation": "Es un mandato directo (función apelativa).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00BV",
+    "question": "En la frase 'El cielo es azul debido a la dispersión de la luz', ¿cuál es la intención?",
+    "image": "https://raw.githubusercontent.com/IALUMX/imgs_preguntas/refs/heads/main/Funciones%20de%20la%20lengua.PNG",
+    "options": [
+      { "text": "Informar objetivamente.", "correct": true },
+      { "text": "Convencer de algo.", "correct": false },
+      { "text": "Expresar gusto por el azul.", "correct": false },
+      { "text": "Crear una rima.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Da una explicación científica.",
+    "explanation": "Transmite conocimiento sobre un fenómeno natural (función referencial).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00BW",
+    "question": "¿Qué función del lenguaje se rompe si hay mucho 'ruido' en la línea telefónica?",
+    "image": "https://raw.githubusercontent.com/IALUMX/imgs_preguntas/refs/heads/main/Funciones%20de%20la%20lengua.PNG",
+    "options": [
+      { "text": "Fática", "correct": true },
+      { "text": "Poética", "correct": false },
+      { "text": "Metalingüística", "correct": false },
+      { "text": "Emotiva", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "El ruido afecta al canal.",
+    "explanation": "Si el canal falla, la función fática (de contacto) es la primera en verse afectada o la que se usa para tratar de restablecerlo.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00BX",
+    "question": "¿Qué función predomina en las letras de las canciones?",
+    "image": "https://raw.githubusercontent.com/IALUMX/imgs_preguntas/refs/heads/main/Funciones%20de%20la%20lengua.PNG",
+    "options": [
+      { "text": "Poética", "correct": true },
+      { "text": "Metalingüística", "correct": false },
+      { "text": "Referencial", "correct": false },
+      { "text": "Fática", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Buscan ritmo, rima y expresión artística.",
+    "explanation": "Las canciones buscan estética en el mensaje, predominando la función poética.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00BY",
+    "question": "¿Qué función predomina en los anuncios publicitarios que te invitan a comprar?",
+    "image": "https://raw.githubusercontent.com/IALUMX/imgs_preguntas/refs/heads/main/Funciones%20de%20la%20lengua.PNG",
+    "options": [
+      { "text": "Apelativa", "correct": true },
+      { "text": "Fática", "correct": false },
+      { "text": "Metalingüística", "correct": false },
+      { "text": "Referencial", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Su fin último es que gastes dinero.",
+    "explanation": "La publicidad busca persuadir al receptor para que adquiera un producto (función apelativa).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00BZ",
+    "question": "¿Qué función predomina en un manual de instrucciones?",
+    "image": "https://raw.githubusercontent.com/IALUMX/imgs_preguntas/refs/heads/main/Funciones%20de%20la%20lengua.PNG",
+    "options": [
+      { "text": "Apelativa y Referencial", "correct": true },
+      { "text": "Emotiva y Poética", "correct": false },
+      { "text": "Fática y Emotiva", "correct": false },
+      { "text": "Poética y Metalingüística", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Te dice qué hacer y te da información técnica.",
+    "explanation": "Instruye al usuario (apelativa) basándose en información técnica del objeto (referencial).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00CA",
+    "question": "¿Qué función predomina en el llanto de un bebé?",
+    "image": "https://raw.githubusercontent.com/IALUMX/imgs_preguntas/refs/heads/main/Funciones%20de%20la%20lengua.PNG",
+    "options": [
+      { "text": "Emotiva", "correct": true },
+      { "text": "Metalingüística", "correct": false },
+      { "text": "Poética", "correct": false },
+      { "text": "Referencial", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Es pura expresión de necesidad o dolor.",
+    "explanation": "El llanto comunica un estado interno de malestar o necesidad básica.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00CB",
+    "question": "¿Qué función predomina en 'Adiós, que te vaya bien'?",
+    "image": "https://raw.githubusercontent.com/IALUMX/imgs_preguntas/refs/heads/main/Funciones%20de%20la%20lengua.PNG",
+    "options": [
+      { "text": "Fática", "correct": true },
+      { "text": "Referencial", "correct": false },
+      { "text": "Metalingüística", "correct": false },
+      { "text": "Poética", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Cierra la conversación.",
+    "explanation": "Las despedidas sirven para cerrar el canal de comunicación.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00CC",
+    "question": "¿Qué función predomina en 'Polisémico significa que tiene muchos significados'?",
+    "image": "https://raw.githubusercontent.com/IALUMX/imgs_preguntas/refs/heads/main/Funciones%20de%20la%20lengua.PNG",
+    "options": [
+      { "text": "Metalingüística", "correct": true },
+      { "text": "Referencial", "correct": false },
+      { "text": "Emotiva", "correct": false },
+      { "text": "Fática", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Explica un término lingüístico.",
+    "explanation": "Define una propiedad de las palabras dentro del código.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00CD",
+    "question": "En la oración 'La capital de Francia es París', ¿el mensaje es subjetivo u objetivo?",
+    "image": "https://raw.githubusercontent.com/IALUMX/imgs_preguntas/refs/heads/main/Funciones%20de%20la%20lengua.PNG",
+    "options": [
+      { "text": "Objetivo", "correct": true },
+      { "text": "Subjetivo", "correct": false },
+      { "text": "Figurado", "correct": false },
+      { "text": "Imperativo", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Es un dato real verificable.",
+    "explanation": "La función referencial se caracteriza por la objetividad de la información.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00CE",
+    "question": "En la función poética, ¿el lenguaje se usa en sentido denotativo o connotativo?",
+    "image": "https://raw.githubusercontent.com/IALUMX/imgs_preguntas/refs/heads/main/Funciones%20de%20la%20lengua.PNG",
+    "options": [
+      { "text": "Connotativo", "correct": true },
+      { "text": "Denotativo", "correct": false },
+      { "text": "Literal", "correct": false },
+      { "text": "Técnico", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Es el sentido figurado o simbólico.",
+    "explanation": "La función poética explota la connotación y los múltiples significados de las palabras.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00CF",
+    "question": "¿Quién es el autor que propuso las 6 funciones del lenguaje?",
+    "image": "https://raw.githubusercontent.com/IALUMX/imgs_preguntas/refs/heads/main/Funciones%20de%20la%20lengua.PNG",
+    "options": [
+      { "text": "Roman Jakobson", "correct": true },
+      { "text": "Ferdinand de Saussure", "correct": false },
+      { "text": "Noam Chomsky", "correct": false },
+      { "text": "Miguel de Cervantes", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Lingüista ruso mencionado en la guía.",
+    "explanation": "Roman Jakobson es el lingüista que relacionó cada función con un elemento del circuito comunicativo.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00CG",
+    "question": "¿Cuál de las siguientes NO es una de las 6 funciones del lenguaje de Jakobson?",
+    "image": "https://raw.githubusercontent.com/IALUMX/imgs_preguntas/refs/heads/main/Funciones%20de%20la%20lengua.PNG",
+    "options": [
+      { "text": "Educativa", "correct": true },
+      { "text": "Referencial", "correct": false },
+      { "text": "Emotiva", "correct": false },
+      { "text": "Fática", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Busca la que no aparece en la lista de funciones.",
+    "explanation": "'Educativa' no es el nombre técnico de ninguna de las funciones propuestas por Jakobson.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00CH",
+    "question": "¿Qué función se centra en verificar si la comunicación se transmite de forma correcta y fluida?",
+    "image": "https://raw.githubusercontent.com/IALUMX/imgs_preguntas/refs/heads/main/Funciones%20de%20la%20lengua.PNG",
+    "options": [
+      { "text": "Fática", "correct": true },
+      { "text": "Referencial", "correct": false },
+      { "text": "Apelativa", "correct": false },
+      { "text": "Poética", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Se preocupa por la calidad de la conexión.",
+    "explanation": "La función fática asegura que el canal esté operando para permitir el flujo del mensaje.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00CI",
+    "question": "Si digo 'Me duele la cabeza', estoy usando la función:",
+    "image": "https://raw.githubusercontent.com/IALUMX/imgs_preguntas/refs/heads/main/Funciones%20de%20la%20lengua.PNG",
+    "options": [
+      { "text": "Emotiva", "correct": true },
+      { "text": "Apelativa", "correct": false },
+      { "text": "Metalingüística", "correct": false },
+      { "text": "Poética", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Expreso un síntoma personal.",
+    "explanation": "Es una referencia al estado interno y subjetivo del emisor.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00CJ",
+    "question": "Si digo 'Tómate una aspirina', estoy usando la función:",
+    "image": "https://raw.githubusercontent.com/IALUMX/imgs_preguntas/refs/heads/main/Funciones%20de%20la%20lengua.PNG",
+    "options": [
+      { "text": "Apelativa", "correct": true },
+      { "text": "Emotiva", "correct": false },
+      { "text": "Referencial", "correct": false },
+      { "text": "Fática", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Es un consejo o instrucción.",
+    "explanation": "Intento influir en la conducta del otro para que realice una acción de alivio.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00CK",
+    "question": "Si digo 'La aspirina es ácido acetilsalicílico', estoy usando la función:",
+    "image": "https://raw.githubusercontent.com/IALUMX/imgs_preguntas/refs/heads/main/Funciones%20de%20la%20lengua.PNG",
+    "options": [
+      { "text": "Referencial", "correct": true },
+      { "text": "Emotiva", "correct": false },
+      { "text": "Apelativa", "correct": false },
+      { "text": "Fática", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Doy el nombre químico real.",
+    "explanation": "Es información objetiva y técnica sobre el referente.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00CL",
+    "question": "Si digo 'Aspirina se escribe con s', estoy usando la función:",
+    "image": "https://raw.githubusercontent.com/IALUMX/imgs_preguntas/refs/heads/main/Funciones%20de%20la%20lengua.PNG",
+    "options": [
+      { "text": "Metalingüística", "correct": true },
+      { "text": "Referencial", "correct": false },
+      { "text": "Apelativa", "correct": false },
+      { "text": "Emotiva", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Hablo de la ortografía.",
+    "explanation": "Hablo sobre cómo se escribe la palabra, refiriéndome al código.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00CM",
+    "question": "¿Qué función predomina en un poema de amor?",
+    "image": "https://raw.githubusercontent.com/IALUMX/imgs_preguntas/refs/heads/main/Funciones%20de%20la%20lengua.PNG",
+    "options": [
+      { "text": "Poética y Emotiva", "correct": true },
+      { "text": "Referencial y Fática", "correct": false },
+      { "text": "Metalingüística y Apelativa", "correct": false },
+      { "text": "Fática y Referencial", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Combina la belleza de la forma con la expresión de sentimientos.",
+    "explanation": "La poesía lírica suele combinar la estética del lenguaje (poética) con la expresión de sentimientos profundos (emotiva).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00CN",
+    "question": "¿La función referencial es objetiva o subjetiva?",
+    "image": "https://raw.githubusercontent.com/IALUMX/imgs_preguntas/refs/heads/main/Funciones%20de%20la%20lengua.PNG",
+    "options": [
+      { "text": "Objetiva", "correct": true },
+      { "text": "Subjetiva", "correct": false },
+      { "text": "Ambas", "correct": false },
+      { "text": "Ninguna", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Se basa en hechos reales externos.",
+    "explanation": "Su característica definitoria es la objetividad al describir el mundo.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00CO",
+    "question": "¿La función emotiva es objetiva o subjetiva?",
+    "image": "https://raw.githubusercontent.com/IALUMX/imgs_preguntas/refs/heads/main/Funciones%20de%20la%20lengua.PNG",
+    "options": [
+      { "text": "Subjetiva", "correct": true },
+      { "text": "Objetiva", "correct": false },
+      { "text": "Neutra", "correct": false },
+      { "text": "Impersonal", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Depende del sujeto que habla.",
+    "explanation": "Es subjetiva porque parte de la interioridad y perspectiva personal del emisor.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00CP",
+    "question": "¿Qué función predomina en '¡Cuidado con el perro!'?",
+    "image": "https://raw.githubusercontent.com/IALUMX/imgs_preguntas/refs/heads/main/Funciones%20de%20la%20lengua.PNG",
+    "options": [
+      { "text": "Apelativa", "correct": true },
+      { "text": "Poética", "correct": false },
+      { "text": "Metalingüística", "correct": false },
+      { "text": "Fática", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Es una advertencia para que te alejes.",
+    "explanation": "Busca influir en la conducta del receptor para prevenir un accidente.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00CQ",
+    "question": "¿Qué función predomina en 'La fórmula del agua es H2O'?",
+    "image": "https://raw.githubusercontent.com/IALUMX/imgs_preguntas/refs/heads/main/Funciones%20de%20la%20lengua.PNG",
+    "options": [
+      { "text": "Referencial", "correct": true },
+      { "text": "Emotiva", "correct": false },
+      { "text": "Apelativa", "correct": false },
+      { "text": "Poética", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Dato científico.",
+    "explanation": "Información objetiva sobre la composición química.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00CR",
+    "question": "¿Qué función predomina en 'Tres tristes tigres tragaban trigo'?",
+    "image": "https://raw.githubusercontent.com/IALUMX/imgs_preguntas/refs/heads/main/Funciones%20de%20la%20lengua.PNG",
+    "options": [
+      { "text": "Poética", "correct": true },
+      { "text": "Referencial", "correct": false },
+      { "text": "Fática", "correct": false },
+      { "text": "Apelativa", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Es un trabalenguas que juega con los sonidos.",
+    "explanation": "Se centra en la forma sonora del mensaje (aliteración), función poética.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00CS",
+    "question": "¿Qué función predomina en 'Entendido, cambio y fuera'?",
+    "image": "https://raw.githubusercontent.com/IALUMX/imgs_preguntas/refs/heads/main/Funciones%20de%20la%20lengua.PNG",
+    "options": [
+      { "text": "Fática", "correct": true },
+      { "text": "Poética", "correct": false },
+      { "text": "Emotiva", "correct": false },
+      { "text": "Metalingüística", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Fórmulas de radio para cerrar comunicación.",
+    "explanation": "Se usan para gestionar el cierre del canal de comunicación.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00CT",
+    "question": "¿Qué elemento es fundamental para que el receptor entienda el mensaje del emisor?",
+    "image": "https://raw.githubusercontent.com/IALUMX/imgs_preguntas/refs/heads/main/Funciones%20de%20la%20lengua.PNG",
+    "options": [
+      { "text": "Compartir el mismo código.", "correct": true },
+      { "text": "Estar en el mismo lugar.", "correct": false },
+      { "text": "Tener la misma edad.", "correct": false },
+      { "text": "Ser amigos.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Si no hablan el mismo idioma, no hay comunicación.",
+    "explanation": "El código debe ser compartido por emisor y receptor para que la decodificación sea posible.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00CU",
+    "question": "Identifica cuál de las siguientes oraciones utiliza la función referencial de manera predominante.",
+    "image": null,
+    "options": [
+      { "text": "El agua hierve a 100 grados Celsius a nivel del mar.", "correct": true },
+      { "text": "¡Ojalá llueva pronto para refrescar el ambiente!", "correct": false },
+      { "text": "Disculpe, ¿me podría decir la hora?", "correct": false },
+      { "text": "El tiempo es un ladrón que nos roba los momentos.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["INTERMEDIO"],
+    "type_tag": ["TEST"],
+    "hint": "Busca la opción que presente un hecho verificable sin opiniones.",
+    "explanation": "La oración sobre el punto de ebullición del agua transmite información objetiva y verificable, característica principal de la función referencial.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00CV",
+    "question": "Completa el siguiente enunciado: La función ______ utiliza recursos como la connotación y las figuras retóricas para centrarse en el ______ del mensaje.",
+    "image": null,
+    "options": [
+      { "text": "Poética - mensaje", "correct": true },
+      { "text": "Emotiva - emisor", "correct": false },
+      { "text": "Apelativa - receptor", "correct": false },
+      { "text": "Metalingüística - código", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["INTERMEDIO"],
+    "type_tag": ["TEST"],
+    "hint": "Esta función busca la belleza estética en la forma de decir las cosas.",
+    "explanation": "La función poética se centra en el mensaje mismo y su forma, utilizando recursos literarios.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00CW",
+    "question": "Relaciona la función del lenguaje con el recurso lingüístico que le corresponde:\nI. Apelativa\nII. Emotiva\nIII. Referencial\n\na. Adjetivos valorativos y signos de exclamación\nb. Datos precisos y modo indicativo\nc. Vocativos y modo imperativo",
+    "image": null,
+    "options": [
+      { "text": "I-c, II-a, III-b", "correct": true },
+      { "text": "I-a, II-b, III-c", "correct": false },
+      { "text": "I-b, II-c, III-a", "correct": false },
+      { "text": "I-c, II-b, III-a", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["INTERMEDIO"],
+    "type_tag": ["TEST"],
+    "hint": "La apelativa da órdenes (imperativo), la emotiva expresa sentir (exclamación) y la referencial informa (datos).",
+    "explanation": "Apelativa usa imperativos para ordenar; Emotiva usa exclamaciones para expresar; Referencial usa datos objetivos.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00CX",
+    "question": "Selecciona los ejemplos que corresponden a la función fática:\n1. ¿Me copias?\n2. El verbo es el núcleo del predicado.\n3. ¡Qué dolor de cabeza!\n4. Bueno, bueno, probando.\n5. Hola, ¿estás ahí?",
+    "image": null,
+    "options": [
+      { "text": "1, 4, 5", "correct": true },
+      { "text": "2, 3, 5", "correct": false },
+      { "text": "1, 2, 4", "correct": false },
+      { "text": "3, 4, 5", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["INTERMEDIO"],
+    "type_tag": ["TEST"],
+    "hint": "Son frases usadas para abrir, mantener o verificar el canal de comunicación.",
+    "explanation": "Las opciones 1, 4 y 5 tienen como único propósito verificar que el canal comunicativo funciona.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00CY",
+    "question": "¿En cuál de las siguientes situaciones comunicativas predomina la función metalingüística?",
+    "image": null,
+    "options": [
+      { "text": "Un profesor explicando las reglas de acentuación a sus alumnos.", "correct": true },
+      { "text": "Un político intentando convencer a los votantes en un mitin.", "correct": false },
+      { "text": "Un poeta recitando sus versos en un auditorio.", "correct": false },
+      { "text": "Un noticiero reportando los hechos del día.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["INTERMEDIO"],
+    "type_tag": ["TEST"],
+    "hint": "Busca la situación donde el lenguaje se usa para hablar del lenguaje.",
+    "explanation": "Explicar reglas de acentuación implica usar el código (lengua) para hablar sobre el código mismo.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00CZ",
+    "question": "Completa el enunciado: La función ______ se manifiesta claramente cuando utilizamos interjecciones como '¡Ay!' o '¡Oh!', centrando la atención en el ______.",
+    "image": null,
+    "options": [
+      { "text": "Emotiva - emisor", "correct": true },
+      { "text": "Poética - mensaje", "correct": false },
+      { "text": "Apelativa - receptor", "correct": false },
+      { "text": "Fática - canal", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["INTERMEDIO"],
+    "type_tag": ["TEST"],
+    "hint": "Las interjecciones expresan estados de ánimo espontáneos.",
+    "explanation": "La función emotiva (o expresiva) permite al emisor exteriorizar sus sentimientos inmediatos.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00DA",
+    "question": "En el slogan publicitario 'Recuérdame', utilizado por un famoso pastelito, ¿qué función del lenguaje predomina y por qué?",
+    "image": null,
+    "options": [
+      { "text": "Apelativa, porque es una orden directa al consumidor.", "correct": true },
+      { "text": "Emotiva, porque evoca nostalgia.", "correct": false },
+      { "text": "Poética, porque es una palabra bonita.", "correct": false },
+      { "text": "Referencial, porque habla del producto.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["INTERMEDIO"],
+    "type_tag": ["TEST"],
+    "hint": "Analiza el modo verbal del verbo 'recordar'.",
+    "explanation": "'Recuérdame' es un verbo en modo imperativo, buscando influir en la conducta del receptor.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00DB",
+    "question": "Identifica la opción que NO corresponde a la función poética.",
+    "image": null,
+    "options": [
+      { "text": "El antónimo de 'blanco' es 'negro'.", "correct": true },
+      { "text": "Tus dientes son perlas de tu boca.", "correct": false },
+      { "text": "En casa de herrero, cuchillo de palo.", "correct": false },
+      { "text": "Caminante no hay camino, se hace camino al andar.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["INTERMEDIO"],
+    "type_tag": ["TEST"],
+    "hint": "Busca la oración que sea puramente informativa o explicativa.",
+    "explanation": "La opción sobre antónimos es metalingüística, no poética, ya que explica una relación semántica.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00DC",
+    "question": "Relaciona el elemento de la comunicación con la función que se centra en él:\nI. Canal\nII. Código\nIII. Mensaje\n\na. Poética\nb. Fática\nc. Metalingüística",
+    "image": null,
+    "options": [
+      { "text": "I-b, II-c, III-a", "correct": true },
+      { "text": "I-a, II-b, III-c", "correct": false },
+      { "text": "I-c, II-a, III-b", "correct": false },
+      { "text": "I-b, II-a, III-c", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["INTERMEDIO"],
+    "type_tag": ["TEST"],
+    "hint": "Canal=Contacto, Código=Lengua, Mensaje=Estética.",
+    "explanation": "La función fática verifica el canal; la metalingüística explica el código; la poética embellece el mensaje.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00DD",
+    "question": "¿Qué función predomina en la siguiente oración?: 'La fotosíntesis es el proceso mediante el cual las plantas convierten la luz solar en energía química'.",
+    "image": null,
+    "options": [
+      { "text": "Referencial", "correct": true },
+      { "text": "Metalingüística", "correct": false },
+      { "text": "Apelativa", "correct": false },
+      { "text": "Emotiva", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["INTERMEDIO"],
+    "type_tag": ["TEST"],
+    "hint": "Es una definición científica de un proceso biológico.",
+    "explanation": "Transmite conocimiento objetivo sobre un fenómeno natural, característica de la función referencial.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00DE",
+    "question": "Selecciona las características de la función emotiva:\n1. Uso de la primera persona.\n2. Uso de adjetivos calificativos valorativos.\n3. Uso de datos estadísticos.\n4. Uso de interjecciones.\n5. Uso de definiciones.",
+    "image": null,
+    "options": [
+      { "text": "1, 2, 4", "correct": true },
+      { "text": "2, 3, 5", "correct": false },
+      { "text": "1, 3, 4", "correct": false },
+      { "text": "3, 4, 5", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["INTERMEDIO"],
+    "type_tag": ["TEST"],
+    "hint": "Busca los recursos que permiten expresar subjetividad.",
+    "explanation": "La primera persona, los adjetivos valorativos y las interjecciones son herramientas para expresar la interioridad del emisor.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00DF",
+    "question": "Si en un texto encontramos la frase 'El término -gato- es polisémico', estamos ante un caso de función metalingüística porque:",
+    "image": null,
+    "options": [
+      { "text": "Se está utilizando el lenguaje para describir una característica del propio lenguaje.", "correct": true },
+      { "text": "Se está describiendo a un animal de manera objetiva.", "correct": false },
+      { "text": "Se está expresando una opinión personal sobre los gatos.", "correct": false },
+      { "text": "Se está intentando convencer al lector de tener un gato.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["INTERMEDIO"],
+    "type_tag": ["TEST"],
+    "hint": "Analiza sobre qué versa la oración: ¿sobre el animal o sobre la palabra?",
+    "explanation": "Habla sobre la palabra 'gato' y su significado, no sobre el animal en sí.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00DG",
+    "question": "Completa: En los discursos políticos o campañas publicitarias predomina la función ______ porque el objetivo principal es ______.",
+    "image": null,
+    "options": [
+      { "text": "Apelativa - persuadir", "correct": true },
+      { "text": "Referencial - informar", "correct": false },
+      { "text": "Emotiva - emocionar", "correct": false },
+      { "text": "Fática - contactar", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["INTERMEDIO"],
+    "type_tag": ["TEST"],
+    "hint": "El fin último de la publicidad y la política es mover a la acción (voto o compra).",
+    "explanation": "La función apelativa busca influir en la conducta del receptor (persuasión).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00DH",
+    "question": "¿Cuál de las siguientes oraciones es un ejemplo de función poética basada en la rima?",
+    "image": null,
+    "options": [
+      { "text": "A quien madruga, Dios le ayuda.", "correct": true },
+      { "text": "El sol sale por el este.", "correct": false },
+      { "text": "Levántate temprano, por favor.", "correct": false },
+      { "text": "Me gusta mucho amanecer temprano.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["INTERMEDIO"],
+    "type_tag": ["TEST"],
+    "hint": "Busca la sonoridad y la repetición de sonidos finales.",
+    "explanation": "El refrán utiliza la rima (madruga/ayuda) para facilitar la memorización y dar estética al mensaje.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00DI",
+    "question": "Relaciona el ejemplo con su función del lenguaje:\nI. ¡Cállate y escucha!\nII. El hidrógeno es el elemento más ligero.\nIII. Te quiero más que a mi propia vida.\n\na. Referencial\nb. Emotiva\nc. Apelativa",
+    "image": null,
+    "options": [
+      { "text": "I-c, II-a, III-b", "correct": true },
+      { "text": "I-a, II-b, III-c", "correct": false },
+      { "text": "I-b, II-c, III-a", "correct": false },
+      { "text": "I-c, II-b, III-a", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["INTERMEDIO"],
+    "type_tag": ["TEST"],
+    "hint": "I es orden, II es dato, III es sentimiento.",
+    "explanation": "Orden = Apelativa; Dato científico = Referencial; Sentimiento intenso = Emotiva.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00DJ",
+    "question": "En la oración 'La palabra -murciélago- contiene las cinco vocales', ¿qué función predomina?",
+    "image": null,
+    "options": [
+      { "text": "Metalingüística", "correct": true },
+      { "text": "Referencial", "correct": false },
+      { "text": "Poética", "correct": false },
+      { "text": "Fática", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["INTERMEDIO"],
+    "type_tag": ["TEST"],
+    "hint": "Se está hablando de la composición ortográfica de una palabra.",
+    "explanation": "El foco está en la estructura de la palabra misma (código), no en el animal.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00DK",
+    "question": "¿Qué recurso discursivo rompe la función referencial para dar paso a la función emotiva?",
+    "image": null,
+    "options": [
+      { "text": "El uso de la primera persona y adjetivos subjetivos.", "correct": true },
+      { "text": "El uso de la tercera persona y datos duros.", "correct": false },
+      { "text": "El uso de definiciones de diccionario.", "correct": false },
+      { "text": "El uso de preguntas para verificar el canal.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["INTERMEDIO"],
+    "type_tag": ["TEST"],
+    "hint": "La objetividad se pierde cuando entra el 'yo' y la opinión.",
+    "explanation": "Al introducir la subjetividad del emisor (yo, mi opinión), el texto deja de ser puramente informativo.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00DL",
+    "question": "Selecciona las oraciones que pertenecen a la función apelativa:\n1. Prohibido estacionarse.\n2. La acera está pintada de amarillo.\n3. Salga de ahí inmediatamente.\n4. ¡Qué feo color!\n5. Llene el formulario con letra de molde.",
+    "image": null,
+    "options": [
+      { "text": "1, 3, 5", "correct": true },
+      { "text": "2, 3, 4", "correct": false },
+      { "text": "1, 2, 5", "correct": false },
+      { "text": "3, 4, 5", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["INTERMEDIO"],
+    "type_tag": ["TEST"],
+    "hint": "Busca instrucciones, órdenes o prohibiciones.",
+    "explanation": "Las opciones 1, 3 y 5 son directrices claras para modificar la conducta del receptor.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00DM",
+    "question": "Completa: La diferencia entre la función poética y la emotiva es que la poética se centra en la ______ del mensaje, mientras que la emotiva se centra en la ______ del emisor.",
+    "image": null,
+    "options": [
+      { "text": "Estética - subjetividad", "correct": true },
+      { "text": "Verdad - objetividad", "correct": false },
+      { "text": "Claridad - orden", "correct": false },
+      { "text": "Gramática - emoción", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["INTERMEDIO"],
+    "type_tag": ["TEST"],
+    "hint": "Poética = belleza; Emotiva = sentimiento personal.",
+    "explanation": "La poética busca belleza formal; la emotiva busca desahogo personal.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00DN",
+    "question": "En la frase 'Entendido, cambio y fuera', utilizada en radiocomunicación, la función predominante es fática porque:",
+    "image": null,
+    "options": [
+      { "text": "Su finalidad es marcar el cierre del canal de comunicación.", "correct": true },
+      { "text": "Está informando que la persona se va afuera.", "correct": false },
+      { "text": "Es una forma poética de despedirse.", "correct": false },
+      { "text": "Está ordenando al otro que cambie.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["INTERMEDIO"],
+    "type_tag": ["TEST"],
+    "hint": "Son protocolos técnicos de comunicación.",
+    "explanation": "Estas frases hechas sirven para gestionar los turnos y estados de la conexión (canal).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00DO",
+    "question": "¿Qué función predomina en el siguiente texto?: 'Los adjetivos numerales son aquellos que brindan información sobre la cantidad en la que aparece un sustantivo'.",
+    "image": null,
+    "options": [
+      { "text": "Metalingüística", "correct": true },
+      { "text": "Referencial", "correct": false },
+      { "text": "Apelativa", "correct": false },
+      { "text": "Poética", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["INTERMEDIO"],
+    "type_tag": ["TEST"],
+    "hint": "Es una definición gramatical.",
+    "explanation": "Aunque parece informativa, al hablar de categorías gramaticales ('adjetivos', 'sustantivo'), es metalingüística.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00DP",
+    "question": "Identifica cuál de las siguientes opciones utiliza un lenguaje connotativo propio de la función poética.",
+    "image": null,
+    "options": [
+      { "text": "El tiempo volaba mientras estábamos juntos.", "correct": true },
+      { "text": "El avión volaba a 800 km/h.", "correct": false },
+      { "text": "El pájaro volaba hacia su nido.", "correct": false },
+      { "text": "La hoja volaba por el efecto del viento.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["INTERMEDIO"],
+    "type_tag": ["TEST"],
+    "hint": "Busca el uso metafórico del verbo 'volar'.",
+    "explanation": "'El tiempo volaba' es una metáfora, ya que el tiempo no vuela literalmente; es un uso estético del lenguaje.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00DQ",
+    "question": "Relaciona la situación con la función predominante:\nI. Un árbitro sacando tarjeta roja.\nII. Un maestro corrigiendo la pronunciación de un alumno.\nIII. Un locutor de radio diciendo '1, 2, 3, probando'.\n\na. Apelativa\nb. Metalingüística\nc. Fática",
+    "image": null,
+    "options": [
+      { "text": "I-a, II-b, III-c", "correct": true },
+      { "text": "I-c, II-a, III-b", "correct": false },
+      { "text": "I-b, II-c, III-a", "correct": false },
+      { "text": "I-a, II-c, III-b", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["INTERMEDIO"],
+    "type_tag": ["TEST"],
+    "hint": "Tarjeta roja = ¡Salte! (Orden); Corrección = Código; Probando = Canal.",
+    "explanation": "La tarjeta roja es una orden visual (apelativa); corregir pronunciación es sobre el código (metalingüística); probar micro es canal (fática).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00DR",
+    "question": "En el enunciado: '¡Qué alegría verte de nuevo por aquí!', la función emotiva se identifica por:",
+    "image": null,
+    "options": [
+      { "text": "El uso de signos de exclamación y el sustantivo abstracto 'alegría'.", "correct": true },
+      { "text": "El hecho de que se dirige a una segunda persona.", "correct": false },
+      { "text": "La información sobre el lugar 'aquí'.", "correct": false },
+      { "text": "La brevedad del mensaje.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["INTERMEDIO"],
+    "type_tag": ["TEST"],
+    "hint": "Analiza qué palabras expresan el sentimiento.",
+    "explanation": "La expresión de un sentimiento ('alegría') enfatizada por la entonación exclamativa es la marca de la función emotiva.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00DS",
+    "question": "Completa: Cuando un mensaje carece de contenido informativo relevante y se reduce a fórmulas de cortesía como 'Buenos días' o 'Hasta luego', predomina la función ______.",
+    "image": null,
+    "options": [
+      { "text": "Fática", "correct": true },
+      { "text": "Referencial", "correct": false },
+      { "text": "Poética", "correct": false },
+      { "text": "Apelativa", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["INTERMEDIO"],
+    "type_tag": ["TEST"],
+    "hint": "Son 'lubricantes' sociales para la conversación.",
+    "explanation": "Estas fórmulas sirven para establecer y cerrar el contacto social, no para transmitir datos.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00DT",
+    "question": "¿Qué función del lenguaje se utiliza cuando decimos 'El sujeto de la oración concuerda en número y persona con el verbo'?",
+    "image": null,
+    "options": [
+      { "text": "Metalingüística", "correct": true },
+      { "text": "Referencial", "correct": false },
+      { "text": "Poética", "correct": false },
+      { "text": "Apelativa", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["INTERMEDIO"],
+    "type_tag": ["TEST"],
+    "hint": "Es una regla de concordancia gramatical.",
+    "explanation": "Explica una norma interna del funcionamiento de la lengua.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00DU",
+    "question": "Selecciona los enunciados que ejemplifican la función referencial:\n1. La Revolución Mexicana inició en 1910.\n2. ¡Viva la Revolución!\n3. El agua se compone de dos átomos de hidrógeno y uno de oxígeno.\n4. El libro tiene 300 páginas.\n5. Lee el libro para mañana.",
+    "image": null,
+    "options": [
+      { "text": "1, 3, 4", "correct": true },
+      { "text": "2, 3, 5", "correct": false },
+      { "text": "1, 2, 4", "correct": false },
+      { "text": "3, 4, 5", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["INTERMEDIO"],
+    "type_tag": ["TEST"],
+    "hint": "Busca datos históricos, químicos o descriptivos objetivos.",
+    "explanation": "1, 3 y 4 son afirmaciones de hechos verificables sin carga emotiva ni órdenes.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00DV",
+    "question": "En la frase 'Camarón que se duerme, se lo lleva la corriente', la función poética se manifiesta a través de:",
+    "image": null,
+    "options": [
+      { "text": "Una metáfora que enseña una lección moral.", "correct": true },
+      { "text": "Una descripción biológica del camarón.", "correct": false },
+      { "text": "Una orden directa a los camarones.", "correct": false },
+      { "text": "Una pregunta retórica.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["INTERMEDIO"],
+    "type_tag": ["TEST"],
+    "hint": "No habla literalmente de crustáceos.",
+    "explanation": "Usa una imagen figurada (el camarón) para representar a las personas descuidadas (función poética/estética).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00DW",
+    "question": "¿Por qué se dice que la función referencial es la función primordial del lenguaje en textos científicos?",
+    "image": null,
+    "options": [
+      { "text": "Porque prioriza la transmisión de conocimientos de forma clara y objetiva.", "correct": true },
+      { "text": "Porque permite a los científicos expresar sus emociones.", "correct": false },
+      { "text": "Porque utiliza un lenguaje bello y adornado.", "correct": false },
+      { "text": "Porque busca convencer al lector sin pruebas.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["INTERMEDIO"],
+    "type_tag": ["TEST"],
+    "hint": "La ciencia busca la verdad verificable.",
+    "explanation": "La ciencia requiere precisión y objetividad, cualidades exclusivas de la función referencial.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00DX",
+    "question": "Relaciona la intención comunicativa con la función:\nI. Convencer\nII. Informar\nIII. Expresar sentimientos\n\na. Emotiva\nb. Apelativa\nc. Referencial",
+    "image": null,
+    "options": [
+      { "text": "I-b, II-c, III-a", "correct": true },
+      { "text": "I-a, II-b, III-c", "correct": false },
+      { "text": "I-c, II-a, III-b", "correct": false },
+      { "text": "I-b, II-a, III-c", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["INTERMEDIO"],
+    "type_tag": ["TEST"],
+    "hint": "Persuadir es apelar; Datos es referir; Sentir es emocionar.",
+    "explanation": "Persuasión es apelativa; Información es referencial; Sentimiento es emotiva.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00DY",
+    "question": "¿Qué función predomina en '¡Silencio en la sala!'?",
+    "image": null,
+    "options": [
+      { "text": "Apelativa", "correct": true },
+      { "text": "Referencial", "correct": false },
+      { "text": "Metalingüística", "correct": false },
+      { "text": "Fática", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["INTERMEDIO"],
+    "type_tag": ["TEST"],
+    "hint": "Es una orden dada por una autoridad.",
+    "explanation": "Aunque no tiene verbo, es una orden directa implícita (¡Hagan silencio!), por lo que es apelativa.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00DZ",
+    "question": "Completa: La función ______ suele utilizar oraciones interrogativas no para obtener información, sino para confirmar que el interlocutor sigue ahí, como en '¿Verdad?'.",
+    "image": null,
+    "options": [
+      { "text": "Fática", "correct": true },
+      { "text": "Apelativa", "correct": false },
+      { "text": "Referencial", "correct": false },
+      { "text": "Metalingüística", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["INTERMEDIO"],
+    "type_tag": ["TEST"],
+    "hint": "Son muletillas de confirmación.",
+    "explanation": "El uso de muletillas de comprobación es típico de la función fática para asegurar el canal.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00EA",
+    "question": "¿Qué función predomina en el siguiente fragmento?: 'Volverán las oscuras golondrinas / en tu balcón sus nidos a colgar'.",
+    "image": null,
+    "options": [
+      { "text": "Poética", "correct": true },
+      { "text": "Referencial", "correct": false },
+      { "text": "Fática", "correct": false },
+      { "text": "Metalingüística", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["INTERMEDIO"],
+    "type_tag": ["TEST"],
+    "hint": "Es un verso famoso de Bécquer.",
+    "explanation": "Es un texto literario con métrica y rima, centrado en la belleza del mensaje (función poética).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00EB",
+    "question": "Identifica la oración donde la función apelativa se suaviza mediante fórmulas de cortesía.",
+    "image": null,
+    "options": [
+      { "text": "¿Podrías pasarme la sal, por favor?", "correct": true },
+      { "text": "Pásame la sal.", "correct": false },
+      { "text": "La sal está en la mesa.", "correct": false },
+      { "text": "¡Quiero sal!", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["INTERMEDIO"],
+    "type_tag": ["TEST"],
+    "hint": "Sigue siendo una petición, pero educada.",
+    "explanation": "La interrogación y el 'por favor' atenúan la orden, pero la intención sigue siendo que el otro realice la acción (apelativa).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00EC",
+    "question": "Relaciona el tipo de texto con su función predominante:\nI. Noticia periodística\nII. Poema lírico\nIII. Reglamento escolar\n\na. Referencial\nb. Apelativa\nc. Poética",
+    "image": null,
+    "options": [
+      { "text": "I-a, II-c, III-b", "correct": true },
+      { "text": "I-c, II-a, III-b", "correct": false },
+      { "text": "I-b, II-a, III-c", "correct": false },
+      { "text": "I-a, II-b, III-c", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["INTERMEDIO"],
+    "type_tag": ["TEST"],
+    "hint": "Noticia informa; Poema embellece; Reglamento ordena.",
+    "explanation": "Noticia (Referencial); Poema (Poética); Reglamento (Apelativa, normas de conducta).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00ED",
+    "question": "Cuando alguien dice 'No te entiendo, ¿qué significa la palabra efímero?', está activando la función:",
+    "image": null,
+    "options": [
+      { "text": "Metalingüística", "correct": true },
+      { "text": "Referencial", "correct": false },
+      { "text": "Emotiva", "correct": false },
+      { "text": "Poética", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["INTERMEDIO"],
+    "type_tag": ["TEST"],
+    "hint": "Está pidiendo una definición del código.",
+    "explanation": "Solicitar el significado de un término es un uso metalingüístico del lenguaje.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00EE",
+    "question": "Completa: Los ______ y los ______ son las clases de palabras más utilizadas en la función referencial para describir la realidad de manera precisa.",
+    "image": null,
+    "options": [
+      { "text": "Sustantivos - verbos", "correct": true },
+      { "text": "Adjetivos - interjecciones", "correct": false },
+      { "text": "Vocativos - imperativos", "correct": false },
+      { "text": "Metáforas - rimas", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["INTERMEDIO"],
+    "type_tag": ["TEST"],
+    "hint": "Nombres de cosas y acciones reales.",
+    "explanation": "Para informar objetivamente se requiere nombrar (sustantivos) y decir qué sucede (verbos).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00EF",
+    "question": "¿Qué función predomina en '¡Bravo! ¡Excelente trabajo!'?",
+    "image": null,
+    "options": [
+      { "text": "Emotiva", "correct": true },
+      { "text": "Referencial", "correct": false },
+      { "text": "Metalingüística", "correct": false },
+      { "text": "Fática", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["INTERMEDIO"],
+    "type_tag": ["TEST"],
+    "hint": "Expresa admiración y aprobación.",
+    "explanation": "El emisor expresa su entusiasmo y aprobación subjetiva ante un hecho.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00EG",
+    "question": "Identifica el enunciado que cumple una función metalingüística:",
+    "image": null,
+    "options": [
+      { "text": "Las palabras agudas llevan tilde si terminan en n, s o vocal.", "correct": true },
+      { "text": "Las palabras se las lleva el viento.", "correct": false },
+      { "text": "¡Qué palabras tan hirientes!", "correct": false },
+      { "text": "Repite esas palabras, por favor.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["INTERMEDIO"],
+    "type_tag": ["TEST"],
+    "hint": "Es una regla ortográfica.",
+    "explanation": "Explica una norma del sistema de escritura (código).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00EH",
+    "question": "¿Qué función predomina en un cartel que dice 'Vota por el Partido Verde'?",
+    "image": null,
+    "options": [
+      { "text": "Apelativa", "correct": true },
+      { "text": "Referencial", "correct": false },
+      { "text": "Emotiva", "correct": false },
+      { "text": "Poética", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["INTERMEDIO"],
+    "type_tag": ["TEST"],
+    "hint": "Propaganda política.",
+    "explanation": "Busca persuadir al ciudadano para que ejecute la acción de votar.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00EI",
+    "question": "Relaciona la frase con la función:\nI. Hace mucho frío.\nII. ¡Qué frío tengo!\nIII. Abrígate bien.\n\na. Emotiva\nb. Apelativa\nc. Referencial",
+    "image": null,
+    "options": [
+      { "text": "I-c, II-a, III-b", "correct": true },
+      { "text": "I-a, II-b, III-c", "correct": false },
+      { "text": "I-b, II-c, III-a", "correct": false },
+      { "text": "I-c, II-b, III-a", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["INTERMEDIO"],
+    "type_tag": ["TEST"],
+    "hint": "I describe el clima (dato); II expresa sensación personal; III da una orden.",
+    "explanation": "Referencial (hecho climático), Emotiva (sensación subjetiva), Apelativa (instrucción).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00EJ",
+    "question": "¿Por qué se considera que la función fática es de 'contacto'?",
+    "image": null,
+    "options": [
+      { "text": "Porque su único fin es asegurar que el vínculo entre emisor y receptor existe.", "correct": true },
+      { "text": "Porque implica tocar físicamente al receptor.", "correct": false },
+      { "text": "Porque se usa para pedir datos de contacto.", "correct": false },
+      { "text": "Porque transmite emociones profundas.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["INTERMEDIO"],
+    "type_tag": ["TEST"],
+    "hint": "Piensa en un apretón de manos telefónico.",
+    "explanation": "No transmite contenido, solo mantiene el canal (contacto) abierto.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00EK",
+    "question": "En la frase 'El corazón es un órgano muscular hueco', predomina la función ______; mientras que en 'Tu corazón es de piedra', predomina la función ______.",
+    "image": null,
+    "options": [
+      { "text": "Referencial - poética", "correct": true },
+      { "text": "Metalingüística - emotiva", "correct": false },
+      { "text": "Referencial - apelativa", "correct": false },
+      { "text": "Fática - poética", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["INTERMEDIO"],
+    "type_tag": ["TEST"],
+    "hint": "La primera es anatomía (literal), la segunda es metáfora (figurado).",
+    "explanation": "Descripción objetiva vs. uso metafórico del lenguaje.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00EL",
+    "question": "¿Qué función predomina en '¡No me digas! ¿En serio?' durante una charla?",
+    "image": null,
+    "options": [
+      { "text": "Emotiva y Fática", "correct": true },
+      { "text": "Referencial y Apelativa", "correct": false },
+      { "text": "Poética y Metalingüística", "correct": false },
+      { "text": "Apelativa y Referencial", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["INTERMEDIO"],
+    "type_tag": ["TEST"],
+    "hint": "Muestra sorpresa (emoción) y mantiene el hilo de la conversación (contacto).",
+    "explanation": "Expresa sorpresa (Emotiva) pero también sirve para indicar al otro que le estamos escuchando y que continúe (Fática).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00EM",
+    "question": "Selecciona los elementos que NO pertenecen a la función referencial:\n1. Objetividad\n2. Subjetividad\n3. Tercera persona\n4. Primera persona\n5. Hechos verificables",
+    "image": null,
+    "options": [
+      { "text": "2 y 4", "correct": true },
+      { "text": "1 y 3", "correct": false },
+      { "text": "3 y 5", "correct": false },
+      { "text": "1 y 5", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["INTERMEDIO"],
+    "type_tag": ["TEST"],
+    "hint": "La referencial huye de lo personal.",
+    "explanation": "La subjetividad y el uso de la primera persona (Yo) son propios de la función emotiva, no de la referencial.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00EN",
+    "question": "¿Qué función del lenguaje se activa al decir: 'Oye, escucha esto' antes de dar una noticia?",
+    "image": null,
+    "options": [
+      { "text": "Apelativa (llama atención) y Fática (abre canal)", "correct": true },
+      { "text": "Referencial y Poética", "correct": false },
+      { "text": "Metalingüística y Emotiva", "correct": false },
+      { "text": "Solo Referencial", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["INTERMEDIO"],
+    "type_tag": ["TEST"],
+    "hint": "Pide atención (orden) y asegura que el otro escuche (canal).",
+    "explanation": "Combina la orden de prestar atención con la verificación de que el canal está listo para el mensaje.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00EO",
+    "question": "Relaciona la definición con la función:\nI. Se habla del lenguaje mismo.\nII. Se busca convencer.\nIII. Se informa sobre la realidad.\n\na. Referencial\nb. Metalingüística\nc. Apelativa",
+    "image": null,
+    "options": [
+      { "text": "I-b, II-c, III-a", "correct": true },
+      { "text": "I-a, II-b, III-c", "correct": false },
+      { "text": "I-c, II-a, III-b", "correct": false },
+      { "text": "I-b, II-a, III-c", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["INTERMEDIO"],
+    "type_tag": ["TEST"],
+    "hint": "Lenguaje=Meta; Convencer=Apelar; Realidad=Referir.",
+    "explanation": "Metalingüística (código), Apelativa (persuasión), Referencial (información).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00EP",
+    "question": "En la frase 'El adjetivo modifica al sustantivo', predomina la función metalingüística porque:",
+    "image": null,
+    "options": [
+      { "text": "Explica la relación gramatical entre dos tipos de palabras.", "correct": true },
+      { "text": "Es una oración bonita.", "correct": false },
+      { "text": "Nos ordena usar adjetivos.", "correct": false },
+      { "text": "Expresa el gusto por la gramática.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["INTERMEDIO"],
+    "type_tag": ["TEST"],
+    "hint": "Es una regla de sintaxis.",
+    "explanation": "Describe el funcionamiento interno del sistema lingüístico.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00EQ",
+    "question": "Completa: Los ______ son palabras clave en la función apelativa porque sirven para nombrar y llamar la atención del interlocutor, como en 'Pedro, ven aquí'.",
+    "image": null,
+    "options": [
+      { "text": "Vocativos", "correct": true },
+      { "text": "Adjetivos", "correct": false },
+      { "text": "Artículos", "correct": false },
+      { "text": "Verboides", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["INTERMEDIO"],
+    "type_tag": ["TEST"],
+    "hint": "Son los nombres usados para llamar a alguien.",
+    "explanation": "El vocativo es el recurso gramatical para dirigirse directamente a la segunda persona.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00ER",
+    "question": "¿Qué función predomina en una señal de tránsito de 'ALTO'?",
+    "image": null,
+    "options": [
+      { "text": "Apelativa", "correct": true },
+      { "text": "Referencial", "correct": false },
+      { "text": "Fática", "correct": false },
+      { "text": "Metalingüística", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["INTERMEDIO"],
+    "type_tag": ["TEST"],
+    "hint": "Es una orden visual.",
+    "explanation": "Ordena al conductor detener el vehículo inmediatamente.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00ES",
+    "question": "Identifica la función predominante en: 'Tus ojos son la patria del relámpago y de la lágrima'.",
+    "image": null,
+    "options": [
+      { "text": "Poética", "correct": true },
+      { "text": "Referencial", "correct": false },
+      { "text": "Metalingüística", "correct": false },
+      { "text": "Fática", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["INTERMEDIO"],
+    "type_tag": ["TEST"],
+    "hint": "Es una metáfora compleja de Octavio Paz.",
+    "explanation": "Uso de lenguaje figurado y metáforas para crear belleza estética.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00ET",
+    "question": "Si un diccionario define 'Banco' como 'Institución financiera' y también como 'Asiento', está cumpliendo una función:",
+    "image": null,
+    "options": [
+      { "text": "Metalingüística", "correct": true },
+      { "text": "Referencial", "correct": false },
+      { "text": "Apelativa", "correct": false },
+      { "text": "Poética", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["INTERMEDIO"],
+    "type_tag": ["TEST"],
+    "hint": "Aclara la polisemia del código.",
+    "explanation": "Explica los distintos significados que puede tener un signo dentro del código.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00EU",
+    "question": "En la oración 'La película dura 120 minutos', la función es referencial. Si cambiamos a 'La película se me hizo eterna', la función cambia a:",
+    "image": null,
+    "options": [
+      { "text": "Emotiva", "correct": true },
+      { "text": "Apelativa", "correct": false },
+      { "text": "Metalingüística", "correct": false },
+      { "text": "Fática", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["INTERMEDIO"],
+    "type_tag": ["TEST"],
+    "hint": "Pasa del dato objetivo a la percepción subjetiva.",
+    "explanation": "Expresa una percepción personal y subjetiva del tiempo (aburrimiento/cansancio).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00EV",
+    "question": "Selecciona las situaciones donde predomina la función apelativa:\n1. Un general dando órdenes a su tropa.\n2. Un científico publicando un artículo.\n3. Una madre regañando a su hijo.\n4. Un poeta escribiendo versos.\n5. Un vendedor ofreciendo un producto.",
+    "image": null,
+    "options": [
+      { "text": "1, 3, 5", "correct": true },
+      { "text": "2, 4, 5", "correct": false },
+      { "text": "1, 2, 3", "correct": false },
+      { "text": "3, 4, 5", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["INTERMEDIO"],
+    "type_tag": ["TEST"],
+    "hint": "Situaciones de jerarquía, corrección o venta.",
+    "explanation": "En todas estas situaciones se busca influir en el comportamiento del otro (obedecer, corregirse, comprar).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00EW",
+    "question": "Relaciona la característica con la función:\nI. Subjetiva\nII. Objetiva\nIII. Estética\n\na. Poética\nb. Referencial\nc. Emotiva",
+    "image": null,
+    "options": [
+      { "text": "I-c, II-b, III-a", "correct": true },
+      { "text": "I-a, II-b, III-c", "correct": false },
+      { "text": "I-b, II-a, III-c", "correct": false },
+      { "text": "I-c, II-a, III-b", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["INTERMEDIO"],
+    "type_tag": ["TEST"],
+    "hint": "Subjetiva=Sentir; Objetiva=Realidad; Estética=Arte.",
+    "explanation": "Emotiva (subjetiva), Referencial (objetiva), Poética (estética).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00EX",
+    "question": "¿Qué función predomina en '¿Me explico?' al final de una explicación?",
+    "image": null,
+    "options": [
+      { "text": "Fática", "correct": true },
+      { "text": "Referencial", "correct": false },
+      { "text": "Poética", "correct": false },
+      { "text": "Emotiva", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["INTERMEDIO"],
+    "type_tag": ["TEST"],
+    "hint": "Verifica si el mensaje llegó correctamente.",
+    "explanation": "Busca confirmar que el canal funcionó y que hubo recepción del mensaje.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00EY",
+    "question": "Completa: La función ______ utiliza el código para definir al código, evitando ambigüedades en la comunicación.",
+    "image": null,
+    "options": [
+      { "text": "Metalingüística", "correct": true },
+      { "text": "Referencial", "correct": false },
+      { "text": "Apelativa", "correct": false },
+      { "text": "Poética", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["INTERMEDIO"],
+    "type_tag": ["TEST"],
+    "hint": "Se explica a sí misma.",
+    "explanation": "Es la capacidad reflexiva del lenguaje.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00EZ",
+    "question": "¿Qué función predomina en 'Pablito clavó un clavito'?",
+    "image": null,
+    "options": [
+      { "text": "Poética", "correct": true },
+      { "text": "Referencial", "correct": false },
+      { "text": "Fática", "correct": false },
+      { "text": "Apelativa", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["INTERMEDIO"],
+    "type_tag": ["TEST"],
+    "hint": "Es un juego de palabras (trabalenguas).",
+    "explanation": "Juega con la sonoridad y la repetición (aliteración), priorizando la forma sobre el contenido.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00FA",
+    "question": "En la frase 'El prefijo -bi- significa dos', la función metalingüística se centra en:",
+    "image": null,
+    "options": [
+      { "text": "El significado de un elemento morfológico.", "correct": true },
+      { "text": "La cantidad de objetos.", "correct": false },
+      { "text": "Dar una orden de contar.", "correct": false },
+      { "text": "La belleza del sonido 'bi'.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["INTERMEDIO"],
+    "type_tag": ["TEST"],
+    "hint": "Explica una parte de una palabra.",
+    "explanation": "Analiza el significado de una unidad del lenguaje (morfema).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00FB",
+    "question": "¿Qué función predomina en '¡Qué día tan espantoso!'?",
+    "image": null,
+    "options": [
+      { "text": "Emotiva", "correct": true },
+      { "text": "Referencial", "correct": false },
+      { "text": "Fática", "correct": false },
+      { "text": "Metalingüística", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["INTERMEDIO"],
+    "type_tag": ["TEST"],
+    "hint": "Es una valoración subjetiva negativa.",
+    "explanation": "Expresa el desagrado personal del emisor ante el clima.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00FC",
+    "question": "Identifica los textos donde predomina la función apelativa:\n1. Receta de cocina\n2. Cuento de hadas\n3. Discurso político\n4. Noticia\n5. Reglamento de tránsito",
+    "image": null,
+    "options": [
+      { "text": "1, 3, 5", "correct": true },
+      { "text": "2, 3, 4", "correct": false },
+      { "text": "1, 2, 5", "correct": false },
+      { "text": "3, 4, 5", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["INTERMEDIO"],
+    "type_tag": ["TEST"],
+    "hint": "Textos que te dicen qué hacer.",
+    "explanation": "Receta (instruye), Discurso (persuade), Reglamento (ordena).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00FD",
+    "question": "Relaciona:\nI. ¡Hola!\nII. ¡Sal de ahí!\nIII. ¡Qué miedo!\n\na. Fática\nb. Apelativa\nc. Emotiva",
+    "image": null,
+    "options": [
+      { "text": "I-a, II-b, III-c", "correct": true },
+      { "text": "I-c, II-a, III-b", "correct": false },
+      { "text": "I-b, II-c, III-a", "correct": false },
+      { "text": "I-a, II-c, III-b", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["INTERMEDIO"],
+    "type_tag": ["TEST"],
+    "hint": "Saludo, Orden, Grito.",
+    "explanation": "Saludo es Fática; Orden es Apelativa; Expresión de miedo es Emotiva.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00FE",
+    "question": "En la oración 'La ballena es un mamífero marino', la función referencial se sustenta en:",
+    "image": null,
+    "options": [
+      { "text": "La veracidad biológica de la afirmación.", "correct": true },
+      { "text": "La opinión del autor sobre las ballenas.", "correct": false },
+      { "text": "La belleza de la palabra 'ballena'.", "correct": false },
+      { "text": "La intención de proteger a las ballenas.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["INTERMEDIO"],
+    "type_tag": ["TEST"],
+    "hint": "Es un hecho científico.",
+    "explanation": "Se basa en la clasificación taxonómica real y objetiva.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00FF",
+    "question": "¿Qué función predomina en 'Sus cabellos son de oro'?",
+    "image": null,
+    "options": [
+      { "text": "Poética", "correct": true },
+      { "text": "Referencial", "correct": false },
+      { "text": "Metalingüística", "correct": false },
+      { "text": "Fática", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["INTERMEDIO"],
+    "type_tag": ["TEST"],
+    "hint": "Metáfora de rubio.",
+    "explanation": "Usa una metáfora (oro por rubio) con fin estético.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00FG",
+    "question": "Completa: La función apelativa utiliza frecuentemente el modo verbal ______ para expresar mandatos directos.",
+    "image": null,
+    "options": [
+      { "text": "Imperativo", "correct": true },
+      { "text": "Indicativo", "correct": false },
+      { "text": "Subjuntivo", "correct": false },
+      { "text": "Condicional", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["INTERMEDIO"],
+    "type_tag": ["TEST"],
+    "hint": "Modo de las órdenes.",
+    "explanation": "El imperativo es el modo gramatical diseñado para dar órdenes.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00FH",
+    "question": "¿Qué función predomina en '1, 2, 3 por mí y por todos mis amigos' en un juego?",
+    "image": null,
+    "options": [
+      { "text": "Apelativa y Fática", "correct": false },
+      { "text": "Referencial", "correct": true },
+      { "text": "Poética", "correct": false },
+      { "text": "Metalingüística", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["INTERMEDIO"],
+    "type_tag": ["TEST"],
+    "hint": "Informa un hecho dentro de la lógica del juego.",
+    "explanation": "Esta es tramposa: En el contexto del juego, es una declaración de un hecho que valida una acción (salvarse), funciona como un acto de habla performativo/referencial dentro de las reglas.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00FI",
+    "question": "Corrección del anterior: En el juego de las escondidas, la frase '¡Un, dos, tres por mí!' tiene una función predominantemente:",
+    "image": null,
+    "options": [
+      { "text": "Apelativa (Reclama victoria/salvación ante otros)", "correct": true },
+      { "text": "Referencial (Informa donde está)", "correct": false },
+      { "text": "Poética (Rima)", "correct": false },
+      { "text": "Metalingüística (Explica el juego)", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["INTERMEDIO"],
+    "type_tag": ["TEST"],
+    "hint": "Busca un efecto en el juego (ganar/salvarse).",
+    "explanation": "Es una fórmula que busca un efecto directo en la realidad del juego (influir en el resultado).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00FJ",
+    "question": "¿Qué función predomina en 'El oxígeno es un gas incoloro'?",
+    "image": null,
+    "options": [
+      { "text": "Referencial", "correct": true },
+      { "text": "Poética", "correct": false },
+      { "text": "Apelativa", "correct": false },
+      { "text": "Fática", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["INTERMEDIO"],
+    "type_tag": ["TEST"],
+    "hint": "Descripción física objetiva.",
+    "explanation": "Dato científico objetivo.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00FK",
+    "question": "¿Qué función predomina en 'Me siento fatal por lo que pasó'?",
+    "image": null,
+    "options": [
+      { "text": "Emotiva", "correct": true },
+      { "text": "Referencial", "correct": false },
+      { "text": "Apelativa", "correct": false },
+      { "text": "Metalingüística", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["INTERMEDIO"],
+    "type_tag": ["TEST"],
+    "hint": "Expresa culpa o tristeza.",
+    "explanation": "Manifiesta el estado anímico interno del hablante.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00FL",
+    "question": "Relaciona la función con su centro de atención:\nI. Emisor\nII. Receptor\nIII. Referente\n\na. Función Emotiva\nb. Función Apelativa\nc. Función Referencial",
+    "image": null,
+    "options": [
+      { "text": "I-a, II-b, III-c", "correct": true },
+      { "text": "I-b, II-a, III-c", "correct": false },
+      { "text": "I-c, II-b, III-a", "correct": false },
+      { "text": "I-a, II-c, III-b", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["INTERMEDIO"],
+    "type_tag": ["TEST"],
+    "hint": "Yo (Emotiva), Tú (Apelativa), Ello (Referencial).",
+    "explanation": "Emisor=Emotiva; Receptor=Apelativa; Referente=Referencial.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00FM",
+    "question": "En la frase 'Los sinónimos son palabras con significado similar', la función es:",
+    "image": null,
+    "options": [
+      { "text": "Metalingüística", "correct": true },
+      { "text": "Referencial", "correct": false },
+      { "text": "Poética", "correct": false },
+      { "text": "Apelativa", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["INTERMEDIO"],
+    "type_tag": ["TEST"],
+    "hint": "Definición de un concepto lingüístico.",
+    "explanation": "Habla sobre conceptos del propio idioma.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00FN",
+    "question": "¿Qué función predomina en '¡Córrele, que se va el camión!'?",
+    "image": null,
+    "options": [
+      { "text": "Apelativa", "correct": true },
+      { "text": "Referencial", "correct": false },
+      { "text": "Poética", "correct": false },
+      { "text": "Metalingüística", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["INTERMEDIO"],
+    "type_tag": ["TEST"],
+    "hint": "Orden urgente.",
+    "explanation": "Ordena al receptor realizar una acción rápida (correr).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00FO",
+    "question": "Lee el siguiente fragmento y determina cuál es la función de la lengua que predomina, considerando la intención comunicativa global del autor:\n\n'Ciudadanos, la patria no se construye con lamentos, sino con la argamasa del esfuerzo diario. No preguntéis qué puede hacer el Estado por vosotros, sino qué podéis hacer vosotros para levantar los muros de nuestra nación ante la adversidad que nos acecha. ¡Levantaos y trabajad!'",
+    "image": null,
+    "options": [
+      { "text": "Apelativa", "correct": true },
+      { "text": "Poética", "correct": false },
+      { "text": "Emotiva", "correct": false },
+      { "text": "Referencial", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["AVANZADO"],
+    "type_tag": ["TEST"],
+    "hint": "Aunque usa metáforas ('argamasa', 'muros'), el objetivo final es mover a la acción a la audiencia.",
+    "explanation": "Predomina la función apelativa (o conativa) porque el discurso busca persuadir e influir en la conducta de los receptores ('Ciudadanos', 'No preguntéis', 'Levantaos'). La función poética es secundaria.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00FP",
+    "question": "Analiza el siguiente texto: 'El análisis espectrográfico de la muestra revela una composición del 78% de nitrógeno, 21% de oxígeno y trazas de argón y dióxido de carbono. Estos datos corroboran la hipótesis inicial sobre la atmósfera terrestre en condiciones estándar.' ¿Qué función predomina?",
+    "image": null,
+    "options": [
+      { "text": "Referencial", "correct": true },
+      { "text": "Metalingüística", "correct": false },
+      { "text": "Fática", "correct": false },
+      { "text": "Apelativa", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["AVANZADO"],
+    "type_tag": ["TEST"],
+    "hint": "El texto se centra exclusivamente en datos, porcentajes y hechos verificables.",
+    "explanation": "Es un texto científico que transmite información objetiva sobre la realidad (el referente), sin opiniones ni adornos estéticos.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00FQ",
+    "question": "Identifica la función predominante en este fragmento de una novela vanguardista: 'Escribir es un acto de desangrarse en tinta. La palabra 'sangre' aquí no es líquido vital, sino sustantivo femenino, bisílabo, que golpea la página con la fuerza de su propia semántica dolorosa.'",
+    "image": null,
+    "options": [
+      { "text": "Metalingüística", "correct": true },
+      { "text": "Referencial", "correct": false },
+      { "text": "Apelativa", "correct": false },
+      { "text": "Fática", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["AVANZADO"],
+    "type_tag": ["TEST"],
+    "hint": "El narrador se detiene a analizar la categoría gramatical y el significado de las palabras que está usando.",
+    "explanation": "Aunque el tono es poético, la función predominante es metalingüística porque el discurso reflexiona sobre el propio código (la palabra 'sangre', su categoría gramatical y su semántica).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00FR",
+    "question": "Lee el siguiente diálogo: \n—¿Me escuchas bien? Hay mucha interferencia.\n—Sí, sí, te copio. Prosigue.\n—Decía que el contrato...\n—Espera, se corta. ¿Hola? ¿Sigues ahí?\n—Uno, dos, tres, probando.\n¿Qué función jerarquiza este intercambio?",
+    "image": null,
+    "options": [
+      { "text": "Fática", "correct": true },
+      { "text": "Referencial", "correct": false },
+      { "text": "Emotiva", "correct": false },
+      { "text": "Apelativa", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["AVANZADO"],
+    "type_tag": ["TEST"],
+    "hint": "El contenido del mensaje ('el contrato') pasa a segundo plano ante la necesidad de mantener la conexión.",
+    "explanation": "La preocupación central de los interlocutores es el canal y la viabilidad del contacto, lo que define a la función fática.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00FS",
+    "question": "En el siguiente fragmento publicitario: 'Siente la libertad en tu piel. Deja que el aroma de *WildOcean* despierte tus instintos más profundos. No seas uno más del rebaño, sé el lobo que lidera. Cómpralo ya.', coexisten varias funciones, pero ¿cuál es la jerárquicamente superior o predominante?",
+    "image": null,
+    "options": [
+      { "text": "Apelativa", "correct": true },
+      { "text": "Poética", "correct": false },
+      { "text": "Emotiva", "correct": false },
+      { "text": "Referencial", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["AVANZADO"],
+    "type_tag": ["TEST"],
+    "hint": "Aunque usa lenguaje sugerente (poético), el fin último de la publicidad es siempre una acción del receptor.",
+    "explanation": "La función predominante es la apelativa, ya que todo el discurso (incluidos los recursos estéticos) está subordinado al objetivo de persuadir al receptor para que compre el producto.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00FT",
+    "question": "Completa el siguiente análisis teórico: Roman Jakobson plantea que las funciones no aparecen de manera aislada. En un poema épico que narra batallas históricas (como la Ilíada), la función ______ estructura la forma del mensaje, mientras que la función ______ aporta el contenido narrativo de los hechos.",
+    "image": null,
+    "options": [
+      { "text": "Poética - Referencial", "correct": true },
+      { "text": "Emotiva - Apelativa", "correct": false },
+      { "text": "Fática - Metalingüística", "correct": false },
+      { "text": "Referencial - Poética", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["AVANZADO"],
+    "type_tag": ["TEST"],
+    "hint": "La forma bella es lo estético; la narración de sucesos es lo referencial.",
+    "explanation": "La función poética domina la forma (métrica, figuras), pero la referencial es necesaria para contar la historia (referentes, contexto de la guerra).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00FU",
+    "question": "Relaciona el fragmento con la función que se encuentra SUBORDINADA (secundaria) en él, no la principal:\n\n1. Texto: '¡Ay, qué dolor tan grande! Me he golpeado el dedo con el martillo.'\n2. Texto: 'Para encender el dispositivo, presione el botón rojo (power) durante tres segundos.'\n3. Texto: 'Tus ojos son como dos luceros que iluminan mi camino.'\n\na. Función Referencial (Secundaria)\nb. Función Emotiva (Secundaria)\nc. Función Referencial (Secundaria)",
+    "image": null,
+    "options": [
+      { "text": "1-a, 2-c, 3-b", "correct": true },
+      { "text": "1-b, 2-a, 3-c", "correct": false },
+      { "text": "1-c, 2-b, 3-a", "correct": false },
+      { "text": "1-a, 2-b, 3-c", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["AVANZADO"],
+    "type_tag": ["TEST"],
+    "hint": "1 es principalmente emotiva (expresa dolor) pero informa qué pasó (golpe). 2 es apelativa (instrucción) pero usa datos. 3 es poética pero expresa amor.",
+    "explanation": "En 1, predomina la emotiva, lo secundario es el hecho (referencial). En 2, predomina la apelativa, lo secundario es la descripción del botón (referencial). En 3, predomina la poética, lo secundario es el sentimiento (emotiva).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00FV",
+    "question": "¿Cuál es la función predominante en el siguiente texto jurídico? 'Artículo 1. Todo individuo gozará de las garantías que otorga esta Constitución, las cuales no podrán restringirse ni suspenderse, sino en los casos y con las condiciones que ella misma establece.'",
+    "image": null,
+    "options": [
+      { "text": "Referencial con matiz Apelativo", "correct": true },
+      { "text": "Poética con matiz Fático", "correct": false },
+      { "text": "Emotiva con matiz Metalingüístico", "correct": false },
+      { "text": "Fática puros", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["AVANZADO"],
+    "type_tag": ["TEST"],
+    "hint": "Establece una norma (realidad legal) que debe ser cumplida (obligación).",
+    "explanation": "Es referencial porque describe una realidad jurídica objetiva, pero al ser una ley, tiene una carga apelativa implícita de obligatoriedad.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00FW",
+    "question": "Analiza la siguiente situación: Un profesor de literatura dice: 'La aliteración es la repetición de sonidos, como en: *el ruido con que rueda la ronca tempestad*'. En este enunciado completo, ¿cómo interactúan las funciones?",
+    "image": null,
+    "options": [
+      { "text": "La función metalingüística es predominante y contiene un ejemplo de función poética.", "correct": true },
+      { "text": "La función poética es predominante y elimina a la metalingüística.", "correct": false },
+      { "text": "La función referencial explica a la función fática.", "correct": false },
+      { "text": "Es puramente función apelativa.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["AVANZADO"],
+    "type_tag": ["TEST"],
+    "hint": "El propósito principal del profesor es definir un concepto (código), usando el verso solo como herramienta.",
+    "explanation": "El marco general es metalingüístico (definir aliteración). El ejemplo citado ('el ruido...') es poético, pero está subordinado a la explicación teórica.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00FX",
+    "question": "Identifica la función predominante en: 'Siento un vacío existencial que me corroe las entrañas, una angustia que no tiene nombre ni forma, como si el universo entero pesara sobre mis hombros frágiles.'",
+    "image": null,
+    "options": [
+      { "text": "Emotiva", "correct": true },
+      { "text": "Referencial", "correct": false },
+      { "text": "Fática", "correct": false },
+      { "text": "Metalingüística", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["AVANZADO"],
+    "type_tag": ["TEST"],
+    "hint": "A pesar del lenguaje elaborado, el foco es el estado interno del hablante.",
+    "explanation": "La intención principal es exteriorizar un sentimiento profundo y subjetivo (angustia), lo que define a la función emotiva, aunque use recursos poéticos para expresarlo.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00FY",
+    "question": "Selecciona el texto donde la función FÁTICA se utiliza NO para iniciar comunicación, sino para prolongarla o evitar que se corte:",
+    "image": null,
+    "options": [
+      { "text": "...sí, claro... ajá... entiendo... sí, sigue, te escucho...", "correct": true },
+      { "text": "¡Hola! ¿Cómo estás? Tanto tiempo sin verte.", "correct": false },
+      { "text": "Bueno, creo que es todo por hoy. Hasta luego.", "correct": false },
+      { "text": "Probando micrófono, uno, dos. ¿Se oye?", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["AVANZADO"],
+    "type_tag": ["TEST"],
+    "hint": "Son las interjecciones que decimos cuando el otro habla para indicarle que seguimos ahí.",
+    "explanation": "El uso de 'ajá', 'sí', 'entiendo' mientras el otro habla sirve para mantener el canal abierto y evitar que el emisor piense que la comunicación se ha cortado.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00FZ",
+    "question": "Completa: En los textos persuasivos complejos, como un artículo de opinión, la función ______ suele servir de base argumentativa (datos, hechos) para sustentar la función ______, que es la finalidad última del texto (convencer).",
+    "image": null,
+    "options": [
+      { "text": "Referencial - Apelativa", "correct": true },
+      { "text": "Metalingüística - Poética", "correct": false },
+      { "text": "Fática - Emotiva", "correct": false },
+      { "text": "Poética - Referencial", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["AVANZADO"],
+    "type_tag": ["TEST"],
+    "hint": "Usas hechos para cambiar la opinión de alguien.",
+    "explanation": "Se presentan hechos objetivos (referencial) como argumentos para persuadir al lector (apelativa).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00GA",
+    "question": "¿Qué función predomina en la siguiente definición enciclopédica? 'El surrealismo es un movimiento artístico y literario surgido en Francia después de la Primera Guerra Mundial que se inspira en las teorías psicoanalíticas para intentar reflejar el funcionamiento del subconsciente.'",
+    "image": null,
+    "options": [
+      { "text": "Referencial", "correct": true },
+      { "text": "Metalingüística", "correct": false },
+      { "text": "Poética", "correct": false },
+      { "text": "Emotiva", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["AVANZADO"],
+    "type_tag": ["TEST"],
+    "hint": "Explica un fenómeno histórico-cultural, no una palabra gramaticalmente.",
+    "explanation": "Informa objetivamente sobre un hecho cultural e histórico (contexto/referente), no se centra en definir el código lingüístico per se, sino la realidad del movimiento.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00GB",
+    "question": "Lee cuidadosamente: 'La palabra *banco* es polisémica. En el enunciado *Siéntate en el banco*, funciona como sustantivo concreto; en *Deposita en el banco*, refiere a una entidad financiera.' ¿Por qué predomina la función metalingüística?",
+    "image": null,
+    "options": [
+      { "text": "Porque el referente del mensaje es el propio sistema lingüístico y sus significados.", "correct": true },
+      { "text": "Porque intenta convencer al receptor de ir al banco.", "correct": false },
+      { "text": "Porque expresa la emoción de tener dinero.", "correct": false },
+      { "text": "Porque embellece el mensaje con juegos de palabras.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["AVANZADO"],
+    "type_tag": ["TEST"],
+    "hint": "Habla de la lengua usando la lengua.",
+    "explanation": "El texto analiza y explica el funcionamiento semántico de una palabra dentro del código español.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00GC",
+    "question": "En el siguiente fragmento de un discurso político: 'No permitiremos que la injusticia siga reinando. ¡Uníos a nuestra causa! ¡Luchad por vuestro futuro! Porque el futuro no se espera, se conquista.', identifica la secuencia de funciones.",
+    "image": null,
+    "options": [
+      { "text": "Referencial (declaración) -> Apelativa (orden) -> Poética (sentencia final)", "correct": true },
+      { "text": "Fática -> Metalingüística -> Emotiva", "correct": false },
+      { "text": "Emotiva -> Fática -> Referencial", "correct": false },
+      { "text": "Poética -> Referencial -> Metalingüística", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["AVANZADO"],
+    "type_tag": ["TEST"],
+    "hint": "Analiza oración por oración: 1. Declaración de intención. 2. Imperativos. 3. Frase con valor estético/retórico.",
+    "explanation": "Comienza declarando una postura (Ref/Emotiva), pasa a imperativos directos (Apelativa) y cierra con una frase retórica (Poética/Apelativa).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00GD",
+    "question": "Identifica cuál de las siguientes opciones presenta una función poética construida a partir de una 'paradoja':",
+    "image": null,
+    "options": [
+      { "text": "Vivo sin vivir en mí, y tan alta vida espero, que muero porque no muero.", "correct": true },
+      { "text": "El viento susurraba suavemente entre las hojas de los árboles.", "correct": false },
+      { "text": "Tus ojos son verdes como la esmeralda más pura.", "correct": false },
+      { "text": "Corrí, corrí y corrí hasta que mis piernas no dieron más.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["AVANZADO"],
+    "type_tag": ["TEST"],
+    "hint": "Busca la contradicción lógica aparente.",
+    "explanation": "'Muero porque no muero' es una contradicción lógica (paradoja) usada con fines estéticos para expresar un sentimiento místico.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00GE",
+    "question": "Analiza la función de la lengua en el siguiente aviso clasificado: 'Se solicita ingeniero civil con experiencia mínima de 5 años. Interesados enviar CV al correo indicado. Abstenerse quienes no cumplan los requisitos.'",
+    "image": null,
+    "options": [
+      { "text": "Apelativa (predominante) con base Referencial", "correct": true },
+      { "text": "Referencial pura", "correct": false },
+      { "text": "Metalingüística y Poética", "correct": false },
+      { "text": "Emotiva y Fática", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["AVANZADO"],
+    "type_tag": ["TEST"],
+    "hint": "Busca que alguien haga algo (enviar CV), basándose en datos (requisitos).",
+    "explanation": "El objetivo es conseguir candidatos (apelativa: 'Se solicita', 'enviar'), usando información objetiva sobre el puesto (referencial).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00GF",
+    "question": "Relaciona el vicio del lenguaje o barrera con la función que obstruye principalmente:\nI. Ambigüedad semántica (no se entiende el significado).\nII. Ruido estático en la línea.\nIII. Falta de autoridad del emisor para ordenar.\n\na. Función Fática\nb. Función Metalingüística/Referencial\nc. Función Apelativa",
+    "image": null,
+    "options": [
+      { "text": "I-b, II-a, III-c", "correct": true },
+      { "text": "I-a, II-b, III-c", "correct": false },
+      { "text": "I-c, II-a, III-b", "correct": false },
+      { "text": "I-b, II-c, III-a", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["AVANZADO"],
+    "type_tag": ["TEST"],
+    "hint": "No entender significado afecta el código/mensaje. Ruido afecta canal. Falta de autoridad afecta la obediencia.",
+    "explanation": "La ambigüedad daña la comprensión del código (meta) o realidad (ref). El ruido daña el canal (fática). Sin autoridad falla la orden (apelativa).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00GG",
+    "question": "¿Qué función predomina en el siguiente microcuento? 'Cuando despertó, el dinosaurio todavía estaba allí.' (Augusto Monterroso)",
+    "image": null,
+    "options": [
+      { "text": "Poética", "correct": true },
+      { "text": "Referencial", "correct": false },
+      { "text": "Fática", "correct": false },
+      { "text": "Metalingüística", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["AVANZADO"],
+    "type_tag": ["TEST"],
+    "hint": "Es literatura, aunque sea breve y parezca una afirmación.",
+    "explanation": "Es un texto literario que busca un efecto estético y narrativo a través de la concisión y la sugerencia (polisemia), por lo que es función poética.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00GH",
+    "question": "En un debate, un candidato dice: 'Mi oponente miente cuando dice que bajó la inflación. Los datos del Banco Central indican una subida del 4%. ¡No se dejen engañar!' Identifica las funciones en orden de aparición.",
+    "image": null,
+    "options": [
+      { "text": "Referencial (juicio de valor/dato) -> Referencial (dato) -> Apelativa (orden)", "correct": true },
+      { "text": "Emotiva -> Poética -> Fática", "correct": false },
+      { "text": "Metalingüística -> Referencial -> Emotiva", "correct": false },
+      { "text": "Apelativa -> Apelativa -> Apelativa", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["AVANZADO"],
+    "type_tag": ["TEST"],
+    "hint": "Primero desmiente (ref), luego da el dato (ref), al final pide acción (apela).",
+    "explanation": "Denuncia un hecho/dato (Referencial), aporta prueba (Referencial) y exhorta al público (Apelativa).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00GI",
+    "question": "Completa: La función ______ es autotélica, lo que significa que el fin del mensaje es el mensaje mismo, su forma y su construcción.",
+    "image": null,
+    "options": [
+      { "text": "Poética", "correct": true },
+      { "text": "Referencial", "correct": false },
+      { "text": "Metalingüística", "correct": false },
+      { "text": "Fática", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["AVANZADO"],
+    "type_tag": ["TEST"],
+    "hint": "Auto (sí mismo) + telos (fin). El arte por el arte.",
+    "explanation": "La función poética se define por ser autotélica: el mensaje llama la atención sobre su propia forma.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00GJ",
+    "question": "Analiza la frase: 'El verbo *abolir* es defectivo porque no se conjugan todas sus formas.' ¿Cuál es la intención principal?",
+    "image": null,
+    "options": [
+      { "text": "Explicar una particularidad del sistema verbal (Código).", "correct": true },
+      { "text": "Prohibir el uso del verbo abolir (Receptor).", "correct": false },
+      { "text": "Informar que algo fue abolido (Contexto).", "correct": false },
+      { "text": "Expresar tristeza por la falta de formas verbales (Emisor).", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["AVANZADO"],
+    "type_tag": ["TEST"],
+    "hint": "Trata sobre gramática pura.",
+    "explanation": "Es una explicación metalingüística sobre las reglas de conjugación de un verbo específico.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00GK",
+    "question": "¿Qué función predomina en este texto de instrucciones de montaje? 'Inserte la pieza A en la ranura B hasta escuchar un clic. Asegúrese de que quede firme antes de proceder con el paso 2.'",
+    "image": null,
+    "options": [
+      { "text": "Apelativa", "correct": true },
+      { "text": "Referencial", "correct": false },
+      { "text": "Fática", "correct": false },
+      { "text": "Metalingüística", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["AVANZADO"],
+    "type_tag": ["TEST"],
+    "hint": "Son instrucciones paso a paso.",
+    "explanation": "El texto guía el comportamiento del receptor mediante mandatos (inserte, asegúrese), predominando la función apelativa.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00GL",
+    "question": "Identifica el error en la siguiente afirmación: 'La función emotiva solo se presenta cuando el emisor llora o grita'.",
+    "image": null,
+    "options": [
+      { "text": "Es falso, también se presenta al expresar opiniones, deseos o estados de ánimo sutiles.", "correct": true },
+      { "text": "Es verdadero, sin intensidad física no hay función emotiva.", "correct": false },
+      { "text": "Es falso, porque llorar es función fática.", "correct": false },
+      { "text": "Es verdadero, solo las interjecciones son emotivas.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["AVANZADO"],
+    "type_tag": ["TEST"],
+    "hint": "Decir 'Me parece incorrecto' también es emotivo.",
+    "explanation": "La función emotiva abarca toda expresión de subjetividad (opinión, deseo, actitud), no solo emociones intensas.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00GM",
+    "question": "¿Qué función predomina en la siguiente estrofa? 'Caminante, son tus huellas / el camino y nada más; / Caminante, no hay camino, / se hace camino al andar.' (Antonio Machado)",
+    "image": null,
+    "options": [
+      { "text": "Poética", "correct": true },
+      { "text": "Referencial", "correct": false },
+      { "text": "Apelativa", "correct": false },
+      { "text": "Metalingüística", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["AVANZADO"],
+    "type_tag": ["TEST"],
+    "hint": "Es uno de los poemas más famosos en español.",
+    "explanation": "El uso de la rima, el ritmo y el sentido filosófico/metafórico constituyen la función poética.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00GN",
+    "question": "En un examen, la instrucción dice: 'Lea atentamente el siguiente texto y responda las preguntas'. ¿Qué función cumple esta oración?",
+    "image": null,
+    "options": [
+      { "text": "Apelativa", "correct": true },
+      { "text": "Referencial", "correct": false },
+      { "text": "Metalingüística", "correct": false },
+      { "text": "Fática", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["AVANZADO"],
+    "type_tag": ["TEST"],
+    "hint": "Es una consigna escolar.",
+    "explanation": "Es una orden directa al estudiante sobre qué hacer.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00GO",
+    "question": "Relaciona el elemento predominante con el ejemplo complejo:\nI. Referente\nII. Mensaje (forma)\nIII. Receptor\n\na. 'La hipotenusa es el lado opuesto al ángulo recto.'\nb. 'Hombres necios que acusáis a la mujer sin razón...'\nc. '¡Ustedes, los de la fila de atrás, guarden silencio!'",
+    "image": null,
+    "options": [
+      { "text": "I-a, II-b, III-c", "correct": true },
+      { "text": "I-b, II-a, III-c", "correct": false },
+      { "text": "I-c, II-b, III-a", "correct": false },
+      { "text": "I-a, II-c, III-b", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["AVANZADO"],
+    "type_tag": ["TEST"],
+    "hint": "a es definición geométrica (referencial); b es Sor Juana (poética); c es orden (apelativa).",
+    "explanation": "Referencial se centra en referente (a); Poética en el mensaje (b); Apelativa en el receptor (c).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00GP",
+    "question": "Analiza: 'Oye... mmm... este... ¿cómo te explico?... o sea...' ¿Qué función del lenguaje se está empleando excesivamente y qué indica?",
+    "image": null,
+    "options": [
+      { "text": "Fática; indica inseguridad o intento de mantener el turno de habla sin tener el contenido listo.", "correct": true },
+      { "text": "Metalingüística; indica que está buscando la definición exacta.", "correct": false },
+      { "text": "Referencial; indica que está describiendo un tartamudeo.", "correct": false },
+      { "text": "Poética; es un estilo literario de vanguardia.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["AVANZADO"],
+    "type_tag": ["TEST"],
+    "hint": "Son muletillas para rellenar el silencio.",
+    "explanation": "El uso excesivo de muletillas fáticas ('este...', 'o sea...') sirve para no perder el canal mientras se formula el mensaje.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00GQ",
+    "question": "¿Qué función predomina en una crónica periodística que narra los eventos de un terremoto, citando cifras de daños y declaraciones oficiales?",
+    "image": null,
+    "options": [
+      { "text": "Referencial", "correct": true },
+      { "text": "Emotiva", "correct": false },
+      { "text": "Apelativa", "correct": false },
+      { "text": "Poética", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["AVANZADO"],
+    "type_tag": ["TEST"],
+    "hint": "El periodismo informativo busca la objetividad.",
+    "explanation": "La crónica informativa se centra en relatar los hechos (referente) de manera objetiva.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00GR",
+    "question": "Si un autor escribe: 'Escribo estas líneas no para informar, sino para vaciar mi alma de este dolor que me asfixia', ¿qué está haciendo explícitamente?",
+    "image": null,
+    "options": [
+      { "text": "Negando la función referencial para afirmar la función emotiva.", "correct": true },
+      { "text": "Usando la función fática para iniciar el texto.", "correct": false },
+      { "text": "Haciendo un uso puramente metalingüístico.", "correct": false },
+      { "text": "Confundiendo al lector.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["AVANZADO"],
+    "type_tag": ["TEST"],
+    "hint": "Dice 'no para informar' (no referencial) 'sino para vaciar mi alma' (sí emotiva).",
+    "explanation": "El autor declara su intención de priorizar la expresión de sentimientos (emotiva) sobre los datos (referencial).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00GS",
+    "question": "En la frase 'El hidrógeno es el elemento químico de número atómico 1', la función referencial se manifiesta a través de:",
+    "image": null,
+    "options": [
+      { "text": "Un enunciado denotativo y verificable.", "correct": true },
+      { "text": "Una metáfora científica.", "correct": false },
+      { "text": "Una orden a los químicos.", "correct": false },
+      { "text": "Una opinión personal sobre el hidrógeno.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["AVANZADO"],
+    "type_tag": ["TEST"],
+    "hint": "Denotativo = significado literal.",
+    "explanation": "La información es denotativa (literal) y corresponde a una verdad científica.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00GT",
+    "question": "¿Cuál es la función predominante en este fragmento de una carta de amor? 'Eres la luz de mis mañanas y el sosiego de mis noches. Sin ti, el mundo es un mapa sin geografía.'",
+    "image": null,
+    "options": [
+      { "text": "Poética y Emotiva", "correct": true },
+      { "text": "Referencial y Fática", "correct": false },
+      { "text": "Metalingüística y Apelativa", "correct": false },
+      { "text": "Apelativa y Referencial", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["AVANZADO"],
+    "type_tag": ["TEST"],
+    "hint": "Expresa amor (emotiva) con metáforas bellas (poética).",
+    "explanation": "Combina la expresión intensa de sentimientos con un alto grado de elaboración estética.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00GU",
+    "question": "Completa: La función metalingüística es recursiva porque el lenguaje se convierte en ______ de sí mismo.",
+    "image": null,
+    "options": [
+      { "text": "Objeto de estudio o referente", "correct": true },
+      { "text": "Canal físico", "correct": false },
+      { "text": "Emisor involuntario", "correct": false },
+      { "text": "Receptor pasivo", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["AVANZADO"],
+    "type_tag": ["TEST"],
+    "hint": "El lenguaje habla del lenguaje.",
+    "explanation": "En la función metalingüística, la lengua ocupa el lugar del referente (aquello de lo que se habla).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00GV",
+    "question": "Identifica la función predominante en el siguiente diálogo teatral:\nPERSONAJE A: (Gritando) ¡Sal de aquí ahora mismo!\nPERSONAJE B: No me iré hasta que me escuches.\nPERSONAJE A: ¡Que te vayas, te digo!",
+    "image": null,
+    "options": [
+      { "text": "Apelativa", "correct": true },
+      { "text": "Referencial", "correct": false },
+      { "text": "Poética", "correct": false },
+      { "text": "Fática", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["AVANZADO"],
+    "type_tag": ["TEST"],
+    "hint": "Es un conflicto de voluntades y órdenes.",
+    "explanation": "El diálogo se basa en órdenes y en el intento de modificar la conducta del otro (irse/escuchar).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00GW",
+    "question": "¿Qué función predomina en 'Prohibido fumar en áreas cerradas bajo pena de multa'?",
+    "image": null,
+    "options": [
+      { "text": "Apelativa", "correct": true },
+      { "text": "Referencial", "correct": false },
+      { "text": "Fática", "correct": false },
+      { "text": "Emotiva", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["AVANZADO"],
+    "type_tag": ["TEST"],
+    "hint": "Es una normativa coactiva.",
+    "explanation": "Busca regular el comportamiento mediante una prohibición explícita.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00GX",
+    "question": "En la frase 'La palabra *infausto* significa desgraciado o infeliz', ¿cuál es el referente?",
+    "image": null,
+    "options": [
+      { "text": "La palabra 'infausto' misma.", "correct": true },
+      { "text": "Una persona desgraciada.", "correct": false },
+      { "text": "El diccionario.", "correct": false },
+      { "text": "El emisor que está triste.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["AVANZADO"],
+    "type_tag": ["TEST"],
+    "hint": "Es función metalingüística.",
+    "explanation": "En la función metalingüística, el referente es el signo lingüístico del que se habla.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00GY",
+    "question": "Analiza: '¡Maldita sea mi suerte!' ¿Qué elementos gramaticales refuerzan la función emotiva aquí?",
+    "image": null,
+    "options": [
+      { "text": "Los signos de exclamación y el adjetivo valorativo 'maldita'.", "correct": true },
+      { "text": "El verbo 'ser' en subjuntivo.", "correct": false },
+      { "text": "El sustantivo 'suerte'.", "correct": false },
+      { "text": "El pronombre posesivo 'mi'.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["AVANZADO"],
+    "type_tag": ["TEST"],
+    "hint": "Busca los indicadores de intensidad y subjetividad.",
+    "explanation": "La exclamación y la valoración negativa extrema son marcas claras de la subjetividad emotiva.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00GZ",
+    "question": "En un texto argumentativo, el autor escribe: 'Es imperativo que el gobierno reduzca el déficit fiscal (Apelativa), ya que la inflación ha llegado al 10% anual (Referencial)'. ¿Cómo se relacionan estas funciones?",
+    "image": null,
+    "options": [
+      { "text": "La función referencial sirve de justificación para la función apelativa.", "correct": true },
+      { "text": "La función apelativa anula a la referencial.", "correct": false },
+      { "text": "Son funciones independientes sin relación.", "correct": false },
+      { "text": "La función emotiva está implícita.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["AVANZADO"],
+    "type_tag": ["TEST"],
+    "hint": "La apelativa es la propuesta ('qué hacer'), la referencial es el porqué ('el dato').",
+    "explanation": "El dato objetivo (inflación) se usa como argumento lógico para sustentar la petición o exigencia (reducir déficit).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00HA",
+    "question": "Selecciona el ejemplo donde la función poética se construye mediante una 'aliteración' (repetición de sonidos):",
+    "image": null,
+    "options": [
+      { "text": "En el silencio solo se escuchaba un susurro de abejas que sonaba.", "correct": true },
+      { "text": "La casa era grande y luminosa.", "correct": false },
+      { "text": "¡Vete de aquí ahora mismo!", "correct": false },
+      { "text": "El gato maulló toda la noche.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["AVANZADO"],
+    "type_tag": ["TEST"],
+    "hint": "Repetición del sonido /s/.",
+    "explanation": "El verso de Garcilaso repite el sonido 's' para imitar el zumbido, recurso fonético propio de la función poética.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00HB",
+    "question": "¿Qué función predomina en 'El cuadrado de la hipotenusa es igual a la suma de los cuadrados de los catetos'?",
+    "image": null,
+    "options": [
+      { "text": "Referencial", "correct": true },
+      { "text": "Metalingüística", "correct": false },
+      { "text": "Poética", "correct": false },
+      { "text": "Fática", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["AVANZADO"],
+    "type_tag": ["TEST"],
+    "hint": "Teorema de Pitágoras.",
+    "explanation": "Es un enunciado matemático universalmente válido y objetivo.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00HC",
+    "question": "Cuando un conferencista dice: 'Como mencioné anteriormente, el tema central es la ecología...', ¿qué función secundaria está usando para organizar su discurso?",
+    "image": null,
+    "options": [
+      { "text": "Metalingüística (discursiva)", "correct": true },
+      { "text": "Poética", "correct": false },
+      { "text": "Apelativa", "correct": false },
+      { "text": "Emotiva", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["AVANZADO"],
+    "type_tag": ["TEST"],
+    "hint": "Habla sobre el propio discurso.",
+    "explanation": "Hace referencia a la estructura del propio texto o discurso ('como mencioné anteriormente'), una variante textual de la metalingüística.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00HD",
+    "question": "Completa: En la propaganda de guerra ('I want YOU for U.S. Army'), la imagen del Tío Sam señalando al frente refuerza visualmente la función ______.",
+    "image": null,
+    "options": [
+      { "text": "Apelativa", "correct": true },
+      { "text": "Referencial", "correct": false },
+      { "text": "Fática", "correct": false },
+      { "text": "Poética", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["AVANZADO"],
+    "type_tag": ["TEST"],
+    "hint": "Te está señalando y diciendo 'te quiero a TI'.",
+    "explanation": "Es una interpelación directa al receptor para reclutarlo.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00HE",
+    "question": "¿Qué función predomina en '¡Dios mío, por qué me has abandonado!'?",
+    "image": null,
+    "options": [
+      { "text": "Emotiva", "correct": true },
+      { "text": "Referencial", "correct": false },
+      { "text": "Metalingüística", "correct": false },
+      { "text": "Fática", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["AVANZADO"],
+    "type_tag": ["TEST"],
+    "hint": "Expresa angustia extrema.",
+    "explanation": "Es el grito de angustia subjetiva máxima.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00HF",
+    "question": "En el enunciado: 'Las palabras agudas se tildan cuando terminan en n, s o vocal', la función es metalingüística. Si cambiamos a '¡Aprende las reglas de acentuación!', la función pasa a ser:",
+    "image": null,
+    "options": [
+      { "text": "Apelativa", "correct": true },
+      { "text": "Referencial", "correct": false },
+      { "text": "Emotiva", "correct": false },
+      { "text": "Fática", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["AVANZADO"],
+    "type_tag": ["TEST"],
+    "hint": "Pasa de explicar la regla a ordenar que la aprendas.",
+    "explanation": "El cambio al modo imperativo transforma la explicación del código en una orden al receptor.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00HG",
+    "question": "Relaciona:\nI. Texto lírico\nII. Texto dramático (diálogo)\nIII. Ensayo académico\n\na. Predominio Referencial con matices Apelativos/Metalingüísticos\nb. Predominio Apelativo y Expresivo (interacción personajes)\nc. Predominio Poético y Emotivo",
+    "image": null,
+    "options": [
+      { "text": "I-c, II-b, III-a", "correct": true },
+      { "text": "I-a, II-c, III-b", "correct": false },
+      { "text": "I-b, II-a, III-c", "correct": false },
+      { "text": "I-c, II-a, III-b", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["AVANZADO"],
+    "type_tag": ["TEST"],
+    "hint": "Lírica=Sentimiento/Arte; Drama=Interacción; Ensayo=Ideas/Datos.",
+    "explanation": "Lírica (Poética/Emotiva); Drama (Apelativa/Emotiva entre personajes); Ensayo (Referencial/Argumentativa).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00HH",
+    "question": "¿Qué función predomina en 'El ancho de banda de esta conexión es insuficiente para la transmisión de video'?",
+    "image": null,
+    "options": [
+      { "text": "Referencial", "correct": true },
+      { "text": "Fática", "correct": false },
+      { "text": "Metalingüística", "correct": false },
+      { "text": "Apelativa", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["AVANZADO"],
+    "type_tag": ["TEST"],
+    "hint": "Aunque habla de la conexión (técnicamente), está dando un dato técnico objetivo sobre ella, no probándola.",
+    "explanation": "Cuidado aquí: No está probando el canal ('hola, hola'), está informando objetivamente sobre una característica técnica del canal. Es referencial.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00HI",
+    "question": "En la frase 'Me importa un bledo lo que pienses', la función emotiva se refuerza mediante:",
+    "image": null,
+    "options": [
+      { "text": "Una expresión coloquial connotativa ('un bledo') que denota desprecio.", "correct": true },
+      { "text": "Un dato objetivo sobre botánica.", "correct": false },
+      { "text": "Una pregunta al receptor.", "correct": false },
+      { "text": "Una definición de diccionario.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["AVANZADO"],
+    "type_tag": ["TEST"],
+    "hint": "Bledo es una planta insignificante, usada aquí figuradamente.",
+    "explanation": "El uso de modismos o frases hechas valorativas intensifica la carga emotiva de indiferencia.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00HJ",
+    "question": "¿Qué función predomina en '¡Alto! ¿Quién vive?' usado por un centinela?",
+    "image": null,
+    "options": [
+      { "text": "Apelativa", "correct": true },
+      { "text": "Fática", "correct": false },
+      { "text": "Referencial", "correct": false },
+      { "text": "Poética", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["AVANZADO"],
+    "type_tag": ["TEST"],
+    "hint": "Exige detenerse e identificarse.",
+    "explanation": "Son órdenes directas e interrogaciones que exigen respuesta inmediata del receptor.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00HK",
+    "question": "Analiza: 'Las rosas son rojas, el cielo es azul...'. Si esto se usa en una clase de óptica para explicar la percepción del color, ¿qué función predomina?",
+    "image": null,
+    "options": [
+      { "text": "Referencial (ejemplificación)", "correct": true },
+      { "text": "Poética (rima)", "correct": false },
+      { "text": "Emotiva (gusto)", "correct": false },
+      { "text": "Fática (contacto)", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["AVANZADO"],
+    "type_tag": ["TEST"],
+    "hint": "El contexto determina la función. Clase de ciencias = datos.",
+    "explanation": "En un contexto científico, estas frases funcionan como ejemplos de hechos físicos (el color de los objetos), perdiendo su carácter de cliché poético.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00HL",
+    "question": "Completa: La función ______ se centra en el emisor, la ______ en el receptor y la ______ en el referente.",
+    "image": null,
+    "options": [
+      { "text": "Emotiva - Apelativa - Referencial", "correct": true },
+      { "text": "Apelativa - Emotiva - Poética", "correct": false },
+      { "text": "Fática - Metalingüística - Emotiva", "correct": false },
+      { "text": "Referencial - Apelativa - Fática", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["AVANZADO"],
+    "type_tag": ["TEST"],
+    "hint": "Yo (emoción), Tú (orden), Él/Ello (cosa).",
+    "explanation": "Es la tríada básica del modelo de Jakobson.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00HM",
+    "question": "¿Qué función predomina en 'El sujeto tácito es aquel que no aparece escrito pero se sobreentiende'?",
+    "image": null,
+    "options": [
+      { "text": "Metalingüística", "correct": true },
+      { "text": "Referencial", "correct": false },
+      { "text": "Poética", "correct": false },
+      { "text": "Apelativa", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["AVANZADO"],
+    "type_tag": ["TEST"],
+    "hint": "Concepto gramatical.",
+    "explanation": "Definición de un tipo de sujeto gramatical.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00HN",
+    "question": "En el verso 'Verde que te quiero verde', la repetición del adjetivo y la sintaxis inusual responden a la función:",
+    "image": null,
+    "options": [
+      { "text": "Poética", "correct": true },
+      { "text": "Referencial", "correct": false },
+      { "text": "Metalingüística", "correct": false },
+      { "text": "Fática", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["AVANZADO"],
+    "type_tag": ["TEST"],
+    "hint": "Lorca usa el color como símbolo y ritmo.",
+    "explanation": "El valor es rítmico, simbólico y estético, no informativo sobre el color de algo real.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00HO",
+    "question": "Si recibes un correo que dice: 'Estimado cliente, actualice sus datos aquí', ¿cuál es la función principal y cuál es el riesgo si el enlace es falso?",
+    "image": null,
+    "options": [
+      { "text": "Apelativa; el riesgo es el phishing.", "correct": true },
+      { "text": "Referencial; el riesgo es aburrirse.", "correct": false },
+      { "text": "Fática; el riesgo es perder la conexión.", "correct": false },
+      { "text": "Poética; el riesgo es la mala ortografía.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["AVANZADO"],
+    "type_tag": ["TEST"],
+    "hint": "Busca que hagas clic (acción).",
+    "explanation": "La instrucción es clara (actualice/haga clic), función apelativa típica de fraudes o gestiones.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00HP",
+    "question": "¿Qué función predomina en '¡Ah! ¡Qué susto!'?",
+    "image": null,
+    "options": [
+      { "text": "Emotiva", "correct": true },
+      { "text": "Apelativa", "correct": false },
+      { "text": "Referencial", "correct": false },
+      { "text": "Metalingüística", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["AVANZADO"],
+    "type_tag": ["TEST"],
+    "hint": "Interjección espontánea.",
+    "explanation": "Pura descarga emocional del emisor.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00HQ",
+    "question": "Identifica la función predominante en este fragmento de historia: 'En 1492, Cristóbal Colón llegó a América pensando que había llegado a las Indias. Este evento marcó el inicio de la Edad Moderna.'",
+    "image": null,
+    "options": [
+      { "text": "Referencial", "correct": true },
+      { "text": "Poética", "correct": false },
+      { "text": "Emotiva", "correct": false },
+      { "text": "Apelativa", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["AVANZADO"],
+    "type_tag": ["TEST"],
+    "hint": "Narración histórica objetiva.",
+    "explanation": "Relato de hechos pasados verificables y datados.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00HR",
+    "question": "En la frase 'El antónimo de luz es oscuridad', la función es:",
+    "image": null,
+    "options": [
+      { "text": "Metalingüística", "correct": true },
+      { "text": "Referencial", "correct": false },
+      { "text": "Poética", "correct": false },
+      { "text": "Apelativa", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["AVANZADO"],
+    "type_tag": ["TEST"],
+    "hint": "Relación semántica entre palabras.",
+    "explanation": "Explica la relación de significado entre dos términos del código.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00HS",
+    "question": "¿Qué función predomina en 'Por favor, mantenga su derecha' en una escalera mecánica?",
+    "image": null,
+    "options": [
+      { "text": "Apelativa", "correct": true },
+      { "text": "Referencial", "correct": false },
+      { "text": "Fática", "correct": false },
+      { "text": "Emotiva", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["AVANZADO"],
+    "type_tag": ["TEST"],
+    "hint": "Norma de conducta espacial.",
+    "explanation": "Instrucción para organizar el flujo de personas (conducta).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00HT",
+    "question": "En el verso 'La princesa está triste... ¿qué tendrá la princesa?', la función emotiva (tristeza) se presenta dentro de un marco predominantemente:",
+    "image": null,
+    "options": [
+      { "text": "Poético", "correct": true },
+      { "text": "Referencial", "correct": false },
+      { "text": "Fático", "correct": false },
+      { "text": "Metalingüístico", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["AVANZADO"],
+    "type_tag": ["TEST"],
+    "hint": "Rubén Darío. Sonatina.",
+    "explanation": "Aunque describe una emoción, es un poema famoso donde la forma, el ritmo y la rima son lo principal.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00HU",
+    "question": "Identifica la función: 'La palabra *murciélago* evolucionó del latín *mus* (ratón) y *caecus* (ciego).'",
+    "image": null,
+    "options": [
+      { "text": "Metalingüística", "correct": true },
+      { "text": "Referencial", "correct": false },
+      { "text": "Poética", "correct": false },
+      { "text": "Apelativa", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["AVANZADO"],
+    "type_tag": ["TEST"],
+    "hint": "Etimología.",
+    "explanation": "La etimología es el estudio del origen de las palabras (código).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00HV",
+    "question": "¿Qué función predomina en '¡Ojalá ganemos la lotería!'?",
+    "image": null,
+    "options": [
+      { "text": "Emotiva", "correct": true },
+      { "text": "Referencial", "correct": false },
+      { "text": "Apelativa", "correct": false },
+      { "text": "Fática", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["AVANZADO"],
+    "type_tag": ["TEST"],
+    "hint": "Deseo (modo optativo/subjuntivo).",
+    "explanation": "Expresa un deseo subjetivo del hablante.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00HW",
+    "question": "En un manual de usuario: 'Si la luz roja parpadea, contacte al servicio técnico.' La primera parte es ______ (condición/dato) y la segunda es ______ (instrucción).",
+    "image": null,
+    "options": [
+      { "text": "Referencial - Apelativa", "correct": true },
+      { "text": "Apelativa - Referencial", "correct": false },
+      { "text": "Metalingüística - Fática", "correct": false },
+      { "text": "Emotiva - Apelativa", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["AVANZADO"],
+    "type_tag": ["TEST"],
+    "hint": "Describe un estado de la máquina y luego te dice qué hacer.",
+    "explanation": "Describe objetivamente el error (luz parpadea) para luego ordenar la acción (contacte).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00HX",
+    "question": "¿Qué función predomina en 'Hola... sí... bueno... ajá... adiós' en una llamada donde no se dijo nada importante?",
+    "image": null,
+    "options": [
+      { "text": "Fática", "correct": true },
+      { "text": "Referencial", "correct": false },
+      { "text": "Poética", "correct": false },
+      { "text": "Apelativa", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["AVANZADO"],
+    "type_tag": ["TEST"],
+    "hint": "Puro contacto sin mensaje.",
+    "explanation": "El intercambio se limitó a abrir, mantener y cerrar el canal sin transmisión de información relevante.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00HY",
+    "question": "Identifica la función en: 'El área del círculo es pi por radio al cuadrado.'",
+    "image": null,
+    "options": [
+      { "text": "Referencial", "correct": true },
+      { "text": "Metalingüística", "correct": false },
+      { "text": "Poética", "correct": false },
+      { "text": "Apelativa", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["AVANZADO"],
+    "type_tag": ["TEST"],
+    "hint": "Fórmula matemática.",
+    "explanation": "Enunciado científico objetivo y universal.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00HZ",
+    "question": "Si digo: 'La palabra *área* lleva tilde porque es esdrújula', estoy usando la función:",
+    "image": null,
+    "options": [
+      { "text": "Metalingüística", "correct": true },
+      { "text": "Referencial", "correct": false },
+      { "text": "Poética", "correct": false },
+      { "text": "Apelativa", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["AVANZADO"],
+    "type_tag": ["TEST"],
+    "hint": "Justificación ortográfica.",
+    "explanation": "Explica la regla de acentuación aplicada a una palabra (código).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00IA",
+    "question": "En el eslogan 'A que no puedes comer solo una', la función apelativa se manifiesta en:",
+    "image": null,
+    "options": [
+      { "text": "El reto implícito al consumidor.", "correct": true },
+      { "text": "La descripción del sabor.", "correct": false },
+      { "text": "La rima de la frase.", "correct": false },
+      { "text": "La brevedad del texto.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["AVANZADO"],
+    "type_tag": ["TEST"],
+    "hint": "Desafía tu capacidad de autocontrol.",
+    "explanation": "Es un desafío (apuesta) que incita al consumo repetido.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00IB",
+    "question": "¿Qué función predomina en '¡Maldición, perdí las llaves!'?",
+    "image": null,
+    "options": [
+      { "text": "Emotiva", "correct": true },
+      { "text": "Referencial", "correct": false },
+      { "text": "Apelativa", "correct": false },
+      { "text": "Fática", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["AVANZADO"],
+    "type_tag": ["TEST"],
+    "hint": "Enojo frustrado.",
+    "explanation": "Expresión de frustración personal.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00IC",
+    "question": "En un texto sobre historia de la lengua: 'El español proviene del latín vulgar hablado en la península ibérica.' La función es:",
+    "image": null,
+    "options": [
+      { "text": "Referencial", "correct": true },
+      { "text": "Metalingüística", "correct": false },
+      { "text": "Poética", "correct": false },
+      { "text": "Apelativa", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["AVANZADO"],
+    "type_tag": ["TEST"],
+    "hint": "Es un hecho histórico sobre el idioma, no una definición de palabra.",
+    "explanation": "Aunque el tema es la lengua, lo trata como un objeto de estudio histórico/evolutivo (referente), no está definiendo términos ni corrigiendo.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00ID",
+    "question": "¿Qué función predomina en 'Camarón, caramelo, camarón, caramelo' (dicho rápido)?",
+    "image": null,
+    "options": [
+      { "text": "Poética (juego sonoro)", "correct": true },
+      { "text": "Referencial (lista de compras)", "correct": false },
+      { "text": "Apelativa (orden)", "correct": false },
+      { "text": "Metalingüística (definición)", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["AVANZADO"],
+    "type_tag": ["TEST"],
+    "hint": "Trabalenguas.",
+    "explanation": "La dificultad articulatoria y la repetición sonora son el fin del mensaje (función poética/lúdica).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00IE",
+    "question": "En la frase 'Se ruega silencio', la forma impersonal 'se ruega' sirve para:",
+    "image": null,
+    "options": [
+      { "text": "Suavizar la función apelativa (orden) haciéndola más formal.", "correct": true },
+      { "text": "Convertirla en función referencial pura.", "correct": false },
+      { "text": "Eliminar la intención comunicativa.", "correct": false },
+      { "text": "Hacer un uso poético del lenguaje.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["AVANZADO"],
+    "type_tag": ["TEST"],
+    "hint": "Sigue siendo una orden, pero educada.",
+    "explanation": "La impersonalidad es una estrategia de cortesía para dar órdenes sin ser agresivo.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00IF",
+    "question": "¿Qué función predomina en 'El agua moja'?",
+    "image": null,
+    "options": [
+      { "text": "Referencial", "correct": true },
+      { "text": "Poética", "correct": false },
+      { "text": "Apelativa", "correct": false },
+      { "text": "Emotiva", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["AVANZADO"],
+    "type_tag": ["TEST"],
+    "hint": "Obviedad física.",
+    "explanation": "Dato de la realidad indiscutible.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00IG",
+    "question": "En 'Te amo', la función emotiva se centra en el emisor. En 'Ámame', la función se desplaza al:",
+    "image": null,
+    "options": [
+      { "text": "Receptor (Apelativa)", "correct": true },
+      { "text": "Mensaje (Poética)", "correct": false },
+      { "text": "Referente (Referencial)", "correct": false },
+      { "text": "Canal (Fática)", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["AVANZADO"],
+    "type_tag": ["TEST"],
+    "hint": "De expresar sentimiento a pedir sentimiento.",
+    "explanation": "'Ámame' es un imperativo, exige una acción del otro.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00IH",
+    "question": "¿Qué función predomina en 'Las esdrújulas siempre se acentúan'?",
+    "image": null,
+    "options": [
+      { "text": "Metalingüística", "correct": true },
+      { "text": "Referencial", "correct": false },
+      { "text": "Apelativa", "correct": false },
+      { "text": "Poética", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["AVANZADO"],
+    "type_tag": ["TEST"],
+    "hint": "Regla ortográfica.",
+    "explanation": "Norma sobre el código escrito.",
+    "explanative_video": null,
+    "collapsible_text": null
+  }
+]
