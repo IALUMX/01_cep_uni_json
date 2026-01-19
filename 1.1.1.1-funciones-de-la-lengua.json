@@ -2110,7 +2110,7 @@
     "question": "¿Qué función del lenguaje se activa al decir: 'Oye, escucha esto' antes de dar una noticia?",
     "image": null,
     "options": [
-      { "text": "Apelativa (llama atención) y Fática (abre canal)", "correct": true },
+      { "text": "Apelativa y Fática", "correct": true },
       { "text": "Referencial y Poética", "correct": false },
       { "text": "Metalingüística y Emotiva", "correct": false },
       { "text": "Solo Referencial", "correct": false }
