@@ -1,0 +1,2594 @@
+[
+  {
+    "id": "CEP00AA",
+    "question": "¿Cuál es la función de la lengua que se centra en el contexto o referente y su propósito principal es transmitir información objetiva?",
+    "image": null,
+    "options": [
+      { "text": "Referencial", "correct": true },
+      { "text": "Apelativa", "correct": false },
+      { "text": "Poética", "correct": false },
+      { "text": "Fática", "correct": false }
+    ],
+    "uni_tags": ["UNAM", "IPN", "UAM", "PAA"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Es la función que usas cuando das una noticia o explicas un hecho científico.",
+    "explanation": "La función referencial o informativa se centra en el mensaje y el contexto para transmitir datos de manera objetiva.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00AB",
+    "question": "Identifica la función de la lengua que busca persuadir o influir en el receptor para que realice una acción.",
+    "image": null,
+    "options": [
+      { "text": "Apelativa", "correct": true },
+      { "text": "Metalingüística", "correct": false },
+      { "text": "Emotiva", "correct": false },
+      { "text": "Referencial", "correct": false }
+    ],
+    "uni_tags": ["UNAM", "IPN", "UAM", "PAA"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Es común en la publicidad y las órdenes, centrada en el 'tú'.",
+    "explanation": "La función apelativa o conativa se centra en el receptor con el fin de obtener una respuesta o conducta.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00AC",
+    "question": "¿Qué elemento del modelo de la comunicación es quien codifica y envía el mensaje?",
+    "image": null,
+    "options": [
+      { "text": "Emisor", "correct": true },
+      { "text": "Receptor", "correct": false },
+      { "text": "Canal", "correct": false },
+      { "text": "Contexto", "correct": false }
+    ],
+    "uni_tags": ["UNAM", "IPN", "UAM", "PAA"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Es el punto de origen de la información.",
+    "explanation": "El emisor es la persona o fuente que selecciona el código y transmite el mensaje.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00AD",
+    "question": "En el circuito del habla, ¿cómo se denomina al medio físico por el cual viaja el mensaje?",
+    "image": null,
+    "options": [
+      { "text": "Canal", "correct": true },
+      { "text": "Código", "correct": false },
+      { "text": "Referente", "correct": false },
+      { "text": "Ruido", "correct": false }
+    ],
+    "uni_tags": ["UNAM", "IPN", "UAM", "PAA"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Puede ser el aire (ondas sonoras), un papel, un cable telefónico, etc.",
+    "explanation": "El canal es el soporte físico o medio técnico por el que se transmite la señal comunicativa.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00AE",
+    "question": "¿Cuál es la forma del discurso que tiene como objetivo presentar las características, cualidades o detalles de personas, objetos o lugares?",
+    "image": null,
+    "options": [
+      { "text": "Descriptivo", "correct": true },
+      { "text": "Narrativo", "correct": false },
+      { "text": "Argumentativo", "correct": false },
+      { "text": "Dialogado", "correct": false }
+    ],
+    "uni_tags": ["UNAM", "IPN"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Responde a la pregunta: '¿Cómo es?'.",
+    "explanation": "El discurso descriptivo se enfoca en detallar rasgos y propiedades para crear una imagen mental.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00AF",
+    "question": "Forma del discurso que relata una sucesión de hechos, reales o imaginarios, que ocurren en un tiempo y espacio determinados.",
+    "image": null,
+    "options": [
+      { "text": "Narrativo", "correct": true },
+      { "text": "Expositivo", "correct": false },
+      { "text": "Argumentativo", "correct": false },
+      { "text": "Descriptivo", "correct": false }
+    ],
+    "uni_tags": ["UNAM", "IPN"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Es la base de los cuentos y novelas. Responde a '¿Qué pasa?'.",
+    "explanation": "La narración estructura eventos en una secuencia temporal, protagonizados por personajes.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00AG",
+    "question": "¿Qué forma del discurso busca defender una opinión o tesis mediante razones para convencer al receptor?",
+    "image": null,
+    "options": [
+      { "text": "Argumentativo", "correct": true },
+      { "text": "Narrativo", "correct": false },
+      { "text": "Descriptivo", "correct": false },
+      { "text": "Poético", "correct": false }
+    ],
+    "uni_tags": ["UNAM", "IPN"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Se usa en debates, ensayos y artículos de opinión.",
+    "explanation": "El discurso argumentativo utiliza premisas y conclusiones para sustentar una postura.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00AH",
+    "question": "En la estructura de un texto, ¿qué parte contiene la idea central o tesis que se va a desarrollar?",
+    "image": null,
+    "options": [
+      { "text": "Introducción", "correct": true },
+      { "text": "Desenlace", "correct": false },
+      { "text": "Bibliografía", "correct": false },
+      { "text": "Índice", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Es el inicio del texto donde se plantea el tema.",
+    "explanation": "La introducción presenta el tema y, en textos argumentativos, la tesis a defender.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00AI",
+    "question": "¿Cómo se clasifican las ideas que complementan, ejemplifican o amplían la información principal de un párrafo?",
+    "image": null,
+    "options": [
+      { "text": "Ideas secundarias", "correct": true },
+      { "text": "Ideas principales", "correct": false },
+      { "text": "Ideas tesis", "correct": false },
+      { "text": "Ideas abstractas", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Dependen de la idea núcleo para tener sentido completo.",
+    "explanation": "Las ideas secundarias giran en torno a la principal, aportando detalles o justificaciones.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00AJ",
+    "question": "Cuando un dato no está escrito literalmente en el texto, pero se puede deducir a partir de la información dada, se dice que es información:",
+    "image": null,
+    "options": [
+      { "text": "Implícita", "correct": true },
+      { "text": "Explícita", "correct": false },
+      { "text": "Literal", "correct": false },
+      { "text": "Textual", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Requiere un proceso de inferencia por parte del lector.",
+    "explanation": "Lo implícito es aquello que se entiende o infiere sin estar expresado directamente.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00AK",
+    "question": "Relaciona las funciones de la lengua con su intención:\n\nI. Fática\nII. Metalingüística\nIII. Poética\n\nA. Hablar del propio lenguaje\nB. Embellecer el mensaje\nC. Abrir o mantener el canal",
+    "image": null,
+    "options": [
+      { "text": "I-C, II-A, III-B", "correct": true },
+      { "text": "I-A, II-B, III-C", "correct": false },
+      { "text": "I-B, II-A, III-C", "correct": false },
+      { "text": "I-C, II-B, III-A", "correct": false }
+    ],
+    "uni_tags": ["UNAM", "IPN", "UAM", "PAA"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Fática = ¿Me oyes?; Metalingüística = Definiciones; Poética = Arte.",
+    "explanation": "La función fática verifica el canal, la metalingüística explica el código y la poética se centra en la estética.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00AL",
+    "question": "¿Qué tipo de texto tiene como propósito informar sobre hechos actuales y de interés público de manera objetiva?",
+    "image": null,
+    "options": [
+      { "text": "Noticia", "correct": true },
+      { "text": "Cuento", "correct": false },
+      { "text": "Ensayo", "correct": false },
+      { "text": "Poema", "correct": false }
+    ],
+    "uni_tags": ["UNAM", "IPN", "EXANI II ESP"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Es el género fundamental del periodismo informativo.",
+    "explanation": "La noticia es un texto periodístico que relata sucesos novedosos y relevantes sin opinión del autor.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00AM",
+    "question": "¿Cómo se llama el género periodístico en el cual el autor expresa su punto de vista, análisis y valoración sobre un tema?",
+    "image": null,
+    "options": [
+      { "text": "Artículo de opinión", "correct": true },
+      { "text": "Noticia", "correct": false },
+      { "text": "Reportaje objetivo", "correct": false },
+      { "text": "Nota informativa", "correct": false }
+    ],
+    "uni_tags": ["UNAM", "IPN", "EXANI II ESP"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Es subjetivo y lleva la firma del autor.",
+    "explanation": "El artículo de opinión pertenece a los géneros de opinión, donde la subjetividad y el juicio son centrales.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00AN",
+    "question": "En el género dramático, ¿qué subgénero se caracteriza por tener un desenlace funesto o fatal para los protagonistas?",
+    "image": null,
+    "options": [
+      { "text": "Tragedia", "correct": true },
+      { "text": "Comedia", "correct": false },
+      { "text": "Entremés", "correct": false },
+      { "text": "Sainete", "correct": false }
+    ],
+    "uni_tags": ["UNAM", "EXANI II MOD11"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Piensa en obras como 'Edipo Rey' o 'Romeo y Julieta'.",
+    "explanation": "La tragedia aborda conflictos serios donde los personajes se enfrentan a un destino inevitable que termina en desgracia.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00AO",
+    "question": "La coincidencia de sonidos finales en los versos a partir de la última vocal acentuada se denomina:",
+    "image": null,
+    "options": [
+      { "text": "Rima", "correct": true },
+      { "text": "Metro", "correct": false },
+      { "text": "Ritmo", "correct": false },
+      { "text": "Estrofa", "correct": false }
+    ],
+    "uni_tags": ["UNAM", "IPN", "EXANI II MOD11"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Puede ser consonante o asonante.",
+    "explanation": "La rima es la repetición de fonemas al final de los versos, creando musicalidad.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00AP",
+    "question": "¿Qué nombre recibe el conteo de sílabas poéticas que conforman un verso?",
+    "image": null,
+    "options": [
+      { "text": "Metro", "correct": true },
+      { "text": "Rima", "correct": false },
+      { "text": "Sinalefa", "correct": false },
+      { "text": "Cesura", "correct": false }
+    ],
+    "uni_tags": ["UNAM", "IPN", "EXANI II MOD11"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Mide la extensión del verso.",
+    "explanation": "El metro o métrica es la medida del verso determinada por el número de sílabas.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00AQ",
+    "question": "En una oración, ¿quién es el sujeto?",
+    "image": null,
+    "options": [
+      { "text": "Quien realiza la acción o de quien se habla", "correct": true },
+      { "text": "La acción que se realiza", "correct": false },
+      { "text": "La circunstancia de tiempo", "correct": false },
+      { "text": "El objeto que recibe la acción", "correct": false }
+    ],
+    "uni_tags": ["UNAM", "IPN", "UAM", "PAA"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Concuerda en número y persona con el verbo.",
+    "explanation": "El sujeto es el sustantivo, pronombre o grupo nominal que rige al verbo de la oración.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00AR",
+    "question": "¿Cuál es el núcleo del predicado en una oración?",
+    "image": null,
+    "options": [
+      { "text": "El verbo conjugado", "correct": true },
+      { "text": "El sustantivo", "correct": false },
+      { "text": "El adjetivo", "correct": false },
+      { "text": "El adverbio", "correct": false }
+    ],
+    "uni_tags": ["UNAM", "IPN", "UAM", "PAA"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Indica la acción o estado.",
+    "explanation": "El núcleo del predicado siempre es un verbo conjugado que concuerda con el sujeto.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00AS",
+    "question": "La concordancia nominal se refiere a la igualdad de género y número entre:",
+    "image": null,
+    "options": [
+      { "text": "Sustantivo y adjetivo", "correct": true },
+      { "text": "Sujeto y verbo", "correct": false },
+      { "text": "Verbo y adverbio", "correct": false },
+      { "text": "Preposición y sustantivo", "correct": false }
+    ],
+    "uni_tags": ["UNAM", "IPN", "UAM", "EXANI II ESP", "PAA"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Ejemplo correcto: 'La casa blanca'. Incorrecto: 'La casa blancos'.",
+    "explanation": "La concordancia nominal exige que los determinantes y adjetivos coincidan en género y número con el sustantivo.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00AT",
+    "question": "¿Qué tipo de oración contiene dos o más verbos conjugados o núcleos verbales?",
+    "image": null,
+    "options": [
+      { "text": "Compuesta", "correct": true },
+      { "text": "Simple", "correct": false },
+      { "text": "Unimembre", "correct": false },
+      { "text": "Impersonal", "correct": false }
+    ],
+    "uni_tags": ["UAM", "PAA"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Se forma por la unión de dos o más proposiciones.",
+    "explanation": "Las oraciones compuestas tienen más de un predicado verbal.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00AU",
+    "question": "¿Cuál de las siguientes palabras es un nexo copulativo (que suma o une)?",
+    "image": null,
+    "options": [
+      { "text": "Y", "correct": true },
+      { "text": "Pero", "correct": false },
+      { "text": "O", "correct": false },
+      { "text": "Porque", "correct": false }
+    ],
+    "uni_tags": ["UNAM", "IPN", "UAM", "PAA", "EXANI II ESP"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Se usa para adicionar elementos: 'Juan _ Pedro'.",
+    "explanation": "La conjunción 'y' (e) es el principal nexo coordinante copulativo.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00AV",
+    "question": "Identifica la palabra que es aguda:",
+    "image": null,
+    "options": [
+      { "text": "Café", "correct": true },
+      { "text": "Árbol", "correct": false },
+      { "text": "Música", "correct": false },
+      { "text": "Mesa", "correct": false }
+    ],
+    "uni_tags": ["UNAM", "IPN", "UAM", "EXANI II ESP", "PAA", "BUAP"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Lleva la fuerza de pronunciación en la última sílaba.",
+    "explanation": "Las palabras agudas tienen la sílaba tónica en el último lugar y se tildan si terminan en n, s o vocal.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00AW",
+    "question": "Las palabras esdrújulas siempre:",
+    "image": null,
+    "options": [
+      { "text": "Llevan tilde", "correct": true },
+      { "text": "Terminan en vocal", "correct": false },
+      { "text": "No llevan tilde", "correct": false },
+      { "text": "Son monosílabas", "correct": false }
+    ],
+    "uni_tags": ["UNAM", "IPN", "UAM", "EXANI II ESP", "PAA", "BUAP"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Ejemplo: México, pájaro, música.",
+    "explanation": "Por regla ortográfica, todas las palabras esdrújulas (acento en la antepenúltima sílaba) se acentúan gráficamente.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00AX",
+    "question": "¿Qué signo de puntuación se utiliza para separar elementos de una enumeración sencilla?",
+    "image": null,
+    "options": [
+      { "text": "Coma", "correct": true },
+      { "text": "Punto y coma", "correct": false },
+      { "text": "Dos puntos", "correct": false },
+      { "text": "Punto", "correct": false }
+    ],
+    "uni_tags": ["UNAM", "IPN", "UAM", "EXANI II ESP", "PAA", "BUAP"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Indica una pausa breve dentro del enunciado.",
+    "explanation": "La coma (,) separa elementos análogos en una serie.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00AY",
+    "question": "Selecciona la palabra escrita correctamente:",
+    "image": null,
+    "options": [
+      { "text": "Decisión", "correct": true },
+      { "text": "Decición", "correct": false },
+      { "text": "Desición", "correct": false },
+      { "text": "Desisión", "correct": false }
+    ],
+    "uni_tags": ["UNAM", "IPN", "UAM", "EXANI II ESP", "PAA"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Viene de 'deciso'.",
+    "explanation": "Se escribe 'decisión' con 'c' y luego 's', proveniente del latín decisio.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00AZ",
+    "question": "¿Qué vicio del lenguaje consiste en repetir palabras o conceptos de manera innecesaria?",
+    "image": null,
+    "options": [
+      { "text": "Pleonasmo o redundancia", "correct": true },
+      { "text": "Cacofonía", "correct": false },
+      { "text": "Barbarismo", "correct": false },
+      { "text": "Solecismo", "correct": false }
+    ],
+    "uni_tags": ["IPN", "PAA"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Ejemplo: 'Subir para arriba'.",
+    "explanation": "El pleonasmo o redundancia añade información obvia que no aporta valor al mensaje.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00BA",
+    "question": "¿Qué son los sinónimos?",
+    "image": null,
+    "options": [
+      { "text": "Palabras con significado igual o similar", "correct": true },
+      { "text": "Palabras con significado opuesto", "correct": false },
+      { "text": "Palabras que suenan igual", "correct": false },
+      { "text": "Palabras que se escriben igual", "correct": false }
+    ],
+    "uni_tags": ["UNAM", "IPN", "UAM", "EXANI II ESP", "PAA", "BUAP", "USEP"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Ejemplo: Boda y Matrimonio.",
+    "explanation": "Los sinónimos son vocablos que comparten una carga semántica equivalente.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00BB",
+    "question": "¿Cómo se llaman las palabras que tienen significados opuestos?",
+    "image": null,
+    "options": [
+      { "text": "Antónimos", "correct": true },
+      { "text": "Sinónimos", "correct": false },
+      { "text": "Homónimos", "correct": false },
+      { "text": "Parónimos", "correct": false }
+    ],
+    "uni_tags": ["UNAM", "IPN", "UAM", "EXANI II ESP", "PAA", "BUAP", "USEP"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Ejemplo: Blanco y Negro.",
+    "explanation": "La antonimia expresa una relación de oposición semántica.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00BC",
+    "question": "Las palabras que suenan igual pero se escriben diferente y tienen distinto significado (ej. Casa / Caza) son:",
+    "image": null,
+    "options": [
+      { "text": "Homófonas", "correct": true },
+      { "text": "Homógrafas", "correct": false },
+      { "text": "Sinónimas", "correct": false },
+      { "text": "Antónimas", "correct": false }
+    ],
+    "uni_tags": ["UNAM", "IPN", "BUAP"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Homo = igual, Fono = sonido.",
+    "explanation": "Los homófonos tienen idéntica pronunciación pero distinta grafía y significado.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00BD",
+    "question": "¿Qué relación analógica existe en el par 'Pájaro es a Aire' como 'Pez es a... '?",
+    "image": null,
+    "options": [
+      { "text": "Agua", "correct": true },
+      { "text": "Tierra", "correct": false },
+      { "text": "Aleta", "correct": false },
+      { "text": "Escama", "correct": false }
+    ],
+    "uni_tags": ["UNAM", "UAM", "PAA", "USEP"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Es una relación de hábitat o medio de desplazamiento.",
+    "explanation": "El pájaro se desplaza en el aire; el pez se desplaza en el agua.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00BE",
+    "question": "¿Cuál es la función predominante en un texto literario?",
+    "image": null,
+    "options": [
+      { "text": "Poética", "correct": true },
+      { "text": "Referencial", "correct": false },
+      { "text": "Fática", "correct": false },
+      { "text": "Apelativa", "correct": false }
+    ],
+    "uni_tags": ["UNAM"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Busca la belleza y la forma del mensaje.",
+    "explanation": "La literatura utiliza la función poética para crear arte a través de la palabra.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00BF",
+    "question": "¿A qué género literario pertenecen las obras escritas para ser representadas ante un público?",
+    "image": null,
+    "options": [
+      { "text": "Dramático", "correct": true },
+      { "text": "Lírico", "correct": false },
+      { "text": "Épico", "correct": false },
+      { "text": "Didáctico", "correct": false }
+    ],
+    "uni_tags": ["UNAM", "EXANI II MOD11", "UAM A3", "BUAP"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Incluye diálogos y acotaciones. Teatro.",
+    "explanation": "El género dramático engloba obras teatrales donde la acción se desarrolla mediante diálogos.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00BG",
+    "question": "Figura retórica que consiste en exagerar una cualidad o acción para dar énfasis.",
+    "image": null,
+    "options": [
+      { "text": "Hipérbole", "correct": true },
+      { "text": "Metáfora", "correct": false },
+      { "text": "Símil", "correct": false },
+      { "text": "Aliteración", "correct": false }
+    ],
+    "uni_tags": ["UNAM", "IPN", "UAM", "EXANI II MOD11", "PAA", "BUAP"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Ejemplo: 'Te lo he dicho mil veces'.",
+    "explanation": "La hipérbole es una exageración intencional de la realidad.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00BH",
+    "question": "Identifica la comparación directa que utiliza nexos como 'como', 'cual' o 'parece'.",
+    "image": null,
+    "options": [
+      { "text": "Símil", "correct": true },
+      { "text": "Metáfora", "correct": false },
+      { "text": "Prosopopeya", "correct": false },
+      { "text": "Antítesis", "correct": false }
+    ],
+    "uni_tags": ["UNAM", "IPN", "UAM", "EXANI II MOD11", "PAA", "BUAP"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Ejemplo: 'Tus ojos son como estrellas'.",
+    "explanation": "El símil o comparación establece una relación de semejanza explícita mediante nexos.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00BI",
+    "question": "¿Quién es el autor de 'La Ilíada' y 'La Odisea'?",
+    "image": null,
+    "options": [
+      { "text": "Homero", "correct": true },
+      { "text": "Sófocles", "correct": false },
+      { "text": "Virgilio", "correct": false },
+      { "text": "Platón", "correct": false }
+    ],
+    "uni_tags": ["UNAM", "EXANI II MOD11", "UAM A3"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Poeta ciego de la Antigua Grecia.",
+    "explanation": "Homero es la figura central de la épica griega antigua.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00BJ",
+    "question": "Movimiento literario que exalta los sentimientos, la libertad y el individualismo por encima de la razón.",
+    "image": null,
+    "options": [
+      { "text": "Romanticismo", "correct": true },
+      { "text": "Neoclasicismo", "correct": false },
+      { "text": "Realismo", "correct": false },
+      { "text": "Barroco", "correct": false }
+    ],
+    "uni_tags": ["UNAM", "EXANI II MOD11", "UAM A3", "BUAP"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Surgió en el siglo XIX como reacción a la Ilustración.",
+    "explanation": "El Romanticismo prioriza la emoción, el 'yo' subjetivo y la libertad creativa.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00BK",
+    "question": "¿Cuál es la obra más importante de Sor Juana Inés de la Cruz?",
+    "image": null,
+    "options": [
+      { "text": "Primero sueño", "correct": true },
+      { "text": "La vida es sueño", "correct": false },
+      { "text": "El periquillo sarniento", "correct": false },
+      { "text": "Cien años de soledad", "correct": false }
+    ],
+    "uni_tags": ["UNAM", "UAM A3"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Es un poema filosófico extenso del Barroco.",
+    "explanation": "'Primero sueño' es la obra lírica más ambiciosa de Sor Juana, donde aborda el ansia de conocimiento.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00BL",
+    "question": "Autor colombiano ganador del Premio Nobel, representante del Realismo Mágico y autor de 'Cien años de soledad'.",
+    "image": null,
+    "options": [
+      { "text": "Gabriel García Márquez", "correct": true },
+      { "text": "Mario Vargas Llosa", "correct": false },
+      { "text": "Julio Cortázar", "correct": false },
+      { "text": "Juan Rulfo", "correct": false }
+    ],
+    "uni_tags": ["UNAM", "UAM A3", "EXANI II MOD11"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Creó el pueblo ficticio de Macondo.",
+    "explanation": "García Márquez es la figura central del Boom Latinoamericano y el Realismo Mágico.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00BM",
+    "question": "¿Qué estilo de citación es el más utilizado en ciencias sociales y humanidades para referencias bibliográficas?",
+    "image": null,
+    "options": [
+      { "text": "APA", "correct": true },
+      { "text": "ISO", "correct": false },
+      { "text": "IEEE", "correct": false },
+      { "text": "Vancouver", "correct": false }
+    ],
+    "uni_tags": ["UNAM", "IPN", "BUAP"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Siglas de la Asociación Americana de Psicología.",
+    "explanation": "El formato APA es el estándar académico más común para citas y referencias.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00BN",
+    "question": "En la oración 'El perro ladra fuerte', la palabra 'fuerte' funciona como:",
+    "image": null,
+    "options": [
+      { "text": "Adverbio", "correct": true },
+      { "text": "Adjetivo", "correct": false },
+      { "text": "Sustantivo", "correct": false },
+      { "text": "Verbo", "correct": false }
+    ],
+    "uni_tags": ["UNAM", "IPN", "UAM", "PAA"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Modifica al verbo 'ladra', indicando cómo lo hace.",
+    "explanation": "Aunque 'fuerte' puede ser adjetivo, aquí modifica al verbo, funcionando como adverbio de modo.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00BO",
+    "question": "Relaciona los tipos de acento:\n\nI. Prosódico\nII. Ortográfico\nIII. Diacrítico\n\nA. Se escribe (tilde)\nB. Diferencia significados\nC. Solo se pronuncia",
+    "image": null,
+    "options": [
+      { "text": "I-C, II-A, III-B", "correct": true },
+      { "text": "I-A, II-B, III-C", "correct": false },
+      { "text": "I-B, II-A, III-C", "correct": false },
+      { "text": "I-C, II-B, III-A", "correct": false }
+    ],
+    "uni_tags": ["UNAM", "IPN", "UAM", "EXANI II ESP", "PAA"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Diacrítico distingue tú/tu; Ortográfico es la rayita; Prosódico es el sonido.",
+    "explanation": "Prosódico (solo sonido), Ortográfico (gráfico/tilde), Diacrítico (diferenciador gramatical).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00BP",
+    "question": "¿Qué palabra completa correctamente la frase? 'No sé si ______ al cine contigo'.",
+    "image": null,
+    "options": [
+      { "text": "vaya", "correct": true },
+      { "text": "valla", "correct": false },
+      { "text": "baya", "correct": false },
+      { "text": "balla", "correct": false }
+    ],
+    "uni_tags": ["UNAM", "IPN", "UAM", "EXANI II ESP", "PAA"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Del verbo ir.",
+    "explanation": "'Vaya' es del verbo ir. 'Valla' es una cerca. 'Baya' es un fruto.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00BQ",
+    "question": "¿Cómo se le llama a la sílaba que tiene la mayor intensidad de pronunciación en una palabra?",
+    "image": null,
+    "options": [
+      { "text": "Tónica", "correct": true },
+      { "text": "Átona", "correct": false },
+      { "text": "Diptongo", "correct": false },
+      { "text": "Hiato", "correct": false }
+    ],
+    "uni_tags": ["UNAM", "IPN", "UAM", "EXANI II ESP", "PAA"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Es la sílaba 'fuerte'.",
+    "explanation": "La sílaba tónica es aquella donde recae el acento prosódico.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00BR",
+    "question": "En el análisis de textos, la 'intención comunicativa' se refiere a:",
+    "image": null,
+    "options": [
+      { "text": "El objetivo o propósito del autor", "correct": true },
+      { "text": "El número de palabras del texto", "correct": false },
+      { "text": "El idioma en que está escrito", "correct": false },
+      { "text": "La biografía del autor", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "¿Para qué escribió el texto? (Informar, convencer, divertir).",
+    "explanation": "La intención comunicativa define qué busca lograr el emisor con su mensaje.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00BS",
+    "question": "¿Qué es una 'citas textual'?",
+    "image": null,
+    "options": [
+      { "text": "La reproducción exacta de las palabras de un autor", "correct": true },
+      { "text": "Un resumen con tus propias palabras", "correct": false },
+      { "text": "Una lista de libros consultados", "correct": false },
+      { "text": "Un comentario crítico", "correct": false }
+    ],
+    "uni_tags": ["UNAM", "IPN", "BUAP"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Se pone entre comillas.",
+    "explanation": "La cita textual transcribe fielmente la fuente original.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00BT",
+    "question": "¿Cuál es el prefijo que significa 'vida'?",
+    "image": null,
+    "options": [
+      { "text": "Bio-", "correct": true },
+      { "text": "Geo-", "correct": false },
+      { "text": "Hidro-", "correct": false },
+      { "text": "Antropo-", "correct": false }
+    ],
+    "uni_tags": ["UAM"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Como en Biología.",
+    "explanation": "El prefijo griego 'bios' significa vida.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00BU",
+    "question": "¿Qué figura retórica se usa en: 'El sol es una moneda de oro'?",
+    "image": null,
+    "options": [
+      { "text": "Metáfora", "correct": true },
+      { "text": "Símil", "correct": false },
+      { "text": "Anáfora", "correct": false },
+      { "text": "Oxímoron", "correct": false }
+    ],
+    "uni_tags": ["UNAM", "IPN", "UAM", "EXANI II MOD11", "PAA"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Sustituye un término real por uno imaginario sin usar nexos de comparación.",
+    "explanation": "La metáfora identifica un término real con uno figurado basándose en una semejanza.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00BV",
+    "question": "Poeta mexicano ganador del Premio Nobel de Literatura, autor de 'El laberinto de la soledad'.",
+    "image": null,
+    "options": [
+      { "text": "Octavio Paz", "correct": true },
+      { "text": "Carlos Fuentes", "correct": false },
+      { "text": "Jaime Sabines", "correct": false },
+      { "text": "Alfonso Reyes", "correct": false }
+    ],
+    "uni_tags": ["UNAM", "UAM A3", "BUAP"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Su obra ensayística analiza la identidad del mexicano.",
+    "explanation": "Octavio Paz es el único mexicano ganador del Nobel de Literatura (1990).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00BW",
+    "question": "En la oración 'Ellos han estudiado mucho', el verbo está en tiempo:",
+    "image": null,
+    "options": [
+      { "text": "Pretérito perfecto compuesto (Antepresente)", "correct": true },
+      { "text": "Presente", "correct": false },
+      { "text": "Futuro", "correct": false },
+      { "text": "Pretérito imperfecto (Copretérito)", "correct": false }
+    ],
+    "uni_tags": ["UNAM", "IPN", "UAM", "PAA", "EXANI II ESP"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Usa el auxiliar 'haber' + participio.",
+    "explanation": "La forma 'han estudiado' corresponde al antepresente del indicativo.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00BX",
+    "question": "¿Cuál es el antónimo de 'Efímero'?",
+    "image": null,
+    "options": [
+      { "text": "Duradero", "correct": true },
+      { "text": "Breve", "correct": false },
+      { "text": "Fugaz", "correct": false },
+      { "text": "Momentáneo", "correct": false }
+    ],
+    "uni_tags": ["UNAM", "IPN", "UAM", "EXANI II ESP", "PAA", "BUAP", "USEP"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Efímero significa que dura muy poco.",
+    "explanation": "Lo opuesto a algo pasajero es algo que perdura o es duradero.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00BY",
+    "question": "Relaciona los géneros literarios con su característica:\n\nI. Épico\nII. Lírico\nIII. Dramático\n\nA. Subjetividad y emociones\nB. Diálogo y acción\nC. Hazañas de héroes",
+    "image": null,
+    "options": [
+      { "text": "I-C, II-A, III-B", "correct": true },
+      { "text": "I-A, II-B, III-C", "correct": false },
+      { "text": "I-B, II-A, III-C", "correct": false },
+      { "text": "I-C, II-B, III-A", "correct": false }
+    ],
+    "uni_tags": ["UNAM", "EXANI II MOD11", "UAM A3", "BUAP"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Épico = Guerras/Héroes; Lírico = Poemas; Dramático = Teatro.",
+    "explanation": "La épica narra hechos heroicos, la lírica expresa el mundo interior y el drama representa conflictos.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00BZ",
+    "question": "¿Qué es la 'cohesión' en un texto?",
+    "image": null,
+    "options": [
+      { "text": "La conexión correcta entre frases y párrafos", "correct": true },
+      { "text": "La idea principal del texto", "correct": false },
+      { "text": "La ortografía de las palabras", "correct": false },
+      { "text": "El tema general", "correct": false }
+    ],
+    "uni_tags": ["UNAM", "IPN", "UAM", "EXANI II ESP", "PAA", "BUAP"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Uso de conectores y nexos para 'pegar' las ideas.",
+    "explanation": "La cohesión es la propiedad textual que permite que las partes del texto estén unidas lógicamente.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00CA",
+    "question": "En la palabra 'Deshacer', ¿qué tipo de morfema es 'Des-'?",
+    "image": null,
+    "options": [
+      { "text": "Prefijo", "correct": true },
+      { "text": "Sufijo", "correct": false },
+      { "text": "Raíz", "correct": false },
+      { "text": "Infijo", "correct": false }
+    ],
+    "uni_tags": ["UAM"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Va antes de la raíz.",
+    "explanation": "Los prefijos se colocan delante del lexema para modificar su significado (en este caso, negación).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00CB",
+    "question": "¿Qué autor español pertenece a la Generación del 98?",
+    "image": null,
+    "options": [
+      { "text": "Miguel de Unamuno", "correct": true },
+      { "text": "Federico García Lorca", "correct": false },
+      { "text": "Lope de Vega", "correct": false },
+      { "text": "Miguel de Cervantes", "correct": false }
+    ],
+    "uni_tags": ["UNAM", "EXANI II MOD11", "UAM A3"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Grupo afectado por la pérdida de las colonias en 1898.",
+    "explanation": "Unamuno es el líder intelectual de la Generación del 98, reflexionando sobre el problema de España.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00CC",
+    "question": "¿Qué signo de puntuación se usa para introducir una cita textual o una enumeración anunciada?",
+    "image": null,
+    "options": [
+      { "text": "Dos puntos", "correct": true },
+      { "text": "Punto y coma", "correct": false },
+      { "text": "Puntos suspensivos", "correct": false },
+      { "text": "Coma", "correct": false }
+    ],
+    "uni_tags": ["UNAM", "IPN", "UAM", "EXANI II ESP", "PAA", "BUAP"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Son dos puntos verticales (:).",
+    "explanation": "Los dos puntos detienen el discurso para llamar la atención sobre lo que sigue.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00CD",
+    "question": "Identifica el sustantivo propio en la siguiente lista:",
+    "image": null,
+    "options": [
+      { "text": "México", "correct": true },
+      { "text": "país", "correct": false },
+      { "text": "ciudad", "correct": false },
+      { "text": "montaña", "correct": false }
+    ],
+    "uni_tags": ["UNAM", "IPN", "UAM", "PAA"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Se escribe siempre con mayúscula inicial.",
+    "explanation": "Los sustantivos propios designan nombres específicos de lugares, personas o entidades.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00CE",
+    "question": "¿Qué función de la lengua predomina en: '¡Ay, qué dolor siento!'?",
+    "image": null,
+    "options": [
+      { "text": "Emotiva", "correct": true },
+      { "text": "Referencial", "correct": false },
+      { "text": "Metalingüística", "correct": false },
+      { "text": "Apelativa", "correct": false }
+    ],
+    "uni_tags": ["UNAM", "IPN", "UAM", "PAA"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Expresa sentimientos del emisor.",
+    "explanation": "La función emotiva o expresiva manifiesta el estado anímico del hablante.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00CF",
+    "question": "¿Qué corriente literaria se caracteriza por el uso excesivo de adornos, metáforas complejas y juegos de palabras (Siglo XVII)?",
+    "image": null,
+    "options": [
+      { "text": "Barroco", "correct": true },
+      { "text": "Renacimiento", "correct": false },
+      { "text": "Realismo", "correct": false },
+      { "text": "Neoclasicismo", "correct": false }
+    ],
+    "uni_tags": ["UNAM", "UAM A3"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Sor Juana y Góngora son sus exponentes.",
+    "explanation": "El Barroco es conocido por su complejidad formal, culteranismo y conceptismo.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00CG",
+    "question": "¿Cuál es la forma no personal del verbo que termina en -ando, -iendo?",
+    "image": null,
+    "options": [
+      { "text": "Gerundio", "correct": true },
+      { "text": "Participio", "correct": false },
+      { "text": "Infinitivo", "correct": false },
+      { "text": "Imperativo", "correct": false }
+    ],
+    "uni_tags": ["UNAM", "IPN", "UAM", "PAA", "EXANI II ESP"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Indica acción en desarrollo: 'Caminando'.",
+    "explanation": "El gerundio es un verboide que expresa una acción durativa o en progreso.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00CH",
+    "question": "En la palabra 'submarino', la raíz o lexema es:",
+    "image": null,
+    "options": [
+      { "text": "mar", "correct": true },
+      { "text": "sub", "correct": false },
+      { "text": "ino", "correct": false },
+      { "text": "submar", "correct": false }
+    ],
+    "uni_tags": ["UAM"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Es la parte que contiene el significado principal.",
+    "explanation": "'Mar' es la raíz; 'sub-' es prefijo e '-ino' es sufijo.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00CI",
+    "question": "¿Qué es una paráfrasis?",
+    "image": null,
+    "options": [
+      { "text": "Explicar un texto con tus propias palabras", "correct": true },
+      { "text": "Copiar un texto literalmente", "correct": false },
+      { "text": "Traducir un texto a otro idioma", "correct": false },
+      { "text": "Criticar un texto negativamente", "correct": false }
+    ],
+    "uni_tags": ["UNAM", "IPN", "BUAP"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Es decir lo mismo, pero de otra forma para hacerlo más claro.",
+    "explanation": "La paráfrasis es la reformulación de un enunciado para facilitar su comprensión.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00CJ",
+    "question": "¿Qué son las palabras 'homógrafas'?",
+    "image": null,
+    "options": [
+      { "text": "Se escriben igual pero tienen distinto significado", "correct": true },
+      { "text": "Suenan igual pero se escriben diferente", "correct": false },
+      { "text": "Tienen el mismo significado", "correct": false },
+      { "text": "Son opuestas", "correct": false }
+    ],
+    "uni_tags": ["UNAM", "IPN", "BUAP"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Ejemplo: Vino (bebida) y Vino (llegó).",
+    "explanation": "Homo = igual, Grafos = escritura. Misma escritura, diferente acepción.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00CK",
+    "question": "Relaciona el vicio del lenguaje con su ejemplo:\n\nI. Cacofonía\nII. Solecismo\nIII. Barbarismo\n\nA. 'Haiga' por 'Haya'\nB. 'Hubieron' muchos\nC. 'Tomate un té'",
+    "image": null,
+    "options": [
+      { "text": "I-C, II-B, III-A", "correct": true },
+      { "text": "I-A, II-C, III-B", "correct": false },
+      { "text": "I-B, II-A, III-C", "correct": false },
+      { "text": "I-C, II-A, III-B", "correct": false }
+    ],
+    "uni_tags": ["IPN", "PAA"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Cacofonía = mal sonido; Barbarismo = mala escritura; Solecismo = mala sintaxis.",
+    "explanation": "Cacofonía (repetición de sonidos), Solecismo (error de construcción), Barbarismo (error de escritura/pronunciación).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00CL",
+    "question": "¿Cuál es la característica principal del Realismo literario?",
+    "image": null,
+    "options": [
+      { "text": "La descripción objetiva de la realidad cotidiana", "correct": true },
+      { "text": "La evasión a mundos fantásticos", "correct": false },
+      { "text": "El uso de seres mitológicos", "correct": false },
+      { "text": "La exageración de los sentimientos", "correct": false }
+    ],
+    "uni_tags": ["UNAM", "EXANI II MOD11", "UAM A3", "BUAP"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Surge contra el Romanticismo, buscando ser un 'espejo' de la sociedad.",
+    "explanation": "El Realismo busca retratar la sociedad de manera fiel y objetiva.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00CM",
+    "question": "¿Qué es un 'silogismo'?",
+    "image": null,
+    "options": [
+      { "text": "Un razonamiento deductivo con dos premisas y una conclusión", "correct": true },
+      { "text": "Un tipo de poema de tres versos", "correct": false },
+      { "text": "Una figura retórica de repetición", "correct": false },
+      { "text": "Un error ortográfico grave", "correct": false }
+    ],
+    "uni_tags": ["USEP", "UAM A3", "UAM A4"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Ejemplo: Todos los hombres son mortales; Sócrates es hombre; Sócrates es mortal.",
+    "explanation": "El silogismo es la forma fundamental del argumento lógico deductivo.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00CN",
+    "question": "¿A qué se refiere la 'connotación' de una palabra?",
+    "image": null,
+    "options": [
+      { "text": "Significado subjetivo o figurado", "correct": true },
+      { "text": "Significado literal del diccionario", "correct": false },
+      { "text": "Su origen etimológico", "correct": false },
+      { "text": "Su clasificación gramatical", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Lo contrario a denotación. Ejemplo: 'Eres un sol' (eres buena persona).",
+    "explanation": "La connotación es el valor semántico agregado, cultural o emocional, distinto al literal.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00CO",
+    "question": "Poeta nicaragüense iniciador del Modernismo con su obra 'Azul'.",
+    "image": null,
+    "options": [
+      { "text": "Rubén Darío", "correct": true },
+      { "text": "Amado Nervo", "correct": false },
+      { "text": "José Martí", "correct": false },
+      { "text": "Pablo Neruda", "correct": false }
+    ],
+    "uni_tags": ["UNAM", "EXANI II MOD11", "UAM A3", "BUAP"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Es conocido como el 'Príncipe de las letras castellanas'.",
+    "explanation": "Rubén Darío revolucionó la poesía hispanoamericana e inició el Modernismo.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00CP",
+    "question": "¿Cuál es la función del 'nexo' en una oración?",
+    "image": null,
+    "options": [
+      { "text": "Unir palabras o enunciados", "correct": true },
+      { "text": "Nombrar objetos", "correct": false },
+      { "text": "Calificar sustantivos", "correct": false },
+      { "text": "Indicar la acción", "correct": false }
+    ],
+    "uni_tags": ["UNAM", "IPN", "UAM", "PAA", "EXANI II ESP"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Palabras como: y, o, ni, pero, que.",
+    "explanation": "Los nexos son partículas gramaticales que sirven de enlace lógico.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00CQ",
+    "question": "En ortografía, ¿cuándo se usa mayúscula?",
+    "image": null,
+    "options": [
+      { "text": "Al inicio de un texto y en nombres propios", "correct": true },
+      { "text": "En todos los sustantivos", "correct": false },
+      { "text": "Después de una coma", "correct": false },
+      { "text": "En los días de la semana y meses", "correct": false }
+    ],
+    "uni_tags": ["UNAM", "IPN", "UAM", "EXANI II ESP", "PAA"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Regla básica de inicio y nombres como 'Juan'.",
+    "explanation": "Las mayúsculas se usan al empezar un escrito, después de punto y en nombres propios. Días y meses van en minúscula en español.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00CR",
+    "question": "¿Qué es la 'polisemia'?",
+    "image": null,
+    "options": [
+      { "text": "Cuando una palabra tiene múltiples significados", "correct": true },
+      { "text": "Cuando una palabra tiene un solo significado", "correct": false },
+      { "text": "Cuando dos palabras significan lo mismo", "correct": false },
+      { "text": "La falta de significado", "correct": false }
+    ],
+    "uni_tags": ["UNAM"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Poli = muchos, Sema = significado.",
+    "explanation": "La polisemia es la pluralidad de significados de una palabra (ej. Banco: de sentarse, de dinero).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00CS",
+    "question": "Novela de Juan Rulfo considerada una obra maestra del realismo mágico y la literatura mexicana.",
+    "image": null,
+    "options": [
+      { "text": "Pedro Páramo", "correct": true },
+      { "text": "El llano en llamas", "correct": false },
+      { "text": "Aura", "correct": false },
+      { "text": "Los de abajo", "correct": false }
+    ],
+    "uni_tags": ["UNAM", "UAM A3", "BUAP"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Comienza con: 'Vine a Comala porque me dijeron que acá vivía mi padre...'",
+    "explanation": "'Pedro Páramo' es la única novela de Rulfo ('El llano en llamas' es cuentos).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00CT",
+    "question": "Relaciona las partes de la oración:\n\nI. Sustantivo\nII. Adjetivo\nIII. Verbo\n\nA. Acción\nB. Cualidad\nC. Nombre",
+    "image": null,
+    "options": [
+      { "text": "I-C, II-B, III-A", "correct": true },
+      { "text": "I-A, II-C, III-B", "correct": false },
+      { "text": "I-B, II-A, III-C", "correct": false },
+      { "text": "I-C, II-A, III-B", "correct": false }
+    ],
+    "uni_tags": ["UNAM", "IPN", "UAM", "EXANI II ESP", "PAA"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Sustantivo = Cosa/Persona; Adjetivo = Cómo es; Verbo = Qué hace.",
+    "explanation": "El sustantivo nombra, el adjetivo califica y el verbo indica acción.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00CU",
+    "question": "¿Qué palabra se escribe con 'H'?",
+    "image": null,
+    "options": [
+      { "text": "Hielo", "correct": true },
+      { "text": "Echar", "correct": false },
+      { "text": "Orfanato", "correct": false },
+      { "text": "Ayer", "correct": false }
+    ],
+    "uni_tags": ["UNAM", "IPN", "UAM", "EXANI II ESP", "PAA"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Viene del latín 'gelum', diptongo 'ie'.",
+    "explanation": "Se escriben con H las palabras que empiezan por los diptongos ia, ie, ue, ui.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00CV",
+    "question": "¿Cuál es la característica principal de un texto científico?",
+    "image": null,
+    "options": [
+      { "text": "Objetividad y lenguaje técnico", "correct": true },
+      { "text": "Subjetividad y lenguaje poético", "correct": false },
+      { "text": "Narración de hechos fantásticos", "correct": false },
+      { "text": "Uso de opiniones personales", "correct": false }
+    ],
+    "uni_tags": ["UNAM", "IPN", "EXANI II ESP", "PAA"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Busca la verdad comprobable.",
+    "explanation": "Los textos científicos deben ser verificables, claros, precisos y objetivos.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00CW",
+    "question": "¿Qué es la 'adecuación' en un texto?",
+    "image": null,
+    "options": [
+      { "text": "Adaptar el lenguaje al receptor y la situación", "correct": true },
+      { "text": "Escribir sin faltas de ortografía", "correct": false },
+      { "text": "Unir las oraciones correctamente", "correct": false },
+      { "text": "Usar palabras cultas siempre", "correct": false }
+    ],
+    "uni_tags": ["UNAM"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "No hablas igual con tu jefe que con tu amigo.",
+    "explanation": "La adecuación es la propiedad textual de elegir el registro correcto según el contexto comunicativo.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00CX",
+    "question": "Identifica la oración en voz pasiva:",
+    "image": null,
+    "options": [
+      { "text": "El libro fue leído por Juan", "correct": true },
+      { "text": "Juan leyó el libro", "correct": false },
+      { "text": "Juan está leyendo", "correct": false },
+      { "text": "Juan lee muy bien", "correct": false }
+    ],
+    "uni_tags": ["UNAM", "IPN", "UAM", "PAA"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "El sujeto recibe la acción (Sujeto paciente).",
+    "explanation": "En la voz pasiva, el sujeto recibe la acción del verbo, ejecutada por un complemento agente.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00CY",
+    "question": "¿Qué es un 'antología'?",
+    "image": null,
+    "options": [
+      { "text": "Una recopilación de obras notables", "correct": true },
+      { "text": "El estudio de los insectos", "correct": false },
+      { "text": "Una novela larga", "correct": false },
+      { "text": "Un discurso político", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Colección de lo mejor (poemas, cuentos, etc.).",
+    "explanation": "Una antología es una selección de textos literarios de uno o varios autores.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00CZ",
+    "question": "Cultura prehispánica conocida por su poesía filosófica y su rey poeta Nezahualcóyotl.",
+    "image": null,
+    "options": [
+      { "text": "Náhuatl (Azteca)", "correct": true },
+      { "text": "Maya", "correct": false },
+      { "text": "Inca", "correct": false },
+      { "text": "Olmeca", "correct": false }
+    ],
+    "uni_tags": ["UNAM", "UAM A3", "EXANI II MOD11"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Texcoco, Lago de México.",
+    "explanation": "Nezahualcóyotl fue el tlatoani de Texcoco, representante máximo de la lírica náhuatl.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00DA",
+    "question": "¿Qué palabra contiene un diptongo?",
+    "image": null,
+    "options": [
+      { "text": "Cielo", "correct": true },
+      { "text": "Aéreo", "correct": false },
+      { "text": "Caer", "correct": false },
+      { "text": "Teatro", "correct": false }
+    ],
+    "uni_tags": ["UNAM", "IPN", "UAM", "EXANI II ESP", "PAA", "BUAP"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Unión de vocal fuerte y débil en una sílaba (ie).",
+    "explanation": "En 'Cielo', la 'i' (débil) y la 'e' (fuerte) forman una sola sílaba.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00DB",
+    "question": "¿Qué es la 'sintaxis'?",
+    "image": null,
+    "options": [
+      { "text": "Parte de la gramática que estudia el orden y relación de las palabras", "correct": true },
+      { "text": "El estudio de los sonidos", "correct": false },
+      { "text": "El significado de las palabras", "correct": false },
+      { "text": "La formación de palabras", "correct": false }
+    ],
+    "uni_tags": ["UNAM", "IPN", "UAM", "EXANI II ESP", "PAA", "BUAP"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Tiene que ver con la estructura de la oración.",
+    "explanation": "La sintaxis analiza cómo se combinan las palabras para formar oraciones correctas.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00DC",
+    "question": "En la analogía 'Médico es a Hospital como Maestro es a...', la respuesta correcta es:",
+    "image": null,
+    "options": [
+      { "text": "Escuela", "correct": true },
+      { "text": "Alumno", "correct": false },
+      { "text": "Libro", "correct": false },
+      { "text": "Pizarrón", "correct": false }
+    ],
+    "uni_tags": ["UNAM", "UAM", "PAA", "USEP"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Relación de sujeto a lugar de trabajo.",
+    "explanation": "El médico trabaja en el hospital; el maestro trabaja en la escuela.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00DD",
+    "question": "¿Qué es un 'cronista de Indias'?",
+    "image": null,
+    "options": [
+      { "text": "Escritor que narraba los hechos de la conquista y colonización", "correct": true },
+      { "text": "Un periodista deportivo", "correct": false },
+      { "text": "Un poeta romántico", "correct": false },
+      { "text": "Un dramaturgo griego", "correct": false }
+    ],
+    "uni_tags": ["UNAM", "UAM A3", "EXANI II MOD11"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Ejemplo: Bernal Díaz del Castillo.",
+    "explanation": "Los cronistas relataron el encuentro entre Europa y América (ej. Hernán Cortés).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00DE",
+    "question": "Identifica el pronombre personal de primera persona del singular.",
+    "image": null,
+    "options": [
+      { "text": "Yo", "correct": true },
+      { "text": "Tú", "correct": false },
+      { "text": "Él", "correct": false },
+      { "text": "Nosotros", "correct": false }
+    ],
+    "uni_tags": ["PAA"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Se refiere a quien habla.",
+    "explanation": "'Yo' es el pronombre que designa al emisor (1ra persona singular).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00DF",
+    "question": "¿Cuál es la función del 'título' en un texto?",
+    "image": null,
+    "options": [
+      { "text": "Anticipar el contenido o tema", "correct": true },
+      { "text": "Resumir el final", "correct": false },
+      { "text": "Explicar la bibliografía", "correct": false },
+      { "text": "Presentar al autor", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Es lo primero que lees.",
+    "explanation": "El título sirve como etiqueta y primera aproximación al contenido del texto.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00DG",
+    "question": "Movimiento literario de vanguardia que busca romper con la sintaxis y la lógica (ej. 'Dadú').",
+    "image": null,
+    "options": [
+      { "text": "Dadaísmo", "correct": true },
+      { "text": "Realismo", "correct": false },
+      { "text": "Naturalismo", "correct": false },
+      { "text": "Neoclasicismo", "correct": false }
+    ],
+    "uni_tags": ["UNAM", "EXANI II MOD11", "UAM A3", "BUAP"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Asociado a lo absurdo y al azar (Tzara).",
+    "explanation": "El Dadaísmo es una vanguardia que niega el arte racional y exalta el absurdo.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00DH",
+    "question": "¿Qué palabra está escrita incorrectamente?",
+    "image": null,
+    "options": [
+      { "text": "Extructura", "correct": true },
+      { "text": "Estructura", "correct": false },
+      { "text": "Extraño", "correct": false },
+      { "text": "Extranjero", "correct": false }
+    ],
+    "uni_tags": ["UNAM", "IPN", "UAM", "EXANI II ESP", "PAA"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "La palabra correcta empieza con Es-.",
+    "explanation": "Se escribe 'Estructura' con 's', no con 'x'.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00DI",
+    "question": "Relaciona los autores latinoamericanos con su país:\n\nI. Jorge Luis Borges\nII. Pablo Neruda\nIII. Octavio Paz\n\nA. México\nB. Argentina\nC. Chile",
+    "image": null,
+    "options": [
+      { "text": "I-B, II-C, III-A", "correct": true },
+      { "text": "I-A, II-B, III-C", "correct": false },
+      { "text": "I-C, II-A, III-B", "correct": false },
+      { "text": "I-B, II-A, III-C", "correct": false }
+    ],
+    "uni_tags": ["UNAM", "UAM A3", "EXANI II MOD11"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Borges (Tango/Sur), Neruda (Andes/Sur), Paz (Norte).",
+    "explanation": "Borges (Argentina), Neruda (Chile), Paz (México).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00DJ",
+    "question": "¿Qué es la 'moraleja' en una fábula?",
+    "image": null,
+    "options": [
+      { "text": "Una enseñanza moral", "correct": true },
+      { "text": "El inicio de la historia", "correct": false },
+      { "text": "El nombre del protagonista", "correct": false },
+      { "text": "La descripción del lugar", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Es lo que aprendes al final.",
+    "explanation": "La fábula es un texto didáctico que concluye con una lección o moraleja.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00DK",
+    "question": "¿Qué tipo de palabra es 'Rápidamente'?",
+    "image": null,
+    "options": [
+      { "text": "Adverbio", "correct": true },
+      { "text": "Sustantivo", "correct": false },
+      { "text": "Verbo", "correct": false },
+      { "text": "Artículo", "correct": false }
+    ],
+    "uni_tags": ["UNAM", "IPN", "UAM", "PAA"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Termina en -mente, modifica al verbo.",
+    "explanation": "Los terminados en -mente son adverbios de modo.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00DL",
+    "question": "¿Qué son las 'acotaciones' en una obra de teatro?",
+    "image": null,
+    "options": [
+      { "text": "Indicaciones del autor sobre la puesta en escena", "correct": true },
+      { "text": "Los diálogos de los personajes", "correct": false },
+      { "text": "El título de la obra", "correct": false },
+      { "text": "El nombre del teatro", "correct": false }
+    ],
+    "uni_tags": ["UNAM", "EXANI II MOD11"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Suelen ir entre paréntesis. Ej: (Entra llorando).",
+    "explanation": "Las acotaciones guían a los actores y director sobre acciones, gestos y escenografía.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00DM",
+    "question": "La 'aliteración' consiste en:",
+    "image": null,
+    "options": [
+      { "text": "Repetir sonidos para causar un efecto musical", "correct": true },
+      { "text": "Cambiar el orden de las palabras", "correct": false },
+      { "text": "Exagerar la realidad", "correct": false },
+      { "text": "Comparar dos objetos", "correct": false }
+    ],
+    "uni_tags": ["UNAM", "IPN", "UAM", "EXANI II MOD11", "PAA", "BUAP"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Ejemplo: 'Tres tristes tigres tragaban trigo'.",
+    "explanation": "La aliteración es la repetición deliberada de fonemas.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00DN",
+    "question": "¿Cuál es la característica de la 'novela' frente al 'cuento'?",
+    "image": null,
+    "options": [
+      { "text": "Es más extensa y compleja", "correct": true },
+      { "text": "Es más breve y simple", "correct": false },
+      { "text": "Siempre está en verso", "correct": false },
+      { "text": "No tiene personajes", "correct": false }
+    ],
+    "uni_tags": ["UNAM", "EXANI II MOD11", "UAM A3", "BUAP"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "El cuento se lee de una sentada; la novela tiene capítulos y tramas secundarias.",
+    "explanation": "La novela desarrolla múltiples tramas y profundiza más en los personajes por su extensión.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00DO",
+    "question": "¿Qué palabra lleva acento diacrítico?",
+    "image": null,
+    "options": [
+      { "text": "Tú (pronombre)", "correct": true },
+      { "text": "Tu (posesivo)", "correct": false },
+      { "text": "Fui", "correct": false },
+      { "text": "Pan", "correct": false }
+    ],
+    "uni_tags": ["UNAM", "IPN", "UAM", "EXANI II ESP", "PAA"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Diferencia persona de posesión.",
+    "explanation": "'Tú' (persona) lleva tilde para distinguirse de 'tu' (adjetivo posesivo).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00DP",
+    "question": "¿Qué es un 'fichas de trabajo'?",
+    "image": null,
+    "options": [
+      { "text": "Instrumento para organizar la información investigada", "correct": true },
+      { "text": "Una tarjeta de presentación", "correct": false },
+      { "text": "Un libro de texto", "correct": false },
+      { "text": "Un examen rápido", "correct": false }
+    ],
+    "uni_tags": ["UNAM", "IPN", "BUAP"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Se usan para resumen, síntesis o cita textual.",
+    "explanation": "Las fichas de trabajo sirven para recopilar y ordenar el contenido durante una investigación.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00DQ",
+    "question": "¿Cuál es el sujeto tácito o morfológico en: 'Comimos muy rico ayer'?",
+    "image": null,
+    "options": [
+      { "text": "Nosotros", "correct": true },
+      { "text": "Ellos", "correct": false },
+      { "text": "Yo", "correct": false },
+      { "text": "Ustedes", "correct": false }
+    ],
+    "uni_tags": ["UNAM", "IPN", "UAM", "PAA"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "No está escrito, pero se infiere por el verbo 'Comimos'.",
+    "explanation": "La terminación verbal -imos indica primera persona del plural (Nosotros).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00DR",
+    "question": "El 'soneto' es una composición poética formada por:",
+    "image": null,
+    "options": [
+      { "text": "Dos cuartetos y dos tercetos (14 versos)", "correct": true },
+      { "text": "Diez versos (décima)", "correct": false },
+      { "text": "Verso libre", "correct": false },
+      { "text": "Cinco versos (lira)", "correct": false }
+    ],
+    "uni_tags": ["UNAM", "IPN", "EXANI II MOD11"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Es la forma clásica del Siglo de Oro.",
+    "explanation": "El soneto clásico consta de 14 versos endecasílabos distribuidos en 2 cuartetos y 2 tercetos.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00DS",
+    "question": "En la oración 'La niña corre', el verbo 'corre' es:",
+    "image": null,
+    "options": [
+      { "text": "Intransitivo (no necesita objeto directo)", "correct": true },
+      { "text": "Copulativo", "correct": false },
+      { "text": "Transitivo", "correct": false },
+      { "text": "Reflexivo", "correct": false }
+    ],
+    "uni_tags": ["UNAM", "IPN", "UAM", "PAA", "EXANI II ESP"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "La acción se queda en el sujeto, no pasa a otro objeto.",
+    "explanation": "Correr es un verbo intransitivo porque tiene sentido completo sin complemento directo.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00DT",
+    "question": "Identifica la palabra grave:",
+    "image": null,
+    "options": [
+      { "text": "Árbol", "correct": true },
+      { "text": "Canción", "correct": false },
+      { "text": "Música", "correct": false },
+      { "text": "París", "correct": false }
+    ],
+    "uni_tags": ["UNAM", "IPN", "UAM", "EXANI II ESP", "PAA", "BUAP"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Acento en la penúltima sílaba.",
+    "explanation": "Ár-bol tiene la fuerza en la penúltima sílaba y lleva tilde por terminar en 'l' (no n, s o vocal).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00DU",
+    "question": "¿Qué es la 'argumentación'?",
+    "image": null,
+    "options": [
+      { "text": "Dar razones para defender una idea", "correct": true },
+      { "text": "Contar una historia", "correct": false },
+      { "text": "Describir un objeto", "correct": false },
+      { "text": "Dar instrucciones", "correct": false }
+    ],
+    "uni_tags": ["UNAM", "IPN", "UAM", "PAA"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Objetivo: Convencer.",
+    "explanation": "La argumentación busca persuadir mediante el uso de lógica y pruebas.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00DV",
+    "question": "En la comunicación, el 'código' es:",
+    "image": null,
+    "options": [
+      { "text": "El sistema de signos usado (ej. idioma español)", "correct": true },
+      { "text": "El medio físico", "correct": false },
+      { "text": "La persona que habla", "correct": false },
+      { "text": "El lugar donde se habla", "correct": false }
+    ],
+    "uni_tags": ["UNAM", "IPN", "UAM", "PAA"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Para entendernos, ambos debemos hablar el mismo...",
+    "explanation": "El código es el conjunto de reglas y signos que permiten cifrar el mensaje.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00DW",
+    "question": "¿Qué es un 'neologismo'?",
+    "image": null,
+    "options": [
+      { "text": "Una palabra nueva en el idioma", "correct": true },
+      { "text": "Una palabra antigua", "correct": false },
+      { "text": "Una palabra grosera", "correct": false },
+      { "text": "Una palabra extranjera sin cambios", "correct": false }
+    ],
+    "uni_tags": ["UNAM", "IPN", "BUAP"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Neo = nuevo, Logos = palabra. Ej: Chatear.",
+    "explanation": "Los neologismos son vocablos de nueva creación o préstamos adaptados.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00DX",
+    "question": "Relaciona la función del nexo:\n\nI. Porque\nII. Pero\nIII. O\n\nA. Causal\nB. Adversativo (oposición)\nC. Disyuntivo (opción)",
+    "image": null,
+    "options": [
+      { "text": "I-A, II-B, III-C", "correct": true },
+      { "text": "I-B, II-A, III-C", "correct": false },
+      { "text": "I-C, II-B, III-A", "correct": false },
+      { "text": "I-A, II-C, III-B", "correct": false }
+    ],
+    "uni_tags": ["UNAM", "IPN", "UAM", "PAA", "EXANI II ESP"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Porque explica; Pero contradice; O elige.",
+    "explanation": "Porque indica causa; Pero indica oposición; O indica elección.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00DY",
+    "question": "¿Qué es la 'etimología'?",
+    "image": null,
+    "options": [
+      { "text": "El estudio del origen de las palabras", "correct": true },
+      { "text": "El estudio de los insectos", "correct": false },
+      { "text": "El estudio de la ortografía", "correct": false },
+      { "text": "El estudio de los sonidos", "correct": false }
+    ],
+    "uni_tags": ["UAM"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Raíces griegas y latinas.",
+    "explanation": "La etimología rastrea la historia, origen y evolución de los vocablos.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00DZ",
+    "question": "¿Qué es un 'texto expositivo'?",
+    "image": null,
+    "options": [
+      { "text": "El que explica un tema de forma clara y ordenada", "correct": true },
+      { "text": "El que cuenta una leyenda", "correct": false },
+      { "text": "El que expresa sentimientos amorosos", "correct": false },
+      { "text": "El que critica una película", "correct": false }
+    ],
+    "uni_tags": ["UNAM", "IPN", "EXANI II ESP", "PAA"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Ejemplo: Un libro de texto escolar o una entrada de enciclopedia.",
+    "explanation": "El texto expositivo tiene finalidad didáctica e informativa.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00EA",
+    "question": "Identifica el barbarismo:",
+    "image": null,
+    "options": [
+      { "text": "Hicistes", "correct": true },
+      { "text": "Hiciste", "correct": false },
+      { "text": "Hizo", "correct": false },
+      { "text": "Hicieron", "correct": false }
+    ],
+    "uni_tags": ["IPN", "PAA"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Agregar 's' al final de la segunda persona pretérito es incorrecto.",
+    "explanation": "La forma correcta es 'Hiciste'. Agregar la 's' final es un barbarismo común.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00EB",
+    "question": "En la metáfora 'Las perlas de tu boca', el término 'perlas' se refiere a:",
+    "image": null,
+    "options": [
+      { "text": "Dientes", "correct": true },
+      { "text": "Labios", "correct": false },
+      { "text": "Lengua", "correct": false },
+      { "text": "Saliva", "correct": false }
+    ],
+    "uni_tags": ["UNAM", "IPN", "UAM", "EXANI II MOD11", "PAA", "BUAP"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Por el color blanco y el brillo.",
+    "explanation": "Es una metáfora clásica donde la blancura y forma de las perlas sustituyen a los dientes.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00EC",
+    "question": "¿Qué es la 'concordancia verbal'?",
+    "image": null,
+    "options": [
+      { "text": "Coincidencia de número y persona entre sujeto y verbo", "correct": true },
+      { "text": "Coincidencia de género entre sustantivo y adjetivo", "correct": false },
+      { "text": "Uso correcto de tiempos verbales", "correct": false },
+      { "text": "Rima en la poesía", "correct": false }
+    ],
+    "uni_tags": ["UNAM", "IPN", "UAM", "EXANI II ESP", "PAA"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Yo como (bien). Yo comemos (mal).",
+    "explanation": "El verbo debe adaptarse al sujeto en número (singular/plural) y persona (1ra, 2da, 3ra).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00ED",
+    "question": "¿Cuál es el propósito del 'ensayo'?",
+    "image": null,
+    "options": [
+      { "text": "Reflexionar y defender una postura personal sobre un tema", "correct": true },
+      { "text": "Narrar hechos noticiosos", "correct": false },
+      { "text": "Hacer reír al lector", "correct": false },
+      { "text": "Describir un paisaje", "correct": false }
+    ],
+    "uni_tags": ["UNAM", "EXANI II MOD11", "UAM A3", "BUAP"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Género didáctico-argumentativo.",
+    "explanation": "El ensayo es un texto en prosa que analiza, interpreta o evalúa un tema.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00EE",
+    "question": "El 'Boom Latinoamericano' fue un fenómeno literario de los años:",
+    "image": null,
+    "options": [
+      { "text": "60s y 70s", "correct": true },
+      { "text": "20s y 30s", "correct": false },
+      { "text": "Siglo XIX", "correct": false },
+      { "text": "Siglo XXI", "correct": false }
+    ],
+    "uni_tags": ["UNAM", "EXANI II MOD11", "UAM A3"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Época de Cortázar, Gabo, Fuentes.",
+    "explanation": "El Boom surgió en las décadas de 1960 y 1970, internacionalizando la narrativa latina.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00EF",
+    "question": "¿Qué es un 'hiato'?",
+    "image": null,
+    "options": [
+      { "text": "La separación de dos vocales en sílabas distintas", "correct": true },
+      { "text": "La unión de dos vocales en una sílaba", "correct": false },
+      { "text": "Tres vocales juntas", "correct": false },
+      { "text": "Una consonante entre vocales", "correct": false }
+    ],
+    "uni_tags": ["UNAM", "IPN", "UAM", "EXANI II ESP", "PAA", "BUAP"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Ejemplo: Ma-íz, Le-er.",
+    "explanation": "El hiato rompe el diptongo o separa dos vocales fuertes.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00EG",
+    "question": "¿Qué es la 'introducción' en una narración?",
+    "image": null,
+    "options": [
+      { "text": "Planteamiento de personajes y situación inicial", "correct": true },
+      { "text": "El punto de mayor tensión", "correct": false },
+      { "text": "La resolución del conflicto", "correct": false },
+      { "text": "El mensaje final", "correct": false }
+    ],
+    "uni_tags": ["UNAM", "IPN"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "El 'Había una vez...'",
+    "explanation": "La introducción o planteamiento establece el contexto antes del conflicto.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00EH",
+    "question": "¿Qué es el 'contexto' en la comunicación?",
+    "image": null,
+    "options": [
+      { "text": "Las circunstancias que rodean al acto comunicativo", "correct": true },
+      { "text": "El idioma hablado", "correct": false },
+      { "text": "El canal físico", "correct": false },
+      { "text": "El ruido que interfiere", "correct": false }
+    ],
+    "uni_tags": ["UNAM", "IPN", "UAM", "PAA"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Tiempo, lugar, cultura.",
+    "explanation": "El contexto situacional determina el significado del mensaje.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00EI",
+    "question": "En la frase 'Ella es muy inteligente', la palabra 'muy' es un:",
+    "image": null,
+    "options": [
+      { "text": "Adverbio de cantidad", "correct": true },
+      { "text": "Adjetivo", "correct": false },
+      { "text": "Sustantivo", "correct": false },
+      { "text": "Verbo", "correct": false }
+    ],
+    "uni_tags": ["UNAM", "IPN", "UAM", "PAA"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Intensifica al adjetivo.",
+    "explanation": "'Muy' es un adverbio que modifica al adjetivo 'inteligente'.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00EJ",
+    "question": "Relaciona el autor con su obra:\n\nI. Juan Rulfo\nII. Octavio Paz\nIII. Carlos Fuentes\n\nA. El llano en llamas\nB. Aura\nC. El laberinto de la soledad",
+    "image": null,
+    "options": [
+      { "text": "I-A, II-C, III-B", "correct": true },
+      { "text": "I-B, II-A, III-C", "correct": false },
+      { "text": "I-C, II-B, III-A", "correct": false },
+      { "text": "I-A, II-B, III-C", "correct": false }
+    ],
+    "uni_tags": ["UNAM", "UAM A3", "BUAP"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Rulfo (Rural/Jalisco), Paz (Ensayo), Fuentes (Ciudad/Fantasía).",
+    "explanation": "Rulfo escribió los cuentos de 'El llano en llamas'; Paz el ensayo 'El laberinto'; Fuentes la novela corta 'Aura'.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00EK",
+    "question": "¿Qué es la 'ironía'?",
+    "image": null,
+    "options": [
+      { "text": "Dar a entender lo contrario de lo que se dice", "correct": true },
+      { "text": "Insultar directamente", "correct": false },
+      { "text": "Hablar en voz baja", "correct": false },
+      { "text": "Usar palabras complicadas", "correct": false }
+    ],
+    "uni_tags": ["UNAM", "IPN", "UAM", "PAA"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Decir '¡Qué bonito día!' cuando está lloviendo.",
+    "explanation": "La ironía es una figura de pensamiento que expresa lo opuesto al significado literal, generalmente con burla.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00EL",
+    "question": "¿Qué palabra es un 'sustantivo abstracto'?",
+    "image": null,
+    "options": [
+      { "text": "Amor", "correct": true },
+      { "text": "Mesa", "correct": false },
+      { "text": "Perro", "correct": false },
+      { "text": "Árbol", "correct": false }
+    ],
+    "uni_tags": ["UNAM", "IPN", "UAM", "PAA"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "No se puede tocar, es una idea o sentimiento.",
+    "explanation": "Los sustantivos abstractos nombran ideas, sentimientos o cualidades no materiales.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00EM",
+    "question": "¿Qué es el 'narrador omnisciente'?",
+    "image": null,
+    "options": [
+      { "text": "El que lo sabe todo (pensamientos y hechos)", "correct": true },
+      { "text": "El que participa en la historia (personaje)", "correct": false },
+      { "text": "El que solo sabe lo que ve (cámara)", "correct": false },
+      { "text": "El que le habla al lector (tú)", "correct": false }
+    ],
+    "uni_tags": ["UNAM", "IPN"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Como un dios.",
+    "explanation": "El omnisciente conoce el pasado, presente, futuro y la interioridad de los personajes.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00EN",
+    "question": "¿Cuál es la función del 'punto y seguido'?",
+    "image": null,
+    "options": [
+      { "text": "Separar oraciones dentro del mismo párrafo", "correct": true },
+      { "text": "Terminar el texto", "correct": false },
+      { "text": "Separar párrafos distintos", "correct": false },
+      { "text": "Introducir una lista", "correct": false }
+    ],
+    "uni_tags": ["UNAM", "IPN", "UAM", "EXANI II ESP", "PAA", "BUAP"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Continúa la idea en la misma línea.",
+    "explanation": "El punto y seguido separa enunciados que integran un mismo bloque temático (párrafo).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00EO",
+    "question": "¿Qué estudia la 'morfología'?",
+    "image": null,
+    "options": [
+      { "text": "La estructura interna de las palabras", "correct": true },
+      { "text": "El sonido de las palabras", "correct": false },
+      { "text": "El significado de las oraciones", "correct": false },
+      { "text": "La historia de la lengua", "correct": false }
+    ],
+    "uni_tags": ["UNAM", "IPN", "UAM", "EXANI II ESP", "PAA", "BUAP"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Morphe = forma. Estudia raíz, prefijos, sufijos.",
+    "explanation": "La morfología analiza cómo se construyen las palabras y sus variaciones.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00EP",
+    "question": "¿Qué es una 'oración subordinada'?",
+    "image": null,
+    "options": [
+      { "text": "La que depende de otra oración principal", "correct": true },
+      { "text": "La que tiene sentido completo por sí sola", "correct": false },
+      { "text": "La que solo tiene un verbo", "correct": false },
+      { "text": "La que no tiene sujeto", "correct": false }
+    ],
+    "uni_tags": ["UAM", "PAA"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Ejemplo: El libro 'que me prestaste' es bueno.",
+    "explanation": "Las subordinadas carecen de autonomía sintáctica y cumplen una función dentro de la principal.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00EQ",
+    "question": "¿Quién escribió 'El Ingenioso Hidalgo Don Quijote de la Mancha'?",
+    "image": null,
+    "options": [
+      { "text": "Miguel de Cervantes Saavedra", "correct": true },
+      { "text": "Lope de Vega", "correct": false },
+      { "text": "Francisco de Quevedo", "correct": false },
+      { "text": "Luis de Góngora", "correct": false }
+    ],
+    "uni_tags": ["UNAM", "EXANI II MOD11", "UAM A3", "BUAP"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Obra cumbre del Siglo de Oro español.",
+    "explanation": "Cervantes es el autor de la novela moderna más importante de la lengua española.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00ER",
+    "question": "¿Qué es un 'artículo' en gramática?",
+    "image": null,
+    "options": [
+      { "text": "Palabra que determina al sustantivo (el, la, los)", "correct": true },
+      { "text": "Palabra que califica (bonito, feo)", "correct": false },
+      { "text": "Palabra que une oraciones", "correct": false },
+      { "text": "Palabra que sustituye al nombre", "correct": false }
+    ],
+    "uni_tags": ["UNAM", "IPN", "UAM", "PAA"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Va antes del sustantivo: _ casa.",
+    "explanation": "El artículo es un determinante que actualiza al sustantivo e indica género y número.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00ES",
+    "question": "¿Qué es la 'denotación'?",
+    "image": null,
+    "options": [
+      { "text": "El significado objetivo y literal", "correct": true },
+      { "text": "El significado figurado", "correct": false },
+      { "text": "El significado emocional", "correct": false },
+      { "text": "El significado oculto", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Lo que dice el diccionario.",
+    "explanation": "La denotación es el significado primario y común para todos los hablantes.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00ET",
+    "question": "¿Qué es un 'palíndromo'?",
+    "image": null,
+    "options": [
+      { "text": "Palabra o frase que se lee igual al derecho y al revés", "correct": true },
+      { "text": "Palabra con dos acentos", "correct": false },
+      { "text": "Palabra de origen griego", "correct": false },
+      { "text": "Error de pronunciación", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Ejemplo: 'Anita lava la tina'.",
+    "explanation": "El palíndromo es una simetría textual literal.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00EU",
+    "question": "En la oración 'Juan y María comen', el nexo 'y' es:",
+    "image": null,
+    "options": [
+      { "text": "Copulativo", "correct": true },
+      { "text": "Disyuntivo", "correct": false },
+      { "text": "Adversativo", "correct": false },
+      { "text": "Causal", "correct": false }
+    ],
+    "uni_tags": ["UNAM", "IPN", "UAM", "PAA", "EXANI II ESP"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Suma elementos.",
+    "explanation": "'Y' es la conjunción copulativa por excelencia.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00EV",
+    "question": "¿Qué es el 'Romanticismo'?",
+    "image": null,
+    "options": [
+      { "text": "Corriente que privilegia el sentimiento sobre la razón", "correct": true },
+      { "text": "Corriente que busca la perfección métrica", "correct": false },
+      { "text": "Corriente que imita a los griegos y romanos", "correct": false },
+      { "text": "Corriente que describe la ciencia", "correct": false }
+    ],
+    "uni_tags": ["UNAM", "EXANI II MOD11", "UAM A3", "BUAP"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Finales del S. XVIII y S. XIX. Frankenstein, Bécquer.",
+    "explanation": "El Romanticismo es la ruptura con el Neoclasicismo, exaltando la libertad y la pasión.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00EW",
+    "question": "¿Qué es un 'mapa conceptual'?",
+    "image": null,
+    "options": [
+      { "text": "Organizador gráfico de ideas jerarquizadas", "correct": true },
+      { "text": "Un mapa geográfico", "correct": false },
+      { "text": "Una lista de tareas", "correct": false },
+      { "text": "Un resumen escrito en párrafos", "correct": false }
+    ],
+    "uni_tags": ["USEP", "BUAP"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Usa cuadros y líneas para unir conceptos.",
+    "explanation": "Permite visualizar relaciones entre conceptos de forma descendente.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00EX",
+    "question": "¿Qué es la 'epopeya'?",
+    "image": null,
+    "options": [
+      { "text": "Poema narrativo extenso sobre hazañas de héroes", "correct": true },
+      { "text": "Canción de amor breve", "correct": false },
+      { "text": "Obra de teatro cómica", "correct": false },
+      { "text": "Carta formal", "correct": false }
+    ],
+    "uni_tags": ["UNAM", "EXANI II MOD11", "UAM A3"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "La Ilíada es el mejor ejemplo.",
+    "explanation": "La epopeya es el subgénero mayor de la épica.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00EY",
+    "question": "Identifica la palabra monosílaba (una sílaba):",
+    "image": null,
+    "options": [
+      { "text": "Sol", "correct": true },
+      { "text": "Casa", "correct": false },
+      { "text": "Mesa", "correct": false },
+      { "text": "Aire", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Se pronuncia en un solo golpe de voz.",
+    "explanation": "'Sol' no se puede dividir.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00EZ",
+    "question": "¿Qué es el 'hablante lírico'?",
+    "image": null,
+    "options": [
+      { "text": "La voz ficticia que expresa sentimientos en un poema", "correct": true },
+      { "text": "El autor real del poema", "correct": false },
+      { "text": "El que recita el poema en público", "correct": false },
+      { "text": "El personaje de una novela", "correct": false }
+    ],
+    "uni_tags": ["UNAM", "EXANI II MOD11"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "No confundir con el poeta (autor).",
+    "explanation": "Es la entidad creada por el poeta para transmitir la experiencia interior.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00FA",
+    "question": "¿Qué son las 'preposiciones'?",
+    "image": null,
+    "options": [
+      { "text": "Palabras invariables que introducen complementos (a, ante, bajo...)", "correct": true },
+      { "text": "Palabras que indican acción", "correct": false },
+      { "text": "Nombres de personas", "correct": false },
+      { "text": "Signos de puntuación", "correct": false }
+    ],
+    "uni_tags": ["UNAM", "IPN", "UAM", "PAA", "EXANI II ESP"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Lista clásica: a, ante, bajo, cabe, con...",
+    "explanation": "Sirven de nexo subordinante.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00FB",
+    "question": "¿Qué es el 'género didáctico'?",
+    "image": null,
+    "options": [
+      { "text": "El que tiene como finalidad enseñar", "correct": true },
+      { "text": "El que busca entretener", "correct": false },
+      { "text": "El que se representa en teatro", "correct": false },
+      { "text": "El que narra aventuras", "correct": false }
+    ],
+    "uni_tags": ["UNAM", "EXANI II MOD11", "BUAP"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Fábula y Ensayo pertenecen aquí.",
+    "explanation": "Su propósito es la transmisión de conocimientos o ideas.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00FC",
+    "question": "¿Qué es una 'leyenda'?",
+    "image": null,
+    "options": [
+      { "text": "Narración tradicional que mezcla hechos reales y fantásticos", "correct": true },
+      { "text": "Un dato histórico comprobado", "correct": false },
+      { "text": "Una noticia actual", "correct": false },
+      { "text": "Un poema de amor", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "La Llorona.",
+    "explanation": "La leyenda se transmite oralmente y tiene un sustento folclórico o histórico modificado.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00FD",
+    "question": "En la oración 'La casa de madera', 'de madera' funciona como:",
+    "image": null,
+    "options": [
+      { "text": "Adjetivo o complemento del nombre", "correct": true },
+      { "text": "Verbo", "correct": false },
+      { "text": "Sujeto", "correct": false },
+      { "text": "Artículo", "correct": false }
+    ],
+    "uni_tags": ["UNAM", "IPN", "PAA"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Dice cómo es la casa.",
+    "explanation": "Es un sintagma preposicional que califica al sustantivo.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00FE",
+    "question": "¿Qué es el 'Modernismo' literario?",
+    "image": null,
+    "options": [
+      { "text": "Primer movimiento original de América Latina, busca la belleza", "correct": true },
+      { "text": "Movimiento político", "correct": false },
+      { "text": "Estilo de arquitectura", "correct": false },
+      { "text": "Imitación de lo clásico", "correct": false }
+    ],
+    "uni_tags": ["UNAM", "EXANI II MOD11", "UAM A3", "BUAP"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Rubén Darío, cisnes, color azul.",
+    "explanation": "Buscaba la renovación del lenguaje, el exotismo y el preciosismo.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00FF",
+    "question": "¿Qué es la 'rima asonante'?",
+    "image": null,
+    "options": [
+      { "text": "Solo coinciden las vocales al final del verso", "correct": true },
+      { "text": "Coinciden vocales y consonantes", "correct": false },
+      { "text": "No hay coincidencia de sonidos", "correct": false },
+      { "text": "Rima al inicio del verso", "correct": false }
+    ],
+    "uni_tags": ["UNAM", "IPN", "EXANI II MOD11"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Casa / Mapa (a-a).",
+    "explanation": "En la asonante, solo se repiten los sonidos vocálicos a partir de la tónica.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00FG",
+    "question": "¿Qué es un 'préstamo lingüístico'?",
+    "image": null,
+    "options": [
+      { "text": "Palabra tomada de otro idioma", "correct": true },
+      { "text": "Palabra inventada", "correct": false },
+      { "text": "Palabra antigua", "correct": false },
+      { "text": "Palabra corta", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Ejemplo: Sandwich, Software.",
+    "explanation": "Es la incorporación de léxico foráneo a la lengua propia.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00FH",
+    "question": "¿Qué autor mexicano escribió 'El laberinto de la soledad'?",
+    "image": null,
+    "options": [
+      { "text": "Octavio Paz", "correct": true },
+      { "text": "Carlos Fuentes", "correct": false },
+      { "text": "José Emilio Pacheco", "correct": false },
+      { "text": "Alfonso Reyes", "correct": false }
+    ],
+    "uni_tags": ["UNAM", "UAM A3", "BUAP"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Ensayo sobre la psicología del mexicano.",
+    "explanation": "Es la obra ensayística fundamental de Paz.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00FI",
+    "question": "En gramática, el 'modo indicativo' expresa:",
+    "image": null,
+    "options": [
+      { "text": "Hechos reales o seguros", "correct": true },
+      { "text": "Deseos o dudas", "correct": false },
+      { "text": "Órdenes", "correct": false },
+      { "text": "Condiciones", "correct": false }
+    ],
+    "uni_tags": ["UNAM", "IPN", "UAM", "PAA", "EXANI II ESP"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Ejemplo: Hoy llueve.",
+    "explanation": "El indicativo es el modo de la realidad y la objetividad.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00FJ",
+    "question": "¿Qué es la 'bibliografía'?",
+    "image": null,
+    "options": [
+      { "text": "Lista de fuentes consultadas en un trabajo", "correct": true },
+      { "text": "La vida de un autor", "correct": false },
+      { "text": "El índice del libro", "correct": false },
+      { "text": "El resumen del libro", "correct": false }
+    ],
+    "uni_tags": ["UNAM", "IPN", "BUAP"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Va al final de la tesis o tarea.",
+    "explanation": "Recopila los datos de los textos citados o leídos.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00FK",
+    "question": "¿Qué es un 'resumen'?",
+    "image": null,
+    "options": [
+      { "text": "Texto breve con las ideas principales de otro", "correct": true },
+      { "text": "Opinión personal sobre un texto", "correct": false },
+      { "text": "Copia exacta del texto", "correct": false },
+      { "text": "Traducción del texto", "correct": false }
+    ],
+    "uni_tags": ["UNAM", "IPN", "BUAP"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Reducir lo esencial.",
+    "explanation": "El resumen sintetiza la información manteniendo la fidelidad al original.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00FL",
+    "question": "Identifica el adjetivo en: 'El cielo azul'.",
+    "image": null,
+    "options": [
+      { "text": "Azul", "correct": true },
+      { "text": "El", "correct": false },
+      { "text": "Cielo", "correct": false },
+      { "text": "Ninguno", "correct": false }
+    ],
+    "uni_tags": ["UNAM", "IPN", "UAM", "PAA"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Califica al cielo.",
+    "explanation": "El adjetivo otorga una cualidad al sustantivo.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00FM",
+    "question": "¿Qué es la 'prosa'?",
+    "image": null,
+    "options": [
+      { "text": "Forma natural de escribir, sin rima ni métrica", "correct": true },
+      { "text": "Escritura en versos", "correct": false },
+      { "text": "Escritura con faltas de ortografía", "correct": false },
+      { "text": "Un tipo de poema", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Como escribes un mensaje o una carta.",
+    "explanation": "La prosa ocupa todo el renglón y no está sujeta a medidas rítmicas estrictas como el verso.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00FN",
+    "question": "En la comunicación, el 'receptor' es quien:",
+    "image": null,
+    "options": [
+      { "text": "Recibe y decodifica el mensaje", "correct": true },
+      { "text": "Envía el mensaje", "correct": false },
+      { "text": "Es el medio físico", "correct": false },
+      { "text": "Es el tema del mensaje", "correct": false }
+    ],
+    "uni_tags": ["UNAM", "IPN", "UAM", "PAA"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Quien escucha o lee.",
+    "explanation": "El receptor es el destinatario final del proceso comunicativo.",
+    "explanative_video": null,
+    "collapsible_text": null
+  }
+]
